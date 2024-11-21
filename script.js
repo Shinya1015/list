@@ -562,6 +562,7 @@ const songs = [
 "Happy Girl/喜多村英梨",
 "Wind Climbing ～風にあそばれて～/奥井亜紀",
 "変わらないもの/奥華子",
+"ガーネット/奥華子",
 "Happiness/嵐",
 "One Love/嵐",
 "丸の内サディスティック/椎名林檎",
