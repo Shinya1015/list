@@ -114,6 +114,7 @@ const songs = [
 "Believe/Folder5",
 "SAKURAスキップ/fourfolium",
 "only my railgun/fripSide",
+"sister's noise/fripSide",
 "夏空/Galileo Galilei",
 "Mysterious Eyes/GARNET CROW",
 "君という光/GARNET CROW",
@@ -594,7 +595,7 @@ const songs = [
 "ニブンノイチ/BACK-ON",
 "一斉の声/喜多修平",
 "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠",
-"sister's noise/fripSide",
+
     
     // 將您的歌單加入這裡
 ];
