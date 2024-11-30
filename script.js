@@ -567,6 +567,7 @@ const songs = [
 "ガーネット/奥華子",
 "Happiness/嵐",
 "One Love/嵐",
+"Love so sweet/嵐",
 "丸の内サディスティック/椎名林檎",
 "magnet/湊 貴大(流星P)",
 "カラカラ/結束バンド",
