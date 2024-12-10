@@ -605,6 +605,7 @@ const songs = [
 "曲名はまだないです/Aogumo",
 "White Love/SPEED",
 "小さきもの/林明日香",
+"Drawing days/SPLAY",
 
     // 將您的歌單加入這裡
 ];
