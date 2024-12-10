@@ -92,6 +92,7 @@ const songs = [
 "探し物/DIRTY OLD MEN",
 "Just Be Friends/Dixie Flatline",
 "夜鷹の夢/Do As Infinity",
+"TAO/Do As Infinity",
 "モノクロアクト/doriko",
 "ロミオとシンデレラ/doriko",
 "歌に形はないけれど/doriko",
