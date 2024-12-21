@@ -25,6 +25,7 @@ const songs = [
 "さよならごっこ/amazarashi",
 "季節は次々死んでいく/amazarashi",
 "僕が死のうと思ったのは/amazarashi",
+"空に歌えば/amazarashi",
 "ロンリーユニバース/Aqu3ra",
 "Velonica/Aqua Timez",
 "しおり/Aqua Timez",
