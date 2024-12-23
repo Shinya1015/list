@@ -609,6 +609,7 @@ const songs = [
 "小さきもの/林明日香",
 "Drawing days/SPLAY",
 "心絵/ロードオブメジャー",
+"愛包ダンスホール/HIMEHINA",
 
     // 將您的歌單加入這裡
 ];
