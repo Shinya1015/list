@@ -203,6 +203,7 @@ const songs = [
 "インフェルノ/Mrs. GREEN APPLE",
 "ケセラセラ/Mrs. GREEN APPLE",
 "青と夏/Mrs. GREEN APPLE",
+"ライラック/Mrs. GREEN APPLE",
 "夢幻/MY FIRST STORY & HYDE",
 "STYX HELIX/MYTH & ROID ",
 "リアルワールド/nano.RIPE",
