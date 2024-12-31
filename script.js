@@ -118,6 +118,7 @@ const songs = [
 "SAKURAスキップ/fourfolium",
 "only my railgun/fripSide",
 "sister's noise/fripSide",
+"LEVEL5 -judgelight-/fripSide",
 "夏空/Galileo Galilei",
 "Mysterious Eyes/GARNET CROW",
 "君という光/GARNET CROW",
