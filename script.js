@@ -67,6 +67,7 @@ const songs = [
 "プライド革命/CHiCO with HoneyWorks",
 "可愛くなりたい/CHiCO with HoneyWorks",
 "私、アイドル宣言/CHiCO with HoneyWorks",
+"世界は恋に落ちている/CHiCO with HoneyWorks",
 "CLICK/ClariS",
 "irony/ClariS",
 "コネクト/ClariS",
