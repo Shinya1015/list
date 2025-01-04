@@ -160,6 +160,7 @@ const songs = [
 "メランコリック/Junky",
 "ラブチーノ/Junky",
 "スイートマジック/Junky feat.鏡音リン",
+"Ur-Style/DATEKEN feat.鏡音リン",
 "シルエット/KANA-BOON",
 "スターマーカー/KANA-BOON",
 "ソングオブザデッド/KANA-BOON",
