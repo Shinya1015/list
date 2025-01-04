@@ -82,6 +82,7 @@ const songs = [
 "Snow Song Show/DECO*27",
 "ヴァンパイア/DECO*27",
 "おじゃま虫/DECO*27",
+"弱虫モンブラン/DECO*27",
 "ストリーミングハート/DECO*27",
 "セカイ/DECO*27",
 "ヒバナ/DECO*27",
