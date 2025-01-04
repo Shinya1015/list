@@ -33,6 +33,7 @@ const songs = [
 "決意の朝に/Aqua Timez",
 "夏のかけら/Aqua Timez ",
 "等身大のラブソング/Aqua Timez",
+"つぼみ／Aqua Timez",
 "リライト/ASIAN KUNG-FU GENERATION",
 "遥か彼方/ASIAN KUNG-FU GENERATION",
 "Stairway Generation/Base Ball Bear",
