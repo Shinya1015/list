@@ -262,6 +262,7 @@ const songs = [
 "前前前世/RADWIMPS",
 "愛にできることはまだあるかい/RADWIMPS",
 "夢灯篭/RADWIMPS",
+"祝祭/RADWIMPS",
 "100万回の「I love you」/Rake",
 "大切な人/Rake",
 "ebb and flow/Ray",
