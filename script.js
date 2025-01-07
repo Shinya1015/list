@@ -5,6 +5,7 @@ const songs = [
 "ハイドアンド・シーク/19's Sound Factory",
 "からくりピエロ/40mP",
 "シリョクケンサ/40mP",
+"ぼくらの16bit戦争 feat. GUMI",
 "フタリボシ/40mP feat.初音ミク&GUMI",
 "Tómur/におP feat.初音ミク",
 "夏色☆キャンバス/初音ミク",
