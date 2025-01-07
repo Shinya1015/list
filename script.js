@@ -13,6 +13,7 @@ const songs = [
 "ぼくらの16bit戦争/feat. GUMI",
 "どうぶつ占い/すこっぷ feat.初音ミク",
 "ストロボナイツ/livetune feat. 初音ミク",
+"ファインダー/livetune feat. 初音ミク",
 "ンダーランドと羊の歌/ハチ feat.初音ミク",
 "フタリボシ/40mP feat.初音ミク&GUMI",
 "Step to you/40mP feat.初音ミク",
