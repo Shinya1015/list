@@ -7,6 +7,7 @@ const songs = [
 "シリョクケンサ/40mP",
 "静電気。/emon(Tes.)feat.鏡音リン、鏡音レン、初音ミク",
 "アウト オブ エデン/K's Sound Project feat.鏡音レン,
+"Scene/鏡音リン・鏡音レン",
 "廃都アトリエスタにて/鏡音レン・鏡音リン",
 "ぼくらの16bit戦争 feat. GUMI",
 "どうぶつ占い／すこっぷ feat.初音ミク",
