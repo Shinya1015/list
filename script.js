@@ -604,6 +604,7 @@ const songs = [
 "輝きは君の中に/鈴木結女",
 "Lap Tap Love/電ポルP",
 "サイノウサンプラー/電ポルP",
+"曖昧劣情Lover/電ポルP feat.flower",
 "FOR REAL/徳山秀典",
 "Treasure/碧陽学園生徒会",
 "虹/福山雅治",
