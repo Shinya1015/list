@@ -152,6 +152,7 @@ const songs = [
 "金曜日のおはよう/HoneyWorks",
 "誇り高きアイドル/HoneyWorks",
 "グロウアップ/Hysteric Blue",
+"366日/HY",
 "I'll be the one/HΛL",
 "明日への扉/I WiSH",
 "月光花/Janne Da Arc",
