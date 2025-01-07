@@ -185,6 +185,7 @@ const songs = [
 "セツナトリップ/Last Note.",
 "放課後ストライド/Last Note.",
 "恋愛勇者/Last Note.",
+"有頂天ビバーチェ/Last Note.",
 "My Soul, Your Beats!/Lia",
 "小さな手のひら/Lia",
 "時を刻む唄/Lia",
