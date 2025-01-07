@@ -10,6 +10,7 @@ const songs = [
 "廃都アトリエスタにて/鏡音レン・鏡音リン",
 "ぼくらの16bit戦争 feat. GUMI",
 "フタリボシ/40mP feat.初音ミク&GUMI",
+"どうぶつ占い／すこっぷ feat.初音ミク",
 "Step to you/40mP feat.初音ミク",
 "Tómur/におP feat.初音ミク",
 "夏色☆キャンバス/初音ミク",
