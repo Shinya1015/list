@@ -263,6 +263,7 @@ const songs = [
 "My SunShine/ROCK'A'TRENCH",
 "ハルモニア/RYTHEM",
 "ホウキ雲/RYTHEM",
+"グメグ☆ファイアーエンドレスナイト/samfree feat.実谷なな",
 "トンデモワンダーズ/Sasakure.UK",
 "あんなに一緒だったのに/See-Saw",
 "スターライトパレード/SEKAI NO OWARI",
