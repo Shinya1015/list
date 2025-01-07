@@ -134,6 +134,7 @@ const songs = [
 "Alchemy/Girls Dead Monster",
 "Crow Song/Girls Dead Monster ",
 "Here I am/globe",
+"# あくあ色ぱれっと/湊あくあ",
 "あいうえおんがく/GReeeeN",
 "キセキ/GReeeeN",
 "奇跡/GReeeeN",
