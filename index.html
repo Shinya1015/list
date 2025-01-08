@@ -4,14 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>しゃいるの歌枠リスト</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">  <!-- 引用外部 CSS 文件 -->
 
-     <style>
-        .snowflake {
-            color: #ADD8E6; /* 設置雪花顏色為淡藍色 */
-        }
-    </style>
-    
 </head>
 <body>
     <div class="container" id="main-content">
@@ -22,16 +16,16 @@
         <button onclick="toggleSongList()">全リストを見る</button>
     </div>
 
-  <div id="song-list" style="display: none;">
-    <div class="song-list-header">
-        <h2>歌枠リスト</h2>
-             <p id="song-count">総曲数: 0</p>
-        <button onclick="closeSongList()">閉じる</button>
+    <div id="song-list" style="display: none;">
+        <div class="song-list-header">
+            <h2>歌枠リスト</h2>
+            <p id="song-count">総曲数: 0</p>
+            <button onclick="closeSongList()">閉じる</button>
+        </div>
+        <div class="scrollable-list">
+            <ul id="songs"></ul>
+        </div>
     </div>
-    <div class="scrollable-list">
-        <ul id="songs"></ul>
-    </div>
-</div>
 
     <!-- 流星元素 -->
     <div class="meteor"></div>
@@ -49,10 +43,12 @@
     <div class="meteor"></div>
     <div class="meteor"></div>
     <div class="meteor"></div>
-    <div class="meteor"></div>
-    
+
+    <!-- YouTube 圖片連結 -->
+    <a href="https://www.youtube.com/@Shairu.ch_0801" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/640px-YouTube_icon_%282013-2017%29.png" alt="YouTube" class="youtube-icon">
+    </a>
+
     <script src="script.js"></script>
 </body>
-
-      
 </html>
