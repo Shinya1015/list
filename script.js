@@ -729,7 +729,7 @@ function selectRandomSong() {
 
 
 // 動態生成流星元素並添加到頁面
-const numberOfMeteors = 60; // 生成 40 顆流星
+const numberOfMeteors = 60; // 生成 60 顆流星
 for (let i = 0; i < numberOfMeteors; i++) {
     const meteor = document.createElement('div');
     meteor.classList.add('meteor');
@@ -752,6 +752,10 @@ for (let i = 0; i < numberOfMeteors; i++) {
     // 隨機設定動畫時間和延遲
     meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
-}
 
+    // 判斷是否為靜止的白點
+    if (Math.random() < 0.1) { // 10%的概率讓白點靜止
+        meteor.classList.add('still');
+    }
+}
 
