@@ -753,9 +753,9 @@ for (let i = 0; i < numberOfMeteors; i++) {
     meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
 
-    // 判斷是否為靜止的白點
-    if (Math.random() < 0.1) { // 10%的概率讓白點靜止
-        meteor.classList.add('still');
+    // 判斷是否為最中間的白點
+    if (Math.abs(startX) < 5 && Math.abs(startY) < 5) {
+        // 若是靠近畫面中心的流星，將它的 opacity 設為 0
+        meteor.style.opacity = 0; // 隱藏中間的白點
     }
 }
-
