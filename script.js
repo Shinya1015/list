@@ -15,6 +15,7 @@ const songs = [
 "ハイドアンド・シーク/19's Sound Factory",
 "アウト オブ エデン/K's Sound Project",
 "廃都アトリエスタにて/鏡音レン・鏡音リン",
+"グッドナイトエクスプレス/鏡音リン・レン",
 "ぼくらの16bit戦争/sasakure.‌UK",
 "どうぶつ占い/すこっぷ",
 "ストロボナイツ/livetune",
