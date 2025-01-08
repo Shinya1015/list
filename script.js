@@ -766,3 +766,4 @@ for (let i = 0; i < numberOfMeteors; i++) {
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
 }
 
+
