@@ -240,17 +240,20 @@ button:hover {
 }
 
 #music-link {
-    position: fixed; /* 固定位置 */
-    bottom: 20px; /* 距离底部 20px */
-    right: 20px; /* 距离右侧 20px */
-    font-size: 40px; /* 设定图案的大小 */
-    color: #fff; /* 文字颜色 */
-    text-decoration: none; /* 去除下划线 */
-    transition: transform 0.3s ease, color 0.3s ease; /* 设置过渡效果 */
-    z-index: 9999; /* 确保图标在最上层 */
+    font-size: 50px;
+    color: #FFD700;   /* 亮金色 */
+    position: fixed;
+    bottom: 20px;      /* 向上稍微移动 */
+    right: 20px;       /* 向左稍微移动 */
+    z-index: 1000;     /* 确保在最前面 */
 }
 
-#music-link:hover {
-    color: #00BCD4; /* 悬停时变色 */
-    transform: scale(1.2); /* 悬停时放大图案 */
+/* YouTube 图标 */
+#youtube-link {
+    font-size: 50px;
+    color: #FF0000;   /* YouTube红色 */
+    position: fixed;
+    bottom: 80px;      /* 将YouTube图标稍微移开 */
+    right: 20px;       /* 保持右边位置 */
+    z-index: 999;    
 }
