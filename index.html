@@ -30,6 +30,21 @@
             transform: scale(1.2);
         }
     </style>
+
+       <style>
+        /* 设定图标图片样式 */
+        #youtube-link {
+            position: fixed; /* 固定位置 */
+            bottom: 20px;     /* 距离底部 20px */
+            right: 20px;      /* 距离右侧 20px */
+            z-index: 1000;    /* 确保图标在最上层 */
+        }
+
+        #youtube-link img {
+            width: 50px;      /* 图标宽度 */
+            height: 50px;     /* 图标高度 */
+        }
+    </style>
 </head>
 <body>
     <div class="container" id="main-content">
@@ -53,6 +68,12 @@
             <ul id="songs"></ul>
         </div>
     </div>
+
+    
+    <!-- YouTube 图标链接 -->
+    <a href="https://www.youtube.com" target="_blank" id="youtube-link">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube">
+    </a>
 
     <!-- 流星元素 -->
     <div class="meteor"></div>
