@@ -10,7 +10,7 @@ const songs = [
 "静電気。/emon(Tes.)",
 "too Cute!/emon(Tes.)",
 "Cosmic star/emon(Tes.)",
-"Shake it!/emon（Tes.）",
+"Shake it!/emon(Tes.)",
 "Dear/19's Sound Factory",
 "ハイドアンド・シーク/19's Sound Factory",
 "アウト オブ エデン/K's Sound Project",
