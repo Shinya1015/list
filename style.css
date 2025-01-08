@@ -238,3 +238,19 @@ button:hover {
     opacity: 0;
     animation: none;
 }
+
+#music-link {
+    position: fixed; /* 固定位置 */
+    bottom: 20px; /* 距离底部 20px */
+    right: 20px; /* 距离右侧 20px */
+    font-size: 40px; /* 设定图案的大小 */
+    color: #fff; /* 文字颜色 */
+    text-decoration: none; /* 去除下划线 */
+    transition: transform 0.3s ease, color 0.3s ease; /* 设置过渡效果 */
+    z-index: 9999; /* 确保图标在最上层 */
+}
+
+#music-link:hover {
+    color: #00BCD4; /* 悬停时变色 */
+    transform: scale(1.2); /* 悬停时放大图案 */
+}
