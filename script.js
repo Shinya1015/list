@@ -702,8 +702,7 @@ function toggleSongList() {
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "block";
     
-    // 保证音乐图标始终显示
-    document.getElementById('music-link').style.display = 'block';
+
 
     // 填充歌曲清单
     const songListUl = document.getElementById("songs");
@@ -722,8 +721,7 @@ function closeSongList() {
     // 显示主内容区域
     document.getElementById("main-content").style.display = "block";
 
-    // 保证音乐图标始终显示
-    document.getElementById('music-link').style.display = 'block';
+
 }
 
 // 隨機選擇歌曲的函數
