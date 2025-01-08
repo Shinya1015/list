@@ -245,7 +245,7 @@ button:hover {
     position: fixed;
     bottom: 20px;      /* 向上稍微移动 */
     right: 20px;       /* 向左稍微移动 */
-    z-index: 1000;     /* 确保在最前面 */
+    z-index: 9999;
 }
 
 /* YouTube 图标 */
