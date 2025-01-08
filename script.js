@@ -682,7 +682,7 @@ function loadSongs() {
     // 加入所有歌曲
     songs.forEach((song, index) => {
         const li = document.createElement('li');
-        li.textContent = `${index + 1}. ${song}`;
+       li.textContent = songName;
         songList.appendChild(li);
     });
 
