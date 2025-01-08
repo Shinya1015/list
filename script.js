@@ -515,6 +515,7 @@ const songs = [
 "POP STAR/平井堅",
 "Super Driver/平野綾",
 "冒険でしょでしょ？/平野綾",
+"FEELING AROUND/鈴木みのり",
 "fancy baby doll/田村ゆかり",
 "Fantastic future/田村ゆかり",
 "Little Wish ～lyrical step～/田村ゆかり",
