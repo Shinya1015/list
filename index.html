@@ -22,7 +22,7 @@
             text-decoration: none; /* 去掉下劃線 */
             transition: transform 0.3s ease, color 0.3s ease;
             z-index: 9999;
-             display: block !important; /* 強制顯示音樂圖標 */
+            visibility: visible; /* 確保音樂圖標可見 */
         }
 
         /* 當鼠標懸停在🎧上時的效果 */
@@ -51,9 +51,9 @@
             object-fit: contain; /* 保持图标比例不变 */
         }
 
-        /* 确保🎧图标不在歌单显示时消失 */
+        /* 确保🎧图标在歌单显示时不消失 */
         #music-link {
-            display: block; /* 始终保持显示 */
+            visibility: visible; /* 确保图标可见 */
         }
     </style>
 </head>
