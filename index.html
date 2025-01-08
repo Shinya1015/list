@@ -45,6 +45,12 @@
             object-fit: contain; /* 保持图标比例不变 */
         }
 
+         #music-link {
+            position: fixed; /* 固定位置 */
+            bottom: 5px;     /* 距离底部 5px，向下移动 */
+            right: 20px;      /* 向左調整位置，避免重疊 */
+            z-index: 1000;    /* 确保图标在最上层 */
+        }
         #music-link img {
             width: 50px;      /* 图标宽度 */
             height: 50px;     /* 图标高度 */
