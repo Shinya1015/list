@@ -723,8 +723,8 @@ function closeSongList() {
     // 顯示主內容區域
     document.getElementById("main-content").style.display = "block";
 
-    // 保持🎧图标可见
-    document.getElementById("music-link").style.visibility = "visible";
+    // 確保🎧圖標始終可見
+    document.getElementById("music-link").style.visibility = "visible"; 
 }
 
 // 隨機選擇歌曲的函數
@@ -765,5 +765,4 @@ for (let i = 0; i < numberOfMeteors; i++) {
     meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
 }
-
 
