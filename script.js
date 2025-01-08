@@ -687,7 +687,7 @@ function loadSongs() {
     });
 
     // 更新歌曲總數
-    songCount.textContent = `總曲目數量: ${songs.length}`;
+    songCount.textContent = `総曲数: ${songs.length}`;
 }
 
 // 初始加載
