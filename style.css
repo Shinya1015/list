@@ -224,9 +224,14 @@ button:hover {
 /* 流星樣式 */
 .meteor {
     position: absolute;
-    width: 0; /* 隱藏靜止白點 */
-    height: 0; /* 隱藏靜止白點 */
+    width: 3px; /* 流星大小 */
+    height: 3px; /* 流星大小 */
     background-color: #fff;
     border-radius: 50%;
     animation: meteor linear infinite;
+}
+
+/* 隱藏靜止白點 */
+.meteor.still {
+    display: none;
 }
