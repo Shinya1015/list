@@ -692,6 +692,7 @@ function loadSongs() {
 
 // 初始加載
 loadSongs();
+
 // 顯示或隱藏歌曲清單的函數
 function toggleSongList() {
     // 隱藏主內容區域
@@ -700,6 +701,9 @@ function toggleSongList() {
     // 顯示歌曲清單
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "block";
+
+    // 保持🎧图标始终显示
+    document.getElementById("music-link").style.display = "block"; 
 
     // 填充歌曲清單
     const songListUl = document.getElementById("songs");
@@ -726,7 +730,6 @@ function selectRandomSong() {
     const selectedSong = songs[randomIndex];
     document.getElementById("song-result").textContent = `${selectedSong}`;
 }
-
 
 // 動態生成流星元素並添加到頁面
 const numberOfMeteors = 60; // 生成 60 顆流星
