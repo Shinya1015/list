@@ -671,6 +671,94 @@ const songs = [
 
     // 將您的歌單加入這裡
 ];
+// 將歌單加載到 HTML 並顯示總數
+function loadSongs() {
+    const songList = document.getElementById('songs');
+    const songCount = document.getElementById('song-count');
+
+    // 清空現有內容
+    songList.innerHTML = "";
+
+    // 加入所有歌曲
+    songs.forEach((song, index) => {
+        const li = document.createElement('li');
+        const songName = song.replace(/^\d+\s?[\./\-＿－]?\s?/, ''); // 去除开头的数字和分隔符
+        li.textContent = songName;
+        songList.appendChild(li);
+    });
+
+    // 更新歌曲總數
+    songCount.textContent = `総曲数: ${songs.length}`;
+}
+
+// 初始加載
+loadSongs();
+
+// 顯示或隱藏歌曲清單的函數
+function toggleSongList() {
+    // 隐藏主内容区域
+    document.getElementById("main-content").style.display = "none";
+    
+    // 显示歌曲清单
+    const songListDiv = document.getElementById("song-list");
+    songListDiv.style.display = "block";
+
+    // 填充歌曲清单
+    const songListUl = document.getElementById("songs");
+    songListUl.innerHTML = "";
+    songs.forEach(song => {
+        const li = document.createElement("li");
+        li.textContent = song;
+        songListUl.appendChild(li);
+    });
+}
+
+function closeSongList() {
+    // 隐藏歌曲清单
+    document.getElementById("song-list").style.display = "none";
+
+    // 显示主内容区域
+    document.getElementById("main-content").style.display = "block";
+}
+
+// 隨機選擇歌曲的函數
+function selectRandomSong() {
+    const randomIndex = Math.floor(Math.random() * songs.length);
+    const selectedSong = songs[randomIndex];
+    document.getElementById("song-result").textContent = `${selectedSong}`;
+}
+
+// 動態生成流星元素並添加到頁面
+const numberOfMeteors = 60; // 生成 60 顆流星
+for (let i = 0; i < numberOfMeteors; i++) {
+    const meteor = document.createElement('div');
+    meteor.classList.add('meteor');
+    document.body.appendChild(meteor);
+
+    // 隨機選擇起始 X 和 Y 座標，避開畫面中心
+    let startX = Math.random() * 160 - 60; // 設定範圍為 -60 到 100
+    let startY = Math.random() * -30 - 40; // 設定範圍為 -40vh 到 -70vh
+    
+    // 避免流星出現在畫面中心
+    if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
+        startX = Math.random() * 160 - 60;  // 再隨機一次生成 X
+        startY = Math.random() * -30 - 40; // 再隨機一次生成 Y
+    }
+
+    // 設定流星結束的 X 和 Y 座標
+    const endX = startX + (Math.random() * 40 - 20); // 結束位置 X 偏移範圍（-20 到 +20）
+    const endY = 110; // 流星結束位置超出視窗底部（110vh）
+
+    // 設定流星的起點和終點位置
+    meteor.style.setProperty('--start-x', `${startX}vw`);
+    meteor.style.setProperty('--start-y', `${startY}vh`);
+    meteor.style.setProperty('--end-x', `${endX}vw`);
+    meteor.style.setProperty('--end-y', `${endY}vh`);
+
+    // 隨機設定動畫時間和延遲
+    meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
+    meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
+}
 /* YouTube 圖片樣式 */
 .youtube-icon {
     position: fixed;
