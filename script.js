@@ -682,6 +682,7 @@ function loadSongs() {
     // 加入所有歌曲
     songs.forEach((song, index) => {
         const li = document.createElement('li');
+      const songName = song.replace(/^\d+\s?[\./\-＿－]?\s?/, ''); // 去除开头的数字和分隔符
        li.textContent = songName;
         songList.appendChild(li);
     });
