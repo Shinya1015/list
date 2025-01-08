@@ -231,7 +231,8 @@ button:hover {
     animation: meteor linear infinite;
 }
 
-/* 隱藏靜止白點 */
+/* 移除靜止的白點 */
 .meteor.still {
-    display: none;
+    opacity: 0;
+    animation: none;
 }
