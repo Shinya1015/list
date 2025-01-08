@@ -671,7 +671,27 @@ const songs = [
 
     // 將您的歌單加入這裡
 ];
+// 將歌單加載到 HTML 並顯示總數
+function loadSongs() {
+    const songList = document.getElementById('songs');
+    const songCount = document.getElementById('song-count');
 
+    // 清空現有內容
+    songList.innerHTML = "";
+
+    // 加入所有歌曲
+    songs.forEach((song, index) => {
+        const li = document.createElement('li');
+        li.textContent = `${index + 1}. ${song}`;
+        songList.appendChild(li);
+    });
+
+    // 更新歌曲總數
+    songCount.textContent = `總曲目數量: ${songs.length}`;
+}
+
+// 初始加載
+loadSongs();
 // 顯示或隱藏歌曲清單的函數
 function toggleSongList() {
     // 隱藏主內容區域
