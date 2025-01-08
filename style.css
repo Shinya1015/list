@@ -101,15 +101,15 @@ button:hover {
 #music-link, #youtube-link {
     position: fixed;
     z-index: 9999;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     object-fit: contain;
     transition: transform 0.3s ease;
 }
 
 /* 音樂圖標 */
 #music-link {
-    font-size: 50px;
+    font-size: 40px;
     color: #FFD700;   /* 亮金色 */
     bottom: 20px;      /* 向下稍微移开 */
     right: 20px;       /* 保持右边位置 */
@@ -123,9 +123,9 @@ button:hover {
 
 /* YouTube 图标 */
 #youtube-link {
-    font-size: 50px;
+    font-size: 40px;
     color: #FF0000;   /* YouTube红色 */
-    bottom: 80px;      /* 向上稍微移动 */
+    bottom: 70px;      /* 向上稍微移动 */
     right: 20px;       /* 保持右边位置 */
 }
 
