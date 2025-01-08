@@ -28,6 +28,7 @@ body::before {
     height: 100%;
     background: transparent;
     background-image: 
+        /* 原來的星星位置 */
         radial-gradient(2px 2px at 10% 20%, #fff, transparent),
         radial-gradient(2px 2px at 15% 30%, #fff, transparent),
         radial-gradient(2px 2px at 30% 60%, #fff, transparent),
@@ -48,16 +49,17 @@ body::before {
         radial-gradient(1px 1px at 60% 60%, #fff, transparent),
         radial-gradient(2px 2px at 80% 40%, #fff, transparent),
         radial-gradient(1px 1px at 50% 20%, #fff, transparent),
-        radial-gradient(2px 2px at 5% 5%, #fff, transparent),
-        radial-gradient(2px 2px at 10% 95%, #fff, transparent),
-        radial-gradient(2px 2px at 95% 5%, #fff, transparent),
-        radial-gradient(2px 2px at 90% 95%, #fff, transparent),
-        radial-gradient(2px 2px at 5% 50%, #fff, transparent),
-        radial-gradient(2px 2px at 90% 50%, #fff, transparent),
-        radial-gradient(1px 1px at 25% 20%, #fff, transparent),
-        radial-gradient(1px 1px at 75% 30%, #fff, transparent),
-        radial-gradient(2px 2px at 20% 80%, #fff, transparent),
-        radial-gradient(1px 1px at 70% 80%, #fff, transparent);
+        /* 增加更多星星 */
+        radial-gradient(2px 2px at 5% 5%, #fff, transparent), /* 左側最上方 */
+        radial-gradient(2px 2px at 10% 95%, #fff, transparent), /* 左側底部 */
+        radial-gradient(2px 2px at 95% 5%, #fff, transparent), /* 右側最上方 */
+        radial-gradient(2px 2px at 90% 95%, #fff, transparent), /* 右側底部 */
+        radial-gradient(2px 2px at 5% 50%, #fff, transparent), /* 左側中間 */
+        radial-gradient(2px 2px at 90% 50%, #fff, transparent), /* 右側中間 */
+        radial-gradient(1px 1px at 25% 20%, #fff, transparent), /* 左上 */
+        radial-gradient(1px 1px at 75% 30%, #fff, transparent), /* 右上 */
+        radial-gradient(2px 2px at 20% 80%, #fff, transparent), /* 左下 */
+        radial-gradient(1px 1px at 70% 80%, #fff, transparent); /* 右下 */
     animation: twinkle 3s infinite alternate;
     opacity: 0.8;
     z-index: -1; /* 使星星背景位於頁面內容的下層 */
@@ -73,7 +75,7 @@ body::before {
 .container {
     position: relative;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.9);
+    background-color: rgba(255, 255, 255, 0.9); /* 背景顏色更亮，使用透明度來調整 */
     padding: 20px;
     border-radius: 10px;    
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -97,39 +99,142 @@ button:hover {
     background-color: #CC99CC;
 }
 
-/* 音樂和 YouTube 图标样式 */
-#music-link, #youtube-link {
-    position: fixed;
-    z-index: 9999;
-    width: 40px;
-    height: 40px;
-    object-fit: contain;
-    transition: transform 0.3s ease;
+#select-button {
+    padding: 15px 30px; /* 增加按钮的内边距 */
+    font-size: 22px; /* 增大文字大小 */
+    width: 200px; /* 设置按钮宽度 */
+    background-color: #00BCD4; /* 按钮背景色 */
+    color: #000; /* 按钮文字颜色 */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+     z-index: 9999; /* 确保按钮在最上层 */
+     position: relative; /* 使 z-index 生效 */
 }
 
-/* 音樂圖標 */
-#music-link {
-    font-size: 40px;
-    color: #FFD700;   /* 亮金色 */
-    bottom: 20px;      /* 向下稍微移开 */
-    right: 20px;       /* 保持右边位置 */
+#select-button:hover {
+    background-color: #FF5722; /* 悬停时的背景色 */
 }
 
-/* 音樂圖標懸停放大效果 */
-#music-link:hover {
-    color: #00BCD4;
-    transform: scale(1.2);
+/* 顯示選中的歌曲 */
+#song-result {
+    margin-top: 20px;
+    font-size: 20px;
+    color: #6A0DAD; /* 深紫色 */
+    font-family: "Source Han Sans", "Noto Sans CJK", "微软雅黑", sans-serif;
 }
 
-/* YouTube 图标 */
-#youtube-link {
-    font-size: 40px;
-    color: #FF0000;   /* YouTube红色 */
-    bottom: 70px;      /* 向上稍微移动 */
-    right: 20px;       /* 保持右边位置 */
+/* 歌枠リスト標題和閉じる按鈕樣式 */
+.song-list-header {
+    display: flex;
+    justify-content: space-between; /* 在兩邊分配空間 */
+    align-items: center;
+    width: 100%;
+    padding: 0; /* 去除額外的 padding，減少空白 */
+    margin: 0; /* 確保沒有額外的 margin */
+    background-color: transparent; /* 背景設為透明 */
+    position: sticky;
+    top: 0; /* 確保它緊貼上方 */
+    z-index: 2;
+    box-shadow: none; /* 去掉可能的陰影 */
 }
 
-/* YouTube 图标悬停放大效果 */
-#youtube-link:hover {
-    transform: scale(1.2);
+/* 滾動的清單區域 */
+.scrollable-list {
+    max-height: 400px; /* 設定內容區域最大高度 */
+    overflow-y: auto; /* 啟用垂直滾動 */
+    margin-top: 0; /* 確保沒有額外的 margin */
+}
+
+/* 歌曲清單顯示區域 */
+#song-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9); /* 背景更加透明，避免與星星重疊 */
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    flex-direction: column;
+    height: auto;
+    max-height: 500px;
+    overflow: hidden; /* 禁用滾動 */
+    position: relative;
+    z-index: 2; /* 保證歌曲清單在其他元素之上 */
+}
+
+/* 歌單項目樣式 */
+#songs {
+    list-style-type: none;
+    padding-left: 0;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* 關閉按鈕樣式 */
+#song-list button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#song-list button:hover {
+    background-color: #e53935;
+}
+
+/* 響應式設計：針對小螢幕（手機） */
+@media (max-width: 600px) {
+    #song-list {
+        width: 90%;
+        padding: 10px;
+    }
+
+    #songs {
+        width: 100%;
+    }
+}
+
+/* 響應式設計：針對大螢幕（桌面） */
+@media (min-width: 601px) {
+    #song-list {
+        width: 80%;
+    }
+}
+
+/* 流星動畫 */
+@keyframes meteor {
+    0% {
+        transform: translateX(var(--start-x)) translateY(var(--start-y));
+        opacity: 1;
+    }
+    100% {
+        transform: translateX(var(--end-x)) translateY(var(--end-y));
+        opacity: 0;
+    }
+}
+
+/* 流星樣式 */
+.meteor {
+    position: absolute;
+    width: 3px; /* 流星大小 */
+    height: 3px; /* 流星大小 */
+    background-color: #fff;
+    border-radius: 50%;
+    animation: meteor linear infinite;
+}
+
+/* 移除靜止的白點 */
+.meteor.still {
+    opacity: 0;
+    animation: none;
 }
