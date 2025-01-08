@@ -702,8 +702,7 @@ function toggleSongList() {
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "block";
 
-    // 保持🎧图标可见
-     document.getElementById("music-link").style.display = "block"; // 確保圖標顯示
+ 
  
     // 填充歌曲清單
     const songListUl = document.getElementById("songs");
@@ -723,12 +722,9 @@ function closeSongList() {
     // 顯示主內容區域
     document.getElementById("main-content").style.display = "block";
 
-    // 確保🎧圖標始終可見
-     document.getElementById("music-link").style.display = "block";
+   
 }
-#music-link {
-    visibility: visible !important;  /* 保證音樂圖標始終可見 */
-}
+
 // 隨機選擇歌曲的函數
 function selectRandomSong() {
     const randomIndex = Math.floor(Math.random() * songs.length);
