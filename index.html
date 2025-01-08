@@ -5,13 +5,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>しゃいるの歌枠リスト</title>
     <link rel="stylesheet" href="style.css">
+
+     <style>
+        .snowflake {
+            color: #ADD8E6; /* 設置雪花顏色為淡藍色 */
+        }
+    </style>
+    
 </head>
 <body>
     <div class="container" id="main-content">
-        <h1>ランダムで抽選</h1>
+       <h1>🌟ランダムで抽選<span class="snowflake">❄</span></h1>
        <button id="select-button" onclick="selectRandomSong()">抽選</button>
-        <h2>選ばれた曲は:</h2>
-          <p id="song-result">抽選ボタンを押してね！</p>
+        <!-- <h2>抽選結果:</h2> -->
+        <p id="song-result">抽選ボタンを押してね！</p>
         <button onclick="toggleSongList()">全リストを見る</button>
     </div>
 
@@ -47,4 +54,5 @@
     <script src="script.js"></script>
 </body>
 
+      
 </html>
