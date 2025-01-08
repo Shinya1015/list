@@ -229,9 +229,6 @@ button:hover {
 }
 
 
-h1 {
-    color: black; /* 主標題顏色 */
-}
-h1 span {
-    color: #ffffff; 
+.snowflake {
+    color: inherit; /* 讓它繼承父元素的顏色 */
 }
