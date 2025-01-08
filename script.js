@@ -695,16 +695,17 @@ loadSongs();
 
 // 顯示或隱藏歌曲清單的函數
 function toggleSongList() {
-    // 隱藏主內容區域
+    // 隐藏主内容区域
     document.getElementById("main-content").style.display = "none";
     
-    // 顯示歌曲清單
+    // 显示歌曲清单
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "block";
+    
+    // 保证音乐图标始终显示
+    document.getElementById('music-link').style.display = 'block';
 
- 
- 
-    // 填充歌曲清單
+    // 填充歌曲清单
     const songListUl = document.getElementById("songs");
     songListUl.innerHTML = "";
     songs.forEach(song => {
@@ -714,15 +715,15 @@ function toggleSongList() {
     });
 }
 
-// 關閉歌曲清單，返回主頁面
 function closeSongList() {
-    // 隱藏歌曲清單
+    // 隐藏歌曲清单
     document.getElementById("song-list").style.display = "none";
 
-    // 顯示主內容區域
+    // 显示主内容区域
     document.getElementById("main-content").style.display = "block";
 
-   
+    // 保证音乐图标始终显示
+    document.getElementById('music-link').style.display = 'block';
 }
 
 // 隨機選擇歌曲的函數
