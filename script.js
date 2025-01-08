@@ -735,14 +735,14 @@ for (let i = 0; i < numberOfMeteors; i++) {
     meteor.classList.add('meteor');
     document.body.appendChild(meteor);
 
-    // 隨機選擇起始 X 和 Y 座標，避免中間區域
-    let startX = Math.random() * 160 - 60; // 產生 -60 到 100 的隨機數，讓流星從左側開始
-    let startY = Math.random() * -30 - 40; // 確保流星從更高處開始（-40vh 到 -70vh）
-
-    // 這裡增加判斷，避免在畫面中心區域生成流星
-    // 例如，中間的白點大約是畫面中心附近
+    // 隨機選擇起始 X 和 Y 座標，避開畫面中心
+    let startX = Math.random() * 160 - 60; // 設定範圍為 -60 到 100
+    let startY = Math.random() * -30 - 40; // 設定範圍為 -40vh 到 -70vh
+    
+    // 避免流星出現在畫面中心
     if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
-        continue; // 如果流星的位置接近中心，直接跳過這個流星，避免生成
+        startX = Math.random() * 160 - 60;  // 再隨機一次生成 X
+        startY = Math.random() * -30 - 40; // 再隨機一次生成 Y
     }
 
     // 設定流星結束的 X 和 Y 座標
