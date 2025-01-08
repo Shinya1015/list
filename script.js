@@ -682,8 +682,8 @@ function loadSongs() {
     // 加入所有歌曲
     songs.forEach((song, index) => {
         const li = document.createElement('li');
-        const songName = song.replace(/^\d+\s?[\./\-＿－]?\s?/, ''); // 去除开头的数字和分隔符
-        li.textContent = songName;
+      const songName = song.replace(/^\d+\s?[\./\-＿－]?\s?/, ''); // 去除开头的数字和分隔符
+       li.textContent = songName;
         songList.appendChild(li);
     });
 
@@ -702,6 +702,8 @@ function toggleSongList() {
     // 显示歌曲清单
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "block";
+    
+
 
     // 填充歌曲清单
     const songListUl = document.getElementById("songs");
@@ -719,6 +721,8 @@ function closeSongList() {
 
     // 显示主内容区域
     document.getElementById("main-content").style.display = "block";
+
+
 }
 
 // 隨機選擇歌曲的函數
@@ -758,14 +762,5 @@ for (let i = 0; i < numberOfMeteors; i++) {
     // 隨機設定動畫時間和延遲
     meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
-}
-/* YouTube 圖片樣式 */
-.youtube-icon {
-    position: fixed;
-    bottom: 10px;
-    right: 10px;
-    width: 50px;
-    height: 50px;
-    cursor: pointer;
 }
 
