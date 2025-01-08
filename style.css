@@ -228,3 +228,10 @@ button:hover {
     animation: meteor linear infinite;
 }
 
+
+h1 {
+    color: black; /* 主標題顏色 */
+}
+h1 span {
+    color: blue; /* 使❄符號顯示為藍色 */
+}
