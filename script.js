@@ -735,9 +735,15 @@ for (let i = 0; i < numberOfMeteors; i++) {
     meteor.classList.add('meteor');
     document.body.appendChild(meteor);
 
-    // 隨機選擇起始 X 和 Y 座標
-    const startX = Math.random() * 160 - 60; // 將範圍調整為 -60 到 100，讓更多流星從左側出現
-    const startY = Math.random() * -30 - 40; // 確保流星從更高處開始（-40vh 到 -70vh）
+    // 隨機選擇起始 X 和 Y 座標，避免中間區域
+    let startX = Math.random() * 160 - 60; // 產生 -60 到 100 的隨機數，讓流星從左側開始
+    let startY = Math.random() * -30 - 40; // 確保流星從更高處開始（-40vh 到 -70vh）
+
+    // 這裡增加判斷，避免在畫面中心區域生成流星
+    // 例如，中間的白點大約是畫面中心附近
+    if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
+        continue; // 如果流星的位置接近中心，直接跳過這個流星，避免生成
+    }
 
     // 設定流星結束的 X 和 Y 座標
     const endX = startX + (Math.random() * 40 - 20); // 結束位置 X 偏移範圍（-20 到 +20）
@@ -752,10 +758,4 @@ for (let i = 0; i < numberOfMeteors; i++) {
     // 隨機設定動畫時間和延遲
     meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
     meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
-
-    // 判斷是否為最中間的白點
-    if (Math.abs(startX) < 5 && Math.abs(startY) < 5) {
-        // 若是靠近畫面中心的流星，將它的 opacity 設為 0
-        meteor.style.opacity = 0; // 隱藏中間的白點
-    }
 }
