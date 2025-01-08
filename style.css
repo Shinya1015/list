@@ -246,8 +246,13 @@ button:hover {
     bottom: 20px;      /* 向下稍微移开，确保与 YouTube 图标重叠 */
     right: 20px;       /* 保持右边位置 */
     z-index: 9999;
+    
 }
-
+/* 當鼠標懸停在🎧上時的效果 */
+        #music-link:hover {
+            color: #00BCD4;
+            transform: scale(1.2);
+        }
 /* YouTube 图标 */
 #youtube-link {
     font-size: 50px;
@@ -257,3 +262,4 @@ button:hover {
     right: 20px;       /* 保持右边位置 */
     z-index: 999;    
 }
+
