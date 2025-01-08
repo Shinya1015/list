@@ -8,6 +8,7 @@ const songs = [
 "恋愛裁判/40mP",
 "静電気。/emon(Tes.)feat.鏡音リン、鏡音レン、初音ミク",
 "アウト オブ エデン/K's Sound Project feat.鏡音レン",
+"too Cute!/emon(Tes.) feat. 鏡音リン",
 "キミペディア/Junky feat.鏡音リン・レン",
 "廃都アトリエスタにて/鏡音レン・鏡音リン",
 "ぼくらの16bit戦争/feat. GUMI",
