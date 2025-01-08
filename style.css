@@ -108,6 +108,8 @@ button:hover {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+     z-index: 9999; /* 确保按钮在最上层 */
+     position: relative; /* 使 z-index 生效 */
 }
 
 #select-button:hover {
