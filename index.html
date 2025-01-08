@@ -6,8 +6,7 @@
     <title>しゃいるの歌枠リスト</title>
     <link rel="stylesheet" href="style.css">
 
-    <style>
-        /* 設置雪花顏色 */
+     <style>
         .snowflake {
             color: #ADD8E6; /* 設置雪花顏色為淡藍色 */
         }
@@ -16,31 +15,23 @@
 </head>
 <body>
     <div class="container" id="main-content">
-        <h1>🌟ランダムで抽選<span class="snowflake">❄</span></h1>
-        <button id="select-button" onclick="selectRandomSong()">抽選</button>
+       <h1>🌟ランダムで抽選<span class="snowflake">❄</span></h1>
+       <button id="select-button" onclick="selectRandomSong()">抽選</button>
         <!-- <h2>抽選結果:</h2> -->
         <p id="song-result">抽選ボタンを押してね！</p>
         <button onclick="toggleSongList()">全リストを見る</button>
-      <a href="https://cooked-snowboard-2b7.notion.site/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652&pvs=74" target="_blank" id="music-link">
-         🎧
-        </a>
     </div>
 
-    <div id="song-list" style="display: none;">
-        <div class="song-list-header">
-            <h2>歌枠リスト</h2>
-            <p id="song-count">総曲数: 0</p>
-            <button onclick="closeSongList()">閉じる</button>
-        </div>
-        <div class="scrollable-list">
-            <ul id="songs"></ul>
-        </div>
+  <div id="song-list" style="display: none;">
+    <div class="song-list-header">
+        <h2>歌枠リスト</h2>
+             <p id="song-count">総曲数: 0</p>
+        <button onclick="closeSongList()">閉じる</button>
     </div>
-
-    <!-- YouTube 图标链接 -->
-   <a href="https://www.youtube.com/@Shairu.ch_0801" target="_blank" id="youtube-link">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube">
-</a>
+    <div class="scrollable-list">
+        <ul id="songs"></ul>
+    </div>
+</div>
 
     <!-- 流星元素 -->
     <div class="meteor"></div>
@@ -59,7 +50,9 @@
     <div class="meteor"></div>
     <div class="meteor"></div>
     <div class="meteor"></div>
-
+    
     <script src="script.js"></script>
 </body>
+
+      
 </html>
