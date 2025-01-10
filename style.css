@@ -264,7 +264,7 @@ button:hover {
 #notion-link {
     position: fixed;
     bottom: 10px;
-    right: 125px;  /* 使其位于 YouTube 图标的左边 */
+    right: 120px;  /* 使其位于 YouTube 图标的左边 */
     z-index: 1000;
 }
 
@@ -283,7 +283,7 @@ button:hover {
 /* Twitter 图标样式 */
 #twitter-link {
     position: fixed;
-    bottom: 10px;
+    bottom: 8px;
     right: 65px;  /* 使其位于音乐符号的左边，调整此值确保不重叠 */
     z-index: 1000;
 }
