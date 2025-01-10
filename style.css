@@ -250,7 +250,7 @@ button:hover {
 #youtube-link img {
     width: 30px;  /* 图标宽度（较小） */
     height: 30px; /* 图标高度 */
-    border-radius: 50%; /* 圆形图标 */
+    border-radius: 60%; /* 圆形图标 */
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
