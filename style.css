@@ -284,7 +284,7 @@ button:hover {
 #twitter-link {
     position: fixed;
     bottom: 10px;
-    right: 135px;  /* 使其位于音乐符号的左边，调整此值确保不重叠 */
+    right: 125px;  /* 使其位于音乐符号的左边，调整此值确保不重叠 */
     z-index: 1000;
 }
 
@@ -293,7 +293,7 @@ button:hover {
     height: 40px;
     border-radius: 60%; /* 圆形图标 */
     background-color: black; /* 设置背景颜色为黑色 */
-    padding: 5px; /* 添加内边距，使图标的背景可以覆盖到边缘 */
+ 
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
