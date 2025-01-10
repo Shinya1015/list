@@ -239,23 +239,22 @@ button:hover {
     animation: none;
 }
 
-/* YouTube 链接按钮样式 */
+
 #youtube-link {
     position: fixed;
-    bottom: 20px; /* 距离底部20px */
-    right: 20px;  /* 距离右侧20px */
-    z-index: 1000; /* 确保按钮在最上层 */
+    bottom: 10px; /* 距离底部10px */
+    right: 10px;  /* 距离右侧10px */
+    z-index: 1000; /* 确保图标在最上层 */
 }
 
 #youtube-link img {
-    width: 50px;  /* 图标宽度 */
-    height: 50px; /* 图标高度 */
+    width: 30px;  /* 图标宽度（较小） */
+    height: 30px; /* 图标高度 */
     border-radius: 50%; /* 圆形图标 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #youtube-link img:hover {
-    transform: scale(1.1); /* 悬停时放大 */
-    box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.4); /* 增强阴影效果 */
+    transform: scale(1.2); /* 悬停时稍微放大 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
