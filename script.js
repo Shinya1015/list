@@ -210,7 +210,7 @@ const songs = [
 "有頂天ビバーチェ/Last Note.",
 "My Soul, Your Beats!/Lia",
 "Bravely You/Lia",
-"小さな手のひら/Lia",
+"小さなてのひら/Lia",
 "時を刻む唄/Lia",
 "ロメオ/LIP×LIP",
 "crossing field/LiSA",
