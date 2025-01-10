@@ -263,8 +263,8 @@ button:hover {
 /* Notion 链接样式 */
 #notion-link {
     position: fixed;
-    bottom: 30px;
-    right: 50px;  /* 使其位于 YouTube 图标的左边 */
+    bottom: 20px;
+    right: 60px;  /* 使其位于 YouTube 图标的左边 */
     z-index: 1000;
 }
 
