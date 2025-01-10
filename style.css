@@ -264,12 +264,12 @@ button:hover {
 #notion-link {
     position: fixed;
     bottom: 10px;
-    right: 70px;  /* 使其位于 YouTube 图标的左边 */
+    right: 65px;  /* 使其位于 YouTube 图标的左边 */
     z-index: 1000;
 }
 
 #notion-link a {
-    font-size: 35px;  /* 调整🎧图标的大小 */
+    font-size: 38px;  /* 调整🎧图标的大小 */
     color: #FFFFFF;
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
