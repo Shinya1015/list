@@ -280,11 +280,12 @@ button:hover {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
+
 /* Twitter 图标样式 */
 #twitter-link {
     position: fixed;
     bottom: 10px;
-    right: 25px;  /* 使其位于音乐符号的右边 */
+    right: 100px;  /* 使其位于音乐符号的左边，避免与 YouTube 重叠 */
     z-index: 1000;
 }
 
@@ -292,6 +293,7 @@ button:hover {
     width: 30px;  /* 调整图标大小 */
     height: 30px;
     border-radius: 50%; /* 圆形图标 */
+    background-color: black; /* 设置背景颜色为黑色 */
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
