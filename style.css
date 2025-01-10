@@ -289,9 +289,9 @@ button:hover {
 }
 
 #twitter-link img {
-    width: 30px;  /* 调整图标大小 */
-    height: 30px;
-    border-radius: 50%; /* 圆形图标 */
+    width: 40px;  /* 调整图标大小 */
+    height: 40px;
+    border-radius: 60%; /* 圆形图标 */
     background-color: black; /* 设置背景颜色为黑色 */
     padding: 5px; /* 添加内边距，使图标的背景可以覆盖到边缘 */
     transition: transform 0.2s ease, box-shadow 0.2s ease;
