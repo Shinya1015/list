@@ -269,7 +269,7 @@ button:hover {
 }
 
 #notion-link a {
-    font-size: 50px;  /* 调整🎧图标的大小 */
+    font-size: 35px;  /* 调整🎧图标的大小 */
     color: #FFFFFF;
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
