@@ -670,7 +670,7 @@ const songs = [
 "チューリングラブ/ナナヲアカリ",
 "空耳ケーキ/Oranges & Lemons",
 "すないぱー。/『ユイカ』",
-"みむかｩわナイストライ / Mimukauwa Nice Try",
+"みむかｩわナイストライ/Mimukauwa Nice Try",
     // 將您的歌單加入這裡
 ];
 // 將歌單加載到 HTML 並顯示總數
