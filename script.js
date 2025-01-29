@@ -327,6 +327,7 @@ const songs = [
 "夜に駆ける/YOASOBI",
 "勇者/YOASOBI",
 "群青/YOASOBI",
+"UNDEAD/YOASOBI",
 "again/YUI",
 "CHE.R.RY/YUI",
 "Good-bye days/YUI",
