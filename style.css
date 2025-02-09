@@ -297,7 +297,26 @@ button:hover {
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-#twitter-link img:hover {
+/* 新增的图片链接样式 */
+#custom-link {
+    position: fixed;
+    bottom: 8px;
+    right: 160px;  /* 使其位于🎧图标的左边 */
+    z-index: 1000;
+}
+
+#custom-link img {
+    width: 40px;  /* 调整图标大小 */
+    height: 40px;
+    border-radius: 60%; /* 圆形图标 */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#custom-link img:hover {
+    transform: scale(1.2); /* 悬停时稍微放大 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+}
+
     transform: scale(1.2); /* 悬停时稍微放大 */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
