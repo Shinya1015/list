@@ -24,6 +24,7 @@ const songs = [
 "Last Night,Good Night/livetune",
 "ンダーランドと羊の歌/ハチ",
 "Tómur/におP",
+"ハジメテノオト/初音ミク",
 "みむかｩわナイストライ/初音ミク",
 "夏色☆キャンバス/初音ミク",
 "Scene/初音ミク",
