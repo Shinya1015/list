@@ -264,7 +264,7 @@ button:hover {
 #notion-link {
     position: fixed;
     bottom: 10px;
-    right: 170px;  /* 使其位于 YouTube 图标的左边 */
+    right: 160px;  /* 越大越靠左 */
     z-index: 1000;
 }
 
@@ -301,7 +301,7 @@ button:hover {
 #custom-link {
     position: fixed;
     bottom: 8px;
-    right: 110px;  /* 使其位于🎧图标的左边 */
+    right: 110px;  
     z-index: 1000;
 }
 
