@@ -14,6 +14,7 @@ const songs = [
 "Dear/19's Sound Factory",
 "ハイドアンド・シーク/19's Sound Factory",
 "アウト オブ エデン/K's Sound Project",
+"ジェミニ/鏡音リン・レン",
 "廃都アトリエスタにて/鏡音レン・鏡音リン",
 "グッドナイトエクスプレス/鏡音リン・レン",
 "ぼくらの16bit戦争/sasakure.‌UK",
