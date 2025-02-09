@@ -240,6 +240,7 @@ button:hover {
 }
 
 
+/* YouTube 图标样式 */
 #youtube-link {
     position: fixed;
     bottom: 10px; /* 距离底部10px */
@@ -259,7 +260,6 @@ button:hover {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
 
-
 /* Notion 链接样式 */
 #notion-link {
     position: fixed;
@@ -276,8 +276,8 @@ button:hover {
 }
 
 #notion-link a:hover {
-    transform: scale(1.2);
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+    transform: scale(1.2); /* 悬停时稍微放大 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
 
 /* Twitter 图标样式 */
@@ -293,8 +293,12 @@ button:hover {
     height: 40px;
     border-radius: 60%; /* 圆形图标 */
     background-color: black; /* 设置背景颜色为黑色 */
- 
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#twitter-link img:hover {
+    transform: scale(1.2); /* 悬停时稍微放大 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
 
 /* 新增creatia样式 */
@@ -317,6 +321,3 @@ button:hover {
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
 
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
-}
