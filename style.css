@@ -264,7 +264,7 @@ button:hover {
 #notion-link {
     position: fixed;
     bottom: 10px;
-    right: 160px;  /* 越大越靠左 */
+    right: 210px;  /* 越大越靠左 */
     z-index: 1000;
 }
 
@@ -337,6 +337,26 @@ button:hover {
 }
 
 #amazon-link img:hover {
+    transform: scale(1.2); /* 悬停时稍微放大 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+}
+
+/* TwitCasting 图标样式 */
+#twitcasting-link {
+    position: fixed;
+    bottom: 8px;
+    right: 160px;  /* 让它出现在 Notion（音乐符号）的左边 */
+    z-index: 1000;
+}
+
+#twitcasting-link img {
+    width: 40px;  /* 图标大小 */
+    height: 40px;
+    border-radius: 60%; /* 圆形图标 */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+#twitcasting-link img:hover {
     transform: scale(1.2); /* 悬停时稍微放大 */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
 }
