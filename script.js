@@ -266,6 +266,7 @@ const songs = [
 "Good Time/Owl city & Carly Rae Jepsen",
 "Magic of Love/Perfume",
 "コンピューターシティ/Perfume",
+"チョコレイト・ディスコ/Perfume",
 "君＝花/pigstar",
 "シル・ヴ・プレジデント/P丸様。",
 "すずめ/RADWIMPS",
