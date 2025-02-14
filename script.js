@@ -87,6 +87,7 @@ const songs = [
 "I Really Like You/Carly Rae Jepsen",
 "Period/CHEMISTRY",
 "桜ロック/CHERRYBLOSSOM",
+"病名恋ワズライ/HoneyWorks",
 "カヌレ/CHiCO with HoneyWorks",
 "プライド革命/CHiCO with HoneyWorks",
 "可愛くなりたい/CHiCO with HoneyWorks",
