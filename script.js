@@ -241,7 +241,7 @@ const songs = [
 "ケセラセラ/Mrs. GREEN APPLE",
 "青と夏/Mrs. GREEN APPLE",
 "ライラック/Mrs. GREEN APPLE",
-"夢幻/MY FIRST STORY & HYDE",
+"夢幻/MY FIRST STORY x HYDE",
 "STYX HELIX/MYTH & ROID ",
 "リアルワールド/nano.RIPE",
 "月花/nano.RIPE",
