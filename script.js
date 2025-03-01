@@ -155,6 +155,7 @@ const songs = [
 "GO!!!/FLOW",
 "Answer/FLOW",
 "星に願いを/flumpool",
+"君に届け/flumpool",
 "Believe/Folder5",
 "SAKURAスキップ/fourfolium",
 "only my railgun/fripSide",
