@@ -166,6 +166,7 @@ const songs = [
 "君という光/GARNET CROW",
 "夏の幻/GARNET CROW",
 "涙のイエスタデー/GARNET CROW",
+"君の思い描いた夢 集Xル HEAVEN／GARNET CROW",
 "極楽浄土/GARNiDELiA",
 "偶然の確率/girl next door",
 "Alchemy/Girls Dead Monster",
