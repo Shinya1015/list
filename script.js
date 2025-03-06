@@ -18,7 +18,7 @@ const songs = [
 "ジェミニ/鏡音リン・レン",
 "廃都アトリエスタにて/鏡音リン・レン",
 "グッドナイトエクスプレス/鏡音リン・レン",
-"Ur-Style/鏡音リン",
+"Ur-Style/DATEKEN feat.鏡音リン",
 "ぼくらの16bit戦争/sasakure.‌UK",
 "どうぶつ占い/すこっぷ",
 "Packaged/livetune",
