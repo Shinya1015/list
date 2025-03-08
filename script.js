@@ -704,6 +704,7 @@ const songs = [
 "ダブルラリアット/巡音ルカ",
 "X-encounter/黑崎真音",
 "らしさ/SUPER BEAVER",
+"曇天/DOES",
  
     // 將您的歌單加入這裡
 ];
