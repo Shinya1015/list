@@ -163,6 +163,7 @@ const songs = [
 "sister's noise/fripSide",
 "LEVEL5 -judgelight-/fripSide",
 "夏空/Galileo Galilei",
+"Myself/VALSHE",
 "Mysterious Eyes/GARNET CROW",
 "君という光/GARNET CROW",
 "夏の幻/GARNET CROW",
