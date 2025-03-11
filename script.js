@@ -108,6 +108,7 @@ const songs = [
 "irony/ClariS",
 "コネクト/ClariS",
 "ヒトリゴト/ClariS",
+"reunion/ClariS",
 "voice/CLOUD",
 "EQUALロマンス/CoCo",
 "U.S.A. /DA PUMP",
