@@ -708,6 +708,7 @@ const songs = [
 "曇天/DOES",
 "出航さ！～Sail Out For Someone～/E-girls",
 "departure!/小野正利",
+"Forever.../savage genius",
  
     // 將您的歌單加入這裡
 ];
