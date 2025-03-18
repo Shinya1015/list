@@ -710,6 +710,7 @@ const songs = [
 "出航さ！～Sail Out For Someone～/E-girls",
 "departure!/小野正利",
 "Forever.../savage genius",
+"ワイルド アット ハート/嵐",
  
     // 將您的歌單加入這裡
 ];
