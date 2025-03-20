@@ -21,7 +21,7 @@ const songs = [
 "Ur-Style/DATEKEN feat.鏡音リン",
 "ぼくらの16bit戦争/sasakure.‌UK",
 "どうぶつ占い/すこっぷ",
-"Packaged/livetune",
+"Packaged/kz(livetune)",
 "Tell Your World/livetune",
 "ストロボナイツ/livetune",
 "ファインダー/livetune",
