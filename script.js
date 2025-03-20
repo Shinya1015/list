@@ -93,7 +93,7 @@ const songs = [
 "星の唄/buzzG",
 "ギリギリchop/B'z",
 "サインはB/B小町 アイ (CV:高橋李依)",
-"STAR☆T☆RAIN -アイ Solo Ver.-/B小町 アイ(高橋李依)",
+"STAR☆T☆RAIN -New Arrange Ver.-/B小町",
 "Call Me Maybe/Carly Rae Jepsen",
 "I Really Like You/Carly Rae Jepsen",
 "Period/CHEMISTRY",
