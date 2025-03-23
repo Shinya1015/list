@@ -712,6 +712,7 @@ const songs = [
 "departure!/小野正利",
 "Forever.../savage genius",
 "ワイルド アット ハート/嵐",
+"ピエロ/絵師じゃないKEI",
  
     // 將您的歌單加入這裡
 ];
