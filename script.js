@@ -716,7 +716,8 @@ const songs = [
 "ピエロ/絵師じゃないKEI",
 "気ままな天使たち/わたてん☆5",
 "星屑のインターリュード/fhana",
- "Re: Re:/ASIAN KUNG-FU GENERATION",
+"Re: Re:/ASIAN KUNG-FU GENERATION",
+"future nova/School Food Punishment",
  
     // 將您的歌單加入這裡
 ];
