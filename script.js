@@ -719,6 +719,7 @@ const songs = [
 "Re: Re:/ASIAN KUNG-FU GENERATION",
 "future nova/School Food Punishment",
 "futuristic imagination/School Food Punishment",
+"light prayer/School Food Punishment",
  
     // 將您的歌單加入這裡
 ];
