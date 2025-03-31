@@ -718,6 +718,7 @@ const songs = [
 "星屑のインターリュード/fhana",
 "Re: Re:/ASIAN KUNG-FU GENERATION",
 "future nova/School Food Punishment",
+"futuristic imagination/School Food Punishment",
  
     // 將您的歌單加入這裡
 ];
