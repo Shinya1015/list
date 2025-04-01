@@ -324,6 +324,7 @@ const songs = [
 "オリジナルスター☆彡/STAR☆ANIS",
 "カレンダーガール/STAR☆ANIS",
 "オトナモード/STAR☆ANIS",
+"フレンド/STAR☆ANIS",
 "SPLASH FREE/STYLE FIVE",
 "さよならメモリーズ/Supercell",
 "ワールドイズマイン/supercell",
