@@ -137,6 +137,7 @@ const songs = [
 "モザイクロール/DECO*27",
 "ペダルハート/DECO*27",
 "ゴーストルール/DECO*27",
+"心壊サミット/DECO*27",
 "探し物/DIRTY OLD MEN",
 "Just Be Friends/Dixie Flatline",
 "夜鷹の夢/Do As Infinity",
