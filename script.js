@@ -724,7 +724,8 @@ const songs = [
 "栄光への一秒/MAGIC OF LiFE",
 "アイコトバ/アイナ・ジ・エンド",
 "Wonderful Wonder World*/Yun*chi",
- "光あれ/岡野昭仁",
+"光あれ/岡野昭仁",
+"Glory Days/尾崎裕哉",
  
  
     // 將您的歌單加入這裡
