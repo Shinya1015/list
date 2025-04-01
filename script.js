@@ -242,6 +242,7 @@ const songs = [
 "oath sign/LiSA",
 "炎/LiSA",
 "紅蓮華/LiSA",
+"紅蓮の弓矢/Linked Horizon",
 "悲しみをやさしさに/little by little",
 "あの日タイムマシン/LONG SHOT PARTY ",
 "けーたいみしてよ/MAISONdes",
