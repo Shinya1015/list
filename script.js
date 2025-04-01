@@ -110,6 +110,7 @@ const songs = [
 "コネクト/ClariS",
 "ヒトリゴト/ClariS",
 "reunion/ClariS",
+"nexus/ClariS",
 "voice/CLOUD",
 "EQUALロマンス/CoCo",
 "U.S.A. /DA PUMP",
@@ -720,6 +721,11 @@ const songs = [
 "future nova/School Food Punishment",
 "futuristic imagination/School Food Punishment",
 "light prayer/School Food Punishment",
+"栄光への一秒/MAGIC OF LiFE",
+"アイコトバ/アイナ・ジ・エンド",
+"Wonderful Wonder World*/Yun*chi",
+ "光あれ/岡野昭仁",
+ 
  
     // 將您的歌單加入這裡
 ];
