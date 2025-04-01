@@ -739,6 +739,7 @@ const songs = [
 "弱虫な炎/DIRTY OLD MEN",
 "果てなき道/HIMEKA",
 "ありがとう/SunSet Swish",
+"明日、僕は君に会いに行く/ワカバ",
  
     // 將您的歌單加入這裡
 ];
