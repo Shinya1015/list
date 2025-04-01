@@ -736,6 +736,7 @@ const songs = [
 "True My Heart/佐倉紗織",
 "アドバンス・アドベンチャー/GARDEN",
 "弱虫な炎/DIRTY OLD MEN",
+"果てなき道/HIMEKA",
 
  
     // 將您的歌單加入這裡
