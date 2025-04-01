@@ -212,6 +212,7 @@ const songs = [
 "スイートマジック/Junky",
 "キミペディア/Junky",
 "夕花火/Junky",
+"ポップンガール@コミュニケーション/Junky",
 "シルエット/KANA-BOON",
 "スターマーカー/KANA-BOON",
 "ソングオブザデッド/KANA-BOON",
@@ -728,7 +729,7 @@ const songs = [
 "Wonderful Wonder World*/Yun*chi",
 "光あれ/岡野昭仁",
 "Glory Days/尾崎裕哉",
- 
+"笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ",
  
     // 將您的歌單加入這裡
 ];
