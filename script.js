@@ -22,6 +22,7 @@ const songs = [
 "ぼくらの16bit戦争/sasakure.‌ UK",
 "どうぶつ占い/すこっぷ",
 "Packaged/kz(livetune)",
+"Hand in Hand/kz(livetune)",
 "Tell Your World/livetune",
 "ストロボナイツ/livetune",
 "ファインダー/livetune",
