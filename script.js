@@ -749,6 +749,7 @@ const songs = [
 "サヨナラの空/Qwai",
 "ETERNAL BLAZE/水樹奈々",
 "ギー太に首ったけ/平沢唯(豊崎愛生)",
+"Dear My Friend~まだ見ぬ未来へ~/ELISA",
  
     // 將您的歌單加入這裡
 ];
