@@ -672,6 +672,7 @@ const songs = [
 "Happiness/嵐",
 "One Love/嵐",
 "Love so sweet/嵐",
+"Subarashiki Sekai/嵐",
 "丸の内サディスティック/椎名林檎",
 "カラカラ/結束バンド",
 "ギターと孤独と蒼い惑星/結束バンド",
