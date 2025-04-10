@@ -766,6 +766,7 @@ const songs = [
 "Sunshine/MONKEY MAJIK",
 "ワスレガタキ/石崎ひゅーい",
 "三原色/PELICAN FANCLUB",
+"夢のような/佐伯ユウス",
  
     // 將您的歌單加入這裡
 ];
