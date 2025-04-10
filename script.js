@@ -317,6 +317,7 @@ const songs = [
 "スターライトパレード/SEKAI NO OWARI",
 "最高到達点/SEKAI NO OWARI",
 "RPG/SEKAI NO OWARI",
+"Take Your Way/SEKAI NO OWARI",
 "桃源郷エイリアン/serial TV drama",
 "LOVEトロピカ～ナ/Sister MAYO",
 "世界に一つだけの花/SMAP",
