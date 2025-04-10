@@ -94,6 +94,7 @@ const songs = [
 "ピーターパン・シンドローム/buzzG",
 "星の唄/buzzG",
 "ギリギリchop/B'z",
+"衝動/B'z",
 "サインはB/B小町 アイ (CV:高橋李依)",
 "STAR☆T☆RAIN -New Arrange Ver.-/B小町",
 "Call Me Maybe/Carly Rae Jepsen",
