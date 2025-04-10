@@ -759,7 +759,7 @@ const songs = [
 "Dear My Friend~まだ見ぬ未来へ~/ELISA",
 "Ring My Bell/blue drops",
 "party night/真田アサミ・沢城みゆき・氷上 恭子",
-"迷q -迷宮-make★you-/岸本早未",
+"迷Q!?-迷宫-Make★You-/岸本早未",
 "EQUALロマンス/CoCo",
 "Fast Forward/MONKEY MAJIK",
 "Sunshine/MONKEY MAJIK",
