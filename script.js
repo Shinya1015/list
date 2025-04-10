@@ -760,6 +760,7 @@ const songs = [
 "迷q -迷宮-make★you-/岸本早未",
 "EQUALロマンス/CoCo",
 "Fast Forward/MONKEY MAJIK",
+"Sunshine/MONKEY MAJIK",
  
     // 將您的歌單加入這裡
 ];
