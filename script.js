@@ -764,6 +764,8 @@ const songs = [
 "EQUALロマンス/CoCo",
 "Fast Forward/MONKEY MAJIK",
 "Sunshine/MONKEY MAJIK",
+"ワスレガタキ/石崎ひゅーい",
+"三原色/PELICAN FANCLUB",
  
     // 將您的歌單加入這裡
 ];
