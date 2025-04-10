@@ -758,7 +758,8 @@ const songs = [
 "Ring My Bell/blue drops",
 "party night/真田アサミ・沢城みゆき・氷上 恭子",
 "迷q -迷宮-make★you-/岸本早未",
- "EQUALロマンス/CoCo",
+"EQUALロマンス/CoCo",
+"Fast Forward/MONKEY MAJIK",
  
     // 將您的歌單加入這裡
 ];
