@@ -332,7 +332,6 @@ const songs = [
 "輝きのエチュード/STAR☆ANIS",
 "笑顔のsuncatcher/STAR☆ANIS",
 "ハッピィクレッシェンド/STAR☆ANIS",
-"オリジナルスター☆ミ/STAR☆ANIS",
 "SPLASH FREE/STYLE FIVE",
 "さよならメモリーズ/Supercell",
 "ワールドイズマイン/supercell",
@@ -757,6 +756,7 @@ const songs = [
 "ギー太に首ったけ/平沢唯(豊崎愛生)",
 "Dear My Friend~まだ見ぬ未来へ~/ELISA",
 "Ring My Bell/blue drops",
+"party night/真田アサミ・沢城みゆき・氷上 恭子",
  
     // 將您的歌單加入這裡
 ];
