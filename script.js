@@ -769,6 +769,7 @@ const songs = [
 "夢のような/佐伯ユウス",
 "君に贈る歌/小池徹平",
 "Spring of Life/Perfume",
+"瞬間センチメンタル/SCANDAL",
  
     // 將您的歌單加入這裡
 ];
