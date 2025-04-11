@@ -768,6 +768,7 @@ const songs = [
 "三原色/PELICAN FANCLUB",
 "夢のような/佐伯ユウス",
 "君に贈る歌/小池徹平",
+"Spring of Life/Perfume",
  
     // 將您的歌單加入這裡
 ];
