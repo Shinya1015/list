@@ -772,7 +772,8 @@ const songs = [
 "君に贈る歌/小池徹平",
 "Spring of Life/Perfume",
 "瞬間センチメンタル/SCANDAL",
- 
+"Blood teller/Faylan",
+"Destin Histoire/yoshiki*lisa",
     // 將您的歌單加入這裡
 ];
 // 將歌單加載到 HTML 並顯示總數
