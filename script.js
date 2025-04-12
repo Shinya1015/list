@@ -188,6 +188,7 @@ const songs = [
 "愛唄/GReeeeN",
 "瞬きもせずに/H△G",
 "センチメンタルクライシス/halca",
+"スターティングブルー/halca",
 "Blessing/halyosy",
 "Connecting/halyosy",
 "かさなる影/Hearts Grow",
