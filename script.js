@@ -774,6 +774,7 @@ const songs = [
 "瞬間センチメンタル/SCANDAL",
 "Blood teller/Faylan",
 "Destin Histoire/yoshiki*lisa",
+"こだまことだま/nano.RIPE",
     // 將您的歌單加入這裡
 ];
 // 將歌單加載到 HTML 並顯示總數
