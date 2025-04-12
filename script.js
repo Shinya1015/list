@@ -163,6 +163,7 @@ const songs = [
 "Answer/FLOW",
 "星に願いを/flumpool",
 "君に届け/flumpool",
+"ちいさな日々/flumpool",
 "Believe/Folder5",
 "SAKURAスキップ/fourfolium",
 "only my railgun/fripSide",
