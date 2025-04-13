@@ -353,6 +353,7 @@ const songs = [
 "One day/The ROOTLESS",
 "Get Wild/TM NETWORK",
 "Pray/Tommy heavenly6",
+"Pray/Wish*",
 "BOY MEETS GIRL/TRF",
 "Adrenaline!!!/TrySail",
 "晩餐歌/tuki.",
