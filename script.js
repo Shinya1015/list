@@ -776,6 +776,7 @@ const songs = [
 "Destin Histoire/yoshiki*lisa",
 "こだまことだま/nano.RIPE",
 "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)",
+"マジで感謝!/T-Pistonz+KMC",
     // 將您的歌單加入這裡
 ];
 // 將歌單加載到 HTML 並顯示總數
