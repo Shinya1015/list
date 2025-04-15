@@ -27,7 +27,7 @@ const songs = [
 "ストロボナイツ/livetune",
 "ファインダー/livetune",
 "Last Night,Good Night/livetune",
-"ンダーランドと羊の歌/ハチ",
+"ワンダーランドと羊の歌/ハチ",
 "Tómur/におP",
 "マトリョシカ/初音ミク・GUMI",
 "Rabbit/一億円P feat. 初音ミク",
