@@ -779,7 +779,8 @@ const streamerSongList = [
     "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)",
     "マジで感謝!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",
-    "ハヤテのごとく!/KOTOKO"
+    "ハヤテのごとく!/KOTOKO",
+    "Magical Babyrinth/DA PUMP"
 ];
 
 
