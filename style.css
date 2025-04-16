@@ -145,6 +145,7 @@ body::before {
     position: relative;
     z-index: 2; /* 確保列表在主容器之上 */
     padding: 0; /* 移除容器的 padding，讓 header 和 list 填滿 */
+    box-sizing: border-box; /* 確保 padding 不影響寬度計算 */
 }
 
 /* 列表頭部區域 */
@@ -205,7 +206,8 @@ body::before {
 .scrollable-list {
     flex-grow: 1; /* 佔據剩餘空間 */
     overflow-y: auto; /* 啟用垂直滾動 */
-    padding: 0 5px 5px 5px; /* 列表內邊距 */
+    /* padding: 0 5px 5px 5px; */ /* 移除這裡的 bottom padding，交給 #songs */
+    padding: 0 5px 0 5px;  /* 只保留左右 padding */
     width: 100%;
     box-sizing: border-box;
 }
@@ -213,10 +215,11 @@ body::before {
 /* 歌曲列表 ul */
 #songs {
     list-style-type: none;
-    padding: 0;
+    padding: 0; /* 移除 ul 的 padding，由 li 控制 */
     margin: 0;
     width: 100%;
     text-align: left; /* 確保列表項靠左 */
+    /* padding-bottom: 60px; */ /* 將 padding-bottom 移到 media query 裡 */
 }
 
 /* 列表項 li */
@@ -224,9 +227,10 @@ body::before {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 4px 10px;    /* << 修改: 增加上下(4px)左右(10px) padding */
+    padding: 4px 10px;    /* 上下4px 左右10px padding */
     border-bottom: 1px solid #f0f0f0; /* 更淡的分隔線 */
     text-align: left;
+    box-sizing: border-box; /* 確保 padding 包含在內 */
 }
 #songs li:last-child {
     border-bottom: none;
@@ -243,8 +247,8 @@ body::before {
 
 /* 複製按鈕樣式 (使用 class 選擇器) */
 .copy-button {
-    padding: 4px 8px;     /* 保留極小的按鈕內邊距 */
-    font-size: 16px;      /* 保留極小的按鈕文字大小 */
+    padding: 1px 4px;     /* 保留極小的按鈕內邊距 */
+    font-size: 10px;      /* 保留極小的按鈕文字大小 */
     background-color: #adb5bd; /* 淺灰色 */
     color: white;
     border: none;
@@ -330,7 +334,6 @@ body::before {
 
 #notion-link a:hover {
     transform: scale(1.2);
-    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);  文字陰影效果不明顯，可省略 */
 }
 
 /* Twitter 图标样式 */
@@ -437,7 +440,7 @@ body::before {
 
 
 /* --- 響應式設計 --- */
-@media (max-width: 768px) { /* 調整斷點 */
+@media (max-width: 768px) { /* 平板和大型手機 */
     #song-list {
         width: 90%;
         max-height: 85vh; /* 手機上可以更高 */
@@ -450,6 +453,10 @@ body::before {
     #search-input { font-size: 13px; padding: 5px 8px; }
     #close-button { padding: 5px 10px; font-size: 13px; }
 
+    #songs {
+        padding-bottom: 60px; /* << 為底部固定圖示留出空間 */
+        box-sizing: border-box; /* 確保 padding 包含在內 */
+    }
     #songs li { padding: 3px 8px; } /* 手機上列表項 padding 可以不同 */
     #songs li span { font-size: 13px; } /* 手機上歌名可以再小點 */
     .copy-button { font-size: 9px; padding: 1px 3px;} /* 手機上複製按鈕更小 */
@@ -462,13 +469,17 @@ body::before {
      #youtube-link { display: none; } /* 空間不足時隱藏部分圖示 */
 }
 
-@media (max-width: 480px) { /* 更小的螢幕 */
+@media (max-width: 480px) { /* 小型手機 */
      #song-list { width: 95%; }
      .song-list-header h2 { font-size: 1em; margin-right: 5px; }
      .song-list-header p { font-size: 0.75em; margin-right: 5px; }
      #search-input { min-width: 100px; }
 
-    #songs li { padding: 2px 6px; } /* 更小螢幕列表項 padding */
+    #songs {
+        padding-bottom: 60px; /* << 同樣為底部圖示留空間 */
+        box-sizing: border-box;
+    }
+     #songs li { padding: 2px 6px; } /* 更小螢幕列表項 padding */
 
      /* 進一步調整圖示位置 */
      #notion-link { right: 120px; font-size: 34px; }
@@ -477,5 +488,4 @@ body::before {
      #twitter-link { display: none; } /* 再次隱藏 */
      #booth-link { left: 55px; }
      #amazon-link { left: 10px; }
-
 }
