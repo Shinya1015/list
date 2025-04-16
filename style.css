@@ -316,18 +316,35 @@ button:active {
 
 /* --- 流星和外部連結樣式 --- */
 
-/* 流星動畫 */
-@keyframes meteor {
-    0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; }
-    100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; }
-}
+
 /* 流星樣式 */
 .meteor {
-    position: absolute; width: 3px; height: 3px; background-color: #fff;
-    border-radius: 50%; animation: meteor linear infinite;
-    z-index: 0; /* 在背景之上 */
+    position: absolute;
+    width: 3px; /* 流星大小 */
+    height: 3px; /* 流星大小 */
+    background-color: #fff;
+    border-radius: 50%;
+    animation: meteor linear infinite;
+    z-index: 0;
+    opacity: 0; /* <<<< 添加：默認透明 */
+    /* 確保 transform-origin 或其他屬性不會影響初始位置 */
 }
 
+/* 流星動畫 */
+@keyframes meteor {
+    0% {
+        transform: translateX(var(--start-x)) translateY(var(--start-y));
+        opacity: 1; /* <<<< 修改：動畫開始時不透明 */
+    }
+    /* 可以加一個中間點保持可見 */
+    70% {
+         opacity: 1;
+    }
+    100% {
+        transform: translateX(var(--end-x)) translateY(var(--end-y));
+        opacity: 0; /* <<<< 修改：動畫結束時透明 */
+    }
+}
 /* 外部連結通用樣式 */
 [id$="-link"] { /* 選取所有 id 以 "-link" 結尾的元素 */
     position: fixed;
