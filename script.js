@@ -788,7 +788,6 @@ const streamerSongList = [
 // 格式必須和 streamerSongList 中的【完全一致】
 const lowPitchSongs = [
     "からくりピエロ/40mP",          // (主歌相對低)
-    "シリョクケンサ/40mP",          // (相對平緩)
     "恋愛裁判/40mP",              // (相對平緩)
     "フタリボシ/40mP",              // (抒情)
     "Step to you/40mP",            // (相對平緩)
