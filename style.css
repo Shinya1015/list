@@ -224,7 +224,7 @@ body::before {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2px 5px;             /* 極度減少垂直 padding */
+    padding: 4px 10px;    /* << 修改: 增加上下(4px)左右(10px) padding */
     border-bottom: 1px solid #f0f0f0; /* 更淡的分隔線 */
     text-align: left;
 }
@@ -234,17 +234,17 @@ body::before {
 
 /* 列表項中的歌名 span */
 #songs li span {
-    margin-right: 3px;    /* 減少歌名和按鈕間的 margin */
+    margin-right: 3px;    /* 保留小的歌名和按鈕間距 */
     flex-grow: 1;
     word-break: break-word;
-    font-size: 14px;      /* 稍微減小歌名字體 */
+    font-size: 14px;
     line-height: 1.4;     /* 增加一點行高防止文字太擠 */
 }
 
 /* 複製按鈕樣式 (使用 class 選擇器) */
 .copy-button {
-    padding: 1px 4px;     /* 極度縮小按鈕內邊距 */
-    font-size: 10px;      /* 極度縮小按鈕文字大小 */
+    padding: 4px 8px;     /* 保留極小的按鈕內邊距 */
+    font-size: 16px;      /* 保留極小的按鈕文字大小 */
     background-color: #adb5bd; /* 淺灰色 */
     color: white;
     border: none;
@@ -450,6 +450,7 @@ body::before {
     #search-input { font-size: 13px; padding: 5px 8px; }
     #close-button { padding: 5px 10px; font-size: 13px; }
 
+    #songs li { padding: 3px 8px; } /* 手機上列表項 padding 可以不同 */
     #songs li span { font-size: 13px; } /* 手機上歌名可以再小點 */
     .copy-button { font-size: 9px; padding: 1px 3px;} /* 手機上複製按鈕更小 */
 
@@ -466,6 +467,8 @@ body::before {
      .song-list-header h2 { font-size: 1em; margin-right: 5px; }
      .song-list-header p { font-size: 0.75em; margin-right: 5px; }
      #search-input { min-width: 100px; }
+
+    #songs li { padding: 2px 6px; } /* 更小螢幕列表項 padding */
 
      /* 進一步調整圖示位置 */
      #notion-link { right: 120px; font-size: 34px; }
