@@ -406,7 +406,7 @@ button:hover {
 /* 複製按鈕樣式 */
 .copy-button {
     padding: 1px 4px;     /* << 再次極度縮小按鈕內邊距 */
-    font-size: 10px;      /* << 再次縮小按鈕文字大小 */
+    font-size: 6px;      /* << 再次縮小按鈕文字大小 */
     background-color: #adb5bd; /* << 改成淺灰色 */
     color: white;
     border: none;
