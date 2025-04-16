@@ -11,7 +11,7 @@
             color: #ADD8E6; /* 設置雪花顏色為淡藍色 */
         }
     </style>
-    
+
 </head>
 <body>
     <div class="container" id="main-content">
@@ -22,66 +22,70 @@
         <button onclick="toggleSongList()">全リストを見る</button>
     </div>
 
-  <div id="song-list" style="display: none;">
-    <div class="song-list-header">
-        <h2>歌枠リスト</h2>
-             <p id="song-count">総曲数: 0</p>
-        <button onclick="closeSongList()">閉じる</button>
+    <!-- 修改後的歌單列表區塊 -->
+    <div id="song-list" style="display: none;">
+      <div class="song-list-header">
+          <h2>歌枠リスト</h2>
+          <p id="song-count">総曲数: 0</p>
+          <!-- 在這裡加入搜尋框，並使用日文 placeholder -->
+          <input type="text" id="search-input" oninput="filterSongs()" placeholder="曲名や歌手名で検索...">
+          <button onclick="closeSongList()">閉じる</button>
+      </div>
+      <div class="scrollable-list">
+          <ul id="songs">
+              <!-- 歌曲列表將由 JavaScript 動態生成 -->
+          </ul>
+      </div>
     </div>
-    <div class="scrollable-list">
-        <ul id="songs"></ul>
+    <!-- 歌單列表區塊結束 -->
+
+    <div id="youtube-link">
+        <a href="https://www.youtube.com/@Shairu.ch_0801" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" />
+        </a>
     </div>
-</div>
-    
-<div id="youtube-link">
-    <a href="https://www.youtube.com/@Shairu.ch_0801" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" />
-    </a>
-</div>
 
-
-<div id="notion-link">
-    <a href="https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436816f81d5000c35aaf83f" target="_blank">
-        🎧
-    </a>
-</div>
-
+    <div id="notion-link">
+        <a href="https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436816f81d5000c35aaf83f" target="_blank">
+            🎧
+        </a>
+    </div>
 
     <div id="twitter-link">
-    <a href="https://x.com/Shairu_Vt" target="_blank">
-        <img src="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20230724/1600x1600_wmkn_423662835613_0.jpg" alt="Twitter" />
-    </a>
-</div>
-
+        <a href="https://x.com/Shairu_Vt" target="_blank">
+            <img src="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20230724/1600x1600_wmkn_423662835613_0.jpg" alt="Twitter" />
+        </a>
+    </div>
 
     <!-- creatia的图片链接 -->
-<div id="custom-link">
-    <a href="https://frontier.creatia.cc/fanclubs/2946/posts" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1333332630742339585/GpANfRHz_400x400.jpg" alt="Custom Link">
-    </a>
-</div>
+    <div id="custom-link">
+        <a href="https://frontier.creatia.cc/fanclubs/2946/posts" target="_blank">
+            <img src="https://pbs.twimg.com/profile_images/1333332630742339585/GpANfRHz_400x400.jpg" alt="Custom Link">
+        </a>
+    </div>
 
     <!-- Amazon 图标链接 -->
-<div id="amazon-link">
-    <a href="https://www.amazon.co.jp/hz/wishlist/ls/1BERU67AKTPQ1?ref_=wl_share" id="amazon-link" target="_blank">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0-uzcTXKAG1AyXyn46h3ccHPyLaOFliBXA&s" alt="Amazon" />
-    </a>
-</div>
+    <div id="amazon-link">
+        <a href="https://www.amazon.co.jp/hz/wishlist/ls/1BERU67AKTPQ1?ref_=wl_share" target="_blank"> <!-- 修正: 移除重複的 id="amazon-link" -->
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0-uzcTXKAG1AyXyn46h3ccHPyLaOFliBXA&s" alt="Amazon" />
+        </a>
+    </div>
+
     <!-- TwitCasting 图标 -->
-<div id="twitcasting-link">
-    <a href="https://twitcasting.tv/shairu_vt" target="_blank">
-        <img src="https://pbs.twimg.com/profile_images/1602134491115376640/ffN3w2DS_400x400.jpg" alt="TwitCasting">
-    </a>
-</div>
+    <div id="twitcasting-link">
+        <a href="https://twitcasting.tv/shairu_vt" target="_blank">
+            <img src="https://pbs.twimg.com/profile_images/1602134491115376640/ffN3w2DS_400x400.jpg" alt="TwitCasting">
+        </a>
+    </div>
 
     <!-- Booth 图标 -->
-<div id="booth-link">
-    <a href="https://shairu-vt.booth.pm/" target="_blank">
-        <img src="https://tokukai.com/webuploadpic/T7aIQB_BOOTH%20(1).jpg" alt="Booth">
-    </a>
-</div>
+    <div id="booth-link">
+        <a href="https://shairu-vt.booth.pm/" target="_blank">
+            <img src="https://tokukai.com/webuploadpic/T7aIQB_BOOTH%20(1).jpg" alt="Booth">
+        </a>
+    </div>
 
-    
+
     <!-- 流星元素 -->
     <div class="meteor"></div>
     <div class="meteor"></div>
@@ -99,26 +103,10 @@
     <div class="meteor"></div>
     <div class="meteor"></div>
     <div class="meteor"></div>
-    
+
     <script src="script.js"></script>
 
+    <!-- 確認這裡沒有重複的 <div id="song-list"> -->
 
-<div id="song-list" style="display: none;">
-    <div class="song-list-header">
-        <h2>歌枠リスト</h2>
-        <p id="song-count">総曲数: 0</p>
-        <!-- 新增搜尋框 -->
-        <input type="text" id="search-input" oninput="filterSongs()" placeholder="搜尋歌名或歌手...">
-        <button onclick="closeSongList()">閉じる</button>
-    </div>
-    <div class="scrollable-list">
-        <ul id="songs">
-            <!-- 歌曲列表將由 JavaScript 動態生成 -->
-        </ul>
-    </div>
-  </div>
-    
 </body>
-
-      
 </html>
