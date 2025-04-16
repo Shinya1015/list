@@ -381,3 +381,57 @@ button:hover {
     transform: scale(1.2); /* 悬停时放大 */
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加阴影 */
 }
+
+#songs li {
+    display: flex;
+    justify-content: space-between; /* 內容兩端對齊：歌名靠左，按鈕靠右 */
+    align-items: center;          /* 垂直居中對齊 */
+    padding: 6px 5px;             /* 稍微減少垂直 padding */
+    border-bottom: 1px solid #eee;
+    text-align: left;
+}
+#songs li:last-child {
+    border-bottom: none;
+}
+
+/* 列表項中的歌名 span */
+#songs li span {
+    margin-right: 8px;    /* 在歌名和按鈕之間加一點間隔 */
+    flex-grow: 1;         /* 讓 span 填滿可用空間，把按鈕推到最右 */
+    /* 可選: 處理過長歌名，避免換行影響高度 (如果不需要換行顯示)
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    */
+     word-break: break-word; /* 保留之前的換行設定，如果需要的話 */
+}
+
+/* 複製按鈕樣式 */
+.copy-button {
+    padding: 3px 8px;     /* 縮小按鈕內邊距 (上下3px, 左右8px) */
+    font-size: 12px;      /* 縮小按鈕文字大小 */
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    flex-shrink: 0;       /* 防止按鈕在空間不足時被壓縮 */
+    /* 移除 margin-left: auto; 因為 justify-content: space-between 會處理對齊 */
+    transition: background-color 0.2s ease;
+}
+
+.copy-button:hover {
+    background-color: #45a049;
+}
+
+.copy-button:disabled {
+    background-color: #aaa;
+    cursor: default;
+}
+
+/* --- 其他相關樣式可能也需要微調 --- */
+/* 例如 .scrollable-list 或 #songs 的 padding 可能需要調整以確保視覺效果 */
+.scrollable-list {
+    /* ... 保留原有樣式 ... */
+    padding: 0 10px 10px 10px; /* 調整 padding，左右留出空間 */
+}
