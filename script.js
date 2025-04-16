@@ -1,4 +1,5 @@
-const songs = [
+// --- 數據源 1: 給主播抽選用的【全部】歌名列表 ---
+const streamerSongList = [
     "天ノ弱/164",
     "タイムマシン/1640mP",
     "からくりピエロ/40mP",
@@ -744,7 +745,7 @@ const songs = [
     "Wonderful Wonder World*/Yun*chi",
     "SUNDAY/ザ・ベイビースターズ",
     "光あれ/岡野昭仁",
-    "Glory Days/尾崎裕哉",
+    "Glory Days/尾崎裕哉", // 重複出現了
     "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ",
     "True My Heart/佐倉紗織",
     "アドバンス・アドベンチャー/GARDEN",
@@ -752,7 +753,7 @@ const songs = [
     "果てなき道/HIMEKA",
     "ありがとう/SunSet Swish",
     "明日、僕は君に会いに行く/ワカバ",
-    "サウダージ/ポルノグラフィティ",
+    //"サウダージ/ポルノグラフィティ", // 重複出現了
     "いーあるふぁんくらぶ/みきとP",
     "Reset/平原綾香",
     "サヨナラの空/Qwai",
@@ -762,7 +763,7 @@ const songs = [
     "Ring My Bell/blue drops",
     "party night/真田アサミ・沢城みゆき・氷上 恭子",
     "迷Q!?-迷宫-Make★You-/岸本早未",
-    "EQUALロマンス/CoCo",
+    //"EQUALロマンス/CoCo", // 重複出現了
     "Fast Forward/MONKEY MAJIK",
     "Sunshine/MONKEY MAJIK",
     "衝動/Pigstar",
@@ -779,154 +780,223 @@ const songs = [
     "マジで感謝!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",
     "ハヤテのごとく!/KOTOKO"
-    // 將您的歌單加入這裡
 ];
 
-// 修改: 只更新歌曲總數
+
+// --- 新增：主播確認的【低音】歌曲列表 ---
+// !!! 請務必檢查、修改、增刪這個列表，使其符合主播的實際情況 !!!
+// 格式必須和 streamerSongList 中的【完全一致】
+const lowPitchSongs = [
+    "深海少女/初音ミク",        // 示例 (普遍認為相對較低)
+    "Calc./ジミーサムP",           // 示例 (相對平緩)
+    "from Y to Y/ジミーサムP",      // 示例 (相對平緩)
+    "からくりピエロ/40mP",       // 示例 (主歌部分相對較低)
+    "変わらないもの/奥華子",     // 示例 (抒情慢歌，音區相對舒適)
+    "ガーネット/奥華子",         // 示例 (同上)
+    "たばこ/コレサワ",           // 示例 (音區相對較低)
+    "ドライフラワー/優里",         // 示例 (男聲原調可能在中低區)
+    "ひまわりの約束/秦基博",     // 示例 (男聲抒情，相對中低)
+    "Lemon/米津玄師",           // 示例 (主歌相對較低)
+    "アイネクライネ/米津玄師",     // 示例 (相對平緩) - **注意: 這首不在你的 streamerSongList 裡，要加的話兩邊都要加**
+    "secret base～君がくれたもの～/ZONE", // 示例 (整體較平緩)
+    "ハナミズキ/一青窈",         // 示例 (音區相對穩定)
+    "月光/鬼束ちひろ",           // 示例 (氛圍感，有低吟部分)
+    "First Love/宇多田ヒカル",    // 示例 (經典 R&B，音區跨度不大)
+    "プラネタリウム/大塚愛",     // 示例 (抒情慢歌)
+    "奏/スキマスイッチ",          // 示例 (抒情，通常演唱音區適中偏低) - **注意: "奏" 不在 streamerSongList，你列表裡是別的歌**
+    "小さな恋のうた/MONGOL800", // 示例 (雖然有力量但主旋律音高不算極高)
+    "テルーの唄/手嶌葵",         // 示例 (氣聲，音區低)
+    "いつも何度でも/木村弓",     // 示例 (平緩)
+    "いのちの名前/木村弓",       // 示例 (平緩)
+    "涙そうそう/夏川りみ",       // 示例 (經典慢歌)
+    "366日/HY",                // 示例 (雖然有高潮但起點相對低)
+    "アンビバレント/Uru ",      // 示例 (Uru 的歌通常在中低音區)
+    // --- 請繼續添加或刪除 ---
+];
+// --- 低音歌曲列表結束 ---
+
+// --- 檢查重複並提示 (可選，開發時有用) ---
+const duplicates = streamerSongList.filter((item, index) => streamerSongList.indexOf(item) !== index);
+if (duplicates.length > 0) {
+    console.warn("警告：全部歌單 (streamerSongList) 中發現重複項目:", duplicates);
+}
+// ---
+
+// 更新歌曲總數 (使用 streamerSongList)
 function loadSongsCount() {
     const songCount = document.getElementById('song-count');
-    if (songCount) { // 確保元素存在
-        songCount.textContent = `総曲数: ${songs.length}`;
+    if (songCount) {
+        // 顯示的是【唯一】歌名的數量，如果 streamerSongList 本身保證唯一，就用它的長度
+        // 如果 streamerSongList 可能有重複（雖然不建議），可以用 Set 去重後計算
+        // 假設 streamerSongList 設計上是唯一的
+        songCount.textContent = `総曲数: ${streamerSongList.length}`;
+    }
+}
+loadSongsCount(); // 頁面加載時計算一次
+
+// 根據下拉選單抽選歌曲 (給主播)
+function selectRandomSong() {
+    const selector = document.getElementById('song-type-selector');
+    const selectedType = selector ? selector.value : "すべて";
+    const resultParagraph = document.getElementById("song-result");
+
+    let songPool = []; // 抽選池
+
+    if (selectedType === "すべて") {
+        songPool = streamerSongList;
+    } else if (selectedType === "低音") {
+        songPool = lowPitchSongs;
+    }
+    // --- 未來擴展：在這裡添加 else if 處理其他類型 ---
+    // else if (selectedType === "高音") {
+    //     songPool = highPitchSongs; // 假設你定義了 highPitchSongs
+    // }
+    else {
+        // 如果選擇了未知的類型（理論上不應發生），默認使用全部列表
+        console.warn(`未知的抽選類型: ${selectedType}，將從全部歌曲中抽選。`);
+        songPool = streamerSongList;
+    }
+
+    // 檢查選定的列表是否有歌曲
+    if (songPool && songPool.length > 0) {
+        const randomIndex = Math.floor(Math.random() * songPool.length);
+        const selectedSongName = songPool[randomIndex];
+        resultParagraph.textContent = selectedSongName; // 顯示選中的歌名
+    } else {
+        // 如果選中的類型列表是空的
+        if (selectedType === "すべて") {
+            resultParagraph.textContent = "曲リストが空です！";
+        } else {
+            resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！リストを確認してください。`;
+             // 提示主播去添加
+             // alert(`「${selectedType}」の曲リストが空か、定義されていません。script.js ファイルを確認・編集してください。`);
+        }
+    }
+
+    // 確保抽選結果旁沒有按鈕 (因為此功能純為顯示歌名)
+    const playRandomButton = document.getElementById('play-random-button'); // 檢查舊ID是否存在，以防萬一
+    if (playRandomButton) {
+        playRandomButton.style.display = 'none';
+        playRandomButton.disabled = true;
     }
 }
 
-// 初始加載總數
-loadSongsCount();
 
-// 修改: 顯示或隱藏歌曲清單的函數, 並加入搜尋和複製功能
+// 顯示【觀眾看】的唯一歌名列表 (只含複製按鈕)
 function toggleSongList() {
-    // 隐藏主内容区域
     document.getElementById("main-content").style.display = "none";
-
-    // 显示歌曲清单
     const songListDiv = document.getElementById("song-list");
-    songListDiv.style.display = "flex"; // 建議使用 flex 以便 CSS 更好地控制佈局
+    songListDiv.style.display = "flex";
 
-    // 填充歌曲清单 (帶複製按鈕)
     const songListUl = document.getElementById("songs");
-    songListUl.innerHTML = ""; // 清空列表
+    songListUl.innerHTML = "";
 
-    songs.forEach(song => {
+    // 使用 streamerSongList 生成列表，確保包含所有歌曲且順序一致
+    streamerSongList.forEach(displayName => {
         const li = document.createElement("li");
-
-        // 創建 span 顯示歌名
         const songSpan = document.createElement("span");
-        songSpan.textContent = song;
+        songSpan.textContent = displayName;
         li.appendChild(songSpan);
 
-        // 創建複製按鈕 (使用日文)
-        const copyButton = document.createElement("button");
-        copyButton.textContent = "コピー"; // 日文 "コピー" (Copy)
-        copyButton.classList.add("copy-button");
-        copyButton.dataset.song = song;
-        li.appendChild(copyButton);
+        // 只添加複製按鈕
+        const buttonContainer = document.createElement("div");
+        buttonContainer.classList.add("button-group"); // 沿用 class 方便 CSS 對齊
 
+        const copyButton = document.createElement("button");
+        copyButton.textContent = "コピー"; // 日文 コピー
+        copyButton.classList.add("copy-button");
+        copyButton.dataset.song = displayName; // 存儲歌名以供複製
+        buttonContainer.appendChild(copyButton);
+
+        li.appendChild(buttonContainer);
         songListUl.appendChild(li);
     });
 
-    // 為複製按鈕添加事件監聽器 (使用事件委派)
-    songListUl.removeEventListener('click', handleCopyClick); // 移除舊監聽器避免重複
-    songListUl.addEventListener('click', handleCopyClick);
+    // 事件委派處理 (只處理複製)
+    songListUl.removeEventListener('click', handleListButtonClick);
+    songListUl.addEventListener('click', handleListButtonClick);
 
-    // 清空搜尋框內容
+    // 清空搜尋框並顯示所有歌曲
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
         searchInput.value = "";
+        filterSongs();
     }
 }
 
-// 新增: 處理複製按鈕點擊的函數 (事件委派)
-function handleCopyClick(event) {
-    // 檢查被點擊的元素是否是複製按鈕
-    if (event.target.classList.contains('copy-button')) {
-        const button = event.target;
-        const songToCopy = button.dataset.song; // 從 data-* 屬性獲取歌名
-        copySongName(songToCopy, button); // 執行複製操作
+// 列表按鈕處理 (只處理複製)
+function handleListButtonClick(event) {
+    const target = event.target;
+    if (target.classList.contains('copy-button')) {
+        const songToCopy = target.dataset.song;
+        copySongName(songToCopy, target);
     }
 }
 
-// 新增: 複製歌曲名稱到剪貼簿的函數
+// 複製函數 (使用日文提示)
 async function copySongName(songText, buttonElement) {
-    try {
+   try {
         await navigator.clipboard.writeText(songText);
-        // 提供視覺反饋 (使用日文)
         const originalText = buttonElement.textContent;
-        buttonElement.textContent = 'コピー済み!'; // <--- 修改為日文 "コピー済み!" (Copied!)
-        buttonElement.disabled = true; // 暫時禁用
+        buttonElement.textContent = 'コピー済み!'; // 日文 コピー済み!
+        buttonElement.disabled = true;
         setTimeout(() => {
-            buttonElement.textContent = originalText;
-            buttonElement.disabled = false; // 恢復
-        }, 1500); // 1.5秒後恢復
+            // 防止按鈕在列表重新生成前被恢復
+            if (buttonElement) {
+                buttonElement.textContent = originalText;
+                buttonElement.disabled = false;
+            }
+        }, 1500);
     } catch (err) {
-        console.error('テキストのコピーに失敗しました: ', err); // 可選: 將錯誤訊息也改為日文
-        // alert('コピーに失敗しました。ブラウザが対応していないか、権限が付与されていない可能性があります。'); // 可選的日文提示
+        console.error('テキストのコピーに失敗しました: ', err); // 日文錯誤提示
+        // alert('コピーに失敗しました。'); // 可選的 alert
     }
 }
 
-// 新增: 過濾歌曲列表的函數
+// 過濾函數 (不變)
 function filterSongs() {
     const filter = document.getElementById('search-input').value.toLowerCase();
     const songsUl = document.getElementById('songs');
     const listItems = songsUl.getElementsByTagName('li');
 
-    // 遍歷所有列表項，並隱藏不匹配的項
     for (let i = 0; i < listItems.length; i++) {
         const li = listItems[i];
-        const songSpan = li.querySelector('span'); // 獲取包含歌名的 span
+        const songSpan = li.querySelector('span');
         if (songSpan) {
             const txtValue = songSpan.textContent || songSpan.innerText;
             if (txtValue.toLowerCase().includes(filter)) {
-                li.style.display = ""; // 顯示
+                li.style.display = "flex"; // 使用 flex 保持對齊
             } else {
-                li.style.display = "none"; // 隱藏
+                li.style.display = "none";
             }
         }
     }
 }
 
-// 保留: 關閉歌曲列表的函數
+// 關閉列表函數 (不變)
 function closeSongList() {
-    // 隐藏歌曲清单
     document.getElementById("song-list").style.display = "none";
-    // 显示主内容区域
     document.getElementById("main-content").style.display = "block";
 }
 
-// 保留: 隨機選擇歌曲的函數
-function selectRandomSong() {
-    const randomIndex = Math.floor(Math.random() * songs.length);
-    const selectedSong = songs[randomIndex];
-    document.getElementById("song-result").textContent = `${selectedSong}`;
-}
-
-// 保留: 動態生成流星元素並添加到頁面
-const numberOfMeteors = 60; // 生成 60 顆流星
+// --- 流星生成代碼 (保持不變) ---
+const numberOfMeteors = 60;
 for (let i = 0; i < numberOfMeteors; i++) {
     const meteor = document.createElement('div');
     meteor.classList.add('meteor');
     document.body.appendChild(meteor);
-
-    // 隨機選擇起始 X 和 Y 座標，避開畫面中心
-    let startX = Math.random() * 160 - 60; // 設定範圍為 -60 到 100
-    let startY = Math.random() * -30 - 40; // 設定範圍為 -40vh 到 -70vh
-
-    // 避免流星出現在畫面中心
+    let startX = Math.random() * 160 - 60;
+    let startY = Math.random() * -30 - 40;
     if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
-        startX = Math.random() * 160 - 60;  // 再隨機一次生成 X
-        startY = Math.random() * -30 - 40; // 再隨機一次生成 Y
+        startX = Math.random() * 160 - 60;
+        startY = Math.random() * -30 - 40;
     }
-
-    // 設定流星結束的 X 和 Y 座標
-    const endX = startX + (Math.random() * 40 - 20); // 結束位置 X 偏移範圍（-20 到 +20）
-    const endY = 110; // 流星結束位置超出視窗底部（110vh）
-
-    // 設定流星的起點和終點位置
+    const endX = startX + (Math.random() * 40 - 20);
+    const endY = 110;
     meteor.style.setProperty('--start-x', `${startX}vw`);
     meteor.style.setProperty('--start-y', `${startY}vh`);
     meteor.style.setProperty('--end-x', `${endX}vw`);
     meteor.style.setProperty('--end-y', `${endY}vh`);
-
-    // 隨機設定動畫時間和延遲
-    meteor.style.animationDuration = `${Math.random() * 3 + 3}s`; // 隨機動畫時長（3-6秒）
-    meteor.style.animationDelay = `${Math.random() * 3}s`; // 隨機延遲時間
+    meteor.style.animationDuration = `${Math.random() * 3 + 3}s`;
+    meteor.style.animationDelay = `${Math.random() * 3}s`;
 }
