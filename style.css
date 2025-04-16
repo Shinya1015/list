@@ -21,7 +21,7 @@ body {
 /* 創造更密集的星星效果 */
 /* 創造更密集的星星效果 */
 body::before {
-     display: none;
+   /* display: none; */ /* 移除這一行 */
     content: "";
     position: absolute;
     top: 0;
