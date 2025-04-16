@@ -115,7 +115,24 @@ button:active { transform: scale(0.98); }
 
 /* 圖示具體定位 (桌面版) */
 #youtube-link { bottom: 10px; right: 10px; }
-#notion-link { bottom: 10px; right: 210px; }
+#notion-link {
+    position: fixed;
+    bottom: 10px;
+    right: 210px; /* 桌面版位置 */
+    z-index: 1000;
+}
+#notion-link a {
+    font-size: 38px;
+    color: #FFFFFF; /* 文字顏色設為白色 */
+    text-decoration: none; /* <<<< 添加這一行，移除底線 */
+    transition: transform 0.2s ease;
+    display: inline-block; /* 或者 block */
+}
+
+#notion-link a:hover {
+    transform: scale(1.15);
+    /* text-decoration: none; */ /* 確保懸停時也沒有底線 */
+}
 #twitter-link { bottom: 8px; right: 60px; }
 #twitter-link img { background-color: black; }
 #custom-link { bottom: 8px; right: 110px; }
