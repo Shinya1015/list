@@ -80,7 +80,7 @@ body::before {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 600px;
-    z-index: 1;
+    /* z-index: 1; */ /* 保持移除 */
 }
 
 /* 通用按鈕樣式 (只影響主頁面的按鈕) */
@@ -139,7 +139,7 @@ body::before {
     max-height: 80vh; /* 預設最大高度 (桌面版) */
     overflow: hidden;
     position: relative;
-    z-index: 2;
+    /* z-index: 2; */ /* 保持移除 */
     padding: 0;
     box-sizing: border-box;
 }
@@ -240,10 +240,10 @@ body::before {
 
 /* 複製按鈕樣式 (預設 - 桌面和手機統一大小) */
 .copy-button {
-    padding: 4px 8px;     /* << 修改: 預設使用較大的 padding */
-    font-size: 12px;      /* << 修改: 預設使用較大的字體 */
-    line-height: 1.4;     /* << 修改: 調整行高 */
-    border-radius: 3px;   /* << 修改: 調整圓角 */
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.4;
+    border-radius: 3px;
     background-color: #adb5bd; /* 淺灰色 */
     color: white;
     border: none;
@@ -251,29 +251,28 @@ body::before {
     flex-shrink: 0;
     transition: background-color 0.2s ease;
 }
-
 .copy-button:hover {
-    background-color: #6c757d; /* 懸停時變深灰色 */
+    background-color: #6c757d;
 }
-
 .copy-button:disabled {
-    background-color: #ddd; /* 禁用時用更淺的灰色 */
-    color: #999;           /* 禁用時文字顏色也變淺 */
+    background-color: #ddd;
+    color: #999;
     cursor: default;
 }
 
 
 /* --- 流星和外部連結樣式 --- */
-/* ... (流星和圖標樣式保持不變) ... */
 
 /* 流星動畫 */
 @keyframes meteor {
     0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; }
     100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; }
 }
+/* 流星樣式 */
 .meteor {
     position: absolute; width: 3px; height: 3px; background-color: #fff;
-    border-radius: 50%; animation: meteor linear infinite; z-index: 0;
+    border-radius: 50%; animation: meteor linear infinite;
+    z-index: 0; /* 確保在背景之上 */
 }
 
 /* YouTube 图标 */
@@ -310,7 +309,7 @@ body::before {
 @media (max-width: 768px) { /* 平板和大型手機 */
     #song-list {
         width: 90%;
-        max-height: 70vh;   /* << 修改: 進一步減小最大高度 */
+        max-height: 68vh;   /* << 修改: 再減小最大高度 */
     }
     .song-list-header { padding: 8px; }
     .song-list-header h2 { font-size: 1.1em; }
@@ -325,9 +324,6 @@ body::before {
     #songs li { padding: 3px 8px; }
     #songs li span { font-size: 13px; }
 
-    /* << 刪除: 不再需要在手機上單獨定義 copy-button 樣式 */
-    /* .copy-button { ... } */
-
     /* 圖示位置調整 */
      #notion-link { right: 165px; }
      #twitcasting-link { right: 115px; }
@@ -339,7 +335,7 @@ body::before {
 @media (max-width: 480px) { /* 小型手機 */
      #song-list {
         width: 95%;
-        max-height: 70vh;   /* << 修改: 同樣進一步減小最大高度 */
+        max-height: 68vh;   /* << 修改: 同樣再減小最大高度 */
      }
      .song-list-header h2 { font-size: 1em; margin-right: 5px; }
      .song-list-header p { font-size: 0.75em; margin-right: 5px; }
@@ -350,9 +346,6 @@ body::before {
         box-sizing: border-box;
     }
      #songs li { padding: 2px 6px; }
-
-    /* << 刪除: 不再需要在手機上單獨定義 copy-button 樣式 */
-    /* .copy-button { ... } */
 
      /* 圖示位置調整 */
      #notion-link { right: 120px; font-size: 34px; }
