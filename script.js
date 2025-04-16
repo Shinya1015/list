@@ -811,14 +811,14 @@ function toggleSongList() {
 
         // 創建 span 顯示歌名
         const songSpan = document.createElement("span");
-        songSpan.textContent = song; // 顯示完整歌名（包含歌手）
+        songSpan.textContent = song;
         li.appendChild(songSpan);
 
-        // 創建複製按鈕
+        // 創建複製按鈕 (使用日文)
         const copyButton = document.createElement("button");
-        copyButton.textContent = "複製";
-        copyButton.classList.add("copy-button"); // 添加 class 方便 CSS 選取和事件處理
-        copyButton.dataset.song = song; // 將歌曲名稱存儲在 data-* 屬性中
+        copyButton.textContent = "コピー"; // 日文 "コピー" (Copy)
+        copyButton.classList.add("copy-button");
+        copyButton.dataset.song = song;
         li.appendChild(copyButton);
 
         songListUl.appendChild(li);
@@ -849,18 +849,17 @@ function handleCopyClick(event) {
 async function copySongName(songText, buttonElement) {
     try {
         await navigator.clipboard.writeText(songText);
-        // 提供視覺反饋
+        // 提供視覺反饋 (使用日文)
         const originalText = buttonElement.textContent;
-        buttonElement.textContent = '已複製!';
+        buttonElement.textContent = 'コピー済み!'; // <--- 修改為日文 "コピー済み!" (Copied!)
         buttonElement.disabled = true; // 暫時禁用
         setTimeout(() => {
             buttonElement.textContent = originalText;
             buttonElement.disabled = false; // 恢復
         }, 1500); // 1.5秒後恢復
     } catch (err) {
-        console.error('無法複製文字: ', err);
-        // 可以選擇性地提示用戶
-        // alert('複製失敗，您的瀏覽器可能不支援此功能或未授予權限。');
+        console.error('テキストのコピーに失敗しました: ', err); // 可選: 將錯誤訊息也改為日文
+        // alert('コピーに失敗しました。ブラウザが対応していないか、権限が付与されていない可能性があります。'); // 可選的日文提示
     }
 }
 
