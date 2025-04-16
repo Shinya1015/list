@@ -78,7 +78,7 @@ body::before {
 .container {
     position: relative;
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.92); /* 背景稍微不透明一點 */
+    background-color: rgb(255, 255, 255, 0.92); /* 背景稍微不透明一點 */
     padding: 25px 30px; /* 稍微增加 padding */
     border-radius: 12px; /* 圓角更大 */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* 陰影更明顯 */
@@ -175,7 +175,7 @@ button:active {
     width: 100%;
     max-width: 700px;
     margin: 20px auto;
-    background-color: rgba(255, 255, 255, 0.98); /* 背景更不透明 */
+    background-color: rgb(255, 255, 255, 0.98); /* 背景更不透明 */
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     height: auto;
