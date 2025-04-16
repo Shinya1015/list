@@ -101,6 +101,23 @@
     <div class="meteor"></div>
     
     <script src="script.js"></script>
+
+
+<div id="song-list" style="display: none;">
+    <div class="song-list-header">
+        <h2>歌枠リスト</h2>
+        <p id="song-count">総曲数: 0</p>
+        <!-- 新增搜尋框 -->
+        <input type="text" id="search-input" oninput="filterSongs()" placeholder="搜尋歌名或歌手...">
+        <button onclick="closeSongList()">閉じる</button>
+    </div>
+    <div class="scrollable-list">
+        <ul id="songs">
+            <!-- 歌曲列表將由 JavaScript 動態生成 -->
+        </ul>
+    </div>
+  </div>
+    
 </body>
 
       
