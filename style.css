@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column; /* 內容垂直排列 */
-    background: radial-gradient(circle at 50% 50%, #1a1a2e, #16213e, #0f3460); 
+    background: radial-gradient(circle at 50% 50%, #1a1a2e, #16213e, #0f3460);
     font-family: Arial, sans-serif;
     height: 100vh;
     position: relative;
@@ -27,7 +27,7 @@ body::before {
     width: 100%;
     height: 100%;
     background: transparent;
-    background-image: 
+    background-image:
         /* 原來的星星位置 */
         radial-gradient(2px 2px at 10% 20%, #fff, transparent),
         radial-gradient(2px 2px at 15% 30%, #fff, transparent),
@@ -77,14 +77,16 @@ body::before {
     text-align: center;
     background-color: rgba(255, 255, 255, 0.9); /* 背景顏色更亮，使用透明度來調整 */
     padding: 20px;
-    border-radius: 10px;    
+    border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     width: 100%;
     max-width: 600px;
+    /* 確保主容器在流星之下，但在背景之上 */
+    z-index: 1;
 }
 
-/* 按鈕樣式 */
-button {
+/* 通用按鈕樣式 (只影響主頁面的按鈕) */
+.container button { /* 使用更精確的選擇器 */
     padding: 10px 20px;
     font-size: 18px;
     cursor: pointer;
@@ -95,25 +97,26 @@ button {
     margin: 10px;
 }
 
-button:hover {
+.container button:hover { /* 使用更精確的選擇器 */
     background-color: #CC99CC;
 }
 
+/* 特定按鈕：抽選 */
 #select-button {
-    padding: 15px 30px; /* 增加按钮的内边距 */
-    font-size: 22px; /* 增大文字大小 */
-    width: 200px; /* 设置按钮宽度 */
-    background-color: #00BCD4; /* 按钮背景色 */
-    color: #000; /* 按钮文字颜色 */
+    padding: 15px 30px;
+    font-size: 22px;
+    width: 200px;
+    background-color: #00BCD4;
+    color: #000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-     z-index: 9999; /* 确保按钮在最上层 */
-     position: relative; /* 使 z-index 生效 */
+    z-index: 9999; /* 確保按鈕在最上層 */
+    position: relative; /* 使 z-index 生效 */
 }
 
 #select-button:hover {
-    background-color: #FF5722; /* 悬停时的背景色 */
+    background-color: #FF5722;
 }
 
 /* 顯示選中的歌曲 */
@@ -124,92 +127,146 @@ button:hover {
     font-family: "Source Han Sans", "Noto Sans CJK", "微软雅黑", sans-serif;
 }
 
-/* 歌枠リスト標題和閉じる按鈕樣式 */
-.song-list-header {
-    display: flex;
-    justify-content: space-between; /* 在兩邊分配空間 */
-    align-items: center;
-    width: 100%;
-    padding: 0; /* 去除額外的 padding，減少空白 */
-    margin: 0; /* 確保沒有額外的 margin */
-    background-color: transparent; /* 背景設為透明 */
-    position: sticky;
-    top: 0; /* 確保它緊貼上方 */
-    z-index: 2;
-    box-shadow: none; /* 去掉可能的陰影 */
-}
+/* --- 歌曲列表相關樣式 --- */
 
-/* 滾動的清單區域 */
-.scrollable-list {
-    max-height: 400px; /* 設定內容區域最大高度 */
-    overflow-y: auto; /* 啟用垂直滾動 */
-    margin-top: 0; /* 確保沒有額外的 margin */
-}
-
-/* 歌曲清單顯示區域 */
+/* 歌曲清單容器 */
 #song-list {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: left;
+    display: none; /* 初始隱藏 */
+    flex-direction: column;
     width: 100%;
-    max-width: 600px;
+    max-width: 700px; /* 可以比主容器寬一點 */
     margin: 20px auto;
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.9); /* 背景更加透明，避免與星星重疊 */
+    background-color: rgba(255, 255, 255, 0.95);
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    flex-direction: column;
     height: auto;
-    max-height: 500px;
-    overflow: hidden; /* 禁用滾動 */
+    max-height: 80vh; /* 限制最大高度 */
+    overflow: hidden; /* 容器本身不滾動 */
     position: relative;
-    z-index: 2; /* 保證歌曲清單在其他元素之上 */
+    z-index: 2; /* 確保列表在主容器之上 */
+    padding: 0; /* 移除容器的 padding，讓 header 和 list 填滿 */
 }
 
-/* 歌單項目樣式 */
-#songs {
-    list-style-type: none;
-    padding-left: 0;
+/* 列表頭部區域 */
+.song-list-header {
+    display: flex;
+    flex-wrap: wrap; /* 允許換行 */
+    justify-content: space-between;
+    align-items: center;
     width: 100%;
-    text-align: center;
-    margin-bottom: 20px;
+    padding: 8px 10px; /* 增加一點 padding */
+    background-color: #f8f8f8;
+    position: sticky;
+    top: 0;
+    z-index: 3; /* 比列表內容高 */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-sizing: border-box;
+}
+.song-list-header h2 {
+    margin: 0 10px 5px 0; /* 增加右邊和底部間距 */
+    font-size: 1.2em;
+    white-space: nowrap;
+}
+.song-list-header p { /* song-count */
+    margin: 0 10px 5px 0; /* 增加右邊和底部間距 */
+    font-size: 0.9em;
+    white-space: nowrap;
+}
+/* 搜尋框樣式 */
+#search-input {
+    padding: 6px 10px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin: 0 10px 5px 0; /* 增加右邊和底部間距 */
+    flex-grow: 1; /* 讓搜尋框填滿剩餘空間 */
+    min-width: 150px; /* 設定最小寬度 */
+    box-sizing: border-box;
 }
 
-/* 關閉按鈕樣式 */
-#song-list button {
-    padding: 10px 20px;
-    font-size: 18px;
+/* 關閉按鈕樣式 (使用 ID 選擇器) */
+#close-button {
+    padding: 6px 12px;
+    font-size: 14px;
     cursor: pointer;
-    background-color: #f44336;
+    background-color: #f44336; /* 紅色 */
     color: white;
     border: none;
     border-radius: 5px;
-    margin-top: 20px;
+    margin: 0 0 5px 0; /* 增加底部間距 */
+    flex-shrink: 0;
 }
 
-#song-list button:hover {
+#close-button:hover {
     background-color: #e53935;
 }
 
-/* 響應式設計：針對小螢幕（手機） */
-@media (max-width: 600px) {
-    #song-list {
-        width: 90%;
-        padding: 10px;
-    }
-
-    #songs {
-        width: 100%;
-    }
+/* 滾動列表區域 */
+.scrollable-list {
+    flex-grow: 1; /* 佔據剩餘空間 */
+    overflow-y: auto; /* 啟用垂直滾動 */
+    padding: 0 5px 5px 5px; /* 列表內邊距 */
+    width: 100%;
+    box-sizing: border-box;
 }
 
-/* 響應式設計：針對大螢幕（桌面） */
-@media (min-width: 601px) {
-    #song-list {
-        width: 80%;
-    }
+/* 歌曲列表 ul */
+#songs {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    text-align: left; /* 確保列表項靠左 */
 }
+
+/* 列表項 li */
+#songs li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 5px;             /* 極度減少垂直 padding */
+    border-bottom: 1px solid #f0f0f0; /* 更淡的分隔線 */
+    text-align: left;
+}
+#songs li:last-child {
+    border-bottom: none;
+}
+
+/* 列表項中的歌名 span */
+#songs li span {
+    margin-right: 3px;    /* 減少歌名和按鈕間的 margin */
+    flex-grow: 1;
+    word-break: break-word;
+    font-size: 14px;      /* 稍微減小歌名字體 */
+    line-height: 1.4;     /* 增加一點行高防止文字太擠 */
+}
+
+/* 複製按鈕樣式 (使用 class 選擇器) */
+.copy-button {
+    padding: 1px 4px;     /* 極度縮小按鈕內邊距 */
+    font-size: 10px;      /* 極度縮小按鈕文字大小 */
+    background-color: #adb5bd; /* 淺灰色 */
+    color: white;
+    border: none;
+    border-radius: 2px;   /* 更小的圓角 */
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: background-color 0.2s ease;
+    line-height: 1.2;     /* 確保小字體垂直居中 */
+}
+
+.copy-button:hover {
+    background-color: #6c757d; /* 懸停時變深灰色 */
+}
+
+.copy-button:disabled {
+    background-color: #ddd; /* 禁用時用更淺的灰色 */
+    color: #999;           /* 禁用時文字顏色也變淺 */
+    cursor: default;
+}
+
+
+/* --- 流星和外部連結樣式 --- */
 
 /* 流星動畫 */
 @keyframes meteor {
@@ -231,207 +288,191 @@ button:hover {
     background-color: #fff;
     border-radius: 50%;
     animation: meteor linear infinite;
+    /* 確保流星在背景之上，但在內容之下 */
+    z-index: 0;
 }
-
-/* 移除靜止的白點 */
-.meteor.still {
-    opacity: 0;
-    animation: none;
-}
-
 
 /* YouTube 图标样式 */
 #youtube-link {
     position: fixed;
-    bottom: 10px; /* 距离底部10px */
-    right: 10px;  /* 距离右侧10px */
-    z-index: 1000; /* 确保图标在最上层 */
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000; /* 確保圖標在最上層 */
 }
 
 #youtube-link img {
-    width: 40px;  /* 图标宽度（较小） */
-    height: 40px; /* 图标高度 */
-    border-radius: 60%; /* 圆形图标 */
+    width: 40px;
+    height: 40px;
+    border-radius: 60%;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #youtube-link img:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* Notion 链接样式 */
 #notion-link {
     position: fixed;
     bottom: 10px;
-    right: 210px;  /* 越大越靠左 */
+    right: 210px;
     z-index: 1000;
 }
 
 #notion-link a {
-    font-size: 38px;  /* 调整🎧图标的大小 */
+    font-size: 38px;
     color: #FFFFFF;
     text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: inline-block; /* 讓 transform 生效 */
 }
 
 #notion-link a:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);  文字陰影效果不明顯，可省略 */
 }
 
 /* Twitter 图标样式 */
 #twitter-link {
     position: fixed;
     bottom: 8px;
-    right: 60px;  /* 使其位于音乐符号的左边，调整此值确保不重叠 */
+    right: 60px;
     z-index: 1000;
 }
 
 #twitter-link img {
-    width: 40px;  /* 调整图标大小 */
+    width: 40px;
     height: 40px;
-    border-radius: 60%; /* 圆形图标 */
-    background-color: black; /* 设置背景颜色为黑色 */
+    border-radius: 60%;
+    background-color: black;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #twitter-link img:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* 新增creatia样式 */
+/* Creatia 链接样式 */
 #custom-link {
     position: fixed;
     bottom: 8px;
-    right: 110px;  
+    right: 110px;
     z-index: 1000;
 }
 
 #custom-link img {
-    width: 40px;  /* 调整图标大小 */
+    width: 40px;
     height: 40px;
-    border-radius: 60%; /* 圆形图标 */
+    border-radius: 60%;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #custom-link img:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-/* Amazon 图片样式 */
+/* Amazon 图标样式 */
 #amazon-link {
     position: fixed;
-    bottom: 10px; /* 距离底部10px */
-    left: 10px;  /* 距离左侧10px */
-    z-index: 1000; /* 确保图标在最上层 */
+    bottom: 10px;
+    left: 10px;
+    z-index: 1000;
 }
 
 #amazon-link img {
-    width: 40px;  /* 图标宽度 */
-    height: 40px; /* 图标高度 */
-    border-radius: 60%; /* 圆形图标 */
+    width: 40px;
+    height: 40px;
+    border-radius: 60%;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #amazon-link img:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 /* TwitCasting 图标样式 */
 #twitcasting-link {
     position: fixed;
     bottom: 8px;
-    right: 160px;  /* 让它出现在 Notion（音乐符号）的左边 */
+    right: 160px;
     z-index: 1000;
 }
 
 #twitcasting-link img {
-    width: 40px;  /* 图标大小 */
+    width: 40px;
     height: 40px;
-    border-radius: 60%; /* 圆形图标 */
+    border-radius: 60%;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #twitcasting-link img:hover {
-    transform: scale(1.2); /* 悬停时稍微放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加轻微阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 
 /* Booth 图标样式 */
 #booth-link {
     position: fixed;
-    bottom: 10px; /* 保持与 Amazon 一致 */
-    left: 60px;  /* 让 Booth 出现在 Amazon 右边 */
-    z-index: 1000; /* 确保在最上层 */
+    bottom: 10px;
+    left: 60px;
+    z-index: 1000;
 }
 
 #booth-link img {
-    width: 40px;  /* 图标大小 */
+    width: 40px;
     height: 40px;
-    border-radius: 60%; /* 圆形图标 */
+    border-radius: 60%;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 #booth-link img:hover {
-    transform: scale(1.2); /* 悬停时放大 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); /* 添加阴影 */
+    transform: scale(1.2);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
 }
 
-#songs li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 2px 5px;             /* << 極度減少垂直 padding (上下各 2px) */
-    border-bottom: 1px solid #f0f0f0; /* 可以讓分隔線顏色更淡 */
-    text-align: left;
-    /* line-height: 1.3; */ /* 如果需要，可以嘗試更小的行高 */
-}
-#songs li:last-child {
-    border-bottom: none;
+
+/* --- 響應式設計 --- */
+@media (max-width: 768px) { /* 調整斷點 */
+    #song-list {
+        width: 90%;
+        max-height: 85vh; /* 手機上可以更高 */
+    }
+    .song-list-header {
+        padding: 8px; /* 手機上 padding 可以小點 */
+    }
+    .song-list-header h2 { font-size: 1.1em; }
+    .song-list-header p { font-size: 0.8em; }
+    #search-input { font-size: 13px; padding: 5px 8px; }
+    #close-button { padding: 5px 10px; font-size: 13px; }
+
+    #songs li span { font-size: 13px; } /* 手機上歌名可以再小點 */
+    .copy-button { font-size: 9px; padding: 1px 3px;} /* 手機上複製按鈕更小 */
+
+    /* 圖示位置可能需要調整，或者減少顯示數量 */
+     #notion-link { right: 165px; }
+     #twitcasting-link { right: 115px; }
+     #custom-link { right: 65px; }
+     #twitter-link { right: 15px; }
+     #youtube-link { display: none; } /* 空間不足時隱藏部分圖示 */
 }
 
-/* 列表項中的歌名 span */
-#songs li span {
-    margin-right: 3px;    /* << 再次減少歌名和按鈕間的 margin */
-    flex-grow: 1;
-    word-break: break-word;
-    font-size: 14px;      /* 也可以稍微減小歌名字體 */
-}
+@media (max-width: 480px) { /* 更小的螢幕 */
+     #song-list { width: 95%; }
+     .song-list-header h2 { font-size: 1em; margin-right: 5px; }
+     .song-list-header p { font-size: 0.75em; margin-right: 5px; }
+     #search-input { min-width: 100px; }
 
-/* 複製按鈕樣式 */
-.copy-button {
-    padding: 1px 4px;     /* << 再次極度縮小按鈕內邊距 */
-    font-size: 6px;      /* << 再次縮小按鈕文字大小 */
-    background-color: #adb5bd; /* << 改成淺灰色 */
-    color: white;
-    border: none;
-    border-radius: 2px;   /* 更小的圓角 */
-    cursor: pointer;
-    flex-shrink: 0;
-    transition: background-color 0.2s ease;
-    line-height: 1.2;     /* 讓按鈕文字垂直居中更好看 */
-}
+     /* 進一步調整圖示位置 */
+     #notion-link { right: 120px; font-size: 34px; }
+     #twitcasting-link { right: 75px; }
+     #custom-link { right: 30px; }
+     #twitter-link { display: none; } /* 再次隱藏 */
+     #booth-link { left: 55px; }
+     #amazon-link { left: 10px; }
 
-.copy-button:hover {
-    background-color: #6c757d; /* << 懸停時變深灰色 */
-}
-
-.copy-button:disabled {
-    background-color: #ddd; /* << 禁用時用更淺的灰色 */
-    color: #999;           /* << 禁用時文字顏色也變淺 */
-    cursor: default;
-}
-
-/* 確保滾動區域的 padding 不會干擾 */
-.scrollable-list {
-    flex-grow: 1;
-    overflow-y: auto;
-    padding: 0 5px 5px 5px; /* 再次微調 padding */
-    width: 100%;
-    box-sizing: border-box;
 }
