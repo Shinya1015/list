@@ -21,6 +21,7 @@ body {
 /* 創造更密集的星星效果 */
 /* 創造更密集的星星效果 */
 body::before {
+     display: none;
     content: "";
     position: absolute;
     top: 0;
