@@ -3,18 +3,18 @@ html, body {
     margin: 0;
     padding: 0;
     height: 100%;
-    overflow: hidden;
+    overflow: hidden; /* 全局禁止滾動 */
 }
 
 /* 頁面容器 */
 body {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; /* 默認垂直居中 */
     flex-direction: column;
     background: radial-gradient(circle at 50% 50%, #1a1a2e, #16213e, #0f3460);
     font-family: "Segoe UI", Meiryo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    height: 100vh;
+    height: 100vh; /* 固定高度 */
     position: relative;
 }
 
@@ -30,16 +30,16 @@ body::before {
     background-image:
         radial-gradient(2px 2px at 10% 20%, #fff, transparent), radial-gradient(2px 2px at 15% 30%, #fff, transparent),
         radial-gradient(2px 2px at 30% 60%, #fff, transparent), radial-gradient(2px 2px at 25% 40%, #fff, transparent),
-        /* radial-gradient(1px 1px at 50% 70%, #fff, transparent), */ /* 移除或註釋掉靠近中心的點 */
+        /* radial-gradient(1px 1px at 50% 70%, #fff, transparent), */
         radial-gradient(1px 1px at 70% 10%, #fff, transparent), radial-gradient(1px 1px at 75% 90%, #fff, transparent),
         radial-gradient(1px 1px at 85% 25%, #fff, transparent), radial-gradient(1px 1px at 35% 55%, #fff, transparent),
         radial-gradient(1px 1px at 10% 90%, #fff, transparent), radial-gradient(2px 2px at 5% 10%, #fff, transparent),
-        radial-gradient(2px 2px at 80% 70%, #fff, transparent), radial-gradient(1px 1px at 55% 45%, #fff, transparent), /* 靠近中心 */
+        radial-gradient(2px 2px at 80% 70%, #fff, transparent), radial-gradient(1px 1px at 55% 45%, #fff, transparent),
         radial-gradient(2px 2px at 70% 80%, #fff, transparent), radial-gradient(1px 1px at 95% 10%, #fff, transparent),
         radial-gradient(2px 2px at 40% 85%, #fff, transparent),
-        /* radial-gradient(2px 2px at 30% 50%, #fff, transparent), */ /* 移除或註釋掉靠近中心的點 */
+        /* radial-gradient(2px 2px at 30% 50%, #fff, transparent), */
         radial-gradient(1px 1px at 60% 60%, #fff, transparent), radial-gradient(2px 2px at 80% 40%, #fff, transparent),
-        /* radial-gradient(1px 1px at 50% 20%, #fff, transparent), */ /* 移除或註釋掉靠近中心的點 */
+        /* radial-gradient(1px 1px at 50% 20%, #fff, transparent), */
         radial-gradient(2px 2px at 5% 5%, #fff, transparent), radial-gradient(2px 2px at 10% 95%, #fff, transparent),
         radial-gradient(2px 2px at 95% 5%, #fff, transparent), radial-gradient(2px 2px at 90% 95%, #fff, transparent),
         radial-gradient(2px 2px at 5% 50%, #fff, transparent), radial-gradient(2px 2px at 90% 50%, #fff, transparent),
@@ -60,16 +60,17 @@ body::before {
 .container {
     position: relative;
     text-align: center;
-    background-color: #ffffff; /* 不透明白色背景 */
+    background-color: #ffffff;
     padding: 25px 30px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
-    width: 100%; /* 恢復寬度 */
+    width: 100%;
     max-width: 650px;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 15px;
+    margin: 10px; /* 給上下一點邊距 */
 }
 
 /* 標題樣式 */
@@ -119,12 +120,12 @@ button:active {
 /* 特定按鈕：抽選 */
 #select-button {
     background-color: #00BCD4;
-    color: #000; /* 恢復黑色文字 */
-    font-size: 22px; /* 恢復大字體 */
-    padding: 15px 30px; /* 恢復大 padding */
-    width: 200px; /* 恢復寬度 */
-    border-radius: 5px; /* 恢復圓角 */
-    z-index: 2; /* 確保在流星之上 */
+    color: #000;
+    font-size: 22px;
+    padding: 15px 30px;
+    width: 200px;
+    border-radius: 5px;
+    z-index: 2;
     position: relative;
 }
 #select-button:hover {
@@ -159,12 +160,12 @@ button:active {
     flex-direction: column;
     width: 100%;
     max-width: 700px;
-    margin: 20px auto;
-    background-color: #ffffff; /* 不透明白色背景 */
+    margin: 10px auto; /* 上下邊距 */
+    background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     height: auto;
-    max-height: 80vh;
+    max-height: 80vh; /* 預設最大高度 (桌面版) */
     overflow: hidden;
     position: relative;
     padding: 0;
@@ -187,163 +188,55 @@ button:active {
     box-sizing: border-box;
     gap: 10px;
 }
-.song-list-header h2 {
-    margin: 0;
-    font-size: 1.3em;
-    color: #343a40;
-}
-.song-list-header p {
-    margin: 0;
-    font-size: 0.9em;
-    color: #6c757d;
-    white-space: nowrap;
-}
-/* 搜尋框樣式 */
-#search-input {
-    padding: 8px 12px;
-    font-size: 14px;
-    border: 1px solid #ced4da;
-    border-radius: 4px;
-    flex-grow: 1;
-    min-width: 180px;
-    box-sizing: border-box;
-}
-
-/* 關閉按鈕樣式 */
-#close-button {
-    background-color: #dc3545;
-    color: white;
-    margin: 0;
-    padding: 8px 15px;
-    font-size: 14px;
-}
-#close-button:hover {
-    background-color: #c82333;
-}
+.song-list-header h2 { margin: 0; font-size: 1.3em; color: #343a40; }
+.song-list-header p { margin: 0; font-size: 0.9em; color: #6c757d; white-space: nowrap; }
+#search-input { padding: 8px 12px; font-size: 14px; border: 1px solid #ced4da; border-radius: 4px; flex-grow: 1; min-width: 180px; box-sizing: border-box; }
+#close-button { background-color: #dc3545; color: white; margin: 0; padding: 8px 15px; font-size: 14px; }
+#close-button:hover { background-color: #c82333; }
 
 /* 滾動列表區域 */
 .scrollable-list {
     flex-grow: 1;
-    overflow-y: auto;
+    overflow-y: auto; /* 只在這個區域滾動 */
     padding: 0 10px 10px 10px;
     width: 100%;
     box-sizing: border-box;
 }
 
 /* 歌曲列表 ul */
-#songs {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    text-align: left;
-}
+#songs { list-style-type: none; padding: 0; margin: 0; width: 100%; text-align: left; }
 
 /* 列表項 li */
-#songs li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 8px 12px;
-    border-bottom: 1px solid #e9ecef;
-    text-align: left;
-    box-sizing: border-box;
-}
-#songs li:last-child {
-    border-bottom: none;
-}
+#songs li { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; border-bottom: 1px solid #e9ecef; text-align: left; box-sizing: border-box; }
+#songs li:last-child { border-bottom: none; }
 
 /* 列表項中的歌名 span */
-#songs li span {
-    margin-right: 8px;
-    flex-grow: 1;
-    word-break: break-word;
-    font-size: 14px;
-    line-height: 1.5;
-    color: #495057;
-}
+#songs li span { margin-right: 8px; flex-grow: 1; word-break: break-word; font-size: 14px; line-height: 1.5; color: #495057; }
 
 /* 按鈕組容器 */
-.button-group {
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
-    margin-left: 10px;
-}
+.button-group { display: flex; align-items: center; flex-shrink: 0; margin-left: 10px; }
 
-/* 複製按鈕樣式 (桌面手機統一) */
-.copy-button {
-    padding: 5px 10px;
-    font-size: 12px;
-    line-height: 1.4;
-    border-radius: 4px;
-    background-color: #6c757d;
-    color: white;
-    border: none;
-    cursor: pointer;
-    flex-shrink: 0;
-    transition: background-color 0.2s ease, transform 0.1s ease;
-}
-.copy-button:hover {
-    background-color: #5a6268;
-}
-.copy-button:disabled {
-    background-color: #ced4da;
-    color: #6c757d;
-    cursor: default;
-    transform: none;
-}
-.copy-button:active:not(:disabled) {
-    transform: scale(0.98);
-}
-
+/* 複製按鈕樣式 */
+.copy-button { padding: 5px 10px; font-size: 12px; line-height: 1.4; border-radius: 4px; background-color: #6c757d; color: white; border: none; cursor: pointer; flex-shrink: 0; transition: background-color 0.2s ease, transform 0.1s ease; }
+.copy-button:hover { background-color: #5a6268; }
+.copy-button:disabled { background-color: #ced4da; color: #6c757d; cursor: default; transform: none; }
+.copy-button:active:not(:disabled) { transform: scale(0.98); }
 
 /* --- 流星和外部連結樣式 --- */
 
 /* 流星樣式 */
-.meteor {
-    position: absolute;
-    width: 3px;
-    height: 3px;
-    background-color: #fff;
-    border-radius: 50%;
-    animation: meteor linear infinite;
-    z-index: 1; /* 確保在 container 和 song-list (無 z-index) 之上 */
-    opacity: 0; /* 默認透明 */
-}
-
+.meteor { position: absolute; width: 3px; height: 3px; background-color: #fff; border-radius: 50%; animation: meteor linear infinite; z-index: 1; opacity: 0; }
 /* 流星動畫 */
-@keyframes meteor {
-    0% {
-        transform: translateX(var(--start-x)) translateY(var(--start-y));
-        opacity: 1; /* 動畫開始時不透明 */
-    }
-    70% {
-         opacity: 1;
-    }
-    100% {
-        transform: translateX(var(--end-x)) translateY(var(--end-y));
-        opacity: 0; /* 動畫結束時透明 */
-    }
-}
+@keyframes meteor { 0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; } 70% { opacity: 1; } 100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; } }
 /* 外部連結通用樣式 */
-[id$="-link"] {
-    position: fixed;
-    z-index: 1000;
-}
-[id$="-link"] img, #notion-link a {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: block;
-}
-[id$="-link"] img:hover, #notion-link a:hover {
-    transform: scale(1.15);
-    box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3);
-}
+[id$="-link"] { position: fixed; z-index: 1000; }
+[id$="-link"] img, #notion-link a { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; }
+[id$="-link"] img:hover, #notion-link a:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
 
 /* 圖示具體定位 */
 #youtube-link { bottom: 10px; right: 10px; }
 #youtube-link img { width: 40px; height: 40px; border-radius: 60%; }
-#notion-link { bottom: 10px; right: 210px; }
+#notion-link { bottom: 10px; right: 210px; } /* 桌面版位置 */
 #notion-link a { font-size: 38px; color: #FFFFFF; text-decoration: none; }
 #twitter-link { bottom: 8px; right: 60px; }
 #twitter-link img { width: 40px; height: 40px; border-radius: 60%; background-color: black; }
@@ -360,23 +253,20 @@ button:active {
 /* --- 響應式設計 --- */
 @media (max-width: 768px) {
     body {
-        align-items: flex-start;
-        padding-top: 30px;
-        height: auto;
-        min-height: 100vh;
-        overflow-y: auto;
+        align-items: center; /* 內容垂直居中 (在 100vh 內) */
+        padding-top: 0;      /* 移除頂部 padding */
+        height: 100vh;        /* 固定高度 */
+        overflow: hidden;    /* 禁止滾動 */
     }
     .container {
         padding: 20px;
         width: 90%;
-        margin-top: 0;
-        margin-bottom: 20px;
+        margin: auto; /* 讓容器在 flex 父元素中垂直居中 */
     }
     #song-list {
         width: 90%;
-        max-height: 68vh; /* 減少高度避免遮擋 */
-        margin-top: 0;
-        margin-bottom: 20px;
+        max-height: calc(100vh - 100px); /* << 限制高度，減去預估的上下邊距和底部圖示空間 */
+        margin: auto; /* 讓列表在 flex 父元素中垂直居中 */
     }
     .song-list-header { padding: 8px 12px; gap: 8px; }
     .song-list-header h2 { font-size: 1.1em; }
@@ -385,53 +275,48 @@ button:active {
     #close-button { padding: 6px 12px; font-size: 13px; }
 
     #songs {
-        padding-bottom: 70px; /* 底部留白 */
+        padding-bottom: 0; /* << 移除底部留白，因為頁面不滾動，滾動條在內部 */
         box-sizing: border-box;
     }
     #songs li { padding: 6px 10px; }
     #songs li span { font-size: 13px; line-height: 1.4; }
-    /* .copy-button 的樣式已統一 */
 
-    /* 圖示位置調整 */
-     #youtube-link { display: block !important; } /* 確保顯示 */
-     #notion-link { right: 160px; }
-     #twitcasting-link { right: 110px; }
-     #custom-link { right: 60px; }
-     #twitter-link { display: none; } /* 隱藏 Twitter */
+    /* 手機版圖示調整 (恢復 40px 大小，重新佈局) */
+    #youtube-link img, #twitter-link img, #custom-link img,
+    #amazon-link img, #twitcasting-link img, #booth-link img {
+        width: 40px; height: 40px; /* 確保都是 40px */
+    }
+     #youtube-link { display: block !important; right: 10px; } /* 顯示並放最右 */
+     #twitter-link { right: 60px; } /* Twitter 回來 */
+     #custom-link { display: none; } /* 隱藏 Creatia 節省空間 */
+     #notion-link { display: none; } /* 隱藏 Notion 節省空間 */
+     #twitcasting-link { right: 110px; } /* TwiCast 左移 */
+     /* 左側圖示 */
+     #amazon-link { left: 10px; }
+     #booth-link { left: 60px; }
 }
 
 @media (max-width: 480px) {
-     body {
-        padding-top: 20px;
-     }
      #song-list {
         width: 95%;
-        max-height: 68vh; /* 維持較小高度 */
+        max-height: calc(100vh - 90px); /* << 更小螢幕再減小一點高度 */
      }
      .song-list-header { flex-direction: column; align-items: stretch; }
      .song-list-header h2, .song-list-header p { text-align: center; margin-bottom: 5px; }
      #search-input { width: 100%; margin-bottom: 8px; }
      #close-button { align-self: center; }
 
-    #songs {
-        padding-bottom: 70px;
-        box-sizing: border-box;
-    }
+    #songs { padding-bottom: 0; } /* 移除底部留白 */
      #songs li { padding: 5px 8px; }
      #songs li span { font-size: 12px; }
-     /* .copy-button 的樣式已統一 */
 
-     /* 圖示位置調整 */
-     #youtube-link { right: 5px; bottom: 5px; }
-     #youtube-link img { width: 35px; height: 35px; }
-     #notion-link { right: 150px; font-size: 32px; bottom: 8px; } /* 調整位置 */
-     #twitcasting-link { right: 100px; bottom: 8px; } /* 調整位置 */
-     #twitcasting-link img { width: 35px; height: 35px; }
-     #custom-link { right: 55px; bottom: 8px; } /* 調整位置 */
-     #custom-link img { width: 35px; height: 35px; }
-     #twitter-link { display: none; }
-     #booth-link { left: 50px; bottom: 5px;} /* 調整位置 */
-     #booth-link img { width: 35px; height: 35px; }
-     #amazon-link { left: 10px; bottom: 5px;}
-     #amazon-link img { width: 35px; height: 35px; }
+     /* 更小螢幕圖示調整 (恢復 40px) */
+     #youtube-link { right: 10px; }
+     #twitter-link { right: 60px; }
+     #twitcasting-link { display: none; } /* 隱藏 TwiCast */
+     /* #custom-link 已隱藏 */
+     /* #notion-link 已隱藏 */
+     /* 左側圖示 */
+     #amazon-link { left: 10px; }
+     #booth-link { left: 60px; }
 }
