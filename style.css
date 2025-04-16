@@ -82,7 +82,7 @@ body::before {
     padding: 25px 30px; /* 稍微增加 padding */
     border-radius: 12px; /* 圓角更大 */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15); /* 陰影更明顯 */
-    width: 90%; /* 稍微寬一點 */
+    width: 100%; /* 稍微寬一點 */
     max-width: 650px;
     display: flex; /* 使用 flex 佈局 */
     flex-direction: column;
