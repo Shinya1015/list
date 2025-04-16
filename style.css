@@ -140,6 +140,7 @@ button:active {
     color: white;
     font-size: 18px; /* 抽選按鈕字體可以大點 */
     padding: 15px 30px;
+     width: 200px;
 }
 #select-button:hover {
     background-color: #00a9bb;
