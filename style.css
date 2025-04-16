@@ -19,6 +19,7 @@ body {
 }
 
 /* 創造更密集的星星效果 */
+/* 創造更密集的星星效果 */
 body::before {
     content: "";
     position: absolute;
@@ -28,26 +29,45 @@ body::before {
     height: 100%;
     background: transparent;
     background-image:
-        radial-gradient(2px 2px at 10% 20%, #fff, transparent), radial-gradient(2px 2px at 15% 30%, #fff, transparent),
-        radial-gradient(2px 2px at 30% 60%, #fff, transparent), radial-gradient(2px 2px at 25% 40%, #fff, transparent),
-        radial-gradient(1px 1px at 50% 70%, #fff, transparent), radial-gradient(1px 1px at 70% 10%, #fff, transparent),
-        radial-gradient(1px 1px at 75% 90%, #fff, transparent), radial-gradient(1px 1px at 85% 25%, #fff, transparent),
-        radial-gradient(1px 1px at 35% 55%, #fff, transparent), radial-gradient(1px 1px at 10% 90%, #fff, transparent),
-        radial-gradient(2px 2px at 5% 10%, #fff, transparent), radial-gradient(2px 2px at 80% 70%, #fff, transparent),
-        radial-gradient(1px 1px at 55% 45%, #fff, transparent), radial-gradient(2px 2px at 70% 80%, #fff, transparent),
-        radial-gradient(1px 1px at 95% 10%, #fff, transparent), radial-gradient(2px 2px at 40% 85%, #fff, transparent),
-        radial-gradient(2px 2px at 30% 50%, #fff, transparent), radial-gradient(1px 1px at 60% 60%, #fff, transparent),
-        radial-gradient(2px 2px at 80% 40%, #fff, transparent), radial-gradient(1px 1px at 50% 20%, #fff, transparent),
-        radial-gradient(2px 2px at 5% 5%, #fff, transparent), radial-gradient(2px 2px at 10% 95%, #fff, transparent),
-        radial-gradient(2px 2px at 95% 5%, #fff, transparent), radial-gradient(2px 2px at 90% 95%, #fff, transparent),
-        radial-gradient(2px 2px at 5% 50%, #fff, transparent), radial-gradient(2px 2px at 90% 50%, #fff, transparent),
-        radial-gradient(1px 1px at 25% 20%, #fff, transparent), radial-gradient(1px 1px at 75% 30%, #fff, transparent),
-        radial-gradient(2px 2px at 20% 80%, #fff, transparent), radial-gradient(1px 1px at 70% 80%, #fff, transparent);
+        /* 原來的星星位置 */
+        radial-gradient(2px 2px at 10% 20%, #fff, transparent),
+        radial-gradient(2px 2px at 15% 30%, #fff, transparent),
+        radial-gradient(2px 2px at 30% 60%, #fff, transparent),
+        radial-gradient(2px 2px at 25% 40%, #fff, transparent),
+        /* --- ▼▼▼ 嘗試註釋掉這個靠近底中點的 ▼▼▼ --- */
+        /* radial-gradient(1px 1px at 50% 70%, #fff, transparent), */
+        radial-gradient(1px 1px at 70% 10%, #fff, transparent),
+        radial-gradient(1px 1px at 75% 90%, #fff, transparent),
+        radial-gradient(1px 1px at 85% 25%, #fff, transparent),
+        radial-gradient(1px 1px at 35% 55%, #fff, transparent),
+        radial-gradient(1px 1px at 10% 90%, #fff, transparent),
+        radial-gradient(2px 2px at 5% 10%, #fff, transparent),
+        radial-gradient(2px 2px at 80% 70%, #fff, transparent),
+        radial-gradient(1px 1px at 55% 45%, #fff, transparent),
+        radial-gradient(2px 2px at 70% 80%, #fff, transparent),
+        radial-gradient(1px 1px at 95% 10%, #fff, transparent),
+        radial-gradient(2px 2px at 40% 85%, #fff, transparent),
+        /* --- ▼▼▼ 嘗試註釋掉這個靠近垂直中點的 ▼▼▼ --- */
+        /* radial-gradient(2px 2px at 30% 50%, #fff, transparent), */
+        radial-gradient(1px 1px at 60% 60%, #fff, transparent),
+        radial-gradient(2px 2px at 80% 40%, #fff, transparent),
+        /* --- ▼▼▼ 嘗試註釋掉這個靠近頂中點的 ▼▼▼ --- */
+        /* radial-gradient(1px 1px at 50% 20%, #fff, transparent), */
+        /* 增加更多星星 */
+        radial-gradient(2px 2px at 5% 5%, #fff, transparent),
+        radial-gradient(2px 2px at 10% 95%, #fff, transparent),
+        radial-gradient(2px 2px at 95% 5%, #fff, transparent),
+        radial-gradient(2px 2px at 90% 95%, #fff, transparent),
+        radial-gradient(2px 2px at 5% 50%, #fff, transparent), /* 這個也靠近垂直中點 */
+        radial-gradient(2px 2px at 90% 50%, #fff, transparent), /* 這個也靠近垂直中點 */
+        radial-gradient(1px 1px at 25% 20%, #fff, transparent),
+        radial-gradient(1px 1px at 75% 30%, #fff, transparent),
+        radial-gradient(2px 2px at 20% 80%, #fff, transparent),
+        radial-gradient(1px 1px at 70% 80%, #fff, transparent);
     animation: twinkle 3s infinite alternate;
     opacity: 0.8;
     z-index: -1;
 }
-
 /* 星空閃爍動畫 */
 @keyframes twinkle {
     from { opacity: 0.6; }
