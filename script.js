@@ -91,8 +91,18 @@ const songStreamLinks = {
   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5196 },
   { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
   ],
-
-  
+   "ハイドアンド・シーク/19's Sound Factory": [
+  { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9530 },
+  { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 3800 },
+  { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 9636 },
+  { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 8156 },
+  { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 7977 },
+  { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7992 },
+  { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 6670 },
+  { date: "2023年1月11日", videoId: "l_bJ0AaBakk", timestamp: 1580 },
+  { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 6333 },
+     
+  ],
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
 
