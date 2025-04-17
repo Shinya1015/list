@@ -890,7 +890,7 @@ const streamerSongList = [
     "Dear/19's Sound Factory",
     "ハイドアンド・シーク/19's Sound Factory",
     "アウト オブ エデン/K's Sound Project",
-    "帰巣本能 少年 by the mile-/鏡音リン・レン",
+    "帰巣本能-少年by the mile-／ナナホシ管弦楽団",
     "ジェミニ/鏡音リン・レン",
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
