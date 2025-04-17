@@ -7,7 +7,6 @@ const songStreamLinks = {
     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 14779 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8450 },
   ],
-const songStreamLinks = {
  "ファインダー/livetune": [
     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 2054 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8076 },
