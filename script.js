@@ -925,6 +925,7 @@ const streamerSongList = [
     "Stairway Generation/Base Ball Bear",               // 銀魂 (Gintama)
     "ドラマチック/Base Ball Bear",                      // 王牌投手 振臂高揮 (Big Windup!)
     "鐘を鳴らして/BONNIE PINK",                         // 宵星傳奇 (Tales of Vesperia) - 遊戲/動畫
+    "まもりたい ~White Wishes~/BoA",
     "ココロのちず/BOYSTYLE",                           // ONE PIECE 航海王
     "Aurora/BUMP OF CHICKEN",
     "Butterfly/BUMP OF CHICKEN",
