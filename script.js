@@ -8,7 +8,7 @@ const songStreamLinks = {
 
 
  "Tómur/におP": [
-    { date: "2024年5月31日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
     { date: "2023年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
   ],   
 "ワンダーランドと羊の歌/ハチ": [
