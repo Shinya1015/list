@@ -1,8 +1,12 @@
 
 const songStreamLinks = {
 
-
-
+"ワンダーランドと羊の歌/ハチ": [
+   { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5143 },
+   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22090 },
+   { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 2128 },
+   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 9615 },
+  ],
 
 
 
