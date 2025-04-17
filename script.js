@@ -110,7 +110,9 @@ const songStreamLinks = {
   { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6961 },
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 6221 },
   ],
-
+"ジェミニ/鏡音リン・レン": [
+  { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
+  ],
 
 
 
