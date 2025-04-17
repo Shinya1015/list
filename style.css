@@ -256,7 +256,7 @@ button:active { transform: scale(0.98); }
     transition: background-color 0.2s ease;
     /* margin-left: 0; 確保沒有額外的左邊距 */
 }
-
+#modal-stream-list li span.modal-list-date {color: #007bff;}
 #modal-stream-list li:last-child { border-bottom: none; }
 #modal-stream-list li:hover { background-color: #f0f0f0; text-decoration: underline; }
 /* --- End Modal Styles --- */
