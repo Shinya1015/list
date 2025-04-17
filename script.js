@@ -736,7 +736,7 @@ function openYouTubeLink(videoId, timestamp) {
     }
     const url = `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}s`;
     window.open(url, '_blank');
-    closeStreamLinksPopup();
+   //closeStreamLinksPopup();
 }
 // --- ▲▲▲ 彈出視窗相關函數結束 ▲▲▲ ---
 
