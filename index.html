@@ -64,5 +64,25 @@
 
     <script src="script.js"></script>
 
+
+ <!-- ▼▼▼ 新增的彈出視窗結構 ▼▼▼ -->
+    <div id="modal-overlay" style="display: none;"></div>
+    <div id="stream-links-modal" style="display: none;">
+        <div class="modal-header">
+            <h3 id="modal-song-title">歌曲標題</h3>
+            <button id="modal-close-button">×</button>
+        </div>
+        <div class="modal-body">
+            <p>這首歌在以下直播中出現過：</p>
+            <ul id="modal-stream-list">
+                <!-- 直播日期列表會由 JS 生成 -->
+            </ul>
+        </div>
+    </div>
+    <!-- ▲▲▲ 彈出視窗結構結束 ▲▲▲ -->
+
+    <script src="script.js"></script>
+
+    
 </body>
 </html>
