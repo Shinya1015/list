@@ -2,7 +2,7 @@
 const songStreamLinks = {
 
 
-const songStreamLinks = {
+
  "Last Night,Good Night/livetune": [
     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 14779 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8450 },
