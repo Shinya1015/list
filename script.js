@@ -106,7 +106,7 @@ const songStreamLinks = {
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16563 },
   { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5429 },
   ],
- "帰巣本能 少年 by the mile-/鏡音リン・レン": [
+ "帰巣本能-少年by the mile-/ナナホシ管弦楽団": [
   { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6961 },
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 6221 },
   ],
@@ -890,7 +890,7 @@ const streamerSongList = [
     "Dear/19's Sound Factory",
     "ハイドアンド・シーク/19's Sound Factory",
     "アウト オブ エデン/K's Sound Project",
-    "帰巣本能-少年by the mile-／ナナホシ管弦楽団",
+    "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
     "ジェミニ/鏡音リン・レン",
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
