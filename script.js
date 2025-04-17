@@ -859,6 +859,102 @@ const lowPitchSongs = [
 ];
 // --- 低音歌曲列表結束 ---
 
+
+// --- Notion 頁面基礎 URL (請確保這是你的目標頁面) ---
+const notionBaseUrl = "https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652"; // 這是你提供的頁面連結
+
+// --- 修改: 生成列表，添加「Notion で検索」按鈕 ---
+function toggleSongList() {
+    document.getElementById("main-content").style.display = "none";
+    const songListDiv = document.getElementById("song-list");
+    songListDiv.style.display = "flex";
+
+    const songListUl = document.getElementById("songs");
+    songListUl.innerHTML = "";
+
+    streamerSongList.forEach(displayName => {
+        const li = document.createElement("li");
+        const songSpan = document.createElement("span");
+        songSpan.textContent = displayName;
+        li.appendChild(songSpan);
+
+        const buttonContainer = document.createElement("div");
+        buttonContainer.classList.add("button-group");
+
+        // 複製按鈕 (不變)
+        const copyButton = document.createElement("button");
+        copyButton.textContent = "コピー";
+        copyButton.classList.add("copy-button");
+        copyButton.dataset.song = displayName;
+        buttonContainer.appendChild(copyButton);
+
+        // --- 新增: 「Notion で検索」按鈕 ---
+        const searchNotionButton = document.createElement("button");
+        searchNotionButton.textContent = "Notion検索"; // 按鈕文字: Notion 搜尋
+        searchNotionButton.classList.add("search-notion-button"); // 新 class
+        searchNotionButton.dataset.songname = displayName; // 存儲要搜尋的歌名
+        buttonContainer.appendChild(searchNotionButton);
+        // --- 按鈕添加結束 ---
+
+        li.appendChild(buttonContainer);
+        songListUl.appendChild(li);
+    });
+
+    // 事件委派處理 (添加對新按鈕的處理)
+    songListUl.removeEventListener('click', handleListButtonClick);
+    songListUl.addEventListener('click', handleListButtonClick);
+
+    // 清空搜尋框 (不變)
+    const searchInput = document.getElementById('search-input');
+    if (searchInput) {
+        searchInput.value = "";
+        filterSongs();
+    }
+}
+
+// --- 修改: 列表按鈕處理，添加 Notion 搜尋邏輯 ---
+function handleListButtonClick(event) {
+    const target = event.target;
+    if (target.classList.contains('copy-button')) {
+        const songToCopy = target.dataset.song;
+        copySongName(songToCopy, target);
+    } else if (target.classList.contains('search-notion-button')) { // 處理新按鈕
+        const songNameToSearch = target.dataset.songname;
+        searchSongInNotion(songNameToSearch); // 調用新的函數
+    }
+}
+
+// --- 新增: 嘗試生成 Notion 搜尋連結並打開 ---
+function searchSongInNotion(songName) {
+    if (!songName) return;
+
+    // 嘗試從 "歌名/作者" 中提取更純粹的歌名作為關鍵字
+    let searchTerm = songName.split('/')[0].trim(); // 取 / 前面的部分
+
+    // 對搜尋關鍵字進行 URL 編碼
+    const encodedSearchTerm = encodeURIComponent(searchTerm);
+
+    // --- 嘗試不同的 URL 參數 (以下都是猜測!) ---
+    // 嘗試 1: 通用 query 參數
+    const urlAttempt1 = `${notionBaseUrl}&query=${encodedSearchTerm}`; // 在現有參數後加 &
+    // 嘗試 2: 通用 search 參數
+    // const urlAttempt2 = `${notionBaseUrl}&search=${encodedSearchTerm}`;
+    // 嘗試 3: 完全替換參數 (可能性極低)
+    // const baseUrlOnly = notionBaseUrl.split('?')[0];
+    // const urlAttempt3 = `${baseUrlOnly}?query=${encodedSearchTerm}`;
+
+    console.log(`嘗試打開 Notion 搜尋連結: ${urlAttempt1}`); // 在控制台輸出，方便調試
+
+    // --- 打開連結 ---
+    // 我們只嘗試第一種最可能的方式
+    window.open(urlAttempt1, '_blank');
+
+    // ** 預期結果：很可能只是打開了 Notion 頁面，但並沒有自動搜尋 **
+    alert(`「${searchTerm}」でNotionページを開こうとしています。\n自動検索は機能しない可能性が高いです。\nページ内で手動で検索してください。`); // 提示用戶可能需要手動搜尋
+}
+
+
+
 // --- 檢查重複並提示 (可選，開發時有用) ---
 const duplicates = streamerSongList.filter((item, index) => streamerSongList.indexOf(item) !== index);
 if (duplicates.length > 0) {
