@@ -154,12 +154,7 @@ const songStreamLinks = {
     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14160 },
     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1554 }
   ],
-};
 
-
-
-
-  
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
 
