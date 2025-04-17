@@ -87,7 +87,7 @@ button:active { transform: scale(0.98); }
         display: block !important;
         bottom: 10px;
         /* ▼▼▼ 將 right 值加大，讓 Notion 圖示更往左移 ▼▼▼ */
-        right: 250px; /* 將此值從 160px 增加到 200px (或你覺得適合的值) */
+        right: 225px; /* 將此值從 160px 增加到 200px (或你覺得適合的值) */
         /* ▲▲▲ 修改結束 ▲▲▲ */
     }
     #amazon-link { left: 10px; }
@@ -119,7 +119,7 @@ button:active { transform: scale(0.98); }
          display: block !important;
          bottom: 10px;
          /* ▼▼▼ 將 right 值加大，確保與 Twitter 圖示間距 ▼▼▼ */
-         right: 180px; /* 將此值從 110px 增加到 130px (或你覺得適合的值) */
+         right: 155px; /* 將此值從 110px 增加到 130px (或你覺得適合的值) */
          /* ▲▲▲ 修改結束 ▲▲▲ */
      }
      #amazon-link { left: 10px; }
