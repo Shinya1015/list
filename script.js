@@ -281,6 +281,7 @@ const streamerSongList = [
     "イエスタデイ/Official髭男dism",
     "ホワイトノイズ/Official髭男dism",
     "ミックスナッツ/Official髭男dism",
+    "イエスタディ/Official髭男dism",
     "What Makes You Beautiful/One Direction",
     "以心電信/ORANGE RANGE",
     "DAYBREAK FRONTLINE/Orangestar",
