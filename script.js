@@ -1,4 +1,3 @@
-// --- 數據源 1: 給主播抽選用的【全部】歌名列表 ---
 const streamerSongList = [
     "天ノ弱/164",
     "タイムマシン/1640mP",
@@ -745,7 +744,7 @@ const streamerSongList = [
     "Wonderful Wonder World*/Yun*chi",
     "SUNDAY/ザ・ベイビースターズ",
     "光あれ/岡野昭仁",
-    "Glory Days/尾崎裕哉", // 重複出現了
+    "Glory Days/尾崎裕哉",
     "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ",
     "True My Heart/佐倉紗織",
     "アドバンス・アドベンチャー/GARDEN",
@@ -753,7 +752,6 @@ const streamerSongList = [
     "果てなき道/HIMEKA",
     "ありがとう/SunSet Swish",
     "明日、僕は君に会いに行く/ワカバ",
-    //"サウダージ/ポルノグラフィティ", // 重複出現了
     "いーあるふぁんくらぶ/みきとP",
     "Reset/平原綾香",
     "サヨナラの空/Qwai",
@@ -763,7 +761,6 @@ const streamerSongList = [
     "Ring My Bell/blue drops",
     "party night/真田アサミ・沢城みゆき・氷上 恭子",
     "迷Q!?-迷宫-Make★You-/岸本早未",
-    //"EQUALロマンス/CoCo", // 重複出現了
     "Fast Forward/MONKEY MAJIK",
     "Sunshine/MONKEY MAJIK",
     "衝動/Pigstar",
@@ -783,89 +780,429 @@ const streamerSongList = [
     "Magical Babyrinth/DA PUMP"
 ];
 
-
-// --- 新增：主播確認的【低音】歌曲列表 ---
-// !!! 請務必檢查、修改、增刪這個列表，使其符合主播的實際情況 !!!
-// 格式必須和 streamerSongList 中的【完全一致】
 const lowPitchSongs = [
-    "からくりピエロ/40mP", // 抒情，相對平緩
-    "トリノコシティ/40mP", // 氛圍感，相對較低
-    "ハイドアンド・シーク/19's Sound Factory", // 節奏穩定，Verse部分偏低
-    "glow/keeno",         // keeno代表作，氛圍低沉
-    "crack/keeno",        // keeno代表作，氛圍低沉
-    "bitter/keeno",       // keeno代表作，氛圍低沉
-    "フラジール/ぬゆり",   // 氛圍感，Verse相對低
-    "僕が死のうと思ったのは/amazarashi", // 男中低音，情感深沉，音域相對集中
-    "季節は次々死んでいく/amazarashi", // 男中低音，情感深沉
-    "空に歌えば/amazarashi", // 雖有力量感，但基底在中低音區
-    "しおり/Aqua Timez",     // 抒情曲
-    "千の夜をこえて/Aqua Timez", // 經典抒情
-    "等身大のラブソング/Aqua Timez", // 較為平緩的敘述感
-    "つぼみ/Aqua Timez",     // 抒情
-    "リライト/ASIAN KUNG-FU GENERATION", // 主歌部分相對較低，搖滾但非持續高音
-    "遥か彼方/ASIAN KUNG-FU GENERATION", // 同上
-    "カルマ/BUMP OF CHICKEN", // BUMP代表性中速曲，音域相對舒適
-    "車輪の唄/BUMP OF CHICKEN", // 經典抒情
-    "天体観測/BUMP OF CHICKEN", // Verse部分較低
-    "歌に形はないけれど/doriko", // 經典Vocaloid抒情
-    "from Y to Y/ジミーサムP", // 經典Vocaloid抒情
-    "Calc./ジミーサムP",      // 經典Vocaloid抒情
-    "Starduster/ジミーサムP", // 經典Vocaloid抒情
-    "No Logic/ジミーサムP",   // 相對平緩
-    "ひまわりの約束/秦基博",   // 男聲抒情代表作
-    "月光/鬼束ちひろ",       // 女低音代表作
-    "流星群/鬼束ちひろ",     // 女低音代表作
-    "眩暈/鬼束ちひろ",       // 女低音代表作
-    "私とワルツを/鬼束ちひろ", // 女低音代表作
-    "TSUNAMI/サザンオールスターズ", // 經典抒情，Verse低
-    "蕾/コブクロ",           // 經典抒情，Verse低
-    "ボクノート/スキマスイッチ", // 抒情
-    "砂の惑星/ハチ",         // Verse部分低沉有磁性
-    "シャルル/バルーン",     // 雖原曲不低，但因常被低音翻唱，氛圍適合
-    "ハロ/ハワユ/ナノウ",   // 較為平緩的抒情
-    "First Love/宇多田ヒカル", // R&B抒情，中低音區為主
-    "Flamingo/米津玄師",    // 已確認，聲線低沉
-    "Lemon/米津玄師",       // Verse部分非常低沉
-    "M八七/米津玄師",       // 整體莊重，音域偏中低
-    "orion/米津玄師",       // 抒情，相對較低
-    "灰色と青/米津玄師",     // 米津部分偏低
-    "虹/福山雅治",         // 已確認，男中低音代表
-    "丸の内サディスティック/椎名林檎", // 爵士感，中低音為主
-    "香水/瑛人",           // 旋律簡單，音域集中在中低
-    "Secret of my heart/倉木麻衣", // R&B風格，Verse較低
-    "Time after time～花舞う街で～/倉木麻衣", // 抒情，中音為主
-    "風のららら/倉木麻衣",   // 相對平緩
-    "テルーの唄/手嶌葵",     // 氣聲，音域很低
-    "Brave Shine/Aimer",    // Aimer中低音特色明顯
-    "Ref:rain/Aimer",       // Aimer中低音特色明顯
-    "小夜子/みきとP",       // 氛圍較暗，相對低
-    "世田谷ナイトサファリ/みきとP", // 氛圍感
-    "心拍数♯0822/蝶々P",   // 經典Vocaloid抒情
-    "ドライフラワー/優里",   // Verse部分極低
-    "ベテルギウス/優里",     // Verse部分低
-    "you/癒月",           // 經典同人曲，氛圍安靜
-    "*～アスタリスク～/オレンジレンジ", // Rap部分為主，音高較低
-    "心絵/ロードオブメジャー", // 搖滾但Verse不高
-    "ハナミズキ/一青窈",     // 經典抒情，適合中音域
-    "曇天/DOES",          // 搖滾，主唱聲線偏中低，Verse不高
-    "サイハテホーム/サクラメリーメン", // 抒情
-    "アイコトバ/サクラメリーメン", // 抒情
-    "ありがとう/SunSet Swish", // 抒情
-    "明日、僕は君に会いに行く/ワカバ", // 抒情
-    "サヨナラの空/Qwai",     // 抒情搖滾，Verse不高
-    "変わらないもの/奥華子",   // 抒情鋼琴曲
-    "ガーネット/奥華子"      // 抒情鋼琴曲
-
+    "からくりピエロ/40mP",
+    "トリノコシティ/40mP",
+    "ハイドアンド・シーク/19's Sound Factory",
+    "glow/keeno",
+    "crack/keeno",
+    "bitter/keeno",
+    "フラジール/ぬゆり",
+    "僕が死のうと思ったのは/amazarashi",
+    "季節は次々死んでいく/amazarashi",
+    "空に歌えば/amazarashi",
+    "しおり/Aqua Timez",
+    "千の夜をこえて/Aqua Timez",
+    "等身大のラブソング/Aqua Timez",
+    "つぼみ/Aqua Timez",
+    "リライト/ASIAN KUNG-FU GENERATION",
+    "遥か彼方/ASIAN KUNG-FU GENERATION",
+    "カルマ/BUMP OF CHICKEN",
+    "車輪の唄/BUMP OF CHICKEN",
+    "天体観測/BUMP OF CHICKEN",
+    "歌に形はないけれど/doriko",
+    "from Y to Y/ジミーサムP",
+    "Calc./ジミーサムP",
+    "Starduster/ジミーサムP",
+    "No Logic/ジミーサムP",
+    "ひまわりの約束/秦基博",
+    "月光/鬼束ちひろ",
+    "流星群/鬼束ちひろ",
+    "眩暈/鬼束ちひろ",
+    "私とワルツを/鬼束ちひろ",
+    "TSUNAMI/サザンオールスターズ",
+    "蕾/コブクロ",
+    "ボクノート/スキマスイッチ",
+    "砂の惑星/ハチ",
+    "シャルル/バルーン",
+    "ハロ/ハワユ/ナノウ",
+    "First Love/宇多田ヒカル",
+    "Flamingo/米津玄師",
+    "Lemon/米津玄師",
+    "M八七/米津玄師",
+    "orion/米津玄師",
+    "灰色と青/米津玄師",
+    "虹/福山雅治",
+    "丸の内サディスティック/椎名林檎",
+    "香水/瑛人",
+    "Secret of my heart/倉木麻衣",
+    "Time after time～花舞う街で～/倉木麻衣",
+    "風のららら/倉木麻衣",
+    "テルーの唄/手嶌葵",
+    "Brave Shine/Aimer",
+    "Ref:rain/Aimer",
+    "小夜子/みきとP",
+    "世田谷ナイトサファリ/みきとP",
+    "心拍数♯0822/蝶々P",
+    "ドライフラワー/優里",
+    "ベテルギウス/優里",
+    "you/癒月",
+    "*～アスタリスク～/オレンジレンジ",
+    "心絵/ロードオブメジャー",
+    "ハナミズキ/一青窈",
+    "曇天/DOES",
+    "サイハテホーム/サクラメリーメン",
+    "アイコトバ/サクラメリーメン",
+    "ありがとう/SunSet Swish",
+    "明日、僕は君に会いに行く/ワカバ",
+    "サヨナラの空/Qwai",
+    "変わらないもの/奥華子",
+    "ガーネット/奥華子"
 ];
-// --- 低音歌曲列表結束 ---
 
+const animeSongs = [
+    "START DASH SENSATION/AIKATSU STARS!",
+    "Blooming♡Blooming/AIKATSU☆STARS!",
+    "STARDOM!/AIKATSU☆STARS!",
+    "スタートライン! /AIKATSU☆STARS!",
+    "episode solo/AIKATSU☆STARS!",
+    "Brave Shine/Aimer",
+    "Ref:rain/Aimer",
+    "残響散歌/Aimer",
+    "創聖のアクエリオン/AKINO",
+    "聖少女領域/ALI PROJECT",
+    "さよならごっこ/amazarashi",
+    "季節は次々死んでいく/amazarashi",
+    "空に歌えば/amazarashi",
+    "Velonica/Aqua Timez",
+    "しおり/Aqua Timez",
+    "決意の朝に/Aqua Timez",
+    "リライト/ASIAN KUNG-FU GENERATION",
+    "遥か彼方/ASIAN KUNG-FU GENERATION",
+    "Stairway Generation/Base Ball Bear",
+    "ドラマチック/Base Ball Bear",
+    "鐘を鳴らして/BONNIE PINK",
+    "ココロのちず/BOYSTYLE",
+    "GO/BUMP OF CHICKEN",
+    "Hello,world!/BUMP OF CHICKEN",
+    "アンサー/BUMP OF CHICKEN",
+    "月虹/BUMP OF CHICKEN",
+    "サインはB/B小町 アイ (CV:高橋李依)",
+    "STAR☆T☆RAIN -New Arrange Ver.-/B小町",
+    "Period/CHEMISTRY",
+    "桜ロック/CHERRYBLOSSOM",
+    "病名恋ワズライ/HoneyWorks",
+    "カヌレ/CHiCO with HoneyWorks",
+    "プライド革命/CHiCO with HoneyWorks",
+    "可愛くなりたい/CHiCO with HoneyWorks",
+    "私、アイドル宣言/CHiCO with HoneyWorks",
+    "世界は恋に落ちている/CHiCO with HoneyWorks",
+    "ビビっとラブ/HoneyWorks",
+    "今ちょっとだけ話題の神様/HoneyWorks",
+    "可愛くてごめん/HoneyWorks",
+    "金曜日のおはよう/HoneyWorks",
+    "誇り高きアイドル/HoneyWorks",
+    "CLICK/ClariS",
+    "irony/ClariS",
+    "コネクト/ClariS",
+    "ヒトリゴト/ClariS",
+    "reunion/ClariS",
+    "nexus/ClariS",
+    "voice/CLOUD",
+    "EQUALロマンス/CoCo",
+    "ようかい体操第一/Dream5",
+    "名前のない怪物/EGOIST",
+    "虹を編めたら/fhana",
+    "青空のラプソディ/fhána",
+    "DAN DAN 心魅かれてく/FIELD OF VIEW",
+    "渇いた叫び/FIELD OF VIEW",
+    "GO!!!/FLOW",
+    "Answer/FLOW",
+    "Believe/Folder5",
+    "SAKURAスキップ/fourfolium",
+    "only my railgun/fripSide",
+    "sister's noise/fripSide",
+    "LEVEL5 -judgelight-/fripSide",
+    "Mysterious Eyes/GARNET CROW",
+    "君という光/GARNET CROW",
+    "夏の幻/GARNET CROW",
+    "涙のイエスタデー/GARNET CROW",
+    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",
+    "Alchemy/Girls Dead Monster",
+    "Crow Song/Girls Dead Monster ",
+    "# あくあ色ぱれっと/湊あくあ",
+    "センチメンタルクライシス/halca",
+    "スターティングブルー/halca",
+    "かさなる影/Hearts Grow",
+    "I'll be the one/HΛL",
+    "明日への扉/I WiSH",
+    "月光花/Janne Da Arc",
+    "そばかす/JUDY AND MARY",
+    "シルエット/KANA-BOON",
+    "スターマーカー/KANA-BOON",
+    "ソングオブザデッド/KANA-BOON",
+    "一番の宝物/karuta",
+    "おはよう。/Keno",
+    "ボクラの冒険/Kids Alive",
+    "OVERLAP/Kimeru",
+    "My Soul, Your Beats!/Lia",
+    "Bravely You/Lia",
+    "時を刻む唄/Lia",
+    "ロメオ/LIP×LIP",
+    "crossing field/LiSA",
+    "oath sign/LiSA",
+    "炎/LiSA",
+    "紅蓮華/LiSA",
+    "紅蓮の弓矢/Linked Horizon",
+    "悲しみをやさしさに/little by little",
+    "あの日タイムマシン/LONG SHOT PARTY ",
+    "絆ノ奇跡/MAN WITH A MISSION × milet",
+    "ライオン/May'n/中島愛",
+    "ファンサ/mona(CV:夏川椎菜)",
+    "インフェルノ/Mrs. GREEN APPLE",
+    "夢幻/MY FIRST STORY x HYDE",
+    "STYX HELIX/MYTH & ROID ",
+    "リアルワールド/nano.RIPE",
+    "月花/nano.RIPE",
+    "ホログラム/NICO Touches the Walls",
+    "天地ガエシ/NICO Touches the Walls",
+    "Bad Apple!!/nomico",
+    "イエスタデイ/Official髭男dism",
+    "ホワイトノイズ/Official髭男dism",
+    "ミックスナッツ/Official髭男dism",
+    "Surges/Orangestar",
+    "君＝花/pigstar",
+    "シル・ヴ・プレジデント/P丸様。",
+    "すずめ/RADWIMPS",
+    "スパークル/RADWIMPS",
+    "なんでもないや/RADWIMPS",
+    "前前前世/RADWIMPS",
+    "愛にできることはまだあるかい/RADWIMPS",
+    "夢灯篭/RADWIMPS",
+    "祝祭/RADWIMPS",
+    "ebb and flow/Ray",
+    "銀色の空/redballoon",
+    "ENDLESS STORY/REIRA starring YUNA ITO",
+    "ホウキ雲/RYTHEM",
+    "あんなに一緒だったのに/See-Saw",
+    "最高到達点/SEKAI NO OWARI",
+    "RPG/SEKAI NO OWARI",
+    "Take Your Way/SEKAI NO OWARI",
+    "桃源郷エイリアン/serial TV drama",
+    "LOVEトロピカ～ナ/Sister MAYO",
+    "イマジネーション/SPYAIR",
+    "サムライハート/SPYAIR",
+    "KIRA☆Power/STAR ANIS",
+    "SHINING LINE*/STAR☆ANIS",
+    "オリジナルスター☆彡/STAR☆ANIS",
+    "カレンダーガール/STAR☆ANIS",
+    "オトナモード/STAR☆ANIS",
+    "フレンド/STAR☆ANIS",
+    "prism spiral/STAR☆ANIS",
+    "輝きのエチュード/STAR☆ANIS",
+    "笑顔のsuncatcher/STAR☆ANIS",
+    "ハッピィクレッシェンド/STAR☆ANIS",
+    "SPLASH FREE/STYLE FIVE",
+    "君の知らない物語/supercell",
+    "さぁ/SURFACE",
+    "HEART OF SWORD ～夜明け前～/T.M.Revolution",
+    "resonance/T.M.Revolution",
+    "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS",
+    "One day/The ROOTLESS",
+    "Get Wild/TM NETWORK",
+    "Pray/Tommy heavenly6",
+    "Pray/Wish*",
+    "Adrenaline!!!/TrySail",
+    "シュガーソングとビターステップ/UNISON SQUARE GARDEN",
+    "アイドル/YOASOBI",
+    "勇者/YOASOBI",
+    "群青/YOASOBI",
+    "again/YUI",
+    "Good-bye days/YUI",
+    "HELLO ～Paradise Kiss～/YUI",
+    "Rolling star/YUI",
+    "secret base～君がくれたもの～/ZONE",
+    "未来コネクション/ЯeaL",
+    "unravel/TK from 凛として時雨",
+    "Together/あきよしふみえ",
+    "Let It Go/アナと雪の女王",
+    "生まれてはじめて/アナと雪の女王",
+    "A Whole New World/アラジン",
+    "フレンド・ライク・ミー/アラジン",
+    "ブルーバード/いきものがかり",
+    "青春ライン/いきものがかり",
+    "熱情のスペクトラム/いきものがかり",
+    "うまぴょい伝説/ウマ娘",
+    "Stay Alive/エミリア(高橋李依)",
+    "君じゃなきゃダメみたい/オーイシマサヨシ",
+    "ウィーアー!/きただにひろし",
+    "青のすみか/キタニタツヤ",
+    "Catch You Catch Me/グミ",
+    "君のそばで～ヒカリのテーマ～/グリン",
+    "それは僕たちの奇跡/μ's",
+    "それは小さな光のような/さユり",
+    "ミカヅキ/さユり",
+    "花の塔/さユり",
+    "粛聖!!ロリ神レクイエム☆/しぐれうい",
+    "モノクロのキス/シド",
+    "嘘/シド",
+    "めいど・うぃず・どらごんず/スーパーちょろゴンず",
+    "Ah Yeah!!/スキマスイッチ",
+    "ゴールデンタイムラバー/スキマスイッチ",
+    "快眠！安眠！スヤリスト生活/スヤリス姫(水瀬いのり)",
+    "Los! Los! Los!/ターニャ・デグレチャフ(悠木碧)",
+    "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)",
+    "風になる/つじあやの",
+    "SPiCa-acoustic arrange.ver-/とくP",
+    "No pain, No game/ナノ",
+    "砂の惑星/ハチ",
+    "悪魔の子/ヒグチアイ",
+    "ヒャダインのカカカタ カタオモイ-/ヒャダイン",
+    "一輪の花/ふみP",
+    "メリッサ/ポルノグラフィティ",
+    "脳漿炸裂ガール/れるりり",
+    "リテラチュア/上田麗奈",
+    "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)",
+    "もうそう えくすぷれす/千石撫子(花澤香菜)",
+    "恋愛サーキュレーション/千石撫子(花澤香菜)",
+    "カサブタ/千綿ヒデノリ",
+    "かくしん的☆めたまるふぉ～ぜっ!/土間うまる(田中あいみ)",
+    "ようこそジャパリパークへ/大石昌良",
+    "あなただけ見つめてる/大黒摩季",
+    "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)",
+    "PSI-missing/川田まみ",
+    "空色デイズ/中川翔子",
+    "GLAMOROUS SKY/中島美嘉",
+    "シューティングスター/天月-あまつき-",
+    "月曜日の憂鬱/天月-あまつき-",
+    "いつも何度でも/木村弓",
+    "いのちの名前/木村弓",
+    "innocent starter/水樹奈々",
+    "消せない罪/北出菜奈",
+    "Super Driver/平野綾",
+    "冒険でしょでしょ？/平野綾",
+    "FEELING AROUND/鈴木みのり",
+    "fancy baby doll/田村ゆかり",
+    "Fantastic future/田村ゆかり",
+    "Little Wish ～lyrical step～/田村ゆかり",
+    "童話迷宮/田村ゆかり",
+    "Ready Go!/田村直美",
+    "ゆずれない願い/田村直美",
+    "勇気100%/光GENJI ",
+    "灼け落ちない翼/多田葵 ",
+    "KICK BACK/米津玄師",
+    "ピースサイン/米津玄師",
+    "打上花火/米津玄師",
+    "No.1/mona(CV：夏川椎菜)",
+    "ウラオモテ・フォーチュン/佐倉千代(CV:小澤亜李)",
+    "プラチナ/坂本真綾",
+    "Butter-Fly/和田光司",
+    "美少女無罪♡パイレーツ/宝鐘マリン",
+    "Don't say ”lazy”/放課後ティータイム",
+    "ふわふわ時間/放課後ティータイム",
+    "わたしの恋はホッチキス/放課後ティータイム",
+    "GO! GO! MANIAC/放課後ティータイム",
+    "OK!/松本梨香",
+    "タイプ:ワイルド/松本梨香",
+    "ライバル!/松本梨香",
+    "brave heart/林原めぐみ",
+    "Northern lights/林原めぐみ",
+    "Over soul/林原めぐみ",
+    "ふわふわ♪/牧野由依",
+    "はっぴぃ にゅう にゃあ/芹沢文乃(伊藤かな恵)&梅ノ森千世(井口裕香)&霧谷希(竹達彩奈)",
+    "白金ディスコ/阿良々木月火(井口裕香)",
+    "story/前島麻由",
+    "恋のヒメヒメ☆ぺったんこ/姫野湖鳥(田村ゆかり)",
+    "どこまでも～How Far I'll Go～/屋比久知奈",
+    "太陽曰く燃えよカオス/後ろから這いより隊G",
+    "恋は渾沌の隷也/後ろから這いより隊G",
+    "Stellar Stellar/星街すいせい",
+    "always/倉木麻衣",
+    "Secret of my heart/倉木麻衣",
+    "Time after time～花舞う街で～/倉木麻衣",
+    "Your Best Friend/倉木麻衣",
+    "風のららら/倉木麻衣",
+    "恋に恋して/倉木麻衣",
+    "TRY AGAIN/倉木麻衣",
+    "Falco-ファルコ-/島谷ひとみ",
+    "YUME日和/島谷ひとみ",
+    "ZERO!!/栗林みな実",
+    "Cagayake! GIRLS/桜高軽音部",
+    "太陽の楽園 ～Promised Land～/神戸みゆき",
+    "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",
+    "だんご大家族/茶太",
+    "微笑みの爆弾/馬渡松子",
+    "バトルフロンティア/高屋亜希那",
+    "キラメキラリ/高槻やよい(仁後真耶子)",
+    "魔訶不思議アドベンチャー! /高橋洋樹",
+    "God Knows.../涼宮ハルヒ(CV:平野綾)",
+    "プレパレード/逢坂大河(釘宮理恵)&櫛枝実乃梨(堀江由衣)&川嶋亜美(喜多村英梨)",
+    "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)",
+    "バニラソルト/堀江由衣",
+    "Happy Girl/喜多村英梨",
+    "Wind Climbing ～風にあそばれて～/奥井亜紀",
+    "カラカラ/結束バンド",
+    "ギターと孤独と蒼い惑星/結束バンド",
+    "なにが悪い/結束バンド",
+    "忘れてやらない/結束バンド",
+    "青春コンプレックス/結束バンド",
+    "星座になれたら/結束バンド",
+    "MAGIC/愛内里菜",
+    "I can't stop my love for you/愛内里菜 ",
+    "恋はスリル、ショック、サスペンス/愛内里菜",
+    "staple stable/戦場ヶ原ひたぎ(斎藤千和)",
+    "それでも明日はやってくる/鈴木結女",
+    "輝きは君の中に/鈴木結女",
+    "FOR REAL/徳山秀典",
+    "Treasure/碧陽学園生徒会",
+    "道標/橘慶太",
+    "ニブンノイチ/BACK-ON",
+    "一斉の声/喜多修平",
+    "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠",
+    "小さきもの/林明日香",
+    "Drawing days/SPLAY",
+    "心絵/ロードオブメジャー",
+    "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)",
+    "チューリングラブ/ナナヲアカリ",
+    "空耳ケーキ/Oranges & Lemons",
+    "もう君だけを離したりはしない/上木彩矢",
+    "こころのたまご/Buono!",
+    "X-encounter/黑崎真音",
+    "らしさ/SUPER BEAVER",
+    "曇天/DOES",
+    "departure!/小野正利",
+    "Forever.../savage genius",
+    "ピエロ/絵師じゃないKEI",
+    "気ままな天使たち/わたてん☆5",
+    "星屑のインターリュード/fhana",
+    "Re: Re:/ASIAN KUNG-FU GENERATION",
+    "future nova/School Food Punishment",
+    "futuristic imagination/School Food Punishment",
+    "light prayer/School Food Punishment",
+    "栄光への一秒/MAGIC OF LiFE",
+    "Wonderful Wonder World*/Yun*chi",
+    "SUNDAY/ザ・ベイビースターズ",
+    "光あれ/岡野昭仁",
+    "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ",
+    "アドバンス・アドベンチャー/GARDEN",
+    "弱虫な炎/DIRTY OLD MEN",
+    "果てなき道/HIMEKA",
+    "Reset/平原綾香",
+    "サヨナラの空/Qwai",
+    "ETERNAL BLAZE/水樹奈々",
+    "ギー太に首ったけ/平沢唯(豊崎愛生)",
+    "Dear My Friend~まだ見ぬ未来へ~/ELISA",
+    "Ring My Bell/blue drops",
+    "party night/真田アサミ・沢城みゆき・氷上 恭子",
+    "迷Q!?-迷宫-Make★You-/岸本早未",
+    "Fast Forward/MONKEY MAJIK",
+    "衝動/Pigstar",
+    "ワスレガタキ/石崎ひゅーい",
+    "三原色/PELICAN FANCLUB",
+    "夢のような/佐伯ユウス",
+    "瞬間センチメンタル/SCANDAL",
+    "Blood teller/Faylan",
+    "Destin Histoire/yoshiki*lisa",
+    "こだまことだま/nano.RIPE",
+    "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)",
+    "マジで感謝!/T-Pistonz+KMC",
+    "Zzz/佐咲紗花",
+    "ハヤテのごとく!/KOTOKO",
+    "Magical Babyrinth/DA PUMP"
+];
 
-// --- Notion 頁面基礎 URL ---
 const notionBaseUrl = "https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652";
 
-// --- 函數定義區域 ---
-
-// 更新歌曲總數
 function loadSongsCount() {
     const songCount = document.getElementById('song-count');
     if (songCount && typeof streamerSongList !== 'undefined') {
@@ -873,7 +1210,6 @@ function loadSongsCount() {
     }
 }
 
-// 根據下拉選單抽選歌曲
 function selectRandomSong() {
     const selector = document.getElementById('song-type-selector');
     const selectedType = selector ? selector.value : "すべて";
@@ -882,6 +1218,7 @@ function selectRandomSong() {
 
     const allSongsDefined = typeof streamerSongList !== 'undefined' && streamerSongList.length > 0;
     const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.length > 0;
+    const animeSongsDefined = typeof animeSongs !== 'undefined' && animeSongs.length > 0;
 
     if (selectedType === "すべて") {
         if (allSongsDefined) {
@@ -895,6 +1232,13 @@ function selectRandomSong() {
             songPool = lowPitchSongs;
         } else {
              resultParagraph.textContent = "低音曲リストが空か、定義されていません！";
+             return;
+        }
+    } else if (selectedType === "アニソン") {
+        if (animeSongsDefined) {
+            songPool = animeSongs;
+        } else {
+             resultParagraph.textContent = "アニソン曲リストが空か、定義されていません！";
              return;
         }
     } else {
@@ -921,7 +1265,6 @@ function selectRandomSong() {
     }
 }
 
-// 修改: 生成列表，只保留複製按鈕
 function toggleSongList() {
     document.getElementById("main-content").style.display = "none";
     const songListDiv = document.getElementById("song-list");
@@ -953,38 +1296,28 @@ function toggleSongList() {
         copyButton.dataset.song = displayName;
         buttonContainer.appendChild(copyButton);
 
-        // --- 移除創建 searchNotionButton 的程式碼 ---
-
         li.appendChild(buttonContainer);
         songListUl.appendChild(li);
     });
 
-    // 事件委派處理 (只處理複製)
     songListUl.removeEventListener('click', handleListButtonClick);
     songListUl.addEventListener('click', handleListButtonClick);
 
-    // 清空搜尋框
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
         searchInput.value = "";
         filterSongs();
     }
-    loadSongsCount(); // 更新計數
+    loadSongsCount();
 }
 
-// 修改: 列表按鈕處理，只處理複製
 function handleListButtonClick(event) {
     const copyBtn = event.target.closest('.copy-button');
     if (copyBtn) {
         copySongName(copyBtn.dataset.song, copyBtn);
     }
-    // --- 移除處理 search-notion-button 的邏輯 ---
 }
 
-// --- 刪除 searchSongInNotion 函數 ---
-// (確保文件中沒有 searchSongInNotion 函數)
-
-// 複製歌名函數
 async function copySongName(songText, buttonElement) {
    try {
         await navigator.clipboard.writeText(songText);
@@ -992,7 +1325,6 @@ async function copySongName(songText, buttonElement) {
         buttonElement.textContent = 'コピー済み!';
         buttonElement.disabled = true;
         setTimeout(() => {
-            // 使用 optional chaining 和檢查父元素是否存在來增加穩健性
             if (buttonElement?.closest('ul#songs')) {
                 buttonElement.textContent = originalText;
                 buttonElement.disabled = false;
@@ -1003,7 +1335,6 @@ async function copySongName(songText, buttonElement) {
     }
 }
 
-// 過濾歌曲列表函數
 function filterSongs() {
     const searchInput = document.getElementById('search-input');
     if (!searchInput) return;
@@ -1025,17 +1356,13 @@ function filterSongs() {
     }
 }
 
-// 關閉歌曲列表函數
 function closeSongList() {
     const songListDiv = document.getElementById("song-list");
     const mainContentDiv = document.getElementById("main-content");
     if (songListDiv) songListDiv.style.display = "none";
-    // 確保 main-content 以正確的 display 方式顯示回來 (通常是 block 或 flex)
-    if (mainContentDiv) mainContentDiv.style.display = "flex"; // 或者 "block" 取決於你的佈局
+    if (mainContentDiv) mainContentDiv.style.display = "flex";
 }
 
-
-// --- 新增：為頭部的 Notion 按鈕添加點擊事件 ---
 document.addEventListener('DOMContentLoaded', (event) => {
     const notionHeaderButton = document.getElementById('notion-header-button');
     if (notionHeaderButton) {
@@ -1047,14 +1374,11 @@ document.addEventListener('DOMContentLoaded', (event) => {
     }
 });
 
-
-// --- 初始化和流星生成 ---
-// 確保在 DOMContentLoaded 後再執行 loadSongsCount 可能更安全
 document.addEventListener('DOMContentLoaded', loadSongsCount);
 
 const numberOfMeteors = 60;
 if (typeof document !== 'undefined') {
-    document.addEventListener('DOMContentLoaded', () => { // 確保 body 存在
+    document.addEventListener('DOMContentLoaded', () => {
         for (let i = 0; i < numberOfMeteors; i++) {
             const meteor = document.createElement('div');
             meteor.classList.add('meteor');
