@@ -49,7 +49,7 @@ button:active { transform: scale(0.98); }
 [id$="-link"] img:hover, #notion-link a:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
 #notion-link a:hover { text-decoration: none; }
 #youtube-link { bottom: 10px; right: 10px; }
-#notion-link { bottom: 10px; right: 210px; }
+#notion-link { bottom: 10px; right: 210px; } /* 這是桌機版的定位 */
 #twitter-link { bottom: 8px; right: 60px; }
 #twitter-link img { background-color: black; }
 #custom-link { bottom: 8px; right: 110px; }
@@ -82,8 +82,14 @@ button:active { transform: scale(0.98); }
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #twitcasting-link { right: 110px; }
-    #custom-link { display: none; }
-    #notion-link { display: none; }
+    #custom-link { display: none; } /* 保持隱藏 Custom Link */
+    /* ▼▼▼ 移除 notion-link 的 display: none; 並添加定位 ▼▼▼ */
+    #notion-link {
+        display: block !important; /* 確保顯示 */
+        bottom: 10px;
+        right: 160px; /* 放在 Twitcasting 右邊一點，你可以調整這個值 */
+    }
+    /* ▲▲▲ 修改結束 ▲▲▲ */
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
 }
@@ -107,9 +113,15 @@ button:active { transform: scale(0.98); }
 
      #youtube-link { right: 10px; }
      #twitter-link { right: 60px; }
-     #twitcasting-link { display: none; }
+     #twitcasting-link { display: none; } /* Twitcasting 在最小螢幕隱藏 */
      #custom-link { display: none; }
-     #notion-link { display: none; }
+     /* ▼▼▼ 移除 notion-link 的 display: none; 並添加定位 ▼▼▼ */
+     #notion-link {
+         display: block !important; /* 確保顯示 */
+         bottom: 10px;
+         right: 110px; /* 放在 Twitter 右邊一點，你可以調整這個值 */
+     }
+     /* ▲▲▲ 修改結束 ▲▲▲ */
      #amazon-link { left: 10px; }
      #booth-link { left: 60px; }
 }
