@@ -80,7 +80,12 @@ const songStreamLinks = {
   { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 6336 },
   { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
   ],
-
+"Shake it!/emon(Tes.)": [
+  { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 16523 },
+  { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 1334 },
+  { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1079 },
+  { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
+  ],
 
   
 };
