@@ -86,6 +86,12 @@ const songStreamLinks = {
   { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1079 },
   { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
   ],
+  "Dear/19's Sound Factory": [
+  { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5928 },
+  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5196 },
+  { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1079 },
+  { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
+  ],
 
   
 };
