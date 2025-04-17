@@ -98,44 +98,95 @@ button:active { transform: scale(0.98); }
 
 /* --- Small Screens (Phones) --- */
 @media (max-width: 480px) {
-     #song-list { width: 95%; max-height: 68vh; }
-
-     /* Adjust header layout for small screens */
-     .song-list-header { padding: 6px 10px; gap: 6px; }
-     .song-list-header h2 { font-size: 1em; order: 1; margin-right: 0; /* Remove margin-right auto */ }
-     /* Force controls to the right, prevent wrapping within the group */
-     .header-controls-right {
-         order: 2; /* Place controls group after title */
-         margin-left: auto; /* Push the whole group to the right */
-         gap: 4px; /* Reduce gap */
-         flex-wrap: nowrap; /* Prevent wrapping inside the group */
+     #song-list {
+         width: 95%;
+         max-height: 68vh;
      }
-     .header-controls-right p { font-size: 0.75em; }
-     .header-controls-right button { padding: 5px 8px; font-size: 12px; white-space: nowrap; /* Prevent button text wrap */ }
-     #close-button { padding: 5px 10px; } /* Keep specific padding */
-     /* Ensure search input takes full width on the next line */
+
+     /* --- Header Layout for Small Screens --- */
+     .song-list-header {
+         display: flex;             /* 使用 Flexbox */
+         flex-wrap: wrap;           /* 允許換行 */
+         align-items: center;       /* 垂直居中對齊 */
+         padding: 6px 10px;
+         gap: 6px;                  /* 元素間的基礎間隙 */
+         /* 移除 justify-content: space-between; 由 margin 控制 */
+     }
+
+     .song-list-header h2 {
+         order: 1;                  /* 標題最先 */
+         margin-right: auto;        /* 將標題推到最左，讓右側元素靠右 */
+         font-size: 1em;            /* 調整字體大小 */
+         flex-shrink: 0;            /* 防止標題被壓縮 */
+     }
+
+     .song-list-header p {
+         order: 2;                  /* 總曲數在標題之後 */
+         font-size: 0.75em;         /* 調整字體大小 */
+         white-space: nowrap;       /* 防止文字換行 */
+         margin: 0;                 /* 移除可能的預設 margin */
+         flex-shrink: 0;            /* 防止被壓縮 */
+     }
+
+     #notion-header-button {
+         order: 3;                  /* Notion 按鈕接著 */
+         padding: 5px 8px;
+         font-size: 12px;
+         white-space: nowrap;
+         margin: 0;                 /* 移除之前的 margin: auto */
+         flex-shrink: 0;            /* 防止被壓縮 */
+     }
+
+     #close-button {
+         order: 4;                  /* 關閉按鈕最後 */
+         padding: 5px 10px;
+         font-size: 12px;
+         margin: 0;
+         flex-shrink: 0;            /* 防止被壓縮 */
+     }
+
      #search-input {
-         order: 3; /* Search comes last */
-         width: 100%; /* Full width */
-         min-width: 0; /* Remove min-width */
-         margin: 6px 0 0 0; /* Top margin only */
-         flex-basis: 100%; /* Ensure it takes full basis */
+         order: 5;                  /* 搜尋框放到最後換行 */
+         width: 100%;               /* 佔滿整行寬度 */
+         flex-basis: 100%;          /* 同上，確保佔滿基礎寬度 */
+         min-width: 0;              /* 移除可能的最小寬度限制 */
+         margin: 6px 0 0 0;         /* 只留上方間距 */
+         font-size: 13px;
+         padding: 6px 10px;
+     }
+     /* --- End Header Layout --- */
+
+     .list-filter-controls {
+         padding: 5px 10px;
+         justify-content: center;
+     }
+     label[for="list-song-type-filter"] {
+         font-size: 12px;
+     }
+     #list-song-type-filter {
+         font-size: 12px;
+         padding: 5px 8px;
+         min-width: 90px;
      }
 
-     .list-filter-controls { padding: 5px 10px; justify-content: center; }
-     label[for="list-song-type-filter"] { font-size: 12px; }
-     #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
+     #songs li {
+         padding: 5px 8px;
+     }
+     #songs li span {
+         font-size: 12px;
+         margin-right: 3px;
+     }
+     .copy-button {
+         padding: 3px 7px;
+         font-size: 10px;
+     }
 
-     #songs li { padding: 5px 8px; }
-     #songs li span { font-size: 12px; margin-right: 3px; }
-     .copy-button { padding: 3px 7px; font-size: 10px; }
-
-     /* Icon positioning */
+     /* Icon positioning - 保持不變 */
      #youtube-link { right: 10px; }
      #twitter-link { right: 60px; }
      #twitcasting-link { display: none; }
      #custom-link { display: none; }
-     #notion-link { display: block !important; bottom: 10px; right: 155px; } /* Adjusted left position */
+     #notion-link { display: block !important; bottom: 10px; right: 155px; }
      #amazon-link { left: 10px; }
      #booth-link { left: 60px; }
 }
