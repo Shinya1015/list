@@ -32,9 +32,11 @@ const songStreamLinks = {
   "からくりピエロ/40mP": [
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10472 },
      { date: "2023年1月924", videoId: "YI2mn04MU_s", timestamp: 2870 },
+ ],   
+"シリョクケンサ/40mP": [
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18149 },
+    { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3603 },
  ],
-   
-
 
   
 };
