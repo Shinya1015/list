@@ -694,32 +694,56 @@ function closeSongList() {
     if (mainContentDiv) mainContentDiv.style.display = "flex";
 }
 
+// --- ▼▼▼ 修改後的 showStreamLinksPopup 函數 ▼▼▼ ---
 function showStreamLinksPopup(songName) {
     const modal = document.getElementById('stream-links-modal');
     const overlay = document.getElementById('modal-overlay');
     const titleElement = document.getElementById('modal-song-title');
-    const listElement = document.getElementById('modal-stream-list');
+    const listElement = document.getElementById('modal-stream-list'); // This should be an <ol>
 
     if (!modal || !overlay || !titleElement || !listElement) {
         console.error("ポップアップ表示に必要なHTML要素が見つかりませんでした！");
         return;
     }
 
-    const links = songStreamLinks[songName];
+    const links = songStreamLinks[songName]; // Assume songStreamLinks is defined elsewhere
     titleElement.textContent = songName;
-    listElement.innerHTML = '';
+    listElement.innerHTML = ''; // Clear previous list items
 
-    links.forEach(linkInfo => {
+    // Check if links exist and display accordingly
+    if (!links || links.length === 0) {
+        // Display message if no links found
         const li = document.createElement('li');
-        li.textContent = linkInfo.date;
-        li.dataset.videoId = linkInfo.videoId;
-        li.dataset.timestamp = linkInfo.timestamp;
+        li.style.color = '#555'; // Style for non-clickable item
+        li.style.cursor = 'default';
+        li.textContent = '該当する配信記録のリンクが見つかりませんでした。';
         listElement.appendChild(li);
-    });
+    } else {
+        // Generate list items if links exist
+        links.forEach(linkInfo => {
+            const li = document.createElement('li');
 
+            // ▼▼▼【關鍵修改】創建 span 並添加 class ▼▼▼
+            const dateSpan = document.createElement('span');
+            dateSpan.textContent = linkInfo.date; // Put date text inside the span
+            dateSpan.classList.add('modal-list-date'); // Add class for styling
+            li.appendChild(dateSpan); // Add the span to the li
+            // ▲▲▲【修改完成】▲▲▲
+
+            // Store data attributes on the li element
+            li.dataset.videoId = linkInfo.videoId;
+            li.dataset.timestamp = linkInfo.timestamp;
+
+            listElement.appendChild(li); // Add the li to the list (<ol>)
+        });
+    }
+
+    // Display the modal and overlay
     modal.style.display = 'block';
     overlay.style.display = 'block';
 }
+// --- ▲▲▲ 修改後的 showStreamLinksPopup 函數結束 ▲▲▲ ---
+
 
 function closeStreamLinksPopup() {
     const modal = document.getElementById('stream-links-modal');
@@ -735,10 +759,8 @@ function openYouTubeLink(videoId, timestamp) {
     }
     const url = `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}s`;
     window.open(url, '_blank');
-   //closeStreamLinksPopup();
+   //closeStreamLinksPopup(); // Keeping popup open after click
 }
-// --- ▲▲▲ 彈出視窗相關函數結束 ▲▲▲ ---
-
 
 // --- 初始化和事件監聽器 ---
 document.addEventListener('DOMContentLoaded', () => {
