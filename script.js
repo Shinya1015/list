@@ -110,10 +110,14 @@ const songStreamLinks = {
   { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6961 },
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 6221 },
   ],
-"ジェミニ/鏡音リン・レン": [
+ "ジェミニ/鏡音リン・レン": [
   { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
-
+ "廃都アトリエスタにて/鏡音リン・レン": [
+  { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
+  { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
+  { date: "2024年12月44日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
+  ],
 
 
   
