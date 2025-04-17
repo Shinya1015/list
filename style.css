@@ -245,11 +245,18 @@ button:active { transform: scale(0.98); }
 }
 #modal-close-button:hover { color: #333; }
 .modal-body p { font-size: 0.9em; color: #555; margin-bottom: 10px; }
-#modal-stream-list { list-style: none; padding: 0; margin: 0; }
+#modal-stream-list {  list-style-type: decimal;padding: 0; margin: 0; padding-left: 25px; }
 #modal-stream-list li {
-    padding: 8px 5px; border-bottom: 1px dashed #eee; cursor: pointer;
-    font-size: 0.95em; color: #007bff; transition: background-color 0.2s ease;
+    /* padding: 8px 5px; 移除之前的左右 padding，讓數字更靠近 */
+    padding: 8px 0;           /* 只留上下 padding */
+    border-bottom: 1px dashed #eee;
+    cursor: pointer;
+    font-size: 0.95em;
+    color: #007bff;
+    transition: background-color 0.2s ease;
+    /* margin-left: 0; 確保沒有額外的左邊距 */
 }
+
 #modal-stream-list li:last-child { border-bottom: none; }
 #modal-stream-list li:hover { background-color: #f0f0f0; text-decoration: underline; }
 /* --- End Modal Styles --- */
