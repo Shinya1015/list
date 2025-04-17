@@ -75,7 +75,14 @@ const songStreamLinks = {
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3452 },
   { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12130 },
   ],
- 
+"Cosmic star/emon(Tes.)": [
+  { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 3270 },
+  { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 6336 },
+  { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
+  ],
+
+
+  
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
 
