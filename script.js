@@ -1,7 +1,14 @@
 
 const songStreamLinks = {
-  // !! 請務必將 videoId 和 timestamp 換成真實的資料 !!
-  "Tell Your World/livetune": [ // 原本最後一首，移到最前面
+ "Tell Your World/livetune": [
+    { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7422 },
+    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5948 },
+    { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11973 },
+  ],
+
+
+  
+  "Tell Your World/livetune": [
     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 16893 },
     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 2336 },
     { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7475 },
