@@ -694,7 +694,6 @@ function closeSongList() {
     if (mainContentDiv) mainContentDiv.style.display = "flex";
 }
 
-// --- ▼▼▼ 彈出視窗相關函數 (保持不變) ▼▼▼ ---
 function showStreamLinksPopup(songName) {
     const modal = document.getElementById('stream-links-modal');
     const overlay = document.getElementById('modal-overlay');
@@ -702,13 +701,13 @@ function showStreamLinksPopup(songName) {
     const listElement = document.getElementById('modal-stream-list');
 
     if (!modal || !overlay || !titleElement || !listElement) {
-        console.error("彈出視窗的 HTML 元素未找到！");
+        console.error("ポップアップ表示に必要なHTML要素が見つかりませんでした！");
         return;
     }
 
-    const links = songStreamLinks[songName]; // 這裡確定 links 存在且 > 0
+    const links = songStreamLinks[songName];
     titleElement.textContent = songName;
-    listElement.innerHTML = ''; // 清空舊列表項
+    listElement.innerHTML = '';
 
     links.forEach(linkInfo => {
         const li = document.createElement('li');
@@ -731,7 +730,7 @@ function closeStreamLinksPopup() {
 
 function openYouTubeLink(videoId, timestamp) {
     if (!videoId || timestamp === undefined || timestamp === null) {
-        console.error("無效的 YouTube 影片 ID 或時間戳！");
+        console.error("無効なYouTube動画IDまたはタイムスタンプです！");
         return;
     }
     const url = `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}s`;
