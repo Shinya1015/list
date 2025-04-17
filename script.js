@@ -68,8 +68,14 @@ const songStreamLinks = {
 "静電気。/emon(Tes.)": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14922 },
   ],
-
-  
+" too Cute!/emon(Tes.)": [
+  { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 4022 },
+  { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 2647 },
+  { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2851 },
+  { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3452 },
+  { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12130 },
+  ],
+ 
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
 
