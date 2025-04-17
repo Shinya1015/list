@@ -146,6 +146,14 @@ const songStreamLinks = {
  { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
  { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
   ],
+"Tell Your World/livetune": [
+ { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 16893 },
+ { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 2336 },
+  { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7475 },
+  { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 8360 },
+  { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 6930 },
+  { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
+  ],
 
 
 
