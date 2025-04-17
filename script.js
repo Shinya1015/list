@@ -118,6 +118,12 @@ const songStreamLinks = {
   { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
   { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
+"グッドナイトエクスプレス/鏡音リン・レン": [
+  { date: "2023年5月2日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
+    ],
+
+
+
 
 
   
