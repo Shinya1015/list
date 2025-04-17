@@ -856,6 +856,7 @@ const songStreamLinks = {
   // !! 請務必將 videoId 和 timestamp 換成真實的資料 !!
   "天ノ弱/164": [
     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 6351 },
+    { date: "2024年2月26日", videoId: "pjRxjZz-Cq0", timestamp: 12255 },
     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 3129 },
     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14160 }, 
     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1554 }
