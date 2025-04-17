@@ -252,7 +252,7 @@ button:active { transform: scale(0.98); }
     border-bottom: 1px dashed #eee;
     cursor: pointer;
     font-size: 0.95em;
-    color: #007bff;
+    color: #333;
     transition: background-color 0.2s ease;
     /* margin-left: 0; 確保沒有額外的左邊距 */
 }
