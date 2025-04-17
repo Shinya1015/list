@@ -893,6 +893,7 @@ const streamerSongList = [
     "1/6 -out of the gravity-/ぼーかりおどP",
     "1/6/ぼーかりおどP",
     "風待ちハローワールド/add9(ヘリP)",
+    "恋になりたいAQUARIUM/Aqours",
     "うっせぇわ/Ado",
     "唱/Ado",
     "新時代/Ado",
