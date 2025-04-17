@@ -135,8 +135,9 @@ const songStreamLinks = {
 "どうぶつ占い/すこっぷ": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20623 },
     ],
-
-
+"Packaged/kz(livetune)": [
+ { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 14691 },
+    ],
   
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
