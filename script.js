@@ -1,19 +1,22 @@
 
 const songStreamLinks = {
 
+
+
+
+
+
+
+ "Tómur/におP": [
+    { date: "2024年5月31日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
+    { date: "2023年6月8日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
+  ],   
 "ワンダーランドと羊の歌/ハチ": [
    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5143 },
    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22090 },
    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 2128 },
    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 9615 },
   ],
-
-
-
-
-
- 
-
  "Last Night,Good Night/livetune": [
     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 14779 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8450 },
