@@ -137,7 +137,15 @@ const songStreamLinks = {
     ],
 "Packaged/kz(livetune)": [
  { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 14691 },
-    ],
+   
+ { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7020 },
+ { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 8749 },
+
+ ],
+
+
+
+
   
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
