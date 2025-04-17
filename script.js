@@ -9,11 +9,15 @@ const songStreamLinks = {
     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 3129 },
     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14160 }, 
     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1554 }
-  ]
-  // --- 其他歌曲的資料，之後可以依照這個格式添加 ---
-  // "からくりピエロ/40mP": [
-  //   { date: "直播日期", videoId: "對應的YouTube影片ID", timestamp: 開始的秒數 }
-  // ],
+  ],
+  "タイムマシン/1640mP": [
+    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 18153 },
+    { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8159 },
+    { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 3069 },
+   ],
+
+
+  
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
 
