@@ -855,8 +855,8 @@ const lowPitchSongs = [
 const songStreamLinks = {
   // !! 請務必將 videoId 和 timestamp 換成真實的資料 !!
   "天ノ弱/164": [
-    { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14160 }, // 
-    { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 6351 }  // 
+    { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14160 }, //
+    { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 6351 }  //
   ]
   // --- 其他歌曲的資料，之後可以依照這個格式添加 ---
   // "からくりピエロ/40mP": [
@@ -872,8 +872,12 @@ const notionBaseUrl = "https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=
 
 function loadSongsCount() {
     const songCount = document.getElementById('song-count');
+    // 確保 streamerSongList 存在 (如果它在其他地方定義)
     if (songCount && typeof streamerSongList !== 'undefined') {
         songCount.textContent = `総曲数: ${streamerSongList.length}`;
+    } else if (songCount) {
+         // 如果 streamerSongList 未定義，可以顯示 0 或保持不變
+         // songCount.textContent = `総曲数: 0`;
     }
 }
 
@@ -883,6 +887,7 @@ function selectRandomSong() {
     const resultParagraph = document.getElementById("song-result");
     let songPool = [];
 
+    // 確保相關列表存在
     const allSongsDefined = typeof streamerSongList !== 'undefined' && streamerSongList.length > 0;
     const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.length > 0;
     const animeSongsDefined = typeof animeSongs !== 'undefined' && animeSongs.length > 0;
@@ -908,11 +913,9 @@ function selectRandomSong() {
     } else {
         resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！`;
     }
-
-    // Note: play-random-button related code seems missing or removed previously.
 }
 
-// --- ▼▼▼ 修改：顯示歌曲列表，並為歌名加上 class ---
+// --- ▼▼▼ 修改：顯示歌曲列表，並根據連結資料添加 class ---
 function toggleSongList() {
     document.getElementById("main-content").style.display = "none";
     const songListDiv = document.getElementById("song-list");
@@ -921,55 +924,55 @@ function toggleSongList() {
     const songListUl = document.getElementById("songs");
     songListUl.innerHTML = ""; // 清空舊列表
 
+    // 確保 streamerSongList 存在
     if (typeof streamerSongList === 'undefined' || streamerSongList.length === 0) {
         songListUl.innerHTML = "<li>曲リストが空です。</li>";
-        console.error("streamerSongList is not defined or empty!");
         const songCount = document.getElementById('song-count');
         if (songCount) songCount.textContent = `総曲数: 0`;
         return;
     }
 
-    // 生成列表項
     streamerSongList.forEach(displayName => {
         const li = document.createElement("li");
 
         // 歌曲名稱 Span
         const songSpan = document.createElement("span");
         songSpan.textContent = displayName;
-        songSpan.classList.add("song-name-link"); // 添加 class 使其可點擊
+
+        // ▼▼▼ 檢查是否有連結資料，並添加對應 class ▼▼▼
+        if (songStreamLinks && songStreamLinks[displayName] && songStreamLinks[displayName].length > 0) {
+            songSpan.classList.add("song-name--has-link"); // 有資料，設為可點擊樣式 (CSS中定義為藍色)
+        }
+        // ▲▲▲ 檢查結束 ▲▲▲
         li.appendChild(songSpan);
 
-        // 按鈕容器 (只放複製按鈕)
+        // 按鈕容器
         const buttonContainer = document.createElement("div");
         buttonContainer.classList.add("button-group");
-
         const copyButton = document.createElement("button");
         copyButton.textContent = "コピー";
         copyButton.classList.add("copy-button");
-        copyButton.dataset.song = displayName; // 使用 data attribute 儲存歌名
+        copyButton.dataset.song = displayName;
         buttonContainer.appendChild(copyButton);
-
         li.appendChild(buttonContainer);
+
         songListUl.appendChild(li);
     });
 
-    // --- 使用事件委派處理列表點擊 ---
-    // 移除舊監聽器 (如果之前有加)
+    // --- 事件委派處理列表點擊 ---
     songListUl.removeEventListener('click', handleSongListInteraction);
-    // 添加新監聽器
     songListUl.addEventListener('click', handleSongListInteraction);
-
 
     // 重置篩選和搜尋
     const searchInput = document.getElementById('search-input');
     if (searchInput) { searchInput.value = ""; }
     const filterSelect = document.getElementById('list-song-type-filter');
     if (filterSelect) { filterSelect.value = "すべて"; }
-    filterSongs(); // 應用預設篩選
-    loadSongsCount(); // 更新總數
+    filterSongs();
+    loadSongsCount();
 }
 
-// --- ▼▼▼ 修改：處理歌曲列表的互動 (複製按鈕 或 歌名點擊) ---
+// --- ▼▼▼ 修改：處理列表互動，點擊只對有連結的歌名生效 ---
 function handleSongListInteraction(event) {
     const target = event.target;
 
@@ -977,21 +980,17 @@ function handleSongListInteraction(event) {
     const copyBtn = target.closest('.copy-button');
     if (copyBtn && copyBtn.dataset.song) {
         copySongName(copyBtn.dataset.song, copyBtn);
-        return; // 處理完畢，不再往下檢查
+        return;
     }
 
-    // 檢查是否點擊了歌曲名稱
-    const songNameSpan = target.closest('.song-name-link');
+    // ▼▼▼ 檢查是否點擊了帶有連結的歌曲名稱 ▼▼▼
+    const songNameSpan = target.closest('.song-name--has-link'); // 只查找有 .song-name--has-link class 的元素
     if (songNameSpan) {
         const songName = songNameSpan.textContent;
-        // 檢查這首歌是否有對應的直播連結資料
-        if (songStreamLinks && songStreamLinks[songName]) {
-            showStreamLinksPopup(songName);
-        } else {
-            // 如果沒有資料，可以選擇提示用戶或不做任何事
-            console.log(`歌曲 "${songName}" 沒有找到對應的直播連結資料。`);
-        }
+        // 因為加了 class 就表示 songStreamLinks[songName] 存在且有內容
+        showStreamLinksPopup(songName);
     }
+    // ▲▲▲ 檢查結束 ▲▲▲
 }
 
 async function copySongName(songText, buttonElement) {
@@ -1001,7 +1000,6 @@ async function copySongName(songText, buttonElement) {
         buttonElement.textContent = 'コピー済み!';
         buttonElement.disabled = true;
         setTimeout(() => {
-            // Optional chaining and parent check for robustness
             if (buttonElement?.closest('ul#songs')) {
                 buttonElement.textContent = originalText;
                 buttonElement.disabled = false;
@@ -1024,29 +1022,35 @@ function filterSongs() {
     if (!songsUl) return;
     const listItems = songsUl.getElementsByTagName('li');
 
+    // 確保相關列表存在
+    const lowSongsDefined = typeof lowPitchSongs !== 'undefined';
+    const animeSongsDefined = typeof animeSongs !== 'undefined';
+
+
     for (let i = 0; i < listItems.length; i++) {
         const li = listItems[i];
-        const songSpan = li.querySelector('span.song-name-link'); // 確保選到歌名 span
+        // ▼▼▼ 選第一個 span 作為歌名判斷基準 ▼▼▼
+        const songSpan = li.querySelector('span:first-child');
+        // ▲▲▲ 修改選擇器 ▲▲▲
         if (songSpan) {
             const songNameText = songSpan.textContent || songSpan.innerText;
             const songNameLower = songNameText.toLowerCase();
 
-            // 檢查類型是否匹配
             let typeMatch = false;
             if (filterType === 'すべて') {
                 typeMatch = true;
             } else if (filterType === '低音') {
-                typeMatch = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.includes(songNameText);
+                // 加上列表存在的判斷
+                typeMatch = lowSongsDefined && lowPitchSongs.includes(songNameText);
             } else if (filterType === 'アニソン') {
-                typeMatch = typeof animeSongs !== 'undefined' && animeSongs.includes(songNameText);
+                 // 加上列表存在的判斷
+                typeMatch = animeSongsDefined && animeSongs.includes(songNameText);
             }
 
-            // 檢查文字是否匹配
             const textMatch = songNameLower.includes(searchText);
 
-            // 必須同時滿足文字和類型篩選
             if (textMatch && typeMatch) {
-                li.style.display = "flex"; // 或 "" 取消 display:none
+                li.style.display = "flex";
             } else {
                 li.style.display = "none";
             }
@@ -1058,13 +1062,10 @@ function closeSongList() {
     const songListDiv = document.getElementById("song-list");
     const mainContentDiv = document.getElementById("main-content");
     if (songListDiv) songListDiv.style.display = "none";
-    if (mainContentDiv) mainContentDiv.style.display = "flex"; // 或 "block" 依佈局
+    if (mainContentDiv) mainContentDiv.style.display = "flex";
 }
 
-
-// --- ▼▼▼ 新增：彈出視窗相關函數 ▼▼▼ ---
-
-// 顯示彈出視窗
+// --- ▼▼▼ 彈出視窗相關函數 (保持不變) ▼▼▼ ---
 function showStreamLinksPopup(songName) {
     const modal = document.getElementById('stream-links-modal');
     const overlay = document.getElementById('modal-overlay');
@@ -1076,33 +1077,22 @@ function showStreamLinksPopup(songName) {
         return;
     }
 
-    const links = songStreamLinks[songName];
-    if (!links || links.length === 0) {
-        console.warn(`歌曲 "${songName}" 的連結資料是空的。`);
-        // 可以選擇顯示一個提示訊息給用戶
-        titleElement.textContent = songName;
-        listElement.innerHTML = '<li>抱歉，目前沒有找到這首歌的直播紀錄連結。</li>';
-    } else {
-        titleElement.textContent = songName; // 設定彈窗標題
-        listElement.innerHTML = ''; // 清空舊的列表項
+    const links = songStreamLinks[songName]; // 這裡確定 links 存在且 > 0
+    titleElement.textContent = songName;
+    listElement.innerHTML = ''; // 清空舊列表項
 
-        // 生成新的列表項
-        links.forEach(linkInfo => {
-            const li = document.createElement('li');
-            li.textContent = linkInfo.date; // 顯示日期
-            // 將 videoId 和 timestamp 存在 data-* 屬性中
-            li.dataset.videoId = linkInfo.videoId;
-            li.dataset.timestamp = linkInfo.timestamp;
-            listElement.appendChild(li);
-        });
-    }
+    links.forEach(linkInfo => {
+        const li = document.createElement('li');
+        li.textContent = linkInfo.date;
+        li.dataset.videoId = linkInfo.videoId;
+        li.dataset.timestamp = linkInfo.timestamp;
+        listElement.appendChild(li);
+    });
 
-    // 顯示彈窗和遮罩
     modal.style.display = 'block';
     overlay.style.display = 'block';
 }
 
-// 關閉彈出視窗
 function closeStreamLinksPopup() {
     const modal = document.getElementById('stream-links-modal');
     const overlay = document.getElementById('modal-overlay');
@@ -1110,23 +1100,20 @@ function closeStreamLinksPopup() {
     if (overlay) overlay.style.display = 'none';
 }
 
-// 打開 YouTube 連結
 function openYouTubeLink(videoId, timestamp) {
     if (!videoId || timestamp === undefined || timestamp === null) {
         console.error("無效的 YouTube 影片 ID 或時間戳！");
         return;
     }
     const url = `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}s`;
-    window.open(url, '_blank'); // 在新分頁打開
-    closeStreamLinksPopup(); // 打開連結後自動關閉彈窗
+    window.open(url, '_blank');
+    closeStreamLinksPopup();
 }
-
 // --- ▲▲▲ 彈出視窗相關函數結束 ▲▲▲ ---
 
 
 // --- 初始化和事件監聽器 ---
 document.addEventListener('DOMContentLoaded', () => {
-    // Notion 頁首按鈕
     const notionHeaderButton = document.getElementById('notion-header-button');
     if (notionHeaderButton) {
         notionHeaderButton.addEventListener('click', () => {
@@ -1134,51 +1121,57 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 彈出視窗的關閉按鈕
     const modalCloseButton = document.getElementById('modal-close-button');
     if (modalCloseButton) {
         modalCloseButton.addEventListener('click', closeStreamLinksPopup);
     }
 
-    // 點擊背景遮罩關閉彈窗
     const overlay = document.getElementById('modal-overlay');
     if (overlay) {
         overlay.addEventListener('click', closeStreamLinksPopup);
     }
 
-    // 使用事件委派處理彈窗內日期列表的點擊
     const modalList = document.getElementById('modal-stream-list');
     if (modalList) {
         modalList.addEventListener('click', (event) => {
-            const targetLi = event.target.closest('li'); // 確保點擊的是 li 元素
+            const targetLi = event.target.closest('li');
             if (targetLi && targetLi.dataset.videoId && targetLi.dataset.timestamp) {
                 openYouTubeLink(targetLi.dataset.videoId, targetLi.dataset.timestamp);
             }
         });
     }
 
-    // 載入歌曲總數
-    loadSongsCount();
-
-    // 生成流星 (保持不變)
-    const numberOfMeteors = 60;
-    for (let i = 0; i < numberOfMeteors; i++) {
-        const meteor = document.createElement('div');
-        meteor.classList.add('meteor');
-        document.body.appendChild(meteor);
-        let startX = Math.random() * 160 - 60;
-        let startY = Math.random() * -30 - 40;
-        if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
-            startX = Math.random() * 160 - 60;
-            startY = Math.random() * -30 - 40;
-        }
-        const endX = startX + (Math.random() * 40 - 20);
-        const endY = 110;
-        meteor.style.setProperty('--start-x', `${startX}vw`);
-        meteor.style.setProperty('--start-y', `${startY}vh`);
-        meteor.style.setProperty('--end-x', `${endX}vw`);
-        meteor.style.setProperty('--end-y', `${endY}vh`);
-        meteor.style.animationDuration = `${Math.random() * 3 + 3}s`;
-        meteor.style.animationDelay = `${Math.random() * 3}s`;
+    // 確保 loadSongsCount 和流星生成只執行一次
+    // (如果 streamerSongList 等列表在其他地方延遲載入，這部分可能需要調整)
+    if (typeof streamerSongList !== 'undefined') {
+       loadSongsCount();
     }
+
+    // 生成流星
+    const numberOfMeteors = 60;
+    // 確保 body 存在才添加流星
+    if (document.body) {
+        for (let i = 0; i < numberOfMeteors; i++) {
+            const meteor = document.createElement('div');
+            meteor.classList.add('meteor');
+            document.body.appendChild(meteor);
+            let startX = Math.random() * 160 - 60;
+            let startY = Math.random() * -30 - 40;
+            if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
+                startX = Math.random() * 160 - 60;
+                startY = Math.random() * -30 - 40;
+            }
+            const endX = startX + (Math.random() * 40 - 20);
+            const endY = 110;
+            meteor.style.setProperty('--start-x', `${startX}vw`);
+            meteor.style.setProperty('--start-y', `${startY}vh`);
+            meteor.style.setProperty('--end-x', `${endX}vw`);
+            meteor.style.setProperty('--end-y', `${endY}vh`);
+            meteor.style.animationDuration = `${Math.random() * 3 + 3}s`;
+            meteor.style.animationDelay = `${Math.random() * 3}s`;
+        }
+    } else {
+        console.error("無法生成流星：document.body 不存在。");
+    }
+
 }); // DOMContentLoaded 結束
