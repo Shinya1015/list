@@ -33,6 +33,18 @@
           <button id="notion-header-button">Notionリストへ</button>
           <button id="close-button" onclick="closeSongList()">閉じる</button>
       </div>
+
+      <!-- ▼▼▼ 新增的篩選區域 ▼▼▼ -->
+      <div class="list-filter-controls">
+           <label for="list-song-type-filter">表示タイプ：</label>
+           <select id="list-song-type-filter" name="list-song-type" onchange="filterSongs()">
+               <option value="すべて">すべて</option>
+               <option value="低音">低音</option>
+               <option value="アニソン">アニソン</option>
+           </select>
+      </div>
+      <!-- ▲▲▲ 篩選區域結束 ▲▲▲ -->
+
       <div class="scrollable-list">
           <ul id="songs">
 
