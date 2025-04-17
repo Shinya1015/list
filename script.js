@@ -5,7 +5,10 @@ const songStreamLinks = {
 
 
 
-
+ "Rabbit/一億円P feat. 初音ミク": [
+    { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1746 },
+    { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1135 },
+  ],   
 "マトリョシカ/初音ミク・GUMI": [
   { date: "2024年5月4日", videoId: "ocR9SezEBfQ", timestamp: 6353 },
   ],   
