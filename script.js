@@ -863,7 +863,93 @@ const lowPitchSongs = [
 // --- Notion 頁面基礎 URL (請確保這是你的目標頁面) ---
 const notionBaseUrl = "https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652"; // 這是你提供的頁面連結
 
-// --- 修改: 生成列表，添加「Notion で検索」按鈕 ---
+// --- 檢查重複並提示 (可選，開發時有用) ---
+if (typeof streamerSongList !== 'undefined') {
+    const duplicates = streamerSongList.filter((item, index) => streamerSongList.indexOf(item) !== index);
+    if (duplicates.length > 0) {
+        console.warn("警告：全部歌單 (streamerSongList) 中發現重複項目:", duplicates);
+    }
+}
+// ---
+
+// 更新歌曲總數 (使用 streamerSongList)
+function loadSongsCount() {
+    const songCount = document.getElementById('song-count');
+    // 確保 streamerSongList 已定義再計算長度
+    if (songCount && typeof streamerSongList !== 'undefined') {
+        songCount.textContent = `総曲数: ${streamerSongList.length}`;
+    }
+}
+// 頁面加載時計算一次 (確保 streamerSongList 已加載)
+if (typeof streamerSongList !== 'undefined') {
+    loadSongsCount();
+}
+
+
+// 根據下拉選單抽選歌曲 (給主播)
+function selectRandomSong() {
+    const selector = document.getElementById('song-type-selector');
+    const selectedType = selector ? selector.value : "すべて";
+    const resultParagraph = document.getElementById("song-result");
+
+    let songPool = []; // 抽選池
+
+    // 確保列表已定義
+    const allSongsDefined = typeof streamerSongList !== 'undefined' && streamerSongList.length > 0;
+    const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.length > 0;
+
+    if (selectedType === "すべて") {
+        if (allSongsDefined) {
+            songPool = streamerSongList;
+        } else {
+             resultParagraph.textContent = "曲リストが読み込まれていません！";
+             return; // 提前退出
+        }
+    } else if (selectedType === "低音") {
+        if (lowSongsDefined) {
+            songPool = lowPitchSongs;
+        } else {
+             resultParagraph.textContent = "低音曲リストが空か、定義されていません！";
+             return; // 提前退出
+        }
+    }
+    // --- 未來擴展：在這裡添加 else if 處理其他類型 ---
+    // else if (selectedType === "高音") {
+    //     if (typeof highPitchSongs !== 'undefined' && highPitchSongs.length > 0) {
+    //         songPool = highPitchSongs;
+    //     } else { ... }
+    // }
+    else {
+        // 如果選擇了未知的類型，默認使用全部列表
+        console.warn(`未知的抽選類型: ${selectedType}，將從全部歌曲中抽選。`);
+        if (allSongsDefined) {
+            songPool = streamerSongList;
+        } else {
+             resultParagraph.textContent = "曲リストが読み込まれていません！";
+             return;
+        }
+    }
+
+    // 檢查選定的列表是否有歌曲
+    if (songPool && songPool.length > 0) {
+        const randomIndex = Math.floor(Math.random() * songPool.length);
+        const selectedSongName = songPool[randomIndex];
+        resultParagraph.textContent = selectedSongName; // 顯示選中的歌名
+    } else {
+        // 理論上前面的檢查已經處理了空列表，但以防萬一
+        resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！`;
+    }
+
+    // 確保抽選結果旁沒有按鈕 (因為此功能純為顯示歌名)
+    const playRandomButton = document.getElementById('play-random-button');
+    if (playRandomButton) {
+        playRandomButton.style.display = 'none';
+        playRandomButton.disabled = true;
+    }
+}
+
+
+// 生成列表，添加「Notion で検索」按鈕
 function toggleSongList() {
     document.getElementById("main-content").style.display = "none";
     const songListDiv = document.getElementById("song-list");
@@ -871,6 +957,16 @@ function toggleSongList() {
 
     const songListUl = document.getElementById("songs");
     songListUl.innerHTML = "";
+
+    // 確保 streamerSongList 已定義
+    if (typeof streamerSongList === 'undefined' || streamerSongList.length === 0) {
+        songListUl.innerHTML = "<li>曲リストが空です。</li>"; // 列表為空時顯示提示
+        console.error("streamerSongList is not defined or empty!");
+        // 更新計數為 0
+        const songCount = document.getElementById('song-count');
+        if (songCount) songCount.textContent = `総曲数: 0`;
+        return; // 提前退出
+    }
 
     streamerSongList.forEach(displayName => {
         const li = document.createElement("li");
@@ -881,178 +977,25 @@ function toggleSongList() {
         const buttonContainer = document.createElement("div");
         buttonContainer.classList.add("button-group");
 
-        // 複製按鈕 (不變)
+        // 複製按鈕
         const copyButton = document.createElement("button");
         copyButton.textContent = "コピー";
         copyButton.classList.add("copy-button");
         copyButton.dataset.song = displayName;
         buttonContainer.appendChild(copyButton);
 
-        // --- 新增: 「Notion で検索」按鈕 ---
+        // Notion 搜尋按鈕
         const searchNotionButton = document.createElement("button");
-        searchNotionButton.textContent = "Notion検索"; // 按鈕文字: Notion 搜尋
-        searchNotionButton.classList.add("search-notion-button"); // 新 class
-        searchNotionButton.dataset.songname = displayName; // 存儲要搜尋的歌名
+        searchNotionButton.textContent = "Notion検索";
+        searchNotionButton.classList.add("search-notion-button");
+        searchNotionButton.dataset.songname = displayName;
         buttonContainer.appendChild(searchNotionButton);
-        // --- 按鈕添加結束 ---
 
         li.appendChild(buttonContainer);
         songListUl.appendChild(li);
     });
 
-    // 事件委派處理 (添加對新按鈕的處理)
-    songListUl.removeEventListener('click', handleListButtonClick);
-    songListUl.addEventListener('click', handleListButtonClick);
-
-    // 清空搜尋框 (不變)
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
-        searchInput.value = "";
-        filterSongs();
-    }
-}
-
-// --- 修改: 列表按鈕處理，添加 Notion 搜尋邏輯 ---
-function handleListButtonClick(event) {
-    const target = event.target;
-    if (target.classList.contains('copy-button')) {
-        const songToCopy = target.dataset.song;
-        copySongName(songToCopy, target);
-    } else if (target.classList.contains('search-notion-button')) { // 處理新按鈕
-        const songNameToSearch = target.dataset.songname;
-        searchSongInNotion(songNameToSearch); // 調用新的函數
-    }
-}
-
-// --- 新增: 嘗試生成 Notion 搜尋連結並打開 ---
-function searchSongInNotion(songName) {
-    if (!songName) return;
-
-    // 嘗試從 "歌名/作者" 中提取更純粹的歌名作為關鍵字
-    let searchTerm = songName.split('/')[0].trim(); // 取 / 前面的部分
-
-    // 對搜尋關鍵字進行 URL 編碼
-    const encodedSearchTerm = encodeURIComponent(searchTerm);
-
-    // --- 嘗試不同的 URL 參數 (以下都是猜測!) ---
-    // 嘗試 1: 通用 query 參數
-    const urlAttempt1 = `${notionBaseUrl}&query=${encodedSearchTerm}`; // 在現有參數後加 &
-    // 嘗試 2: 通用 search 參數
-    // const urlAttempt2 = `${notionBaseUrl}&search=${encodedSearchTerm}`;
-    // 嘗試 3: 完全替換參數 (可能性極低)
-    // const baseUrlOnly = notionBaseUrl.split('?')[0];
-    // const urlAttempt3 = `${baseUrlOnly}?query=${encodedSearchTerm}`;
-
-    console.log(`嘗試打開 Notion 搜尋連結: ${urlAttempt1}`); // 在控制台輸出，方便調試
-
-    // --- 打開連結 ---
-    // 我們只嘗試第一種最可能的方式
-    window.open(urlAttempt1, '_blank');
-
-    // ** 預期結果：很可能只是打開了 Notion 頁面，但並沒有自動搜尋 **
-    alert(`「${searchTerm}」でNotionページを開こうとしています。\n自動検索は機能しない可能性が高いです。\nページ内で手動で検索してください。`); // 提示用戶可能需要手動搜尋
-}
-
-
-
-// --- 檢查重複並提示 (可選，開發時有用) ---
-const duplicates = streamerSongList.filter((item, index) => streamerSongList.indexOf(item) !== index);
-if (duplicates.length > 0) {
-    console.warn("警告：全部歌單 (streamerSongList) 中發現重複項目:", duplicates);
-}
-// ---
-
-// 更新歌曲總數 (使用 streamerSongList)
-function loadSongsCount() {
-    const songCount = document.getElementById('song-count');
-    if (songCount) {
-        // 顯示的是【唯一】歌名的數量，如果 streamerSongList 本身保證唯一，就用它的長度
-        // 如果 streamerSongList 可能有重複（雖然不建議），可以用 Set 去重後計算
-        // 假設 streamerSongList 設計上是唯一的
-        songCount.textContent = `総曲数: ${streamerSongList.length}`;
-    }
-}
-loadSongsCount(); // 頁面加載時計算一次
-
-// 根據下拉選單抽選歌曲 (給主播)
-function selectRandomSong() {
-    const selector = document.getElementById('song-type-selector');
-    const selectedType = selector ? selector.value : "すべて";
-    const resultParagraph = document.getElementById("song-result");
-
-    let songPool = []; // 抽選池
-
-    if (selectedType === "すべて") {
-        songPool = streamerSongList;
-    } else if (selectedType === "低音") {
-        songPool = lowPitchSongs;
-    }
-    // --- 未來擴展：在這裡添加 else if 處理其他類型 ---
-    // else if (selectedType === "高音") {
-    //     songPool = highPitchSongs; // 假設你定義了 highPitchSongs
-    // }
-    else {
-        // 如果選擇了未知的類型（理論上不應發生），默認使用全部列表
-        console.warn(`未知的抽選類型: ${selectedType}，將從全部歌曲中抽選。`);
-        songPool = streamerSongList;
-    }
-
-    // 檢查選定的列表是否有歌曲
-    if (songPool && songPool.length > 0) {
-        const randomIndex = Math.floor(Math.random() * songPool.length);
-        const selectedSongName = songPool[randomIndex];
-        resultParagraph.textContent = selectedSongName; // 顯示選中的歌名
-    } else {
-        // 如果選中的類型列表是空的
-        if (selectedType === "すべて") {
-            resultParagraph.textContent = "曲リストが空です！";
-        } else {
-            resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！リストを確認してください。`;
-             // 提示主播去添加
-             // alert(`「${selectedType}」の曲リストが空か、定義されていません。script.js ファイルを確認・編集してください。`);
-        }
-    }
-
-    // 確保抽選結果旁沒有按鈕 (因為此功能純為顯示歌名)
-    const playRandomButton = document.getElementById('play-random-button'); // 檢查舊ID是否存在，以防萬一
-    if (playRandomButton) {
-        playRandomButton.style.display = 'none';
-        playRandomButton.disabled = true;
-    }
-}
-
-
-// 顯示【觀眾看】的唯一歌名列表 (只含複製按鈕)
-function toggleSongList() {
-    document.getElementById("main-content").style.display = "none";
-    const songListDiv = document.getElementById("song-list");
-    songListDiv.style.display = "flex";
-
-    const songListUl = document.getElementById("songs");
-    songListUl.innerHTML = "";
-
-    // 使用 streamerSongList 生成列表，確保包含所有歌曲且順序一致
-    streamerSongList.forEach(displayName => {
-        const li = document.createElement("li");
-        const songSpan = document.createElement("span");
-        songSpan.textContent = displayName;
-        li.appendChild(songSpan);
-
-        // 只添加複製按鈕
-        const buttonContainer = document.createElement("div");
-        buttonContainer.classList.add("button-group"); // 沿用 class 方便 CSS 對齊
-
-        const copyButton = document.createElement("button");
-        copyButton.textContent = "コピー"; // 日文 コピー
-        copyButton.classList.add("copy-button");
-        copyButton.dataset.song = displayName; // 存儲歌名以供複製
-        buttonContainer.appendChild(copyButton);
-
-        li.appendChild(buttonContainer);
-        songListUl.appendChild(li);
-    });
-
-    // 事件委派處理 (只處理複製)
+    // 事件委派處理
     songListUl.removeEventListener('click', handleListButtonClick);
     songListUl.addEventListener('click', handleListButtonClick);
 
@@ -1060,43 +1003,62 @@ function toggleSongList() {
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
         searchInput.value = "";
-        filterSongs();
+        filterSongs(); // 確保 filterSongs 能處理列表項
     }
+    // 更新歌曲計數
+    loadSongsCount();
 }
 
-// 列表按鈕處理 (只處理複製)
+// 列表按鈕處理
 function handleListButtonClick(event) {
-    const target = event.target;
-    if (target.classList.contains('copy-button')) {
-        const songToCopy = target.dataset.song;
-        copySongName(songToCopy, target);
+    const copyBtn = event.target.closest('.copy-button');
+    const searchBtn = event.target.closest('.search-notion-button');
+
+    if (copyBtn) {
+        copySongName(copyBtn.dataset.song, copyBtn);
+    } else if (searchBtn) {
+        searchSongInNotion(searchBtn.dataset.songname);
     }
 }
 
-// 複製函數 (使用日文提示)
+// 嘗試在 Notion 中搜尋歌曲
+function searchSongInNotion(songName) {
+    if (!songName) return;
+    let searchTerm = songName.split('/')[0].trim();
+    const encodedSearchTerm = encodeURIComponent(searchTerm);
+    const urlAttempt = `${notionBaseUrl}&query=${encodedSearchTerm}`;
+    console.log(`嘗試打開 Notion 搜尋連結: ${urlAttempt}`);
+    window.open(urlAttempt, '_blank');
+    alert(`「${searchTerm}」でNotionページを開こうとしています。\n自動検索は機能しない可能性が高いです。\nページ内で手動で検索してください。`);
+}
+
+// 複製歌名函數
 async function copySongName(songText, buttonElement) {
    try {
         await navigator.clipboard.writeText(songText);
         const originalText = buttonElement.textContent;
-        buttonElement.textContent = 'コピー済み!'; // 日文 コピー済み!
+        buttonElement.textContent = 'コピー済み!'; // 日文提示
         buttonElement.disabled = true;
         setTimeout(() => {
-            // 防止按鈕在列表重新生成前被恢復
-            if (buttonElement) {
+            if (buttonElement && !buttonElement.closest('ul#songs').hidden) { // 檢查按鈕是否還在 DOM 中且列表可見
                 buttonElement.textContent = originalText;
                 buttonElement.disabled = false;
             }
         }, 1500);
     } catch (err) {
-        console.error('テキストのコピーに失敗しました: ', err); // 日文錯誤提示
-        // alert('コピーに失敗しました。'); // 可選的 alert
+        console.error('テキストのコピーに失敗しました: ', err);
     }
 }
 
-// 過濾函數 (不變)
+// 過濾歌曲列表函數
 function filterSongs() {
-    const filter = document.getElementById('search-input').value.toLowerCase();
+    const searchInput = document.getElementById('search-input');
+    if (!searchInput) return; // 如果搜尋框不存在，直接返回
+
+    const filter = searchInput.value.toLowerCase();
     const songsUl = document.getElementById('songs');
+    if (!songsUl) return; // 如果列表不存在，直接返回
+
     const listItems = songsUl.getElementsByTagName('li');
 
     for (let i = 0; i < listItems.length; i++) {
@@ -1113,30 +1075,34 @@ function filterSongs() {
     }
 }
 
-// 關閉列表函數 (不變)
+// 關閉歌曲列表函數
 function closeSongList() {
-    document.getElementById("song-list").style.display = "none";
-    document.getElementById("main-content").style.display = "block";
+    const songListDiv = document.getElementById("song-list");
+    const mainContentDiv = document.getElementById("main-content");
+    if (songListDiv) songListDiv.style.display = "none";
+    if (mainContentDiv) mainContentDiv.style.display = "block"; // 或者 "flex" 如果主內容是 flex 佈局
 }
 
-// --- 流星生成代碼 (保持不變) ---
+// --- 流星生成代碼 ---
 const numberOfMeteors = 60;
-for (let i = 0; i < numberOfMeteors; i++) {
-    const meteor = document.createElement('div');
-    meteor.classList.add('meteor');
-    document.body.appendChild(meteor);
-    let startX = Math.random() * 160 - 60;
-    let startY = Math.random() * -30 - 40;
-    if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
-        startX = Math.random() * 160 - 60;
-        startY = Math.random() * -30 - 40;
+if (typeof document !== 'undefined') { // 確保在瀏覽器環境下運行
+    for (let i = 0; i < numberOfMeteors; i++) {
+        const meteor = document.createElement('div');
+        meteor.classList.add('meteor');
+        document.body.appendChild(meteor);
+        let startX = Math.random() * 160 - 60;
+        let startY = Math.random() * -30 - 40;
+        if (Math.abs(startX) < 20 && Math.abs(startY) < 20) {
+            startX = Math.random() * 160 - 60;
+            startY = Math.random() * -30 - 40;
+        }
+        const endX = startX + (Math.random() * 40 - 20);
+        const endY = 110;
+        meteor.style.setProperty('--start-x', `${startX}vw`);
+        meteor.style.setProperty('--start-y', `${startY}vh`);
+        meteor.style.setProperty('--end-x', `${endX}vw`);
+        meteor.style.setProperty('--end-y', `${endY}vh`);
+        meteor.style.animationDuration = `${Math.random() * 3 + 3}s`;
+        meteor.style.animationDelay = `${Math.random() * 3}s`;
     }
-    const endX = startX + (Math.random() * 40 - 20);
-    const endY = 110;
-    meteor.style.setProperty('--start-x', `${startX}vw`);
-    meteor.style.setProperty('--start-y', `${startY}vh`);
-    meteor.style.setProperty('--end-x', `${endX}vw`);
-    meteor.style.setProperty('--end-y', `${endY}vh`);
-    meteor.style.animationDuration = `${Math.random() * 3 + 3}s`;
-    meteor.style.animationDelay = `${Math.random() * 3}s`;
 }
