@@ -46,8 +46,10 @@ const songStreamLinks = {
   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 13972 },
   { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 2152 },
  ],
-
-
+"フタリボシ/40mP": [
+  { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 10481 },
+  { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
+ ],
 
 
 
