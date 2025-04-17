@@ -132,6 +132,11 @@ const songStreamLinks = {
   { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4568 },
   { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
     ],
+"どうぶつ占い/すこっぷ": [
+  { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20623 },
+    ],
+
+
   
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
