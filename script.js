@@ -99,6 +99,7 @@ const lowPitchSongs = [
     "glow/keeno",
     "crack/keeno",
     "bitter/keeno",
+    "Dragon Night/SEKAI NO OWARI",
     "フラジール/ぬゆり",
     "僕が死のうと思ったのは/amazarashi",
     "季節は次々死んでいく/amazarashi",
@@ -1166,6 +1167,7 @@ const streamerSongList = [
     "最高到達点/SEKAI NO OWARI",                       // ONE PIECE 航海王
     "RPG/SEKAI NO OWARI",                               // 蠟筆小新：超級美味！B級美食大逃亡！！ (Crayon Shin-chan Movie 21) - 電影
     "Take Your Way/SEKAI NO OWARI",                     // 烏龍派出所電影版2相關歌曲 (雖然最終未使用)
+    "Dragon Night/SEKAI NO OWARI", 
     "桃源郷エイリアン/serial TV drama",                 // 銀魂' (Gintama')
     "LOVEトロピカ～ナ/Sister MAYO",                    // 熱帶雨林的爆笑生活 (Haré+Guu)
     "世界に一つだけの花/SMAP",
