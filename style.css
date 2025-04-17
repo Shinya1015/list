@@ -16,18 +16,73 @@ button:active { transform: scale(0.98); }
 #song-result { margin-top: 10px; margin-bottom: 5px; font-size: 20px; color: #6A0DAD; font-weight: bold; min-height: 1.5em; line-height: 1.5; }
 
 #song-list { display: none; flex-direction: column; width: 100%; max-width: 700px; margin: 10px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); height: auto; max-height: 80vh; overflow: hidden; position: relative; padding: 0; box-sizing: border-box; }
-/* --- Base Header Styles --- */
-.song-list-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; width: 100%; padding: 10px 15px; background-color: #f8f9fa; z-index: 3; box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-sizing: border-box; gap: 10px; }
-.song-list-header h2 { margin: 0; margin-right: auto; font-size: 1.3em; color: #343a40; flex-shrink: 0; }
-/* New container for right controls */
-.header-controls-right { display: flex; align-items: center; gap: 8px; /* Adjust gap as needed */ flex-shrink: 0; margin-left: auto; /* Push group to the right */ }
-.header-controls-right p { margin: 0; font-size: 0.9em; color: #6c757d; white-space: nowrap;}
-.header-controls-right button { margin: 0; flex-shrink: 0; padding: 8px 12px; font-size: 14px; } /* Base button style in group */
-#notion-header-button { background-color: #5bc0de; color: white; white-space: nowrap; }
+
+/* --- Base Header Styles (Default/Desktop) --- */
+.song-list-header {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping for responsiveness, though ideally not needed on desktop */
+    /* justify-content: space-between; Let margin handle spacing */
+    align-items: center;
+    width: 100%;
+    padding: 10px 15px;
+    background-color: #f8f9fa;
+    z-index: 3;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    box-sizing: border-box;
+    gap: 15px; /* Add gap between flex items */
+}
+
+.song-list-header h2 {
+    margin: 0; /* Reset margin */
+    /* margin-right: auto; Removed for base, let elements flow */
+    font-size: 1.3em;
+    color: #343a40;
+    flex-shrink: 0;
+}
+
+.song-list-header p {
+    margin: 0; /* Reset margin, use gap for spacing */
+    margin-left: 5px; /* Add small left margin to separate from h2 */
+    font-size: 0.9em;
+    color: #6c757d;
+    white-space: nowrap;
+    flex-shrink: 0;
+}
+
+#search-input {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    flex-grow: 1; /* Allow search to grow and fill space */
+    min-width: 180px;
+    box-sizing: border-box;
+    margin: 0; /* Reset margin, rely on flex gap/order */
+}
+
+#notion-header-button {
+    margin: 0; /* Reset margin */
+    margin-left: auto; /* Push Notion button AND Close button to the far right */
+    flex-shrink: 0;
+    background-color: #5bc0de;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    white-space: nowrap;
+}
 #notion-header-button:hover { background-color: #31b0d5; }
-#close-button { background-color: #dc3545; color: white; padding: 8px 15px; } /* Keep specific padding if needed */
+
+#close-button {
+    margin: 0; /* Reset margin */
+    flex-shrink: 0;
+    background-color: #dc3545;
+    color: white;
+    padding: 8px 15px;
+    font-size: 14px;
+}
 #close-button:hover { background-color: #c82333; }
-#search-input { padding: 8px 12px; font-size: 14px; border: 1px solid #ced4da; border-radius: 4px; flex-grow: 1; min-width: 180px; box-sizing: border-box; width: 100%; /* Make it take full width when wraps */ order: 3; /* Ensure it comes last in flow */ margin-top: 8px; /* Add space when wrapped */ }
+/* --- End Base Header Styles --- */
+
 
 .list-filter-controls { padding: 8px 15px; background-color: #f1f3f5; border-bottom: 1px solid #e9ecef; display: flex; align-items: center; gap: 8px; }
 .list-filter-controls label { margin: 0; }
@@ -66,14 +121,12 @@ button:active { transform: scale(0.98); }
     #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
 
     /* Adjust header layout for medium screens */
-    .song-list-header { padding: 8px 12px; gap: 8px; }
+    .song-list-header { padding: 8px 12px; gap: 10px; } /* Adjusted gap */
     .song-list-header h2 { font-size: 1.1em; }
-    /* Make search input slightly less dominant, allow right controls more space */
-    #search-input { flex-grow: 0.8; min-width: 120px; order: 2; margin-top: 0; }
-    .header-controls-right { order: 3; gap: 6px; margin-left: 0; /* Remove margin-left auto here */ }
-    .header-controls-right p { font-size: 0.8em; }
-    .header-controls-right button { padding: 6px 10px; font-size: 13px; }
-    #close-button { padding: 6px 12px; } /* Keep specific padding */
+    .song-list-header p { font-size: 0.8em; margin-left: 3px; } /* Reduced left margin */
+    #search-input { font-size: 13px; padding: 6px 10px; min-width: 120px; } /* Adjusted min-width */
+    #notion-header-button { padding: 6px 10px; font-size: 13px; }
+    #close-button { padding: 6px 12px; font-size: 13px; }
 
     .list-filter-controls { padding: 6px 12px; }
     label[for="list-song-type-filter"] { font-size: 13px; }
@@ -91,97 +144,76 @@ button:active { transform: scale(0.98); }
     #twitter-link { right: 60px; }
     #twitcasting-link { right: 110px; }
     #custom-link { display: none; }
-    #notion-link { display: block !important; bottom: 10px; right: 225px; } /* Adjusted left position */
+    #notion-link { display: block !important; bottom: 10px; right: 225px; }
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
 }
 
 /* --- Small Screens (Phones) --- */
 @media (max-width: 480px) {
-     #song-list {
-         width: 95%;
-         max-height: 68vh;
-     }
+     #song-list { width: 95%; max-height: 68vh; }
 
-     /* --- Header Layout for Small Screens --- */
+     /* Adjust header layout for small screens */
      .song-list-header {
-         display: flex;             /* 使用 Flexbox */
-         flex-wrap: wrap;           /* 允許換行 */
-         align-items: center;       /* 垂直居中對齊 */
          padding: 6px 10px;
-         gap: 6px;                  /* 元素間的基礎間隙 */
-         /* 移除 justify-content: space-between; 由 margin 控制 */
+         gap: 6px; /* Adjust gap between elements */
+         /* justify-content: space-between; Removed, using margins now */
      }
 
      .song-list-header h2 {
-         order: 1;                  /* 標題最先 */
-         margin-right: auto;        /* 將標題推到最左，讓右側元素靠右 */
-         font-size: 1em;            /* 調整字體大小 */
-         flex-shrink: 0;            /* 防止標題被壓縮 */
+         order: 1;
+         margin: 0; /* Remove margin-right: auto */
+         font-size: 1em;
      }
 
      .song-list-header p {
-         order: 2;                  /* 總曲數在標題之後 */
-         font-size: 0.75em;         /* 調整字體大小 */
-         white-space: nowrap;       /* 防止文字換行 */
-         margin: 0;                 /* 移除可能的預設 margin */
-         flex-shrink: 0;            /* 防止被壓縮 */
+         order: 2;
+         font-size: 0.75em;
+         white-space: nowrap;
+         margin: 0; /* Remove default margins */
+         margin-left: 5px; /* Add space after h2 */
      }
 
+     /* Group Notion and Close buttons together and push right */
      #notion-header-button {
-         order: 3;                  /* Notion 按鈕接著 */
+         order: 3;
          padding: 5px 8px;
          font-size: 12px;
          white-space: nowrap;
-         margin: 0;                 /* 移除之前的 margin: auto */
-         flex-shrink: 0;            /* 防止被壓縮 */
+         margin: 0;
+         margin-left: auto; /* Push THIS button and the next one (Close) to the right */
+         flex-shrink: 0;
      }
 
      #close-button {
-         order: 4;                  /* 關閉按鈕最後 */
+         order: 4;
          padding: 5px 10px;
          font-size: 12px;
          margin: 0;
-         flex-shrink: 0;            /* 防止被壓縮 */
+         flex-shrink: 0;
      }
 
      #search-input {
-         order: 5;                  /* 搜尋框放到最後換行 */
-         width: 100%;               /* 佔滿整行寬度 */
-         flex-basis: 100%;          /* 同上，確保佔滿基礎寬度 */
-         min-width: 0;              /* 移除可能的最小寬度限制 */
-         margin: 6px 0 0 0;         /* 只留上方間距 */
+         order: 5;                  /* Search comes last */
+         width: 100%;               /* Full width */
+         flex-basis: 100%;          /* Ensure it takes full basis */
+         min-width: 0;
+         margin: 6px 0 0 0;         /* Top margin only */
          font-size: 13px;
          padding: 6px 10px;
      }
-     /* --- End Header Layout --- */
+     /* --- End Small Screen Header --- */
 
-     .list-filter-controls {
-         padding: 5px 10px;
-         justify-content: center;
-     }
-     label[for="list-song-type-filter"] {
-         font-size: 12px;
-     }
-     #list-song-type-filter {
-         font-size: 12px;
-         padding: 5px 8px;
-         min-width: 90px;
-     }
 
-     #songs li {
-         padding: 5px 8px;
-     }
-     #songs li span {
-         font-size: 12px;
-         margin-right: 3px;
-     }
-     .copy-button {
-         padding: 3px 7px;
-         font-size: 10px;
-     }
+     .list-filter-controls { padding: 5px 10px; justify-content: center; }
+     label[for="list-song-type-filter"] { font-size: 12px; }
+     #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
 
-     /* Icon positioning - 保持不變 */
+     #songs li { padding: 5px 8px; }
+     #songs li span { font-size: 12px; margin-right: 3px; }
+     .copy-button { padding: 3px 7px; font-size: 10px; }
+
+     /* Icon positioning */
      #youtube-link { right: 10px; }
      #twitter-link { right: 60px; }
      #twitcasting-link { display: none; }
