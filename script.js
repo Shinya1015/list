@@ -101,7 +101,10 @@ const songStreamLinks = {
   { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 6670 },
   { date: "2023年1月11日", videoId: "l_bJ0AaBakk", timestamp: 1580 },
   { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 6333 },
-     
+  ],
+   "アウト オブ エデン/K's Sound Project": [
+  { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16563 },
+  { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5429 },
   ],
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
