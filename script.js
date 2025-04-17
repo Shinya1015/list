@@ -116,7 +116,7 @@ const songStreamLinks = {
  "廃都アトリエスタにて/鏡音リン・レン": [
   { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
   { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
-  { date: "2024年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
+  { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
 
 
