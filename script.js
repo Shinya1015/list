@@ -6,7 +6,9 @@ const songStreamLinks = {
 
 
 
-
+"マトリョシカ/初音ミク・GUMI": [
+  { date: "2024年5月4日", videoId: "ocR9SezEBfQ", timestamp: 6353 },
+  ],   
  "Tómur/におP": [
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
     { date: "2023年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
