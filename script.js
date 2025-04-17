@@ -130,7 +130,7 @@ const songStreamLinks = {
     ],
 "トンデモワンダーズ/Sasakure.UK": [
   { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4568 },
-  { date: "2025年3月31日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
+  { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
     ],
   
 };
