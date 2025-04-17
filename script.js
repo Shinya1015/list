@@ -128,8 +128,10 @@ const songStreamLinks = {
  "ぼくらの16bit戦争/Sasakure.UK": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
     ],
-
-
+"トンデモワンダーズ/Sasakure.UK": [
+  { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4568 },
+  { date: "2025年3月31日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
+    ],
   
 };
 // --- ▲▲▲ 歌曲連結資料結束 ▲▲▲ ---
