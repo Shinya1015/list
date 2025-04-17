@@ -1306,8 +1306,12 @@ function toggleSongList() {
     const searchInput = document.getElementById('search-input');
     if (searchInput) {
         searchInput.value = "";
-        filterSongs();
     }
+    const filterSelect = document.getElementById('list-song-type-filter');
+    if (filterSelect) {
+        filterSelect.value = "すべて";
+    }
+    filterSongs();
     loadSongsCount();
 }
 
@@ -1337,17 +1341,35 @@ async function copySongName(songText, buttonElement) {
 
 function filterSongs() {
     const searchInput = document.getElementById('search-input');
-    if (!searchInput) return;
-    const filter = searchInput.value.toLowerCase();
+    const filterSelect = document.getElementById('list-song-type-filter');
+    if (!searchInput || !filterSelect) return;
+
+    const searchText = searchInput.value.toLowerCase();
+    const filterType = filterSelect.value;
+
     const songsUl = document.getElementById('songs');
     if (!songsUl) return;
     const listItems = songsUl.getElementsByTagName('li');
+
     for (let i = 0; i < listItems.length; i++) {
         const li = listItems[i];
         const songSpan = li.querySelector('span');
         if (songSpan) {
-            const txtValue = songSpan.textContent || songSpan.innerText;
-            if (txtValue.toLowerCase().includes(filter)) {
+            const songNameText = songSpan.textContent || songSpan.innerText;
+            const songNameLower = songNameText.toLowerCase();
+
+            let typeMatch = false;
+            if (filterType === 'すべて') {
+                typeMatch = true;
+            } else if (filterType === '低音') {
+                typeMatch = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.includes(songNameText);
+            } else if (filterType === 'アニソン') {
+                typeMatch = typeof animeSongs !== 'undefined' && animeSongs.includes(songNameText);
+            }
+
+            const textMatch = songNameLower.includes(searchText);
+
+            if (textMatch && typeMatch) {
                 li.style.display = "flex";
             } else {
                 li.style.display = "none";
