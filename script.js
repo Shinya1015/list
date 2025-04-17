@@ -911,7 +911,7 @@ const streamerSongList = [
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
     "Ur-Style/DATEKEN feat.鏡音リン",
-    "ぼくらの16bit戦争/sasakure.‌UK",
+    "ぼくらの16bit戦争/Sasakure.UK",
     "トンデモワンダーズ/Sasakure.UK",
     "どうぶつ占い/すこっぷ",
     "Packaged/kz(livetune)",
