@@ -119,7 +119,7 @@ const songStreamLinks = {
   { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
  "グッドナイトエクスプレス/鏡音リン・レン": [
-  { date: "2023年5月2日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
+  { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
     ],
  "Ur-Style/DATEKEN feat.鏡音リン": [
    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
