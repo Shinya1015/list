@@ -20,8 +20,7 @@ button:active { transform: scale(0.98); }
 /* --- Base Header Styles (Default/Desktop) --- */
 .song-list-header {
     display: flex;
-    flex-wrap: wrap; /* Allow wrapping for responsiveness, though ideally not needed on desktop */
-    /* justify-content: space-between; Let margin handle spacing */
+    flex-wrap: wrap;
     align-items: center;
     width: 100%;
     padding: 10px 15px;
@@ -29,40 +28,35 @@ button:active { transform: scale(0.98); }
     z-index: 3;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     box-sizing: border-box;
-    gap: 15px; /* Add gap between flex items */
+    gap: 15px; /* Gap between items */
 }
-
 .song-list-header h2 {
-    margin: 0; /* Reset margin */
-    /* margin-right: auto; Removed for base, let elements flow */
+    margin: 0;
     font-size: 1.3em;
     color: #343a40;
     flex-shrink: 0;
 }
-
 .song-list-header p {
-    margin: 0; /* Reset margin, use gap for spacing */
-    margin-left: 5px; /* Add small left margin to separate from h2 */
+    margin: 0;
+    margin-left: 5px; /* Space after h2 */
     font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
     flex-shrink: 0;
 }
-
 #search-input {
     padding: 8px 12px;
     font-size: 14px;
     border: 1px solid #ced4da;
     border-radius: 4px;
-    flex-grow: 1; /* Allow search to grow and fill space */
+    flex-grow: 1; /* Fills space */
     min-width: 180px;
     box-sizing: border-box;
-    margin: 0; /* Reset margin, rely on flex gap/order */
+    margin: 0;
 }
-
 #notion-header-button {
-    margin: 0; /* Reset margin */
-    margin-left: auto; /* Push Notion button AND Close button to the far right */
+    margin: 0;
+    margin-left: auto; /* Push self and next element (close) to right */
     flex-shrink: 0;
     background-color: #5bc0de;
     color: white;
@@ -71,9 +65,8 @@ button:active { transform: scale(0.98); }
     white-space: nowrap;
 }
 #notion-header-button:hover { background-color: #31b0d5; }
-
 #close-button {
-    margin: 0; /* Reset margin */
+    margin: 0;
     flex-shrink: 0;
     background-color: #dc3545;
     color: white;
@@ -83,7 +76,6 @@ button:active { transform: scale(0.98); }
 #close-button:hover { background-color: #c82333; }
 /* --- End Base Header Styles --- */
 
-
 .list-filter-controls { padding: 8px 15px; background-color: #f1f3f5; border-bottom: 1px solid #e9ecef; display: flex; align-items: center; gap: 8px; }
 .list-filter-controls label { margin: 0; }
 
@@ -91,7 +83,27 @@ button:active { transform: scale(0.98); }
 #songs { list-style-type: none; padding: 0; margin: 0; width: 100%; text-align: left; }
 #songs li { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; border-bottom: 1px solid #e9ecef; text-align: left; box-sizing: border-box; }
 #songs li:last-child { border-bottom: none; }
-#songs li span { margin-right: 8px; flex-grow: 1; word-break: break-word; font-size: 14px; line-height: 1.5; color: #495057; }
+
+/* Default song name style (first span in li) */
+#songs li span:first-child {
+    margin-right: 8px;
+    flex-grow: 1;
+    word-break: break-word;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #495057; /* Default dark grey color */
+}
+
+/* ▼▼▼ Styles for song names THAT HAVE links ▼▼▼ */
+.song-name--has-link {
+    color: #007bff !important; /* Blue color, !important might be needed if specificity issues arise */
+    cursor: pointer;
+}
+.song-name--has-link:hover {
+    text-decoration: underline;
+}
+/* ▲▲▲ End styles for linked song names ▲▲▲ */
+
 .button-group { display: flex; align-items: center; flex-shrink: 0; margin-left: auto; }
 .copy-button { padding: 5px 10px; font-size: 12px; line-height: 1.4; border-radius: 4px; background-color: #6c757d; color: white; border: none; cursor: pointer; flex-shrink: 0; transition: background-color 0.2s ease, transform 0.1s ease; }
 .copy-button:hover { background-color: #5a6268; }
@@ -120,11 +132,10 @@ button:active { transform: scale(0.98); }
     .container { padding: 20px; width: 90%; margin: 10px auto; }
     #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
 
-    /* Adjust header layout for medium screens */
-    .song-list-header { padding: 8px 12px; gap: 10px; } /* Adjusted gap */
+    .song-list-header { padding: 8px 12px; gap: 10px; }
     .song-list-header h2 { font-size: 1.1em; }
-    .song-list-header p { font-size: 0.8em; margin-left: 3px; } /* Reduced left margin */
-    #search-input { font-size: 13px; padding: 6px 10px; min-width: 120px; } /* Adjusted min-width */
+    .song-list-header p { font-size: 0.8em; margin-left: 3px; }
+    #search-input { font-size: 13px; padding: 6px 10px; min-width: 120px; }
     #notion-header-button { padding: 6px 10px; font-size: 13px; }
     #close-button { padding: 6px 12px; font-size: 13px; }
 
@@ -133,10 +144,9 @@ button:active { transform: scale(0.98); }
     #list-song-type-filter { font-size: 13px; padding: 6px 10px; min-width: 100px; }
 
     #songs li { padding: 6px 10px; }
-    #songs li span { font-size: 13px; line-height: 1.4; margin-right: 5px; }
+    #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; /* Ensure default color */ }
     .copy-button { padding: 4px 8px; font-size: 11px; }
 
-    /* Icon positioning */
     #youtube-link, #twitter-link, #twitcasting-link, #amazon-link, #booth-link { display: block !important; }
     [id$="-link"] img, #notion-link a { width: 40px; height: 40px; }
     #notion-link a { width: auto; height: auto; font-size: 38px; }
@@ -153,38 +163,31 @@ button:active { transform: scale(0.98); }
 @media (max-width: 480px) {
      #song-list { width: 95%; max-height: 68vh; }
 
-     /* Adjust header layout for small screens */
      .song-list-header {
          padding: 6px 10px;
-         gap: 6px; /* Adjust gap between elements */
-         /* justify-content: space-between; Removed, using margins now */
+         gap: 6px;
      }
-
      .song-list-header h2 {
          order: 1;
-         margin: 0; /* Remove margin-right: auto */
+         margin: 0;
          font-size: 1em;
      }
-
      .song-list-header p {
          order: 2;
          font-size: 0.75em;
          white-space: nowrap;
-         margin: 0; /* Remove default margins */
-         margin-left: 5px; /* Add space after h2 */
+         margin: 0;
+         margin-left: 5px;
      }
-
-     /* Group Notion and Close buttons together and push right */
      #notion-header-button {
          order: 3;
          padding: 5px 8px;
          font-size: 12px;
          white-space: nowrap;
          margin: 0;
-         margin-left: auto; /* Push THIS button and the next one (Close) to the right */
+         margin-left: auto;
          flex-shrink: 0;
      }
-
      #close-button {
          order: 4;
          padding: 5px 10px;
@@ -192,28 +195,24 @@ button:active { transform: scale(0.98); }
          margin: 0;
          flex-shrink: 0;
      }
-
      #search-input {
-         order: 5;                  /* Search comes last */
-         width: 100%;               /* Full width */
-         flex-basis: 100%;          /* Ensure it takes full basis */
+         order: 5;
+         width: 100%;
+         flex-basis: 100%;
          min-width: 0;
-         margin: 6px 0 0 0;         /* Top margin only */
+         margin: 6px 0 0 0;
          font-size: 13px;
          padding: 6px 10px;
      }
-     /* --- End Small Screen Header --- */
-
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
      label[for="list-song-type-filter"] { font-size: 12px; }
      #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
 
      #songs li { padding: 5px 8px; }
-     #songs li span { font-size: 12px; margin-right: 3px; }
+     #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; /* Ensure default color */ }
      .copy-button { padding: 3px 7px; font-size: 10px; }
 
-     /* Icon positioning */
      #youtube-link { right: 10px; }
      #twitter-link { right: 60px; }
      #twitcasting-link { display: none; }
@@ -223,103 +222,34 @@ button:active { transform: scale(0.98); }
      #booth-link { left: 60px; }
 }
 
+/* --- Modal Styles --- */
 #modal-overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(0, 0, 0, 0.6); /* 半透明黑色背景 */
-    z-index: 1010; /* 比其他連結圖示高 */
-    display: none; /* 預設隱藏 */
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background-color: rgba(0, 0, 0, 0.6); z-index: 1010; display: none;
 }
-
 #stream-links-modal {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); /* 將視窗置中 */
-    background-color: #ffffff;
-    padding: 20px 25px;
-    border-radius: 8px;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    z-index: 1011; /* 比背景遮罩高 */
-    display: none; /* 預設隱藏 */
-    min-width: 300px; /* 最小寬度 */
-    max-width: 90%; /* 最大寬度 */
-    max-height: 70vh; /* 最大高度 */
-    overflow-y: auto; /* 如果內容過多則顯示滾動條 */
+    position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+    background-color: #ffffff; padding: 20px 25px; border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); z-index: 1011; display: none;
+    min-width: 300px; max-width: 90%; max-height: 70vh; overflow-y: auto;
 }
-
 .modal-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    border-bottom: 1px solid #e9ecef;
-    padding-bottom: 10px;
-    margin-bottom: 15px;
+    display: flex; justify-content: space-between; align-items: center;
+    border-bottom: 1px solid #e9ecef; padding-bottom: 10px; margin-bottom: 15px;
 }
-
-.modal-header h3 {
-    margin: 0;
-    font-size: 1.2em;
-    color: #333;
-}
-
+.modal-header h3 { margin: 0; font-size: 1.2em; color: #333; }
 #modal-close-button {
-    background: none;
-    border: none;
-    font-size: 1.8em;
-    font-weight: bold;
-    color: #888;
-    cursor: pointer;
-    padding: 0 5px; /* 增加點擊區域 */
-    line-height: 1;
-    margin: -5px -5px -5px 5px; /* 微調位置 */
+    background: none; border: none; font-size: 1.8em; font-weight: bold;
+    color: #888; cursor: pointer; padding: 0 5px; line-height: 1;
+    margin: -5px -5px -5px 5px;
 }
-#modal-close-button:hover {
-    color: #333;
-}
-
-.modal-body p {
-    font-size: 0.9em;
-    color: #555;
-    margin-bottom: 10px;
-}
-
-#modal-stream-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
+#modal-close-button:hover { color: #333; }
+.modal-body p { font-size: 0.9em; color: #555; margin-bottom: 10px; }
+#modal-stream-list { list-style: none; padding: 0; margin: 0; }
 #modal-stream-list li {
-    padding: 8px 5px;
-    border-bottom: 1px dashed #eee;
-    cursor: pointer;
-    font-size: 0.95em;
-    color: #007bff; /* 連結顏色 */
-    transition: background-color 0.2s ease;
+    padding: 8px 5px; border-bottom: 1px dashed #eee; cursor: pointer;
+    font-size: 0.95em; color: #007bff; transition: background-color 0.2s ease;
 }
-
-#modal-stream-list li:last-child {
-    border-bottom: none;
-}
-
-#modal-stream-list li:hover {
-    background-color: #f0f0f0;
-    text-decoration: underline;
-}
+#modal-stream-list li:last-child { border-bottom: none; }
+#modal-stream-list li:hover { background-color: #f0f0f0; text-decoration: underline; }
 /* --- End Modal Styles --- */
-
-/* 讓歌曲名稱看起來可以點擊 */
-.song-name-link {
-    cursor: pointer;
-    /* 可以加上底線或不同顏色來提示 */
-    /* text-decoration: underline; */
-    /* color: #0056b3; */
-}
-.song-name-link:hover {
-     color: #007bff; /* 滑鼠移上去變色 */
-     text-decoration: underline;
-}
