@@ -3,6 +3,13 @@ const songStreamLinks = {
 
 
 
+
+
+
+
+
+ 
+
  "Last Night,Good Night/livetune": [
     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 14779 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8450 },
@@ -13,7 +20,7 @@ const songStreamLinks = {
   ],
  "ストロボナイツ/livetune": [
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7422 },
-    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5948 },
+    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5498 },
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11973 },
   ],
   "Tell Your World/livetune": [
