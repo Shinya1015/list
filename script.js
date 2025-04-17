@@ -55,7 +55,16 @@ const songStreamLinks = {
   { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 6035 },
   { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ],
-
+"トリノコシティ/40mP": [
+  { date: "2028年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15327 },
+  { date: "2024年8月25日-piano ver", videoId: "GYV3z44H4ew", timestamp: 8941 },
+  { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 21858 },
+  { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 10531 },
+  { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 9225 },
+  { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3390 },
+  { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3174 },
+  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10099 },
+ ],
 
 
   
