@@ -210,7 +210,8 @@ const lowPitchSongs = [
     "明日、僕は君に会いに行く/ワカバ",
     "サヨナラの空/Qwai",
     "変わらないもの/奥華子",
-    "ガーネット/奥華子"
+    "ガーネット/奥華子",
+    "Good day/足立佳奈",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
