@@ -68,7 +68,7 @@ const songStreamLinks = {
 "静電気。/emon(Tes.)": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14922 },
   ],
-" too Cute!/emon(Tes.)": [
+"too Cute!/emon(Tes.)": [
   { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 4022 },
   { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 2647 },
   { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2851 },
