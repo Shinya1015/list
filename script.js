@@ -4,11 +4,11 @@ const songStreamLinks = {
 
 
 const songStreamLinks = {
- "Tell Your World/livetune": [
+ "ファインダー/livetune": [
     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 2054 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8076 },
   ],
- "Tell Your World/livetune": [
+ "ストロボナイツ/livetune": [
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7422 },
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5948 },
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11973 },
