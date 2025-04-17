@@ -35,7 +35,11 @@ const songStreamLinks = {
  ],   
 "シリョクケンサ/40mP": [
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18149 },
+    { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 10255 },
+    { date: "2021年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 4502 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3603 },
+    { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 6815 },
+  
  ],
 
   
