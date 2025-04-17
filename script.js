@@ -125,7 +125,7 @@ const songStreamLinks = {
    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
     ],
- "ぼくらの16bit戦争/sasakure.‌ UK": [
+ "ぼくらの16bit戦争/Sasakure.UK": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
     ],
 
@@ -911,7 +911,8 @@ const streamerSongList = [
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
     "Ur-Style/DATEKEN feat.鏡音リン",
-    "ぼくらの16bit戦争/sasakure.‌ UK",
+    "ぼくらの16bit戦争/sasakure.‌UK",
+    "トンデモワンダーズ/Sasakure.UK",
     "どうぶつ占い/すこっぷ",
     "Packaged/kz(livetune)",
     "Hand in Hand/kz(livetune)",
@@ -1206,7 +1207,6 @@ const streamerSongList = [
     "ハルモニア/RYTHEM",
     "ホウキ雲/RYTHEM",                                  // 烘焙王 (Yakitate!! Japan)
     "グメグ☆ファイアーエンドレスナイト/samfree",
-    "トンデモワンダーズ/Sasakure.UK",
     "あんなに一緒だったのに/See-Saw",                   // 機動戰士鋼彈SEED (Mobile Suit Gundam SEED)
     "スターライトパレード/SEKAI NO OWARI",
     "最高到達点/SEKAI NO OWARI",                       // ONE PIECE 航海王
