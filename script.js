@@ -855,6 +855,7 @@ const lowPitchSongs = [
 const songStreamLinks = {
   // !! 請務必將 videoId 和 timestamp 換成真實的資料 !!
   "天ノ弱/164": [
+    { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 1010 },
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 2432 },
     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 6351 },
     { date: "2024年2月26日", videoId: "pjRxjZz-Cq0", timestamp: 12255 },
