@@ -11,6 +11,8 @@ const songStreamLinks = {
     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1554 }
   ],
   "タイムマシン/1640mP": [
+    { date: "2025年3月29日", videoId: "r4WSqrEyefI", timestamp: 7466 },
+    { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7466 },
     { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 3779 },
     { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 1743 },
     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 1070 },
