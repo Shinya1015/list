@@ -3,7 +3,14 @@ const songStreamLinks = {
 
 
 
-
+"聖少女領域/ALI PROJECT": [ 
+     { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 4005 },
+     { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 4553 },
+     { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 3313 },
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 6959 },
+     { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 5602 },
+     { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 1403 },
+    ], 
 "創聖のアクエリオン/AKINO": [ 
      { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 4102 },
     ], 
