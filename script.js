@@ -5,7 +5,32 @@ const songStreamLinks = {
 
 
 
-
+"Aurora/BUMP OF CHICKEN": [
+       { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 8575 },
+       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1493 },
+       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8994 },
+       { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 4178 },
+       { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 6818 },
+       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 12377 },
+       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 11307 },
+       { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 4343 },
+       { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 7502 },
+       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 7451 },
+       { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17894 },
+       { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 7752 },
+       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 8615 },
+       { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 2269 },
+       { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 10913 },
+       { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4298 },
+       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 12334 },
+       { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 10701 },
+       { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 3358 },
+       { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 6470 },
+       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 21429 },
+       { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 8013 },
+       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 5513 },
+       { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
+     ],
 "ココロのちず/BOYSTYLE": [
        { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8429 },
        { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6823 },
