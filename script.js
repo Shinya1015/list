@@ -6,7 +6,33 @@ const songStreamLinks = {
 
 
 
-
+"ココロのちず/BOYSTYLE": [
+       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8429 },
+       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6823 },
+       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 5026 },
+       { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 752 },
+       { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 6118 },
+       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5927 },
+       { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 738 },
+       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 3590 },
+       { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 5412 },
+       { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 4382 },
+       { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 1050 },
+       { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 2595 },
+       { date: "2023年4月27日", videoId: "zT1_FG5IFzA", timestamp: 1002 },
+       { date: "2023年4月3日", videoId: "VOf65PJXV-0", timestamp: 4813 },
+       { date: "2024年3月18日", videoId: "8O2fID25Clk", timestamp: 1828 },
+       { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 14628 },
+       { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 10494 },
+       { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 10827 },
+       { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 3851 },
+       { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 993 },
+       { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 4452 },
+       { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 4279 },
+       { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 4331 },
+       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 3534 },
+       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4099 },
+     ],
 "まもりたい ~White Wishes~/BoA": [
        { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4950 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2623 },
