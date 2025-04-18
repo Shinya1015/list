@@ -1,6 +1,18 @@
 
 const songStreamLinks = {
 
+
+
+
+
+
+"1/6 -out of the gravity-/ぼーかりおどP": [    
+    { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 6649 },
+    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 4817 },
+    { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7008 },
+    { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 9579 },
+    { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
+  ],  
 "フラジール/ぬゆり": [
     { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7741 },
     { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 6233 },
@@ -1035,7 +1047,6 @@ const streamerSongList = [
     "* ハロー、プラネット。/初音ミク",
     "フラジール/ぬゆり",
     "1/6 -out of the gravity-/ぼーかりおどP",
-    "1/6/ぼーかりおどP",
     "風待ちハローワールド/add9(ヘリP)",
     "恋になりたいAQUARIUM/Aqours",
     "うっせぇわ/Ado",
