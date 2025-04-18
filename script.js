@@ -1493,7 +1493,27 @@ const songStreamLinks = {
     { },
   ],
   "イエスタデイ/Official髭男dism": [
-    { },
+    { date: "2025年2月25日", videoId: "7A2DbCtnoMc", timestamp: 2107 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 32019 },
+    { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 1484 },
+    { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13576 },
+    { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 2224 },
+    { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5173 },
+    { date: "2024年7月19日", videoId: "axfOi0qwNKQ", timestamp: 4743 },
+    { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 2473 },
+    { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 1071 },
+    { date: "2024年5月14日", videoId: "XR3IA9-tTjM", timestamp: 5972 },
+    { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 1997 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 3823 },
+    { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 8883 },
+    { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 11105 },
+    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 10878 },
+    { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 5319 },
+    { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 6015 },
+    { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 11840 },
+    { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 5937 },
+    { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 4304 },
+    { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 3727 },
   ],
   "HELLO/Official髭男dism": [
     { },
@@ -3728,35 +3748,35 @@ const streamerSongList = [
     "ロミオとシンデレラ/doriko",
     "歌に形はないけれど/doriko",
     "Get Over/dream",
-    "ようかい体操第一/Dream5",                         // 妖怪手錶 (Yo-kai Watch)
+    "ようかい体操第一/Dream5",                         
     "ハッピーシンセサイザ/Easy Pop",
-    "名前のない怪物/EGOIST",                           // PSYCHO-PASS 心靈判官 (Psycho-Pass)
+    "名前のない怪物/EGOIST",                          
     "路地裏猫の正体/GUMI",
     "KISS ME BABY!!!/ELEGUMI TOKYO",
     "平行線/Eve × suis",
     "群青讃歌/Eve",
     "careless breath/EXILE",
-    "虹を編めたら/fhana",                              // 春&夏事件簿 (Haruchika)
-    "青空のラプソディ/fhána",                          // 小林家的龍女僕 (Miss Kobayashi's Dragon Maid)
-    "DAN DAN 心魅かれてく/FIELD OF VIEW",              // 七龍珠GT (Dragon Ball GT)
-    "渇いた叫び/FIELD OF VIEW",                        // 遊☆戲☆王 (Yu-Gi-Oh! 初期東映版)
-    "GO!!!/FLOW",                                       // 火影忍者 (Naruto)
-    "Answer/FLOW",                                      // 偵探學園Q (Tantei Gakuen Q)
+    "虹を編めたら/fhana",                            
+    "青空のラプソディ/fhána",                       
+    "DAN DAN 心魅かれてく/FIELD OF VIEW",              
+    "渇いた叫び/FIELD OF VIEW",                       
+    "GO!!!/FLOW",                                     
+    "Answer/FLOW",                                     
     "星に願いを/flumpool",
     "君に届け/flumpool",
     "ちいさな日々/flumpool",
-    "Believe/Folder5",                                  // ONE PIECE 航海王
-    "SAKURAスキップ/fourfolium",                       // NEW GAME!
-    "only my railgun/fripSide",                         // 科學超電磁砲 (A Certain Scientific Railgun)
-    "sister's noise/fripSide",                          // 科學超電磁砲S (A Certain Scientific Railgun S)
-    "LEVEL5 -judgelight-/fripSide",                     // 科學超電磁砲 (A Certain Scientific Railgun)
+    "Believe/Folder5",                                 
+    "SAKURAスキップ/fourfolium",                     
+    "only my railgun/fripSide",                         
+    "sister's noise/fripSide",                        
+    "LEVEL5 -judgelight-/fripSide",                    
     "夏空/Galileo Galilei",
     "Myself/VALSHE",
-    "Mysterious Eyes/GARNET CROW",                      // 名偵探柯南 (Detective Conan)
-    "君という光/GARNET CROW",                          // 名偵探柯南 (Detective Conan)
-    "夏の幻/GARNET CROW",                              // 名偵探柯南 (Detective Conan)
-    "涙のイエスタデー/GARNET CROW",                    // 名偵探柯南 (Detective Conan)
-    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",      // MÄR 魔兵傳奇 (MÄR)
+    "Mysterious Eyes/GARNET CROW",                      
+    "君という光/GARNET CROW",                          
+    "夏の幻/GARNET CROW",                              
+    "涙のイエスタデー/GARNET CROW",                    
+    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",      
     "極楽浄土/GARNiDELiA",
     "偶然の確率/girl next door",
     "Alchemy/Girls Dead Monster",                       // Angel Beats! - 插入曲
