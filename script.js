@@ -3,7 +3,7 @@ const songStreamLinks = {
 
 
 "僕が死のうと思ったのは/amazarashi": [
-     { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
+     { date: "2025年3月10日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
      { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 9886 },
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 15674 },
      { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8441 },
