@@ -3,7 +3,7 @@ const songStreamLinks = {
 
 "しおり/Aqua Timez": [
        { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 925 },
-       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11248s },
+       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11248 },
        { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 5277 },
        { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21505 },
        { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 886 },
