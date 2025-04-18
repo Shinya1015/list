@@ -496,6 +496,18 @@ const songStreamLinks = {
   "Falco-ファルコ-/島谷ひとみ": [
     { },
   ],
+   "サブリナ/家入レオ": [
+       { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 7147 },
+       { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 1598 },
+       { date: "2024年6月21日", videoId: "hyeKYMlZkDg", timestamp: 4917 },
+       { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 4925 },
+       { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 12140 },
+       { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 13542 },
+       { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
+  ],
+  "涙そうそう/夏川りみ": [
+    { },
+  ],
   "TRY AGAIN/倉木麻衣": [
     { },
   ],
