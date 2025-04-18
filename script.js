@@ -452,7 +452,6 @@ const lowPitchSongs = [
     "僕が死のうと思ったのは/amazarashi",
     "季節は次々死んでいく/amazarashi",
     "さよならごっこ/amazarashi",
-    "空に歌えば/amazarashi",
     "しおり/Aqua Timez",
     "千の夜をこえて/Aqua Timez",
     "等身大のラブソング/Aqua Timez",
@@ -526,7 +525,7 @@ const animeSongs = [
     "聖少女領域/ALI PROJECT",                           // 薔薇少女 夢見 (Rozen Maiden: Träumend)
     "さよならごっこ/amazarashi",                       // 多羅羅 (Dororo)
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
-    "空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
+    //"空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
     "Velonica/Aqua Timez",                              // BLEACH 死神
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
     "決意の朝に/Aqua Timez",                            // 勇者物語 (Brave Story) - 電影
