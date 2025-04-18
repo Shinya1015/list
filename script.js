@@ -7,7 +7,7 @@ const songStreamLinks = {
 
 
 
-"": [
+"まもりたい ~White Wishes~/BoA": [
        { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4950 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2623 },
        { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 10722 },
