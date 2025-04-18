@@ -4,7 +4,9 @@ const songStreamLinks = {
 
 
 
-
+"創聖のアクエリオン/AKINO": [ 
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 4102 },
+    ], 
 "残響散歌/Aimer": [ 
     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 1510 },
     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 2420 },
