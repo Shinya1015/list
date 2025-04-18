@@ -35,7 +35,7 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3573 },
   ],
   "君に贈る歌/小池徹平": [
-    { },
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3174 },
   ],
   "夢のような/佐伯ユウス": [
     { },
