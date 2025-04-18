@@ -3314,7 +3314,7 @@ function toggleSongList() {
         const songSpan = document.createElement("span");
         songSpan.textContent = displayName;
 
-     / ▼▼▼ 檢查是否有"有效"連結資料 (至少一個連結有 videoId) ▼▼▼
+     // ▼▼▼ 檢查是否有"有效"連結資料 (至少一個連結有 videoId) ▼▼▼
     if (songStreamLinks && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
         songSpan.classList.add("song-name--has-link");
     }
