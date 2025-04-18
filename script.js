@@ -9,7 +9,16 @@ const songStreamLinks = {
 
 
 
-
+"スタートライン!/AIKATSU☆STARS!": [ 
+    { date: "2024年13月31日", videoId: "1VI45dHw-pg", timestamp: 2108 },
+    { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3863 },
+    { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 1520 },
+    { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 797 },
+    { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 6465 },
+    { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 3983 },
+    { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 33867 },
+    { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 16044 },
+    ], 
 "STARDOM!/AIKATSU☆STARS!": [ 
     { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 8320 },
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 7226 },
@@ -389,7 +398,7 @@ const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
     "Blooming♡Blooming/AIKATSU☆STARS!",             // 偶像活動Stars！ (Aikatsu Stars!)
     "STARDOM!/AIKATSU☆STARS!",                         // 偶像活動Stars！ (Aikatsu Stars!)
-    "スタートライン! /AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
+    "スタートライン!/AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
     "episode solo/AIKATSU☆STARS!",                     // 偶像活動Stars！ (Aikatsu Stars!)
     "Brave Shine/Aimer",                                // Fate/stay night [Unlimited Blade Works]
     "Ref:rain/Aimer",                                   // 愛在雨過天晴時 (Koi wa Ameagari no You ni)
@@ -1123,7 +1132,7 @@ const streamerSongList = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
     "Blooming♡Blooming/AIKATSU☆STARS!",             // 偶像活動Stars！ (Aikatsu Stars!)
     "STARDOM!/AIKATSU☆STARS!",                         // 偶像活動Stars！ (Aikatsu Stars!)
-    "スタートライン! /AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
+    "スタートライン!/AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
     "episode solo/AIKATSU☆STARS!",                     // 偶像活動Stars！ (Aikatsu Stars!)
     "Brave Shine/Aimer",                                // Fate/stay night [Unlimited Blade Works]
     "Ref:rain/Aimer",                                   // 愛在雨過天晴時 (Koi wa Ameagari no You ni)
