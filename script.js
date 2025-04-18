@@ -3314,11 +3314,11 @@ function toggleSongList() {
         const songSpan = document.createElement("span");
         songSpan.textContent = displayName;
 
-        // ▼▼▼ 檢查是否有連結資料，並添加對應 class ▼▼▼
-        if (songStreamLinks && songStreamLinks[displayName] && songStreamLinks[displayName].length > 0) {
-            songSpan.classList.add("song-name--has-link"); // 有資料，設為可點擊樣式 (CSS中定義為藍色)
-        }
-        // ▲▲▲ 檢查結束 ▲▲▲
+     / ▼▼▼ 檢查是否有"有效"連結資料 (至少一個連結有 videoId) ▼▼▼
+    if (songStreamLinks && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
+        songSpan.classList.add("song-name--has-link");
+    }
+    // ▲▲▲ 檢查結束 ▲▲▲
         li.appendChild(songSpan);
 
         // 按鈕容器
