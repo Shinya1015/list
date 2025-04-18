@@ -14,7 +14,8 @@ const songStreamLinks = {
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
   "マジで感謝!/T-Pistonz+KMC": [
-    { },
+    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6287 },
+    { date: "2025年4月13日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
   "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
     { },
