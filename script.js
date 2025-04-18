@@ -2,9 +2,16 @@
 const songStreamLinks = {
 
 
-
-
-
+"Stairway Generation/Base Ball Bear": [
+       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 4150 },
+       { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 9845 },
+       { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 5724 },
+       { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 1967 },
+       { date: "2024年1月12日", videoId: "c5lqCzfIh10", timestamp: 7278 },
+       { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 8898 },
+       { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 28785 },
+       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4863 },
+     ],
 "遥か彼方/ASIAN KUNG-FU GENERATION": [
        { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 909 },
        { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 14117 },
