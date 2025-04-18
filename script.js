@@ -4,7 +4,11 @@ const songStreamLinks = {
 
 
 
-
+"深海少女/初音ミク": [
+  { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 926 },
+  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 12695 },
+  { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 4810 },
+  ],   
  "Rabbit/一億円P feat. 初音ミク": [
     { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1746 },
     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1135 },
