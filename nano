@@ -1,8 +1,6 @@
 
 const songStreamLinks = {
-"なないろびより/Nano.RIPE": [
-  { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
-  ],
+
   "Magical Babyrinth/DA PUMP": [
      { date: "2025年4月16日(アカペラ)", videoId: "7A2DbCtnoMc", timestamp: 5760 },
   ],
@@ -23,12 +21,11 @@ const songStreamLinks = {
     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 7323 },
     { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
-  "こだまことだま/nano.RIPE": [
-    { },
-  ],
   "Destin Histoire/yoshiki*lisa": [
     { },
   ],
+ 
+  
   "Blood teller/Faylan": [
     { },
   ],
@@ -1660,6 +1657,12 @@ const songStreamLinks = {
     { },
   ],
   "ロストワンの号哭/Neru": [
+    { },
+  ],
+  "なないろびより/Nano.RIPE": [
+  { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
+  ],
+   "こだまことだま/nano.RIPE": [
     { },
   ],
   "月花/nano.RIPE": [
