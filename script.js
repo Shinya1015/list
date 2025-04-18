@@ -2,6 +2,20 @@
 const songStreamLinks = {
 
 
+
+
+
+
+
+
+       
+"ドラマチック/Base Ball Bear": [
+       { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 2790 },
+       { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 10069 },
+       { date: "2023年6月24日", videoId: "NSDbgOVoe-I", timestamp: 3029 },
+       { date: "2024年6月20日", videoId: "_hYbSPBR1v4", timestamp: 3589 },
+       { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 13250 },
+     ],
 "Stairway Generation/Base Ball Bear": [
        { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 4150 },
        { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 9845 },
