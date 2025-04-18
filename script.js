@@ -5,7 +5,18 @@ const songStreamLinks = {
 
 
 
-       
+"遥か彼方/ASIAN KUNG-FU GENERATION": [
+       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 909 },
+       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 14117 },
+       { date: "2025年9月27日", videoId: "cfKcAgPPpi4", timestamp: 2665 },
+       { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4466 },
+       { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 9427 },
+       { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 1441 },
+       { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 4391 },
+       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 13355 },
+       { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 12088 },
+       { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9925 },
+     ],       
 "リライト/ASIAN KUNG-FU GENERATION": [
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1046 },
        { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 7570 },
