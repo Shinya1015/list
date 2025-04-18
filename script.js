@@ -4,7 +4,13 @@ const songStreamLinks = {
 
 
 
-
+"Scene/ジミーサムP": [
+    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 13574 },
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22433 },
+    { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9248 },
+    { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8892 },
+    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 2532 },
+  ], 
 "夏色☆キャンバス/初音ミク": [
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14115 },
   ], 
