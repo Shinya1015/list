@@ -1,7 +1,15 @@
 
 const songStreamLinks = {
 
-
+"フラジール/ぬゆり": [
+    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7741 },
+    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 6233 },
+    { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 687 },
+    { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 11295 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 20560 },
+    { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 5985 },
+    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 14166 },
+  ],  
 "うさぎのかぞえかた/さつきがてんこもり": [
     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 10397 },
     { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 7163 },
