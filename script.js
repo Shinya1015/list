@@ -2998,6 +2998,7 @@ const lowPitchSongs = [
     "カルマ/BUMP OF CHICKEN",
     "車輪の唄/BUMP OF CHICKEN",
     "天体観測/BUMP OF CHICKEN",
+    "ray/BUMP OF CHICKEN",
     "歌に形はないけれど/doriko",
     "from Y to Y/ジミーサムP",
     "Calc./ジミーサムP",
