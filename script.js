@@ -3,7 +3,7 @@ const songStreamLinks = {
 
 
 
-季節は次々死んでいく/amazarashi
+"季節は次々死んでいく/amazarashi": [
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 32936 },
      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 4604 },
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 7808 },
