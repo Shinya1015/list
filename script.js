@@ -3076,6 +3076,7 @@ const lowPitchSongs = [
     "決意の朝に/Aqua Timez",
     "夏のかけら/Aqua Timez",
     "それでも明日はやってくる/鈴木結女",
+    "Zzz/佐咲紗花",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
