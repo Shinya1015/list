@@ -50,9 +50,6 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4327 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
-  "衝動/Pigstar": [
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
-  ],
   "Sunshine/MONKEY MAJIK": [
     { },
   ],
@@ -1567,6 +1564,9 @@ const songStreamLinks = {
   ],
   "シル・ヴ・プレジデント/P丸様。": [
     { },
+  ],
+  "衝動/Pigstar": [
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
   "君＝花/pigstar": [
     { },
@@ -3086,6 +3086,7 @@ const lowPitchSongs = [
     "それでも明日はやってくる/鈴木結女",
     "Zzz/佐咲紗花",
     "ワスレガタキ/石崎ひゅーい",
+    "衝動/pigstar",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
@@ -4150,6 +4151,7 @@ const streamerSongList = [
     "コンピューターシティ/Perfume",
     "チョコレイト・ディスコ/Perfume",
     "君＝花/pigstar",                                  // 純情羅曼史 (Junjou Romantica)
+    "衝動/Pigstar",
     "シル・ヴ・プレジデント/P丸様。",                    // VTuber歌曲 - 很可能非動畫合作曲
     "すずめ/RADWIMPS",                                  // 鈴芽之旅 (Suzume) - 電影
     "スパークル/RADWIMPS",                              // 你的名字。 (Your Name.) - 電影
@@ -4620,7 +4622,6 @@ const streamerSongList = [
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
     "Fast Forward/MONKEY MAJIK",                        // 妖怪少爺 (Nura: Rise of the Yokai Clan)
     "Sunshine/MONKEY MAJIK",
-    "衝動/Pigstar",                                    // 純情羅曼史 (Junjou Romantica)
     "ワスレガタキ/石崎ひゅーい",                         // Dr.STONE 新石紀 NEW WORLD
     "三原色/PELICAN FANCLUB",                           // Dr.STONE 新石紀
     "夢のような/佐伯ユウス",                            // Dr.STONE 新石紀
