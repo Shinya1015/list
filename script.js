@@ -5,7 +5,7 @@ const songStreamLinks = {
     { },
   ],
   "Magical Babyrinth/DA PUMP": [
-    { },
+     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 5760 },
   ],
   "ハヤテのごとく!/KOTOKO": [
     { },
