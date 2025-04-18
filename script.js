@@ -46,7 +46,9 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
-    { },
+    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2961 },
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4327 },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
   "衝動/Pigstar": [
     { },
