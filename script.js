@@ -2,6 +2,13 @@
 const songStreamLinks = {
 
 
+
+
+    
+"唱/Ado": [
+    { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 8704 },
+    { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 3314 },
+  ],     
 "うっせぇわ/Ado": [
     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 12235 },
     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 1357 },
