@@ -86,7 +86,7 @@ const songStreamLinks = {
     { },
   ],
   "ありがとう/SunSet Swish": [
-    { },
+     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1129 },
   ],
   "果てなき道/HIMEKA": [
     { },
