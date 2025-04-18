@@ -1378,7 +1378,8 @@ const songStreamLinks = {
     { },
   ],
   "Take Your Way/SEKAI NO OWARI": [
-    { },
+    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1539 },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9801 },
   ],
   "RPG/SEKAI NO OWARI": [
     { },
