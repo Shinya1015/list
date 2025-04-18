@@ -2,6 +2,53 @@
 const songStreamLinks = {
 
 
+
+     
+"ロンリーユニバース/Aqu3ra": [
+      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 1974 },
+      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 13718 },
+      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 7047 },
+      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5394 },
+      { date: "2024年2月22日", videoId: "lspd9aMQIXU", timestamp: 11935 },
+      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 12427 },
+      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 13573 },
+      { date: "2025年2月5日", videoId: "2b4rj6lnxs", timestamp: 2342 },
+      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 6725 },
+      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 2764 },
+      { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 1114 },
+      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 22804 },
+      { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 2571 },
+      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 1214 },
+      { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 2151 },
+      { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 1228 },
+      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 7768 },
+      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 7449 },
+      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 9710 },
+      { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 4601 },
+      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 19024 },
+      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 9405 },
+      { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 1702 },
+      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 7358 },
+      { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 9216 },
+      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 10257 },
+      { date: "2024年7月19日", videoId: "axfOi0qwNKQ", timestamp: 3585 },
+      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 10011 },
+      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 11139 },
+      { date: "2024年6月21日", videoId: "hyeKYMlZkDg", timestamp: 9436 },
+      { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 7029 },
+      { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 10098 },
+      { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 2191 },
+      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 8102 },
+      { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 2190 },
+      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 1958 },
+      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 10361 },
+      { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 10461 },
+      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 6883 },
+      { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 11419 },
+      { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7742 },
+      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4701 },
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
+    ],      
 "僕が死のうと思ったのは/amazarashi": [
      { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
      { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 9886 },
@@ -1260,7 +1307,7 @@ const streamerSongList = [
     "さよならごっこ/amazarashi",                       // 多羅羅 (Dororo)
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
     "僕が死のうと思ったのは/amazarashi",
-    "空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
+    //"空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
     "ロンリーユニバース/Aqu3ra",
     "Velonica/Aqua Timez",                              // BLEACH 死神
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
