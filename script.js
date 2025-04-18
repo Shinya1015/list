@@ -1,7 +1,17 @@
 
 const songStreamLinks = {
 
-
+"しおり/Aqua Timez": [
+       { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 925 },
+       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11248s },
+       { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 5277 },
+       { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21505 },
+       { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 886 },
+       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 1727 },
+       { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 940 },
+       { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 1152 },
+       { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
+     ],
 "Velonica/Aqua Timez": [
       { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21855 },
       { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1776 },
