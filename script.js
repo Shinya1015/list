@@ -3,7 +3,9 @@ const songStreamLinks = {
 
 
 
-
+"* ハロー、プラネット": [
+    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4557 },
+  ], 
 "Scene/ジミーサムP": [
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 13574 },
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22433 },
