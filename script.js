@@ -8,7 +8,9 @@ const songStreamLinks = {
 
 
 
-
+"episode solo/AIKATSU☆STARS!": [ 
+   { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5727 },
+    ], 
 "スタートライン!/AIKATSU☆STARS!": [ 
     { date: "2024年13月31日", videoId: "1VI45dHw-pg", timestamp: 2108 },
     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3863 },
