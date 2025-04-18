@@ -7,7 +7,13 @@ const songStreamLinks = {
 
 
 
-
+"": [
+       { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4950 },
+       { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2623 },
+       { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 10722 },
+       { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 7630 },
+       { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8830 },
+     ],
  "鐘を鳴らして/BONNIE PINK": [
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1017 },
        { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1871 },
