@@ -5,7 +5,26 @@ const songStreamLinks = {
 
 
 
-
+"残響散歌/Aimer": [ 
+    { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 1510 },
+    { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 2420 },
+    { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 8546 },
+    { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 1532 },
+    { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 2423 },
+    { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 5309 },
+    { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 821 },
+    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 6449 },
+    { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 13885 },
+    { date: "2023年12月29日", videoId: "UjQZcBoVP5M", timestamp: 1424 },
+    { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3257 },
+    { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 3235 },
+    { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 4099 },
+    { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 7082 },
+    { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 7796 },
+    { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9078 },
+    { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10178 },
+    { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13735 },
+    ], 
 "Ref:rain/Aimer": [ 
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 12154 },
     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 10899 },
