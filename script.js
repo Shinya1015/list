@@ -2,6 +2,31 @@
 const songStreamLinks = {
 
 
+
+
+
+
+
+
+
+
+
+"Blooming♡Blooming/AIKATSU☆STARS!": [ 
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 936 },
+    { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1488 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 1753 },
+    { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 1363 },
+    { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 536 },
+    { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 2141 },
+    { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 2141 },
+    { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 1772 },
+    { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 7160 },
+    { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 5057 },
+    { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 3665 },
+    { date: "2023年11月28日", videoId: "9c9LSfg2V4c", timestamp: 2606 },
+    { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 5004 },
+    { date: "2023年8月30日", videoId: "sy_-z0MkfKk", timestamp: 5892 },
+  ],            
 "START DASH SENSATION/AIKATSU STARS!": [
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2026 },
     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1809 },
