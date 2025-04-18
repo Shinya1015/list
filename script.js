@@ -712,7 +712,7 @@ const lowPitchSongs = [
     "1/6 -out of the gravity-/ぼーかりおどP",
     "決意の朝に/Aqua Timez",
     "夏のかけら/Aqua Timez",
-    "鐘を鳴らして/BONNIE PINK",
+   
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
