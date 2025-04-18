@@ -3,6 +3,17 @@ const songStreamLinks = {
 
 
 
+
+
+
+  "夏のかけら/Aqua Timez ": [
+       { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 1279 },
+       { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8924 },
+       { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 4465 },
+       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 1439 },
+       { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 6773 },
+       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 5211 },
+     ],
   "決意の朝に/Aqua Timez": [
        { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 12735 },
        { date: "2024年1月26日", videoId: "Uc6T8f5YsS4", timestamp: 5925 },
@@ -599,6 +610,7 @@ const lowPitchSongs = [
     "ガーネット/奥華子",
     "Good day/足立佳奈",
     "1/6 -out of the gravity-/ぼーかりおどP",
+    "決意の朝に/Aqua Timez",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
