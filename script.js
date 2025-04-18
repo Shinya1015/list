@@ -2,7 +2,10 @@
 const songStreamLinks = {
 
 
-
+"うっせぇわ/Ado": [
+    { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 12235 },
+    { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 1357 },
+  ], 
 "恋になりたいAQUARIUM/Aqours": [
     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 3505 },
     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 1351 },
