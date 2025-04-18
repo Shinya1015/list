@@ -437,6 +437,7 @@ const lowPitchSongs = [
     "フラジール/ぬゆり",
     "僕が死のうと思ったのは/amazarashi",
     "季節は次々死んでいく/amazarashi",
+    "さよならごっこ/amazarashi",
     "空に歌えば/amazarashi",
     "しおり/Aqua Timez",
     "千の夜をこえて/Aqua Timez",
