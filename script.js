@@ -600,8 +600,6 @@ const lowPitchSongs = [
     "千の夜をこえて/Aqua Timez",
     "等身大のラブソング/Aqua Timez",
     "つぼみ/Aqua Timez",
-    "リライト/ASIAN KUNG-FU GENERATION",
-    "遥か彼方/ASIAN KUNG-FU GENERATION",
     "カルマ/BUMP OF CHICKEN",
     "車輪の唄/BUMP OF CHICKEN",
     "天体観測/BUMP OF CHICKEN",
