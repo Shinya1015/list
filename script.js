@@ -264,7 +264,9 @@ const songStreamLinks = {
     { },
   ],
   "FOR REAL/徳山秀典": [
-    { },
+    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3408 },
+    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 5919 },
+    { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
   ],
   "曖昧劣情Lover/電ポルP": [
     { },
