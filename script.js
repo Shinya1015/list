@@ -13,7 +13,7 @@ const songStreamLinks = {
 
 "Blooming♡Blooming/AIKATSU☆STARS!": [ 
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 936 },
-    { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1488 },
+    { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1484 },
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 1753 },
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 1363 },
     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 536 },
