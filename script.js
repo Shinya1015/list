@@ -1,6 +1,8 @@
 
 const songStreamLinks = {
-
+"なないろびより/Nano.RIPE": [
+  { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
+  ],
   "Good Morning World!/BURNOUT SYNDROMES": [
     { },
   ],
@@ -3181,6 +3183,8 @@ const animeSongs = [
     "STYX HELIX/MYTH & ROID ",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
     "リアルワールド/nano.RIPE",                        // 人類衰退之後 (Humanity Has Declined)
     "月花/nano.RIPE",                                   // 打工吧！魔王大人 (The Devil Is a Part-Timer!)
+    "なないろびより/Nano.RIPE",                          //んのんびより（悠哉日常大王）》第一季的ED
+    "こだまことだま/nano.RIPE",                        // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "ホログラム/NICO Touches the Walls",                // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "天地ガエシ/NICO Touches the Walls",                // 排球少年!! (Haikyu!!)
     "Bad Apple!!/nomico",                               // 東方Project關聯歌曲 - 遊戲原作，非動畫合作曲
@@ -3420,7 +3424,6 @@ const animeSongs = [
     "瞬間センチメンタル/SCANDAL",                       // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "Blood teller/Faylan",                              // 未來日記 (Future Diary)
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
-    "こだまことだま/nano.RIPE",                        // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
@@ -4113,6 +4116,8 @@ const streamerSongList = [
     "STYX HELIX/MYTH & ROID ",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
     "リアルワールド/nano.RIPE",                        // 人類衰退之後 (Humanity Has Declined)
     "月花/nano.RIPE",                                   // 打工吧！魔王大人 (The Devil Is a Part-Timer!)
+    "こだまことだま/nano.RIPE",                        // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
+    "なないろびより/Nano.RIPE",
     "ロストワンの号哭/Neru",
     "命のユースティティア/Neru",
     "ホログラム/NICO Touches the Walls",                // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
@@ -4616,7 +4621,6 @@ const streamerSongList = [
     "瞬間センチメンタル/SCANDAL",                       // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "Blood teller/Faylan",                              // 未來日記 (Future Diary)
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
-    "こだまことだま/nano.RIPE",                        // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
