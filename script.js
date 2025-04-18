@@ -2,7 +2,7 @@
 const songStreamLinks = {
 
 
-"等身大のラブソング/Aqua Timez": [
+"つぼみ/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 7298 },
        { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 2553 },
