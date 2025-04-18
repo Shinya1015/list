@@ -2,7 +2,15 @@
 const songStreamLinks = {
 
 
-
+"START DASH SENSATION/AIKATSU STARS!": [
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2026 },
+    { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1809 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 1058 },
+    { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 830 },
+    { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 1113 },
+    { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 7567 },
+    { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 5404 },
+  ],         
 "踊/Ado": [
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 4811 },
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3860 },
