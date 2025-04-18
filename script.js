@@ -8,8 +8,7 @@ const songStreamLinks = {
      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 4604 },
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 7808 },
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
-    ], 
-"さよならごっこ/amazarashi": [      
+    ],      
 "さよならごっこ/amazarashi": [ 
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2662 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 1506 },
