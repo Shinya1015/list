@@ -3,10 +3,15 @@ const songStreamLinks = {
 
 
 
-
-
-
-  "夏のかけら/Aqua Timez ": [
+ "等身大のラブソング/Aqua Timez": [
+       { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 1200 },
+       { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17287 },
+       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 6866 },
+       { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 13568 },
+       { date: "2024年9月11日", videoId: "PqeDAWM9HVc", timestamp: 4690 },
+       { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8593 },
+     ],
+  "夏のかけら/Aqua Timez": [
        { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 1279 },
        { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8924 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 4465 },
@@ -611,6 +616,7 @@ const lowPitchSongs = [
     "Good day/足立佳奈",
     "1/6 -out of the gravity-/ぼーかりおどP",
     "決意の朝に/Aqua Timez",
+    "夏のかけら/Aqua Timez",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
@@ -1366,7 +1372,7 @@ const streamerSongList = [
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
     "千の夜をこえて/Aqua Timez",
     "決意の朝に/Aqua Timez",                            // 勇者物語 (Brave Story) - 電影
-    "夏のかけら/Aqua Timez ",
+    "夏のかけら/Aqua Timez",
     "等身大のラブソング/Aqua Timez",
     "つぼみ/Aqua Timez",
     "リライト/ASIAN KUNG-FU GENERATION",                // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
