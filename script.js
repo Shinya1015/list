@@ -8,7 +8,7 @@ const songStreamLinks = {
        { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17287 },
        { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 6866 },
        { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 13568 },
-       { date: "2024年9月11日", videoId: "PqeDAWM9HVc", timestamp: 4690 },
+       { date: "2024年9月11日(1番アカペラ、2番からオケ有り)", videoId: "PqeDAWM9HVc", timestamp: 4690 },
        { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8593 },
      ],
   "夏のかけら/Aqua Timez": [
