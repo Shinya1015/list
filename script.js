@@ -16,7 +16,7 @@ const songStreamLinks = {
     { date: "2023年10月7日", videoId: "eV7122PC4", timestamp: 2146 },
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 1106 },
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 1370 },
-    { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2723 },
+    { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2782 },
     ], 
 "Brave Shine/Aimer": [ 
    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 603 },
