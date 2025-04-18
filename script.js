@@ -29,7 +29,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
   ],
   "瞬間センチメンタル/SCANDAL": [
-    { },
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4851 },
   ],
   "Spring of Life/Perfume": [
     { },
