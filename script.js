@@ -1878,7 +1878,8 @@ const songStreamLinks = {
     { },
   ],
   "スターティングブルー/halca": [
-    { },
+    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 6660 },
+    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2546 },
   ],
   "センチメンタルクライシス/halca": [
     { },
