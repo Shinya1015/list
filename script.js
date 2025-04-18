@@ -3,9 +3,6 @@ const songStreamLinks = {
 "なないろびより/Nano.RIPE": [
   { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
   ],
-  "Good Morning World!/BURNOUT SYNDROMES": [
-    { },
-  ],
   "Magical Babyrinth/DA PUMP": [
      { date: "2025年4月16日(アカペラ)", videoId: "7A2DbCtnoMc", timestamp: 5760 },
   ],
@@ -3429,7 +3426,7 @@ const animeSongs = [
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                         // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-    "Good Morning World!/BURNOUT SYNDROMES", 
+  
 ];
     
 
@@ -4626,5 +4623,5 @@ const streamerSongList = [
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-    "Good Morning World!/BURNOUT SYNDROMES",
+  
 ];
