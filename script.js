@@ -2,7 +2,21 @@
 const songStreamLinks = {
 
 
-
+"僕が死のうと思ったのは/amazarashi": [
+     { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
+     { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 9886 },
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 15674 },
+     { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8441 },
+     { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 5636 },
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 15485 },
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 11419 },
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 17194 },
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 13556 },
+     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 7657 },
+     { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 2895 },
+     { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 3876 },
+     { date: "2023年8月25日", videoId: "9HthO5jsvYw", timestamp: 4223 },
+    ],      
 "季節は次々死んでいく/amazarashi": [
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 32936 },
      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 4604 },
