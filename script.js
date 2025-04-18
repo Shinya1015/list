@@ -3,7 +3,10 @@ const songStreamLinks = {
 
 
 
-
+"踊/Ado": [
+    { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 4811 },
+    { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3860 },
+  ],         
 "新時代/Ado": [
     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 2909 },
     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 5215 },
