@@ -51,7 +51,7 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
   "衝動/Pigstar": [
-    { },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
   "Sunshine/MONKEY MAJIK": [
     { },
@@ -3085,6 +3085,7 @@ const lowPitchSongs = [
     "夏のかけら/Aqua Timez",
     "それでも明日はやってくる/鈴木結女",
     "Zzz/佐咲紗花",
+    "ワスレガタキ/石崎ひゅーい",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
