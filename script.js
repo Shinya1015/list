@@ -3,7 +3,21 @@ const songStreamLinks = {
 
 
 
-  
+  "決意の朝に/Aqua Timez": [
+       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 12735 },
+       { date: "2024年1月26日", videoId: "Uc6T8f5YsS4", timestamp: 5925 },
+       { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 7291 },
+       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 6546 },
+       { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 2346 },
+       { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6257 },
+       { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 4274 },
+       { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 4282 },
+       { date: "2023年11月8日", videoId: "rowdCcqtrRE", timestamp: 4625 },
+       { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 4212 },
+       { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 4455 },
+       { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 2670 },
+       { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 8372 },
+     ],
 "千の夜をこえて/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4405 },
        { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 697 },
