@@ -1,6 +1,19 @@
 
 const songStreamLinks = {
 
+
+
+  
+"千の夜をこえて/Aqua Timez": [
+       { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4405 },
+       { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 697 },
+       { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10080 },
+       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11512 },
+       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 4856 },
+       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1032 },
+       { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 9309 },
+       { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 1912 },
+     ],
 "しおり/Aqua Timez": [
        { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 925 },
        { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11248 },
