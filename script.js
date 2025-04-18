@@ -2,7 +2,9 @@
 const songStreamLinks = {
 
 
-
+"ヒカレルサテライト/初音ミク": [
+  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11426 },
+  ], 
 "ハジメテノオト/初音ミク": [
   { date: "2021年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 14715 },
   ], 
