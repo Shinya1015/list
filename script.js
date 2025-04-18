@@ -5,7 +5,9 @@ const songStreamLinks = {
 
 
 
-
+"夏色☆キャンバス/初音ミク": [
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14115 },
+  ], 
 "みむかｩわナイストライ/初音ミク": [
    { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5668 },
    { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 6580 },
