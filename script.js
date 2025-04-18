@@ -32,7 +32,7 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4851 },
   ],
   "Spring of Life/Perfume": [
-    { },
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3573 },
   ],
   "君に贈る歌/小池徹平": [
     { },
