@@ -3,7 +3,9 @@ const songStreamLinks = {
 
 
 
-
+"ハジメテノオト/初音ミク": [
+  { date: "2021年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 14715 },
+  ], 
 "深海少女/初音ミク": [
   { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 926 },
   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 12695 },
