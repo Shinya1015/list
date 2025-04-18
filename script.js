@@ -7,7 +7,8 @@ const songStreamLinks = {
      { date: "2025年4月16日(アカペラ)", videoId: "7A2DbCtnoMc", timestamp: 5760 },
   ],
   "ハヤテのごとく!/KOTOKO": [
-    { },
+    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13612 },
+    { date: "2025年4月3日(一番のみ)", videoId: "jciPyoWRUt4", timestamp: 4134 },
   ],
   "Zzz/佐咲紗花": [
     { },
