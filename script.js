@@ -4,8 +4,11 @@ const songStreamLinks = {
 
 
 
-
-
+"風待ちハローワールド/add9(ヘリP)": [  
+    { date: "2024年4月5日", videoId: "l_bJ0AaBakk", timestamp: 8748 },
+    { date: "2024年3月31日", videoId: "Nw0mRArA6kE", timestamp: 10305 },
+    { date: "2024年3月26日", videoId: "w1YikQ8OqAc", timestamp: 6832 },
+  ],   
 "1/6 -out of the gravity-/ぼーかりおどP": [    
     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 6649 },
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 4817 },
@@ -316,7 +319,7 @@ const lowPitchSongs = [
     "変わらないもの/奥華子",
     "ガーネット/奥華子",
     "Good day/足立佳奈",
-   
+    "1/6 -out of the gravity-/ぼーかりおどP",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
