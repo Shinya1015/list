@@ -3,7 +3,14 @@ const songStreamLinks = {
 
 
 
-
+"恋になりたいAQUARIUM/Aqours": [
+    { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 3505 },
+    { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 1351 },
+    { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 7411 },
+    { date: "2023年8月25日", videoId: "9HthO5jsvYw", timestamp: 5156 },
+    { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 3073 },
+    { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 5761 },
+  ], 
 "風待ちハローワールド/add9(ヘリP)": [  
     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8748 },
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 10305 },
