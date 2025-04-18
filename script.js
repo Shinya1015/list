@@ -2,7 +2,7 @@
 const songStreamLinks = {
 
 
-"うさぎのかぞえかた/初音ミク&鏡音リン": [
+"うさぎのかぞえかた/さつきがてんこもり": [
     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 10397 },
     { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 7163 },
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17719 },
@@ -1025,7 +1025,6 @@ const streamerSongList = [
     "夏色☆キャンバス/初音ミク",
     "Scene/ジミーサムP",
     "* ハロー、プラネット。/初音ミク",
-    "うさぎのかぞえかた/初音ミク&鏡音リン",
     "フラジール/ぬゆり",
     "1/6 -out of the gravity-/ぼーかりおどP",
     "1/6/ぼーかりおどP",
