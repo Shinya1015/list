@@ -985,7 +985,6 @@ const streamerSongList = [
     "Tómur/におP",
     "マトリョシカ/初音ミク・GUMI",
     "Rabbit/一億円P feat. 初音ミク",
-    "Sweet Devil/初音ミク",
     "深海少女/初音ミク",
     "ハジメテノオト/初音ミク",
     "ヒカレルサテライト/初音ミク",
@@ -1475,6 +1474,7 @@ const streamerSongList = [
     "シューティングスター/八王子P",
     "バタフライ・グラフィティ/八王子P",
     "whiteout/八王子P",
+    "Sweet Devil/八王子P",
     "リテラチュア/上田麗奈",                            // 魔女之旅 (Wandering Witch: The Journey of Elaina)
     "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)", // 偶像大師 灰姑娘女孩劇場 (The Idolmaster Cinderella Girls Theater) - 遊戲/動畫
     "もうそう えくすぷれす/千石撫子(花澤香菜)",          // 〈物語〉系列 第二季 (Monogatari Series Second Season) - 囮物語
