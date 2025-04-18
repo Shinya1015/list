@@ -2,6 +2,23 @@
 const songStreamLinks = {
 
 
+
+
+
+       
+"リライト/ASIAN KUNG-FU GENERATION": [
+       { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1046 },
+       { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 7570 },
+       { date: "2024年11月16日", videoId: "toBPQ1vBNqs", timestamp: 2094 },
+       { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 2419 },
+       { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 8586 },
+       { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 7654 },
+       { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 22962 },
+       { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 3431 },
+       { date: "2023年12月2日", videoId: "lCDIB1wiC7U", timestamp: 2330 },
+       { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 4907 },
+       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 6739 },
+     ],
 "つぼみ/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 7298 },
