@@ -4,7 +4,13 @@ const songStreamLinks = {
 
 
 
-    
+"新時代/Ado": [
+    { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 2909 },
+    { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 5215 },
+    { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 10399 },
+    { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 7505 },
+    { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 7234 },
+  ],         
 "唱/Ado": [
     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 8704 },
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 3314 },
