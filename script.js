@@ -2,7 +2,19 @@
 const songStreamLinks = {
 
 
-
+"等身大のラブソング/Aqua Timez": [
+       { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
+       { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 7298 },
+       { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 2553 },
+       { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 3128 },
+       { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 3644 },
+       { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 1418 },
+       { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 7900 },
+       { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 12629 },
+       { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 1748 },
+       { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 19954 },
+       { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 5606 },
+     ],
  "等身大のラブソング/Aqua Timez": [
        { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 1200 },
        { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17287 },
