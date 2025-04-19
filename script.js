@@ -3429,6 +3429,7 @@ const animeSongs = [
     "party night/真田アサミ・沢城みゆき・氷上 恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
     "Fast Forward/MONKEY MAJIK",                        // 妖怪少爺 (Nura: Rise of the Yokai Clan)
+    "Sunshine/MONKEY MAJIK",
     "衝動/pigstar",                                    // 純情羅曼史 (Junjou Romantica)
     "ワスレガタキ/石崎ひゅーい",                         // Dr.STONE 新石紀 NEW WORLD
     "三原色/PELICAN FANCLUB",                           // Dr.STONE 新石紀
@@ -3441,7 +3442,7 @@ const animeSongs = [
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                         // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-    "Sunshine/MONKEY MAJIK",
+  
 ];
     
 
