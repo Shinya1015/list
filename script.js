@@ -3090,6 +3090,7 @@ const lowPitchSongs = [
     "衝動/pigstar",
     "Sunshine/MONKEY MAJIK",
     "Fast Forward/MONKEY MAJIK",
+    "迷Q!?-迷宫-Make★You-/岸本早未",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
