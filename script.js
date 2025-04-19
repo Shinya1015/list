@@ -61,7 +61,7 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
   ],
   "party night/真田アサミ・沢城みゆき・氷上 恭子": [
-    { },
+     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
     { },
