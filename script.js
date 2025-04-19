@@ -3088,6 +3088,7 @@ const lowPitchSongs = [
     "Zzz/佐咲紗花",
     "ワスレガタキ/石崎ひゅーい",
     "衝動/pigstar",
+    "Fast Forward/MONKEY MAJIK",
 ];
 const animeSongs = [
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
