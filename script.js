@@ -74,7 +74,7 @@ const songStreamLinks = {
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
   "ETERNAL BLAZE/水樹奈々": [
-    { },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
   "サヨナラの空/Qwai": [
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3759 },
