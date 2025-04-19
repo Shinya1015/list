@@ -77,7 +77,7 @@ const songStreamLinks = {
     { },
   ],
   "サヨナラの空/Qwai": [
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3579 },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3759 },
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
   "Reset/平原綾香": [
