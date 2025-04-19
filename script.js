@@ -105,7 +105,7 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13849 },
   ],
   "アドバンス・アドベンチャー/GARDEN": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12795 },
   ],
   "True My Heart/佐倉紗織": [
     { },
