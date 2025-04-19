@@ -97,7 +97,9 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
-    { },
+    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3191 },
+    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5366 },
+    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 15991 }, 
   ],
   "弱虫な炎/DIRTY OLD MEN": [
     { },
