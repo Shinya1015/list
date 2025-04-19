@@ -77,7 +77,8 @@ const songStreamLinks = {
     { },
   ],
   "サヨナラの空/Qwai": [
-    { },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3579 },
+    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
   "Reset/平原綾香": [
     { },
@@ -86,7 +87,7 @@ const songStreamLinks = {
     { },
   ],
   "明日、僕は君に会いに行く/ワカバ": [
-    { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 }
+    { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1129 },
