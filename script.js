@@ -3088,6 +3088,7 @@ const lowPitchSongs = [
     "Zzz/佐咲紗花",
     "ワスレガタキ/石崎ひゅーい",
     "衝動/pigstar",
+    "Sunshine/MONKEY MAJIK",
     "Fast Forward/MONKEY MAJIK",
 ];
 const animeSongs = [
@@ -3440,7 +3441,7 @@ const animeSongs = [
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                         // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-  
+    "Sunshine/MONKEY MAJIK",
 ];
     
 
