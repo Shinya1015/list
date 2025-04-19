@@ -58,7 +58,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
-    { },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
   ],
   "party night/真田アサミ・沢城みゆき・氷上 恭子": [
     { },
