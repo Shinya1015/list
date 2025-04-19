@@ -81,7 +81,7 @@ const songStreamLinks = {
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
   "Reset/平原綾香": [
-    { },
+      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3336 },
   ],
   "いーあるふぁんくらぶ/みきとP": [
     { },
