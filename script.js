@@ -64,7 +64,8 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
-    { },
+    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3404 },
+    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
   ],
   "Dear My Friend~まだ見ぬ未来へ~/ELISA": [
     { },
