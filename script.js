@@ -219,7 +219,7 @@ const songStreamLinks = {
     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 5912 },
   ],
   "もう君だけを離したりはしない/上木彩矢": [
-     { date: "2025年4月3日", videoId: "-f50svs6t8pU", timestamp: 8856 },
+     { date: "2025年4月3日", videoId: "f50svs6t8pU", timestamp: 8856 },
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
