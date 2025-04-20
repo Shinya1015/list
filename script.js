@@ -186,7 +186,8 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
   ],
   "departure!/小野正利": [
-    { },
+    { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2518 },
+    { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
     { },
