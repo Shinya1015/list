@@ -179,7 +179,7 @@ const songStreamLinks = {
     { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 3587 },
   ],
   "ワイルド アット ハート/嵐": [
-    { },
+     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 10014 },
   ],
   "Forever.../savage genius": [
     { },
