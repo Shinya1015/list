@@ -197,7 +197,7 @@ const songStreamLinks = {
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5063 },
   ],
   "らしさ/SUPER BEAVER": [
-    { },
+    { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },,
   ],
   "X-encounter/黑崎真音": [
     { },
