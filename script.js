@@ -182,7 +182,8 @@ const songStreamLinks = {
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 10014 },
   ],
   "Forever.../savage genius": [
-    { },
+    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2898 },
+    { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
   ],
   "departure!/小野正利": [
     { },
