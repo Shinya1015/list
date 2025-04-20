@@ -213,7 +213,7 @@ const songStreamLinks = {
      { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "最上級にかわいいの！/超ときめき♡宣伝部": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
   ],
   "こころのたまご/Buono!": [
     { },
