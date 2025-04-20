@@ -123,7 +123,10 @@ const songStreamLinks = {
     
   ],
   "SUNDAY/ザ・ベイビースターズ": [
-    { },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1381 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9453 },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 1677 },
+     { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
   "Wonderful Wonder World*/Yun*chi": [
     { },
