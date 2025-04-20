@@ -216,7 +216,7 @@ const songStreamLinks = {
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
   ],
   "こころのたまご/Buono!": [
-    { date: "2025年2月11日", videoId: "AOwBqIYQ8E", timestamp: 5912 },
+    { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 5912 },
   ],
   "もう君だけを離したりはしない/上木彩矢": [
     { },
