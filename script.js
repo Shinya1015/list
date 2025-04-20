@@ -164,7 +164,7 @@ const songStreamLinks = {
     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2344 },
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2803 },
     { date: "2025年3月28日(一番のみ)", videoId: "s0NLHUsn9I0", timestamp: 4156 },
-    { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 2519 },
+    { date: "2024年9月15日(一番のみ)", videoId: "Hn3uau1HE0o", timestamp: 2519 },
     
   ],
   "気ままな天使たち/わたてん☆5": [
