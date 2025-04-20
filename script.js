@@ -208,8 +208,9 @@ const songStreamLinks = {
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 2191 },
     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 904 },
   ],
-  "ダブルラリアット/巡音ルカ": [
-    { },
+  "ダブルラリアット/アゴアニキP": [
+    { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10502 },
+     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "最上級にかわいいの！/超ときめき♡宣伝部": [
     { },
@@ -4632,7 +4633,7 @@ const streamerSongList = [
     "もう君だけを離したりはしない/上木彩矢",            // 名偵探柯南 (Detective Conan)
     "こころのたまご/Buono!",                           // 守護甜心！ (Shugo Chara!)
     "最上級にかわいいの！/超ときめき♡宣伝部",
-    "ダブルラリアット/巡音ルカ",
+    "ダブルラリアット/アゴアニキP",
     "X-encounter/黑崎真音",                             // 東京闇鴉 (Tokyo Ravens)
     "らしさ/SUPER BEAVER",                             // 元氣囝仔 (Barakamon)
     "曇天/DOES",                                        // 銀魂 (Gintama)
