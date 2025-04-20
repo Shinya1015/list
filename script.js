@@ -200,7 +200,13 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },,
   ],
   "X-encounter/黑崎真音": [
-    { },
+    { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12051 },
+    { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 4710 },
+    { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1111 },
+    { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 8741 },
+    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 5514 },
+    { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 2191 },
+    { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 904 },
   ],
   "ダブルラリアット/巡音ルカ": [
     { },
