@@ -124,7 +124,10 @@ const songStreamLinks = {
     
   ],
   "光あれ/岡野昭仁": [
-    { },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6596 },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7592 },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2509 },
+    
   ],
   "SUNDAY/ザ・ベイビースターズ": [
     { },
