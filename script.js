@@ -115,14 +115,7 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 1274 },
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 6030 },
   ],
-  "Glory Days/尾崎裕哉": [
-     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1027 },
-     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5010 },
-     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 4644 },
-     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 3527 },
-     { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4041 },
-    
-  ],
+ 
   "光あれ/岡野昭仁": [
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6596 },
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7592 },
@@ -801,6 +794,13 @@ const songStreamLinks = {
   ],
   "シューティングスター/天月-あまつき-": [
     { },
+  ],
+   "Glory Days/尾崎裕哉": [
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1027 },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5010 },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 4644 },
+     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 3527 },
+     { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4041 },
   ],
   "GLAMOROUS SKY/中島美嘉": [
     { },
