@@ -116,7 +116,12 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 6030 },
   ],
   "Glory Days/尾崎裕哉": [
-    { },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1027 },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5010 },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 4644 },
+     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 3527 },
+     { date: "2023年6月5日", videoId: "wNMS4XNQuh4", timestamp: 4041 },
+    
   ],
   "光あれ/岡野昭仁": [
     { },
