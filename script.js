@@ -137,7 +137,7 @@ const songStreamLinks = {
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13795 },
   ],
   "サイハテホーム/サクラメリーメン": [
-    { },
+     { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13614 },
   ],
   "栄光への一秒/MAGIC OF LiFE": [
     { },
