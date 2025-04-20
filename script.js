@@ -172,7 +172,11 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 13826 },
   ],
   "ピエロ/絵師じゃないKEI": [
-    { },
+    { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 6660 },
+    { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 8640 },
+    { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 14085 },
+    { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 8959 },
+    { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 3587 },
   ],
   "ワイルド アット ハート/嵐": [
     { },
