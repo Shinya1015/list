@@ -145,7 +145,7 @@ const songStreamLinks = {
     
   ],
   "light prayer/School Food Punishment": [
-    { },
+    { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
   "futuristic imagination/School Food Punishment": [
     { },
