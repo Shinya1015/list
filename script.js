@@ -4624,7 +4624,6 @@ const streamerSongList = [
     "Wonderful Wonder World*/Yun*chi",                  // 記錄的地平線 (Log Horizon)
     "SUNDAY/ザ・ベイビースターズ",                      // 烘焙王 (Yakitate!! Japan)
     "光あれ/岡野昭仁",                                  // 七大罪 憤怒的審判 (The Seven Deadly Sins: Dragon's Judgement)
-    "Glory Days/尾崎裕哉",
     "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ", // 蠟筆小新：功夫小子～拉麵大亂鬥～ (Crayon Shin-chan Movie 26) - 電影
     "True My Heart/佐倉紗織",
     "アドバンス・アドベンチャー/GARDEN",                // 精靈寶可夢 超世代 (Pokémon Advanced Generation)
