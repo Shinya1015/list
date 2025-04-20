@@ -157,7 +157,7 @@ const songStreamLinks = {
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 14730 },
   ],
   "Re: Re:/ASIAN KUNG-FU GENERATION": [
-    { },
+    { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
   "星屑のインターリュード/fhana": [
     { },
