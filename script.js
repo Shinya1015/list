@@ -194,7 +194,7 @@ const songStreamLinks = {
      { date: "2025年3月11日(アカペラ&一番のみ)", videoId: "z5MYa4kPW4o", timestamp: 1243 },
   ],
   "曇天/DOES": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5063 },
   ],
   "らしさ/SUPER BEAVER": [
     { },
