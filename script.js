@@ -112,7 +112,8 @@ const songStreamLinks = {
     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8700 },
   ],
   "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ": [
-    { },
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 1274 },
+    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 6030 },
   ],
   "Glory Days/尾崎裕哉": [
     { },
