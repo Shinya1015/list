@@ -109,7 +109,7 @@ const songStreamLinks = {
   ],
   "True My Heart/佐倉紗織": [
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 9675 },
-    { date: "2025年4月1日", videoId: "3O4U8gGiR1Y", timestamp: 8700 },
+    { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8700 },
   ],
   "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ": [
     { },
