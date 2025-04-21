@@ -1890,7 +1890,15 @@ const songStreamLinks = {
     { },
   ],
   "bitter/keeno": [
-    { },
+    { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 1757 },
+    { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 2900 },
+    { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 2085 },
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12914 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 16671 },
+    { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9833 },
+    { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4596 },
+    { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2832 },
+    { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
     { },
