@@ -2107,7 +2107,12 @@ const songStreamLinks = {
     { },
   ],
   "歌に形はないけれど/doriko": [
-    { },
+    { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3897 },
+    { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 6858 },
+    { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 1407 },
+    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 6582 },
+    { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 8202 },
+    { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 5987 },
   ],
   "ロミオとシンデレラ/doriko": [
     { },
