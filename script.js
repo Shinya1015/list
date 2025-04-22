@@ -1079,7 +1079,11 @@ const songStreamLinks = {
     { },
   ],
   "シャルル/バルーン": [
-    { },
+       { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 9783 },
+       { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 2862 },
+       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 3282 },
+       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 3913 },
+       { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 6746 },
   ],
   "砂の惑星/ハチ": [
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14090 },
@@ -3215,7 +3219,6 @@ const lowPitchSongs = [
     "歌に形はないけれど/doriko",
     "from Y to Y/ジミーサムP",
     "Calc./ジミーサムP",
-    "Starduster/ジミーサムP",
     "No Logic/ジミーサムP",
     "ひまわりの約束/秦基博",
     "月光/鬼束ちひろ",
