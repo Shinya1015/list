@@ -1221,7 +1221,7 @@ const songStreamLinks = {
   "Calc./ジミーサムP": [
     { date: "2024年5月31日-piano ver", videoId: "hWIjbIBRDuU", timestamp: 13726 },
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20998 },
-    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11315 },
+    { date: "2023年1月23日-piano ver", videoId: "wfTcM2JgtyE", timestamp: 11315 },
     { date: "2023年1月11日-piano ver", videoId: "6sX01H3vJOk", timestamp: 11296 },
     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12213 },
   ],
