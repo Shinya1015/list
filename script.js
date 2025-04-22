@@ -1273,7 +1273,8 @@ const songStreamLinks = {
     { },
   ],
   "蕾/コブクロ": [
-    { },
+    { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 4584 },
+    { date: "2025年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3090 },
   ],
   "はいよろこんで/こっちのけんと": [
     { },
