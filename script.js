@@ -1261,7 +1261,12 @@ const songStreamLinks = {
     { },
   ],
   "TSUNAMI/サザンオールスターズ": [
-    { },
+    { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 5110 },
+    { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 16695 },
+    { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 4134 },
+    { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 9289 },
+    { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 8457 },
+    { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
     { },
