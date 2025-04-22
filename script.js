@@ -725,7 +725,11 @@ const songStreamLinks = {
     { },
   ],
   "Flamingo/米津玄師": [
-    { },
+    { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 3972 },
+    { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 11111 },
+    { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 10571 },
+    { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 2888 },
+    { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
     { },
