@@ -1115,7 +1115,11 @@ const songStreamLinks = {
     { },
   ],
   "SPiCa-acoustic arrange.ver-/とくP": [
-    { },
+       { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4141 },
+       { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2277 },
+       { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 1050 },
+       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 8263 },
+       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 16192 },
   ],
   "ミュージックミュージック/とあ": [
     { },
