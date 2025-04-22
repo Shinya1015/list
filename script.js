@@ -671,7 +671,17 @@ const songStreamLinks = {
     { },
   ],
   "Good day/足立佳奈": [
-    { },
+    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 2317 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 14346 },
+    { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 4275 },
+    { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 4252 },
+    { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 13196 },
+    { date: "2024年3月7日", videoId: "5pByTBS_Arc", timestamp: 4975 },
+    { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 6039 },
+    { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 3309 },
+    { date: "2023年9月14日", videoId: "E4QoAJ7LPow", timestamp: 1734 },
+    { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 7290 },
+    
   ],
   "人生リセットボタンぽちーw/沙花叉クロヱ": [
     { },
