@@ -3410,7 +3410,6 @@ const lowPitchSongs = [
     "サヨナラの空/Qwai",
     "変わらないもの/奥華子",
     "ガーネット/奥華子",
-    "Good day/足立佳奈",
     "1/6 -out of the gravity-/ぼーかりおどP",
     "決意の朝に/Aqua Timez",
     "夏のかけら/Aqua Timez",
