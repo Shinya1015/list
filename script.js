@@ -485,7 +485,11 @@ const songStreamLinks = {
     { },
   ],
   "私とワルツを/鬼束ちひろ": [
-    { },
+    { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3455 },
+    { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 5825 },
+    { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 5073 },
+    { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 9136 },
+    { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 5648 },
   ],
   "眩暈/鬼束ちひろ": [
     { },
