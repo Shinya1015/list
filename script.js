@@ -719,7 +719,17 @@ const songStreamLinks = {
     { },
   ],
   "Lemon/米津玄師": [
-    { },
+    { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1703 },
+    { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 4786 },
+    { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 9703 },
+    { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 6743 },
+    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 6900 },
+    { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 12024 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 6889 },
+    { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 11185 },
+    { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 3642 },
+    { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 9299 },
+    { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 19143 },
   ],
   "KICK BACK/米津玄師": [
     { },
