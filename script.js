@@ -1213,7 +1213,14 @@ const songStreamLinks = {
     { },
   ],
   "No Logic/ジミーサムP": [
-    { },
+    { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 2843 },
+    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 14255 },
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 19362 },
+    { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 9125 },
+    { date: "2023年10月9日", videoId: "5x1r-UWny6k", timestamp: 2376 },
+    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 4209 },
+    { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1746 },
+    { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 3682 },
   ],
   "from Y to Y/ジミーサムP": [
     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 6501 },
@@ -1221,7 +1228,7 @@ const songStreamLinks = {
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 3866 },
     { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 7832 },
     { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 2601 },
-   { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 10881 },
+    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 10881 },
   ],
   "Calc./ジミーサムP": [
     { date: "2024年5月31日-piano ver", videoId: "hWIjbIBRDuU", timestamp: 13726 },
