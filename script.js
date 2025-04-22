@@ -1016,12 +1016,12 @@ const songStreamLinks = {
     { },
   ],
   "世田谷ナイトサファリ/みきとP": [
-    { },
+   { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8007 },
   ],
   "小夜子/みきとP": [
       { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 4416 },
       { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 1254 },
-      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 12323 },,
+      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 12323 },
   ],
   "夕立のりぼん/みきとP": [
     { },
