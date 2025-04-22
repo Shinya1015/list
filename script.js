@@ -2991,7 +2991,7 @@ const songStreamLinks = {
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17719 },
     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15748 },
   ],  
-"* ハロー、プラネット。/Sasakure. UK": [
+"*ハロー、プラネット。/Sasakure. UK": [
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4557 },
   ], 
 "Scene/ジミーサムP": [
@@ -4077,7 +4077,7 @@ const streamerSongList = [
     "Ur-Style/DATEKEN feat.鏡音リン",
     "ぼくらの16bit戦争/Sasakure. UK",
     "トンデモワンダーズ/Sasakure. UK",
-    "* ハロー、プラネット。/Sasakure. UK",
+    "*ハロー、プラネット。/Sasakure. UK",
     "どうぶつ占い/すこっぷ",
     "Packaged/kz(livetune)",
     "Hand in Hand/kz(livetune)",
