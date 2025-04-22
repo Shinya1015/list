@@ -566,7 +566,8 @@ const songStreamLinks = {
     { },
   ],
   "風のららら/倉木麻衣": [
-    { },
+   { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 11686 },
+   { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
   "Your Best Friend/倉木麻衣": [
     { },
