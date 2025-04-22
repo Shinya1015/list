@@ -1545,7 +1545,10 @@ const songStreamLinks = {
     { },
   ],
   "インタビュア/クワガタP": [
-    { },
+      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7111 },
+      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 3836 },
+      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8380 },
+      { date: "2023年1月18日-piano ver", videoId: "ME1ONTBCpho", timestamp: 7352 },
   ],
   "君のそばで～ヒカリのテーマ～/グリン": [
     { },
