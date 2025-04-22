@@ -1082,7 +1082,8 @@ const songStreamLinks = {
     { },
   ],
   "砂の惑星/ハチ": [
-    { },
+      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14090 },
+      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 5832 },
   ],
   "clock lock works/ハチ": [
     { },
