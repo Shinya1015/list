@@ -3261,7 +3261,6 @@ const lowPitchSongs = [
     "Brave Shine/Aimer",
     "Ref:rain/Aimer",
     "小夜子/みきとP",
-    "世田谷ナイトサファリ/みきとP",
     "心拍数♯0822/蝶々P",
     "ドライフラワー/優里",
     "ベテルギウス/優里",
