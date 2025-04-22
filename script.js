@@ -1884,7 +1884,14 @@ const songStreamLinks = {
     { },
   ],
   "glow/keeno": [
-    { },
+    { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 9241 },
+    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 3119 },
+    { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 4685 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 16356 },
+    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 15032 },
+    { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2614 },
+    { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 8724 },
+    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14972 },
   ],
   "crack/keeno": [
     { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 3408 },
