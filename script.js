@@ -2991,7 +2991,7 @@ const songStreamLinks = {
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17719 },
     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15748 },
   ],  
-"* ハロー、プラネット。/初音ミク": [
+"* ハロー、プラネット。/Sasakure. UK": [
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4557 },
   ], 
 "Scene/ジミーサムP": [
@@ -3174,10 +3174,10 @@ const songStreamLinks = {
    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
     ],
- "ぼくらの16bit戦争/Sasakure.UK": [ // 中間順序不變
+ "ぼくらの16bit戦争/Sasakure. UK": [ // 中間順序不變
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
     ],
-"トンデモワンダーズ/Sasakure.UK": [ // 中間順序不變
+"トンデモワンダーズ/Sasakure. UK": [ // 中間順序不變
   { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4568 },
   { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
     ],
@@ -4075,8 +4075,9 @@ const streamerSongList = [
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
     "Ur-Style/DATEKEN feat.鏡音リン",
-    "ぼくらの16bit戦争/Sasakure.UK",
-    "トンデモワンダーズ/Sasakure.UK",
+    "ぼくらの16bit戦争/Sasakure. UK",
+    "トンデモワンダーズ/Sasakure. UK",
+    "* ハロー、プラネット。/Sasakure. UK",
     "どうぶつ占い/すこっぷ",
     "Packaged/kz(livetune)",
     "Hand in Hand/kz(livetune)",
@@ -4093,7 +4094,6 @@ const streamerSongList = [
     "みむかｩわナイストライ/初音ミク",
     "夏色☆キャンバス/初音ミク",
     "Scene/ジミーサムP",
-    "* ハロー、プラネット。/初音ミク",
     "フラジール/ぬゆり",
     "1/6 -out of the gravity-/ぼーかりおどP",
     "風待ちハローワールド/add9(ヘリP)",
