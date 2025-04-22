@@ -734,7 +734,17 @@ const songStreamLinks = {
     { },
   ],
   "First Love/宇多田ヒカル": [
-    { },
+       { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 8378 },
+       { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 4346 },
+       { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 3871 },
+       { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 11696 },
+       { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 11416 },
+       { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 11755 },
+       { date: "2023年11月21日", videoId: "eb3R5Zz1aAo", timestamp: 2066 },
+       { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 5769 },
+       { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 5301 },
+       { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 11700 },
+       { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 2989 },
   ],
   "灼け落ちない翼/多田葵 ": [
     { },
