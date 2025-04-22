@@ -1552,7 +1552,7 @@ const songStreamLinks = {
     { },
   ],
   "Dragon Night/SEKAI NO OWARI": [
-    { },
+    { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
   "Take Your Way/SEKAI NO OWARI": [
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1539 },
