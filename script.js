@@ -237,7 +237,7 @@ const songStreamLinks = {
     { date: "2025年1月25日(一番のみ)", videoId: "ODwLV-exnQU", timestamp: 3365 },
   ],
   "空耳ケーキ/Oranges & Lemons": [
-     { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 8547 },
+     { date: "2025年1月17日(一番のみ)", videoId: "n6AnYYTLADM", timestamp: 8547 },
   ],
   "チューリングラブ/ナナヲアカリ": [
     { },
