@@ -422,7 +422,16 @@ const songStreamLinks = {
     { },
   ],
   "丸の内サディスティック/椎名林檎": [
-    { },
+     { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 1631 },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 35784 },
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 3126 },
+     { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 8650 },
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 13736 },
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 12630 },
+     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 4070 },
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 11440 },
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 12943 },
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/嵐": [
     { },
