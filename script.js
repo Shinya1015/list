@@ -386,7 +386,15 @@ const songStreamLinks = {
     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 7051 },
   ],
   "香水/瑛人": [
-    { },
+     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 5913 },
+     { date: "2024年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 6195 },
+     { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 4358 },
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7457 },
+     { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 3326 },
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 8397 },
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 12908 },
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 11580 },
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
     { },
