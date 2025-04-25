@@ -2468,7 +2468,10 @@ const songStreamLinks = {
     { },
   ],
   "虹を編めたら/fhana": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 18377 },
+     { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 6987 },
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 6742 },
+     { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
   "careless breath/EXILE": [
     { },
