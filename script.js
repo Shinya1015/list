@@ -2490,7 +2490,7 @@ const songStreamLinks = {
   ],
   "Fire◎Flower/halyosy": [
     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
-    { date: "2024年5月27日", ZRqhVaH-ZcA: "WpAt9ZEc9qE", timestamp: 4837 },
+    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4837 },
   ],
   "Connecting/halyosy": [
     { },
