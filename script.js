@@ -1465,7 +1465,7 @@ const songStreamLinks = {
     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 2973 },
     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 6917 },
     { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 930 },
-    { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 4566 },
+    { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 4066 },
   ],
   "うそつき/めざめP": [
     { },
