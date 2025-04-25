@@ -212,6 +212,9 @@ const songStreamLinks = {
     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10502 },
      { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
+  "超最強/超ときめき♡宣伝部": [
+     { },
+  ],
   "最上級にかわいいの！/超ときめき♡宣伝部": [
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
   ],
@@ -5284,6 +5287,7 @@ const streamerSongList = [
     "もう君だけを離したりはしない/上木彩矢",            // 名偵探柯南 (Detective Conan)
     "こころのたまご/Buono!",                           // 守護甜心！ (Shugo Chara!)
     "最上級にかわいいの！/超ときめき♡宣伝部",
+    "超最強/超ときめき♡宣伝部",
     "ダブルラリアット/アゴアニキP",
     "X-encounter/黑崎真音",                             // 東京闇鴉 (Tokyo Ravens)
     "らしさ/SUPER BEAVER",                             // 元氣囝仔 (Barakamon)
