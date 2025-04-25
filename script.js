@@ -2960,7 +2960,14 @@ const songStreamLinks = {
     { },
   ],
   "GO/BUMP OF CHICKEN": [
-    { },
+    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1826 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 4796 },
+    { date: "2024年5月15日", videoId: "zJSlMu5wgdg", timestamp: 8959 },
+    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 21367 },
+    { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 5950 },
+    { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 10524 },
+    { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 8047 },
+    { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
 "Butterfly/BUMP OF CHICKEN": [
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 8206 },
