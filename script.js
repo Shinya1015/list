@@ -1459,6 +1459,13 @@ const songStreamLinks = {
   ],
   "走れ！/ももいろクローバー": [
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 1394 },
+    { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 870 },
+    { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 1039 },
+    { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 9178 },
+    { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 2973 },
+    { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 6917 },
+    { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 930 },
+    { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 4566 },
   ],
   "うそつき/めざめP": [
     { },
