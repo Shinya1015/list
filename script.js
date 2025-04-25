@@ -46,15 +46,18 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4503 },
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2961 },
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4327 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
   "Sunshine/MONKEY MAJIK": [
-     { date: "2025年4月10日(歌ってない?)", videoId: "QUsI2G0TNdQ", timestamp: 4938 },
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4177 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4938 },
      { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 3838 },
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
@@ -210,13 +213,14 @@ const songStreamLinks = {
   ],
   "ダブルラリアット/アゴアニキP": [
     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10502 },
-     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
+    { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
-     { },
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 586 },
   ],
   "最上級にかわいいの！/超ときめき♡宣伝部": [
-     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
+    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 924 },
+    { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
   ],
   "こころのたまご/Buono!": [
     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 5912 },
@@ -391,6 +395,7 @@ const songStreamLinks = {
     { },
   ],
   "虹/福山雅治": [
+    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1991 },
     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 3024 },
     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6029 },
@@ -1280,6 +1285,7 @@ const songStreamLinks = {
     { },
   ],
    "Glory Days/尾崎裕哉": [
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 3358 },
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1027 },
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5010 },
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 4644 },
@@ -1452,7 +1458,7 @@ const songStreamLinks = {
     { },
   ],
   "走れ！/ももいろクローバー": [
-    { },
+    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 1394 },
   ],
   "うそつき/めざめP": [
     { },
@@ -3167,6 +3173,9 @@ const songStreamLinks = {
        { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 4907 },
        { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 6739 },
      ],
+ "シャボン玉Days/Aqua Timez": [
+   { date: "2024年3月10日", videoId: "OJPIEaziIPU", timestamp: 6602 },
+     ],
 "つぼみ/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 7298 },
@@ -3233,12 +3242,14 @@ const songStreamLinks = {
        { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
      ],
 "Velonica/Aqua Timez": [
-      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21855 },
-      { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1776 },
-      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
-      { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
+  　{ date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5869 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21855 },
+ 　 { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1776 },
+    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
+    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
 "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 2736 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 1974 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 13718 },
       { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 7047 },
@@ -3489,6 +3500,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 "フラジール/ぬゆり": [
+    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 2994 },
     { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7741 },
     { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 6233 },
     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 687 },
@@ -4628,6 +4640,7 @@ const streamerSongList = [
     "夏のかけら/Aqua Timez",
     "等身大のラブソング/Aqua Timez",
     "つぼみ/Aqua Timez",
+ 　 "シャボン玉Days/Aqua Timez",
     "リライト/ASIAN KUNG-FU GENERATION",                // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
     "遥か彼方/ASIAN KUNG-FU GENERATION",                // 火影忍者 (Naruto)
     "Stairway Generation/Base Ball Bear",               // 銀魂 (Gintama)
