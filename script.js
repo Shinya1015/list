@@ -2488,6 +2488,10 @@ const songStreamLinks = {
   "かさなる影/Hearts Grow": [
     { },
   ],
+  "Fire◎Flower/halyosy": [
+    { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
+    { date: "2024年5月27日", ZRqhVaH-ZcA: "WpAt9ZEc9qE", timestamp: 4837 },
+  ],
   "Connecting/halyosy": [
     { },
   ],
@@ -4748,6 +4752,7 @@ const streamerSongList = [
     "スターティングブルー/halca",                      // 逆轉裁判 ～對這個「真實」，有異議！～ Season 2 (Ace Attorney Season 2)
     "Blessing/halyosy",
     "Connecting/halyosy",
+    "Fire◎Flower/halyosy",
     "かさなる影/Hearts Grow",                           // 銀魂 (Gintama)
     "clover/hiro",
     "グロウアップ/Hysteric Blue",
@@ -5331,5 +5336,5 @@ const streamerSongList = [
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-  
+     
 ];
