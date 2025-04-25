@@ -309,7 +309,20 @@ const songStreamLinks = {
     { },
   ],
   "虹/Aqua Timez": [
-    { },
+    { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 2160 },
+    { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10402 },
+    { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 8797 },
+    { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 5249 },
+    { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 2898 },
+    { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 7666 },
+    { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 1516 },
+    { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 4627 },
+    { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 7895 },
+    { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 11484 },
+    { date: "2023年11月12日", videoId: "EUa_YVeNuvs", timestamp: 8057 },
+    { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 22955 },
+    { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 8351 },
+    
   ],
   "Treasure/碧陽学園生徒会": [
     { },
