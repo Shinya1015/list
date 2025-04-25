@@ -249,7 +249,9 @@ const songStreamLinks = {
     { },
   ],
   "ハナミズキ/一青窈": [
-    { },
+     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 3996 },
+     { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 4171 },
+     { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 12077 },
   ],
   "愛包ダンスホール/HIMEHINA": [
     { },
