@@ -4141,8 +4141,8 @@ const animeSongs = [
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
-    "Magical Babyrinth/DA PUMP",                         // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
-  
+    "Magical Babyrinth/DA PUMP",                       // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
+    "Glory Days/尾崎裕哉",                             //交響詩篇
 ];
     
 
