@@ -422,7 +422,7 @@ const songStreamLinks = {
     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
   ],
   "曖昧劣情Lover/電ポルP": [
-    { },
+    { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
     { },
