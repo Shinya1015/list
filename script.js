@@ -516,7 +516,7 @@ const songStreamLinks = {
   "星座になれたら/結束バンド": [
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3075 },
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 18567 },
-     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 3359 },
+     { date: "2025年3月12日-piano ver", videoId: "IFngoVs50Uo", timestamp: 3359 },
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 13600 },
      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 4206 },
      { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 4024 },
