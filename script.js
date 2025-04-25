@@ -306,7 +306,14 @@ const songStreamLinks = {
     { },
   ],
   "虹/福山雅治": [
-    { },
+    { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1991 },
+    { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 3024 },
+    { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6029 },
+    { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 4639 },
+    { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 9257 },
+    { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 11331 },
+    { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 2967 },
+    { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 7134 },
   ],
   "虹/Aqua Timez": [
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 2160 },
