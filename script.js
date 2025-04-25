@@ -132,7 +132,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
   "Wonderful Wonder World*/Yun*chi": [
-     { date: "2025年4月13日", videoId: "7h27-6vwmrk", timestamp: 1042 },
+     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 1042 },
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2030 },
   ],
   "アイコトバ/サクラメリーメン": [
