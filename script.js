@@ -288,7 +288,12 @@ const songStreamLinks = {
     { },
   ],
   "you/癒月": [
-    { },
+    { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5657 },
+    { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 4338 },
+    { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 4874 },
+    { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 5246 },
+    { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 2004 },
+    { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 4472 },
   ],
   "マル・マル・モリ・モリ!/薫と友樹、たまにムック。": [
     { },
