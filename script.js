@@ -2191,7 +2191,10 @@ const songStreamLinks = {
     { },
   ],
   "前前前世/RADWIMPS": [
-    { },
+     { date: "2023年12月6日", videoId: "6K_0jky740Y", timestamp: 2036 },
+     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 6809 },
+     { date: "2023年9月11日(一番のみ)", videoId: "PqeDAWM9HVc", timestamp: 8906 },
+     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
     { },
