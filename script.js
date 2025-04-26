@@ -2945,7 +2945,13 @@ const songStreamLinks = {
     { },
   ],
   "可愛くなりたい/CHiCO with HoneyWorks": [
-    { },
+    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2040 },
+    { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 1963 },
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 8753 },
+    { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 6025 },
+    { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 1767 },
+    { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 7510 },
+    { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 1156 },
   ],
   "プライド革命/CHiCO with HoneyWorks": [
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6294 },
