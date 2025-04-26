@@ -2968,7 +2968,13 @@ const songStreamLinks = {
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
   "アンサー/BUMP OF CHICKEN": [
-    { },
+    { date: "2025年1月28日", videoId: "CaqdQWpMC-g", timestamp: 7161 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 23714 },
+    { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 1160 },
+    { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 1508 },
+    { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 11410 },
+    { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 21984 },
+    { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 14545 },
   ],
   "アカシア/BUMP OF CHICKEN": [
     { },
