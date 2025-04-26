@@ -2925,7 +2925,8 @@ const songStreamLinks = {
     { },
   ],
   "病名恋ワズライ/HoneyWorks": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3696 },
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 6350 },
   ],
   "桜ロック/CHERRYBLOSSOM": [
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7061 },
