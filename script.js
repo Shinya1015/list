@@ -247,7 +247,8 @@ const songStreamLinks = {
      { date: "2025年1月17日(一番のみ)", videoId: "n6AnYYTLADM", timestamp: 8547 },
   ],
   "チューリングラブ/ナナヲアカリ": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1762 },
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7172 },
   ],
   "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)": [
     { },
