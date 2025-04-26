@@ -253,7 +253,11 @@ const songStreamLinks = {
     { },
   ],
   "わたしの一番かわいいところ/FRUITS ZIPPER": [
-    { },
+     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 2463 },
+     { date: "2025年2月14日(一番のみ)", videoId: "rxfNlp4K0zc", timestamp: 4741 },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9762 },
+     { date: "2024年8月17日(一番のみ)", videoId: "vJwXyHWqX1o", timestamp: 6596 },
+     { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 3996 },
