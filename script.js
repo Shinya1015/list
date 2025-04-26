@@ -287,8 +287,15 @@ const songStreamLinks = {
   "ニブンノイチ/BACK-ON": [
     { },
   ],
-  " *～アスタリスク～/オレンジレンジ": [
-    { },
+  "*～アスタリスク～/オレンジレンジ": [
+    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6411 },
+    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6899 },
+    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 2099 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19240 },
+    { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 4558 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 6373 },
+    { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1315 },
+    { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3226 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
     { },
@@ -5450,7 +5457,7 @@ const streamerSongList = [
     "you/癒月",
     "ヒトミノチカラ/観月ありさ",
     "SIX COLORS BOY/雛形あきこ",
-    " *～アスタリスク～/オレンジレンジ",
+    "*～アスタリスク～/オレンジレンジ",
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
     "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
