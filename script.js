@@ -2942,7 +2942,7 @@ const songStreamLinks = {
     { },
   ],
   "私、アイドル宣言/CHiCO with HoneyWorks": [
-    { },
+    { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 3420 },
   ],
   "可愛くなりたい/CHiCO with HoneyWorks": [
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2040 },
