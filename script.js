@@ -2970,7 +2970,29 @@ const songStreamLinks = {
     { },
   ],
   "Be Somewhere/Buzy": [
-    { },
+    { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 1603 },
+    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2594 },
+    { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 1347 },
+    { date: "2024年1月4日", videoId: "YXH7TYhzkbo", timestamp: 3844 },
+    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 13473 },
+    { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 9081 },
+    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 3249 },
+    { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 1858 },
+    { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 1502 },
+    { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 5983 },
+    { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 8804 },
+    { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7993 },
+    { date: "2024年5月3日", videoId: "LxLcU7IywuI", timestamp: 4899 },
+    { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 6916 },
+    { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 5322 },
+    { date: "2024年4月3日", videoId: "VOf65PJXV-0", timestamp: 2215 },
+    { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 1290 },
+    { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 5992 },
+    { date: "2023年11月9日", videoId: "z_XBDnAUf8A", timestamp: 1454 },
+    { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 2687 },
+    { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 11143 },
+    { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 10580 },
+    { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 17508 },
@@ -4053,6 +4075,7 @@ const lowPitchSongs = [
     "迷Q!?-迷宫-Make★You-/岸本早未",
 ];
 const animeSongs = [
+    "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
     "Blooming♡Blooming/AIKATSU☆STARS!",             // 偶像活動Stars！ (Aikatsu Stars!)
     "STARDOM!/AIKATSU☆STARS!",                         // 偶像活動Stars！ (Aikatsu Stars!)
@@ -4065,7 +4088,6 @@ const animeSongs = [
     "聖少女領域/ALI PROJECT",                           // 薔薇少女 夢見 (Rozen Maiden: Träumend)
     "さよならごっこ/amazarashi",                       // 多羅羅 (Dororo)
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
-    //"空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
     "Velonica/Aqua Timez",                              // BLEACH 死神
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
     "決意の朝に/Aqua Timez",                            // 勇者物語 (Brave Story) - 電影
@@ -4880,7 +4902,6 @@ const streamerSongList = [
     "さよならごっこ/amazarashi",                       // 多羅羅 (Dororo)
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
     "僕が死のうと思ったのは/amazarashi",
-    //"空に歌えば/amazarashi",                           // 我的英雄學院 (My Hero Academia)
     "ロンリーユニバース/Aqu3ra",
     "Velonica/Aqua Timez",                              // BLEACH 死神
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
