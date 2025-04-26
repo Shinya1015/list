@@ -2905,7 +2905,14 @@ const songStreamLinks = {
     { },
   ],
   "桜ロック/CHERRYBLOSSOM": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7061 },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 4101 },
+     { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 1639 },
+     { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 384 },
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 3415 },
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 6689 },
+     { date: "2023年9月7日", videoId: "1MyeFvhJ6Mk", timestamp: 7894 },
+     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 6329 },
   ],
   "Period/CHEMISTRY": [
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3390 },
