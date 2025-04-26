@@ -680,7 +680,12 @@ const songStreamLinks = {
     { },
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
-    { },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4257 },
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 10040 },
+     { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 3490 },
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 9093 },
+     { date: "2023年10月29日", videoId: "vqBUMEuRee4", timestamp: 5845 },
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 2186 },
   ],
   "プレパレード/逢坂大河(釘宮理恵)&櫛枝実乃梨(堀江由衣)&川嶋亜美(喜多村英梨)": [
     { },
