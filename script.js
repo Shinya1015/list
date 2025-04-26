@@ -296,6 +296,9 @@ const songStreamLinks = {
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 6373 },
     { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1315 },
     { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3226 },
+    { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 3866 },
+    { date: "2024年5月30日", videoId: "H8CIE-SG5Tg", timestamp: 5302 },
+    { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4911 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
     { },
@@ -695,7 +698,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 2186 },
   ],
   "プレパレード/逢坂大河(釘宮理恵)&櫛枝実乃梨(堀江由衣)&川嶋亜美(喜多村英梨)": [
-    { },
+    { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 7695 },
   ],
   "God Knows.../涼宮ハルヒ(CV:平野綾)": [
     { },
