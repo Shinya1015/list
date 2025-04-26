@@ -2973,7 +2973,7 @@ const songStreamLinks = {
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 1603 },
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2594 },
     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 1347 },
-    { date: "2024年1月4日", videoId: "YXH7TYhzkbo", timestamp: 3844 },
+    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 3844 },
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 13473 },
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 9081 },
     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 3249 },
