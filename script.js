@@ -2919,7 +2919,13 @@ const songStreamLinks = {
     { },
   ],
   "プライド革命/CHiCO with HoneyWorks": [
-    { },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6294 },
+     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 6368 },
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 3734 },
+     { date: "2023年11月27日", videoId: "5yeMXL3dho0", timestamp: 3985 },
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 4805 },
+     { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 5652 },
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4530 },
   ],
   "カヌレ/CHiCO with HoneyWorks": [
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3340 },
@@ -2928,9 +2934,9 @@ const songStreamLinks = {
      { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 7122 },
      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 3105 },
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 16063 },
-    { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 3839 },
-    { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 13841},
-    { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 6250 },
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 3839 },
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 13841},
+     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 6250 },
   ],
   "病名恋ワズライ/HoneyWorks": [
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3696 },
