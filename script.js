@@ -2845,7 +2845,14 @@ const songStreamLinks = {
     { },
   ],
   "サインはB/B小町 アイ (CV:高橋李依)": [
-    { },
+    { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6707 },
+    { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 16668 },
+    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 14904 },
+    { date: "2024年1月9日", videoId: "lSdN2PzHKvI", timestamp: 1616 },
+    { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 3584 },
+    { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 3004 },
+    { date: "2023年7月27日", videoId: "nsx7tzK7LdU", timestamp: 2078 },
+    { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 1435 },
   ],
   "ギリギリchop/B'z": [
     { },
