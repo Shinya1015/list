@@ -2908,7 +2908,17 @@ const songStreamLinks = {
     { },
   ],
   "Period/CHEMISTRY": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3390 },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 7184 },
+     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 2596 },
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 5466 },
+     { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 512 },
+     { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 3106 },
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 3425 },
+     { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 7805 },
+     { date: "2024年5月14日", videoId: "XR3IA9-tTjM", timestamp: 1308 },
+     { date: "2024年1月12日", videoId: "c5lqCzfIh10", timestamp: 3708 },
+     { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 5807 },
   ],
   "I Really Like You/Carly Rae Jepsen": [
     { },
