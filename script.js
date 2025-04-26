@@ -2841,8 +2841,26 @@ const songStreamLinks = {
   "Call Me Maybe/Carly Rae Jepsen": [
     { },
   ],
-  "STAR☆T☆RAIN -New Arrange Ver.-/B小町": [
-    { },
+  "STAR☆T☆RAIN/B小町": [
+    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5066 },
+    { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 991 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 28802 },
+    { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2565 },
+    { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 3217 },
+    { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6416 },
+    { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 16977 },
+    { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 2280 },
+    { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 1025 },
+    { date: "2023年12月16日", videoId: "_8AG30JS1IY", timestamp: 4409 },
+    { date: "2023年10月19日", videoId: "3MUWFjPBoCo", timestamp: 943 },
+    { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 8407 },
+    { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 2791 },
+    { date: "2023年9月7日", videoId: "1MyeFvhJ6Mk", timestamp: 4577 },
+    { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 22543 },
+    { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 6016 },
+    { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 2723 },
+    { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 1607 },
+    { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 1445 },
   ],
   "サインはB/B小町 アイ (CV:高橋李依)": [
     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6707 },
@@ -3977,7 +3995,7 @@ const animeSongs = [
     "アンサー/BUMP OF CHICKEN",                         // 3月的獅子 (March Comes in Like a Lion)
     "月虹/BUMP OF CHICKEN",                             // 魔偶馬戲團 (Karakuri Circus)
     "サインはB/B小町 アイ (CV:高橋李依)",               // 【我推的孩子】 (Oshi no Ko) - 插入曲
-    "STAR☆T☆RAIN -New Arrange Ver.-/B小町",         // 【我推的孩子】 (Oshi no Ko) - 插入曲
+    "STAR☆T☆RAIN/B小町",                             // 【我推的孩子】 (Oshi no Ko) - 插入曲
     "Period/CHEMISTRY",                                 // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "桜ロック/CHERRYBLOSSOM",                           // 家庭教師HITMAN REBORN! (Reborn!)
     "病名恋ワズライ/HoneyWorks",                       // 告白實行委員會系列 - 動畫電影/關聯歌曲
@@ -4813,7 +4831,7 @@ const streamerSongList = [
     "星の唄/buzzG",
     "ギリギリchop/B'z",
     "サインはB/B小町 アイ (CV:高橋李依)",               // 【我推的孩子】 (Oshi no Ko) - 插入曲
-    "STAR☆T☆RAIN -New Arrange Ver.-/B小町",         // 【我推的孩子】 (Oshi no Ko) - 插入曲
+    "STAR☆T☆RAIN/B小町",                             // 【我推的孩子】 (Oshi no Ko) - 插入曲
     "Call Me Maybe/Carly Rae Jepsen",
     "I Really Like You/Carly Rae Jepsen",
     "Period/CHEMISTRY",                                 // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
