@@ -836,7 +836,11 @@ const songStreamLinks = {
     { },
   ],
   "TRY AGAIN/倉木麻衣": [
-    { },
+    { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 4569 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13716 },
+    { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 5093 },
+    { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 14841 },
+    { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
     { },
