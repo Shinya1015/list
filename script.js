@@ -2922,7 +2922,15 @@ const songStreamLinks = {
     { },
   ],
   "カヌレ/CHiCO with HoneyWorks": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3340 },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 4207 },
+     { date: "2023年12月29日", videoId: "UjQZcBoVP5M", timestamp: 2309 },
+     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 7122 },
+     { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 3105 },
+     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 16063 },
+    { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 3839 },
+    { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 13841},
+    { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 6250 },
   ],
   "病名恋ワズライ/HoneyWorks": [
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3696 },
