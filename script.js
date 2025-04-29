@@ -1649,7 +1649,7 @@ const songStreamLinks = {
   ],
   "サウダージ/ポルノグラフィティ": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1755},
-      { date: "2025年4月22日-しゃいる/氷々樹ノルン", videoId: "5ktwWXMXY_Q", timestamp: 2863},
+      { date: "2025年4月2日-しゃいる/氷々樹ノルン", videoId: "5ktwWXMXY_Q", timestamp: 2863},
       { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6728},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 21562},
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 1614},
