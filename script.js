@@ -289,7 +289,20 @@ const songStreamLinks = {
     { },
   ],
   "曲名はまだないです/Aogumo": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 4292},
+      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6153},
+      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 9873},
+      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 12805},
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15944},
+      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 3434},
+      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 6778},
+      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 2591},
+      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 4845},
+      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 3640},
+      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 8607},
+      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},
+      
+      
   ],
   "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠": [
     { },
