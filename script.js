@@ -2236,7 +2236,15 @@ const songStreamLinks = {
     { },
   ],
   "アンビバレント/Uru ": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 9777},
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 7186},
+      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 3307},
+      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8028},
+      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 12052},
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 10111},
+      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 6368},
+      { date: "2024年10月15日-piano ver", videoId: "V121F-Q8R2c", timestamp: 4037},
+      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 4782},
   ],
   "シュガーソングとビターステップ/UNISON SQUARE GARDEN": [
     { },
