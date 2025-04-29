@@ -783,6 +783,7 @@ const songStreamLinks = {
   ],
   "僕たちの行方/高橋瞳": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3326 },
+    { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3060 },
   ],
   "青空のナミダ/高橋瞳": [
     { },
