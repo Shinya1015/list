@@ -2212,7 +2212,8 @@ const songStreamLinks = {
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8655},
   ],
   "笑顔のsuncatcher/STAR☆ANIS": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7365 },
+      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7365 },
+      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
   ],
   "輝きのエチュード/STAR☆ANIS": [
     { },
