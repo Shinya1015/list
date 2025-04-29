@@ -4293,7 +4293,7 @@ const lowPitchSongs = [
     "Sunshine/MONKEY MAJIK",
     "Fast Forward/MONKEY MAJIK",
     "迷Q!?-迷宫-Make★You-/岸本早未",
-    "Babyrinth/DA PUMP",
+    "Magical Babyrinth/DA PUMP",
     
 ];
 const animeSongs = [
