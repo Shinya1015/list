@@ -2842,7 +2842,9 @@ const songStreamLinks = {
     { },
   ],
   "ちいさな日々/flumpool": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1431},
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 10756},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1940},
   ],
   "君に届け/flumpool": [
     { },
