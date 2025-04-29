@@ -2005,7 +2005,20 @@ const songStreamLinks = {
     { },
   ],
   "Rolling star/YUI": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1678 },
+      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1678 },
+      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 397 },
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9654 },
+      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 1162 },
+      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 9355 },
+      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 7754 },
+      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 5377 },
+      { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 11281 },
+      { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 2297 },
+      { date: "2024年4月3日", videoId: "VOf65PJXV-0", timestamp: 4294 },
+      { date: "2024年1月28日", videoId: "AhrllzwjcXo", timestamp: 7173 },
+      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
+      
+      
   ],
   "Laugh away/YUI": [
     { },
