@@ -2222,7 +2222,9 @@ const songStreamLinks = {
     { },
   ],
   "フレンド/STAR☆ANIS": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7695 },
+      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7695 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },
+      
   ],
   "オトナモード/STAR☆ANIS": [
     { },
