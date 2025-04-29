@@ -1684,9 +1684,8 @@ const songStreamLinks = {
       { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4078},
       { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 2281},
       { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 1702},
-      { date: "2023年8月26日", videoId: "", timestamp: 3060},
-      { date: "2024年8月25日", videoId: "", timestamp: 3060},
-      
+      { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 8968},
+      { date: "2024年8月25日", videoId: "9HthO5jsvYw", timestamp: 3240},   
   ],
   "アゲハ蝶/ポルノグラフィティ": [
     { },
