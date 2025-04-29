@@ -2159,7 +2159,22 @@ const songStreamLinks = {
     { },
   ],
   "UNDEAD/YOASOBI": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 4497},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 11468},
+      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5752},
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9859},
+      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 3108},
+      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 7386},
+      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 1308},
+      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 9057},
+      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 11460},
+      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 2765},
+      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 4315},
+      { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 4673},
+      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 4035},
+      { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 1442},
+      { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 1087},
+
   ],
   "群青/YOASOBI": [
     { },
