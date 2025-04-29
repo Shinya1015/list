@@ -4294,6 +4294,7 @@ const lowPitchSongs = [
     "Fast Forward/MONKEY MAJIK",
     "迷Q!?-迷宫-Make★You-/岸本早未",
     "Magical Babyrinth/DA PUMP",
+    "夢幻/MY FIRST STORY x HYDE",
     
 ];
 const animeSongs = [
