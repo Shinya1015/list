@@ -2223,8 +2223,7 @@ const songStreamLinks = {
   ],
   "フレンド/STAR☆ANIS": [
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7695 },
-      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },
-      
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },   
   ],
   "オトナモード/STAR☆ANIS": [
     { },
@@ -2236,7 +2235,15 @@ const songStreamLinks = {
     { },
   ],
   "SHINING LINE*/STAR☆ANIS": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 9538},
+      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 9538},
+      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7099},
+      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 1389},
+      { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 6795},
+      { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 5979},
+      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 13119},
+      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 1793},
+      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 2331},
+      { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 6505},
   ],
   "KIRA☆Power/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
