@@ -4293,6 +4293,8 @@ const lowPitchSongs = [
     "Sunshine/MONKEY MAJIK",
     "Fast Forward/MONKEY MAJIK",
     "迷Q!?-迷宫-Make★You-/岸本早未",
+    "Babyrinth/DA PUMP",
+    
 ];
 const animeSongs = [
     "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
