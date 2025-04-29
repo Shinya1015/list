@@ -170,12 +170,12 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
   "星屑のインターリュード/fhana": [
-    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3860 },
-    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2344 },
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2803 },
-    { date: "2025年3月28日(一番のみ)", videoId: "s0NLHUsn9I0", timestamp: 4156 },
-    { date: "2024年9月15日(一番のみ)", videoId: "Hn3uau1HE0o", timestamp: 2519 },
-    
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5489},
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3860 },
+      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2344 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2803 },
+      { date: "2025年3月28日(一番のみ)", videoId: "s0NLHUsn9I0", timestamp: 4156 },
+      { date: "2024年9月15日(一番のみ)", videoId: "Hn3uau1HE0o", timestamp: 2519 },
   ],
   "気ままな天使たち/わたてん☆5": [
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2054 },
