@@ -4576,7 +4576,8 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
-    "Secret of my heart/倉木麻衣", 
+    "小夜子/みきとP",
+    "テルーの唄/手嶌葵", 
     "丸の内サディスティック/椎名林檎", 
     "ハロ/ハワユ/ナノウ",  
     "トリノコシティ/40mP",
