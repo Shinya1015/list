@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+    "リクライム/ROOKiEZ is PUNK'D: [
+    {  },
+    ],
 "Wake up my music/りさ・えいみ": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6976 },
     ],
@@ -4865,6 +4868,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
     "Blooming♡Blooming/AIKATSU☆STARS!",             // 偶像活動Stars！ (Aikatsu Stars!)
@@ -6419,4 +6423,5 @@ const streamerSongList = [
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Wake up my music/りさ・えいみ", 
+    "リクライム/ROOKiEZ is PUNK'D",
 ];
