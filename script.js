@@ -1535,7 +1535,10 @@ const songStreamLinks = {
     { },
   ],
   "POP STAR/平井堅": [
-    { },
+      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 10916},
+      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 17019},
+      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 8941},
+      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 2775},
   ],
   "Step by step/市瀬るぽ": [
     { },
