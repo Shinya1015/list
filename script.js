@@ -2556,7 +2556,8 @@ const songStreamLinks = {
     { },
   ],
   "Pray/Wish*": [
-    { },
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6637},
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10422},
   ],
   "Pray/Tommy heavenly6": [
     { },
@@ -5378,7 +5379,7 @@ const animeSongs = [
     "One day/The ROOTLESS",                             // ONE PIECE 航海王
     "Get Wild/TM NETWORK",                              // 城市獵人 (City Hunter)
     "Pray/Tommy heavenly6",                             // 銀魂 (Gintama)
-    "Pray/Wish*",                                       // 網球王子 (The Prince of Tennis) - 可能是角色歌翻唱
+    "Pray/Wish*",                                       // HUNTER×HUNTER～グリードアイランド～ OP
     "Adrenaline!!!/TrySail",                            // 情色漫畫老師 (Eromanga Sensei)
     "シュガーソングとビターステップ/UNISON SQUARE GARDEN", // 血界戰線 (Blood Blockade Battlefront)
     "アイドル/YOASOBI",                                 // 【我推的孩子】 (Oshi no Ko)
@@ -6353,7 +6354,7 @@ const streamerSongList = [
     "One day/The ROOTLESS",                             // ONE PIECE 航海王
     "Get Wild/TM NETWORK",                              // 城市獵人 (City Hunter)
     "Pray/Tommy heavenly6",                             // 銀魂 (Gintama)
-    "Pray/Wish*",                                       // 網球王子 (The Prince of Tennis) - 可能是角色歌翻唱
+    "Pray/Wish*",                                       // HUNTER×HUNTER～グリードアイランド～ OP
     "BOY MEETS GIRL/TRF",
     "Adrenaline!!!/TrySail",                            // 情色漫畫老師 (Eromanga Sensei)
     "晩餐歌/tuki.",
