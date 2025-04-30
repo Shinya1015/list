@@ -185,9 +185,10 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   "future nova/School Food Punishment": [
-     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8607 },
-     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10117 },
-     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 14730 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10482},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8607 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10117 },
+      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 14730 },
   ],
   "Re: Re:/ASIAN KUNG-FU GENERATION": [
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
