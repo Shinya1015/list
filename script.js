@@ -68,9 +68,10 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
   "Sunshine/MONKEY MAJIK": [
-     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4177 },
-     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4938 },
-     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3027},
+      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4177 },
+      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4938 },
+      { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 3838 },
