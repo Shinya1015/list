@@ -1861,7 +1861,15 @@ const songStreamLinks = {
     { },
   ],
   "㋰責任集合体/マサラダ": [
-    { },
+      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10146},
+      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 8479},
+      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 27277},
+      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 654},
+      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5904},
+      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 8051},
+      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 9424},
+      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 14706},
+      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 609},
   ],
   "メリッサ/ポルノグラフィティ": [
     { },
