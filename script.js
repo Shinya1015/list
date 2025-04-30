@@ -2492,7 +2492,12 @@ const songStreamLinks = {
     { },
   ],
   "ハルモニア/RYTHEM": [
-    { },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1212},
+      { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 896},
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 7529},
+      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 12063},
+      { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8136},
+      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 9861},
   ],
   "My SunShine/ROCK'A'TRENCH": [
     { },
