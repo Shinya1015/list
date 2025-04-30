@@ -1,6 +1,6 @@
 
 const songStreamLinks = {
-    "リクライム/ROOKiEZ is PUNK'D: [
+    "リクライム/ROOKiEZ is PUNK'D": [
     {  },
     ],
 "Wake up my music/りさ・えいみ": [
