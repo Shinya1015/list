@@ -3178,7 +3178,8 @@ const songStreamLinks = {
     { },
   ],
   "心壊サミット/DECO*27": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 18127},
   ],
   "ゴーストルール/DECO*27": [
     { },
