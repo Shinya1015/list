@@ -1515,7 +1515,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9680},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 3494},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11175},
-      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7271},
+      { date: "2025年2月15日-piano ver", videoId: "i22UZgVbw-k", timestamp: 7271},
       { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 9805},
       { date: "2023年10月18日", videoId: "ZfwNBpcQsuc", timestamp: 12882},
   ],
