@@ -1430,8 +1430,27 @@ const songStreamLinks = {
   "忘れじの言の葉/安次嶺希和子": [
     { },
   ],
-  "知らなきゃ/安月名莉子 ": [
-    { },
+  "知らなきゃ/安月名莉子": [
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8333},
+      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3937},
+      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 27374},
+      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 4569},
+      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 4685},
+      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 4105},
+      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 6211},
+      { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 5868},
+      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 1432},
+      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 4530},
+      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 3662},
+      { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 4012},
+      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 1092},
+      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 14304},
+      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 3281},
+      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 3591},
+      { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 12188},
+      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 4980},
+      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 8801},
+      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 6871},
   ],
   "First Love/宇多田ヒカル": [
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 8378 },
@@ -4999,6 +5018,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "知らなきゃ/安月名莉子",                                //《ハコヅメ～交番女子の逆襲～》片頭曲
     "Chasing hearts/miwa",                                //鋼之鍊金術師劇場版：嘆息之丘的聖星(OP)
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
@@ -6350,7 +6370,7 @@ const streamerSongList = [
     "勇気100%/光GENJI ",                                // 忍者亂太郎 (Nintama Rantaro)
     "灼け落ちない翼/多田葵 ",                          // Charlotte 夏洛特
     "First Love/宇多田ヒカル",
-    "知らなきゃ/安月名莉子 ",
+    "知らなきゃ/安月名莉子",
     "忘れじの言の葉/安次嶺希和子",
     "Flamingo/米津玄師",
     "KICK BACK/米津玄師",                               // 鏈鋸人 (Chainsaw Man)
