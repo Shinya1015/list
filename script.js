@@ -4576,7 +4576,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
-
+    "innocent starter/水樹奈々",
     "ピーターパン・シンドローム/buzzG",
     "鯨/Buzy",
     "Be Somewhere/Buzy",
