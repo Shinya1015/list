@@ -4576,6 +4576,15 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "ロンリーユニバース/Aqu3ra",
+    "うっせぇわ/Ado",
+    "唱/Ado",
+    "新時代/Ado",
+    "踊/Ado",
+    "みむかｩわナイストライ/初音ミク", 
+    "Ur-Style/DATEKEN feat.鏡音リン",   
+    "グッドナイトエクスプレス/鏡音リン・レン",   
+    "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
     "アウト オブ エデン/K's Sound Project",
     "天ノ弱/164"
     "迷Q!?-迷宫-Make★You-/岸本早未",
