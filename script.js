@@ -1945,7 +1945,16 @@ const songStreamLinks = {
       { date: "2024年8月25日", videoId: "9HthO5jsvYw", timestamp: 3240},   
   ],
   "アゲハ蝶/ポルノグラフィティ": [
-    { },
+      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 14386},
+      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1073},
+      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 13730},
+      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 1385},
+      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4985},
+      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 5207},
+      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 7628},
+      { date: "2023年12月16日", videoId: "_8AG30JS1IY", timestamp: 6790},
+      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 13018},
+      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20668},
   ],
   "SKY'S the limit/ぼくのりりっくのぼうよみ": [
     { },
