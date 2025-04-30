@@ -769,7 +769,7 @@ const songStreamLinks = {
     { },
   ],
   "虎視眈々/梅とら": [
-    { },
+       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
   ],
   "コンプレックス・イマージュ/彩音": [
     { },
