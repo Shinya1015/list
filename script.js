@@ -4576,76 +4576,263 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
-    "からくりピエロ/40mP",
-    "トリノコシティ/40mP",
-    "glow/keeno",
-    "crack/keeno",
-    "bitter/keeno",
-    "Dragon Night/SEKAI NO OWARI",
-    "フラジール/ぬゆり",
-    "僕が死のうと思ったのは/amazarashi",
-    "季節は次々死んでいく/amazarashi",
-    "さよならごっこ/amazarashi",
-    "しおり/Aqua Timez",
-    "千の夜をこえて/Aqua Timez",
-    "等身大のラブソング/Aqua Timez",
-    "つぼみ/Aqua Timez",
-    "カルマ/BUMP OF CHICKEN",
-    "車輪の唄/BUMP OF CHICKEN",
-    "天体観測/BUMP OF CHICKEN",
-    "ray/BUMP OF CHICKEN",
-    "歌に形はないけれど/doriko",
-    "from Y to Y/ジミーサムP",
-    "Calc./ジミーサムP",
-    "No Logic/ジミーサムP",
-    "ひまわりの約束/秦基博",
-    "TSUNAMI/サザンオールスターズ",
-    "蕾/コブクロ",
-    "ボクノート/スキマスイッチ",
-    "砂の惑星/ハチ",
-    "ハロ/ハワユ/ナノウ",
-    "Flamingo/米津玄師",
-    "Lemon/米津玄師",
-    "M八七/米津玄師",
-    "orion/米津玄師",
-    "灰色と青/米津玄師",
-    "虹/福山雅治",
-    "丸の内サディスティック/椎名林檎",
-    "香水/瑛人",
-    "Secret of my heart/倉木麻衣",
-    "Time after time～花舞う街で～/倉木麻衣",
-    "風のららら/倉木麻衣",
-    "テルーの唄/手嶌葵",
-    "Brave Shine/Aimer",
-    "Ref:rain/Aimer",
-    "小夜子/みきとP",
-    "心拍数♯0822/蝶々P",
-    "ドライフラワー/優里",
-    "ベテルギウス/優里",
-    "you/癒月",
-    "*～アスタリスク～/オレンジレンジ",
-    "ハナミズキ/一青窈",
-    "曇天/DOES",
-    "サイハテホーム/サクラメリーメン",
-    "アイコトバ/サクラメリーメン",
-    "ありがとう/SunSet Swish",
-    "明日、僕は君に会いに行く/ワカバ",
-    "サヨナラの空/Qwai",
-    "変わらないもの/奥華子",
-    "ガーネット/奥華子",
-    "1/6 -out of the gravity-/ぼーかりおどP",
-    "決意の朝に/Aqua Timez",
-    "夏のかけら/Aqua Timez",
-    "それでも明日はやってくる/鈴木結女",
-    "Zzz/佐咲紗花",
-    "ワスレガタキ/石崎ひゅーい",
-    "衝動/pigstar",
-    "Sunshine/MONKEY MAJIK",
-    "Fast Forward/MONKEY MAJIK",
-    "迷Q!?-迷宫-Make★You-/岸本早未",
-    "Magical Babyrinth/DA PUMP",
-    "夢幻/MY FIRST STORY x HYDE",
-    
+     "トンデモワンダーズ/Sasakure. UK",                                // 原曲Miku，但有流行的KAITO(男聲)版本
+    "Brave Shine/Aimer",                                              // 女聲，以沙啞、中低音域著稱
+    "Ref:rain/Aimer",                                                 // 女聲，中低音域
+    "残響散歌/Aimer",                                                 // 女聲，標誌性中低音
+    "さよならごっこ/amazarashi",                                      // 男聲，搖滾，中低音域
+    "季節は次々死んでいく/amazarashi",                                  // 男聲，搖滾，中低音域
+    "僕が死のうと思ったのは/amazarashi",                                // 男聲，情感強烈，中低音域
+    "Velonica/Aqua Timez",                                            // 男聲，搖滾
+    "しおり/Aqua Timez",                                              // 男聲
+    "千の夜をこえて/Aqua Timez",                                        // 男聲，抒情
+    "決意の朝に/Aqua Timez",                                          // 男聲
+    "夏のかけら/Aqua Timez",                                          // 男聲
+    "等身大のラブソング/Aqua Timez",                                    // 男聲
+    "つぼみ/Aqua Timez",                                              // 男聲
+    "シャボン玉Days/Aqua Timez",                                      // 男聲
+    "虹/Aqua Timez",                                                  // 男聲
+    "リライト/ASIAN KUNG-FU GENERATION",                              // 男聲，搖滾
+    "遥か彼方/ASIAN KUNG-FU GENERATION",                              // 男聲，搖滾
+    "Re: Re:/ASIAN KUNG-FU GENERATION",                               // 男聲，搖滾
+    "Stairway Generation/Base Ball Bear",                             // 男聲，搖滾
+    "ドラマチック/Base Ball Bear",                                    // 男聲，搖滾
+    "鐘を鳴らして/BONNIE PINK",                                        // 女聲，但音色獨特，偏中低
+    "Aurora/BUMP OF CHICKEN",                                         // 男聲，搖滾/流行
+    "Butterfly/BUMP OF CHICKEN",                                      // 男聲
+    "GO/BUMP OF CHICKEN",                                             // 男聲
+    "Hello,world!/BUMP OF CHICKEN",                                   // 男聲
+    "ray/BUMP OF CHICKEN",                                            // 男聲
+    "アカシア/BUMP OF CHICKEN",                                       // 男聲
+    "アンサー/BUMP OF CHICKEN",                                       // 男聲
+    "カルマ/BUMP OF CHICKEN",                                         // 男聲
+    "クロノスタシス/BUMP OF CHICKEN",                                   // 男聲
+    "なないろ/BUMP OF CHICKEN",                                       // 男聲
+    "天体観測/BUMP OF CHICKEN",                                       // 男聲
+    "月虹/BUMP OF CHICKEN",                                           // 男聲
+    "車輪の唄/BUMP OF CHICKEN",                                       // 男聲
+    "ギリギリchop/B'z",                                               // 男聲，搖滾
+    "Period/CHEMISTRY",                                               // 男聲R&B雙人組，包含低音部分
+    "voice/CLOUD",                                                    // 推測為男聲搖滾樂團
+    "U.S.A. /DA PUMP",                                                // 男聲團體
+    "Magical Babyrinth/DA PUMP",                                      // 男聲團體
+    "探し物/DIRTY OLD MEN",                                           // 男聲搖滾樂團
+    "弱虫な炎/DIRTY OLD MEN",                                         // 男聲搖滾樂團
+    "平行線/Eve × suis",                                             // 男聲(Eve) + 女聲(suis) 合唱，包含男聲部分
+    "群青讃歌/Eve",                                                   // 男聲 (Utaite/歌手)
+    "careless breath/EXILE",                                          // 男聲團體，R&B/流行，包含低音部分
+    "DAN DAN 心魅かれてく/FIELD OF VIEW",                             // 男聲，搖滾
+    "渇いた叫び/FIELD OF VIEW",                                       // 男聲，搖滾
+    "GO!!!/FLOW",                                                     // 男聲，搖滾
+    "Answer/FLOW",                                                    // 男聲，搖滾
+    "星に願いを/flumpool",                                            // 男聲，流行搖滾
+    "君に届け/flumpool",                                              // 男聲
+    "ちいさな日々/flumpool",                                          // 男聲
+    "夏空/Galileo Galilei",                                           // 男聲，搖滾
+    "Myself/VALSHE",                                                  // 女聲，以中性、偏低的少年音著稱
+    "Mysterious Eyes/GARNET CROW",                                    // 女聲 (中村由利)，以獨特的中低音著稱
+    "君という光/GARNET CROW",                                         // 女聲，中低音
+    "夏の幻/GARNET CROW",                                             // 女聲，中低音
+    "涙のイエスタデー/GARNET CROW",                                   // 女聲，中低音
+    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",                       // 女聲，中低音
+    "あいうえおんがく/GReeeeN",                                       // 男聲團體，中音域
+    "キセキ/GReeeeN",                                                 // 男聲團體
+    "奇跡/GReeeeN",                                                   // 男聲團體 (應與キセキ相同)
+    "愛唄/GReeeeN",                                                   // 男聲團體
+    "Blessing/halyosy",                                               // 男聲 (製作人/歌手)
+    "Connecting/halyosy",                                             // 男聲 (製作人/歌手)
+    "Fire◎Flower/halyosy",                                           // Len原曲，halyosy本人及許多男唱見翻唱
+    "366日/HY",                                                       // 男女混合樂團，有明顯的男聲部分
+    "月光花/Janne Da Arc",                                            // 男聲 (yasu)，搖滾
+    "シルエット/KANA-BOON",                                           // 男聲，搖滾
+    "スターマーカー/KANA-BOON",                                       // 男聲，搖滾
+    "ソングオブザデッド/KANA-BOON",                                     // 男聲，搖滾
+    "bitter/keeno",                                                   // Vocaloid P主，常用Miku Append Dark/Soft，風格偏低沉
+    "crack/keeno",                                                    // 同上
+    "glow/keeno",                                                     // 同上
+    "おはよう。/Keno",                                                // 男聲搖滾樂團
+    "ボクラの冒険/Kids Alive",                                        // 男聲
+    "OVERLAP/Kimeru",                                                 // 男聲
+    "アウト オブ エデン/Kouhei",                                      // 推測為翻唱K's Sound Project的男歌手
+    "紅蓮の弓矢/Linked Horizon",                                      // 男聲 (Revo)，史詩搖滾
+    "あの日タイムマシン/LONG SHOT PARTY ",                             // 男聲，Ska/搖滾
+    "トウキョウ・シャンディ・ランデヴ/MAISONdes",                       // 女聲 (Kafu) + 男聲 (Tsumiki)，包含男聲
+    "絆ノ奇跡/MAN WITH A MISSION × milet",                           // 男聲搖滾 (MWAM) + 低音女聲 (milet)
+    "気分上々↑↑/mihimaru GT",                                         // 女聲為主，但有男聲Rap部分 (miyake)
+    "ロメオ/LIP×LIP",                                                 // 男聲優組合 (HoneyWorks關聯)
+    "小さな恋のうた/MONGOL800",                                       // 男聲，龐克/搖滾
+    "HANABI/Mr.Children",                                             // 男聲，國民樂團
+    "Magic/Mrs. GREEN APPLE",                                         // 男聲，流行搖滾
+    "インフェルノ/Mrs. GREEN APPLE",                                  // 男聲
+    "ケセラセラ/Mrs. GREEN APPLE",                                    // 男聲
+    "青と夏/Mrs. GREEN APPLE",                                        // 男聲
+    "ライラック/Mrs. GREEN APPLE",                                    // 男聲
+    "夢幻/MY FIRST STORY x HYDE",                                     // 男聲，搖滾
+    "ホログラム/NICO Touches the Walls",                              // 男聲，搖滾
+    "天地ガエシ/NICO Touches the Walls",                              // 男聲，搖滾
+    "ココロオドル/nobodyknows+",                                      // 男聲嘻哈團體
+    "Cry Baby/Official髭男dism",                                      // 男聲
+    "HELLO/Official髭男dism",                                         // 男聲
+    "イエスタデイ/Official髭男dism",                                  // 男聲
+    "ホワイトノイズ/Official髭男dism",                                // 男聲
+    "ミックスナッツ/Official髭男dism",                                // 男聲
+    "What Makes You Beautiful/One Direction",                         // 男聲團體
+    "以心電信/ORANGE RANGE",                                          // 男聲，搖滾/嘻哈
+    "*～アスタリスク～/オレンジレンジ",                                  // 男聲，搖滾/嘻哈
+    "Good Time/Owl city & Carly Rae Jepsen",                          // 男聲 (Owl City) + 女聲，包含男聲
+    "君＝花/pigstar",                                                 // 男聲搖滾樂團
+    "衝動/pigstar",                                                   // 男聲搖滾樂團
+    "すずめ/RADWIMPS",                                                // RADWIMPS (男聲主唱) 有演唱版本
+    "スパークル/RADWIMPS",                                            // 男聲
+    "なんでもないや/RADWIMPS",                                        // 男聲
+    "前前前世/RADWIMPS",                                              // 男聲
+    "愛にできることはまだあるかい/RADWIMPS",                             // 男聲
+    "夢灯篭/RADWIMPS",                                                // 男聲
+    "祝祭/RADWIMPS",                                                  // 男聲
+    "100万回の「I love you」/Rake",                                   // 男聲，創作歌手
+    "大切な人/Rake",                                                  // 男聲，創作歌手
+    "銀色の空/redballoon",                                           // 男聲搖滾雙人組
+    "My SunShine/ROCK'A'TRENCH",                                      // 男聲樂團
+    "あんなに一緒だったのに/See-Saw",                                   // 女聲雙人組，石川智晶音色偏低
+    "スターライトパレード/SEKAI NO OWARI",                              // 男聲 (Fukase)
+    "最高到達点/SEKAI NO OWARI",                                      // 男聲
+    "RPG/SEKAI NO OWARI",                                             // 男聲
+    "Take Your Way/SEKAI NO OWARI",                                   // 男聲
+    "Dragon Night/SEKAI NO OWARI",                                    // 男聲
+    "桃源郷エイリアン/serial TV drama",                                // 男聲搖滾樂團
+    "世界に一つだけの花/SMAP",                                        // 男聲偶像團體
+    "夜空ノムコウ/SMAP",                                              // 男聲偶像團體
+    "イマジネーション/SPYAIR",                                        // 男聲，搖滾
+    "サムライハート/SPYAIR",                                          // 男聲，搖滾
+    "SPLASH FREE/STYLE FIVE",                                         // 男聲優組合 (Free!)
+    "さぁ/SURFACE",                                                   // 男聲雙人組
+    "HEART OF SWORD ～夜明け前～/T.M.Revolution",                    // 男聲，搖滾
+    "HOT LIMIT/T.M.Revolution",                                       // 男聲
+    "resonance/T.M.Revolution",                                       // 男聲
+    "One day/The ROOTLESS",                                           // 男聲搖滾樂團
+    "Get Wild/TM NETWORK",                                            // 男聲 (小室哲哉/宇都宮隆)
+    "シュガーソングとビターステップ/UNISON SQUARE GARDEN",              // 男聲，搖滾
+    "アンビバレント/Uru ",                                            // 女聲，以其低沉、氣聲唱法聞名
+    "CHANGE THE WORLD/V6",                                            // 男聲偶像團體
+    "WAになっておどろう/V6",                                          // 男聲偶像團體
+    "怪獣の花唄/Vaundy",                                              // 男聲，創作歌手，音域多變但包含低音
+    "unravel/TK from 凛として時雨",                                   // 男聲 (TK)，基底為男聲
+    "A Whole New World/アラジン",                                     // 男女對唱，包含男聲 (阿拉丁)
+    "フレンド・ライク・ミー/アラジン",                                  // 男聲 (精靈)
+    "TKGの歌/アリレム",                                               // 男聲 (Utaite)
+    "君じゃなきゃダメみたい/オーイシマサヨシ",                            // 男聲 (大石昌良)
+    "ウィーアー!/きただにひろし",                                      // 男聲，搖滾
+    "青のすみか/キタニタツヤ",                                          // 男聲，搖滾
+    "君のそばで～ヒカリのテーマ～/グリン",                               // 推測為男歌手Grin
+    "はいよろこんで/こっちのけんと",                                    // 男聲
+    "蕾/コブクロ",                                                    // 男聲雙人組，包含低音聲部
+    "夜もすがら君想ふ/ころん",                                          // 男聲 (Utaite - すとぷり)
+    "シンデレラ/サイダーガール",                                        // 男聲樂團
+    "TSUNAMI/サザンオールスターズ",                                     // 男聲 (桑田佳祐)
+    "明日晴れるかな/桑田佳祐",                                        // 男聲
+    "青いベンチ/サスケ",                                              // 男聲雙人組
+    "世界はそれを愛と呼ぶんだぜ/サンボマスター",                           // 男聲，搖滾
+    "モノクロのキス/シド",                                            // 男聲 (マオ)，搖滾
+    "嘘/シド",                                                      // 男聲
+    "はじまりの日/スガシカオ",                                          // 男聲，創作歌手
+    "Ah Yeah!!/スキマスイッチ",                                       // 男聲雙人組
+    "ゴールデンタイムラバー/スキマスイッチ",                             // 男聲雙人組
+    "ボクノート/スキマスイッチ",                                        // 男聲雙人組
+    "美しい鰭/スピッツ",                                              // 男聲 (草野マサムネ)
+    "Hello/ナオト・インティライミ",                                   // 男聲，創作歌手
+    "いつかきっと/ナオト・インティライミ",                               // 男聲
+    "タカラモノ～この声がなくなるまで～/ナオト・インティライミ",               // 男聲
+    "ナイテタッテ/ナオト・インティライミ",                               // 男聲
+    "Overdose/なとり",                                                // 男聲/合成聲，歌曲氛圍偏低沉
+    "右肩の蝶/のりぴー",                                              // Len原曲 (男聲Vocaloid)
+    "砂の惑星/ハチ",                                                  // Miku原曲，但此曲Miku音域偏低且風格黑暗 (米津玄師)
+    "シャルル/バルーン",                                              // Flower原曲，但作者本人男聲翻唱流行
+    "悪魔の子/ヒグチアイ",                                            // 女聲，但音色力量感強，中低音突出
+    "soundless voice/ひとしずくP",                                   // Len原曲 (男聲Vocaloid)
+    "ヒャダインのカカカタ カタオモイ-/ヒャダイン",                        // 男聲 (ヒャダイン)
+    "SKY'S the limit/ぼくのりりっくのぼうよみ",                          // 男聲，Rap/歌手
+    "アゲハ蝶/ポルノグラフィティ",                                      // 男聲雙人組，搖滾
+    "サウダージ/ポルノグラフィティ",                                    // 男聲雙人組
+    "ハネウマライダー/ポルノグラフィティ",                                // 男聲雙人組
+    "ミュージック・アワー/ポルノグラフィティ",                            // 男聲雙人組
+    "メリッサ/ポルノグラフィティ",                                      // 男聲雙人組
+    "ブラッククリスマス/まふまふ",                                      // 男聲 (Utaite - まふまふ)
+    "かまってちょーだい/まふまふ×天月",                                  // 男聲 (Utaite - まふまふ & 天月)
+    "イロトリドリ/ゆず",                                              // 男聲雙人組
+    "栄光の架橋/ゆず",                                                // 男聲雙人組
+    "夏色/ゆず",                                                      // 男聲雙人組
+    "愛を感じて/ライオン・キング",                                      // 包含男聲 (辛巴)
+    "少年と魔法のロボット/伊東歌詞太郎",                                 // 男聲 (Utaite)
+    "You & Me/田村ゆかり feat. motsu from m.o.v.e",                   // 女聲 + 男聲Rap (motsu)
+    "カサブタ/千綿ヒデノリ",                                           // 男聲
+    "ようこそジャパリパークへ/大石昌良",                                 // 男聲 (以大石昌良名義)
+    "キラキラ/小田和正",                                              // 男聲
+    "ラブ・ストーリーは突然に/小田和正",                                // 男聲
+    "たしかなこと/小田和正",                                           // 男聲
+    "輝く未来/小此木麻里&畠中洋",                                     // 女聲 + 男聲 合唱 (魔髮奇緣日配)
+    "火炎/女王蜂",                                                    // 男聲主唱 (アヴちゃん)，基底為男聲
+    "Glory Days/尾崎裕哉",                                            // 男聲 (尾崎豊之子)
+    "シューティングスター/天月-あまつき-",                               // 男聲 (Utaite)
+    "月曜日の憂鬱/天月-あまつき-",                                     // 男聲 (Utaite)
+    "かいしんのいちげき!/天月-あまつき-",                               // 男聲 (Utaite)
+    "POP STAR/平井堅",                                               // 男聲，R&B/流行
+    "勇気100%/光GENJI ",                                              // 男聲偶像團體
+    "Flamingo/米津玄師",                                              // 男聲
+    "KICK BACK/米津玄師",                                             // 男聲
+    "Lemon/米津玄師",                                                 // 男聲
+    "M八七/米津玄師",                                                 // 男聲
+    "orion/米津玄師",                                                 // 男聲
+    "パプリカ/米津玄師",                                              // 米津玄師本人演唱版本 (男聲)
+    "ピースサイン/米津玄師",                                          // 男聲
+    "打上花火/米津玄師",                                              // 男聲 + 女聲 合唱
+    "灰色と青/米津玄師",                                              // 男聲 + 男聲(菅田将暉) 合唱
+    "吉原ラメント/亜沙",                                              // Gakupo原曲 (男聲Vocaloid)
+    "ミライチズ/夜のひと笑い",                                          // 男女二人組，包含男聲
+    "光あれ/岡野昭仁",                                                // 男聲 (ポルノグラフィティ主唱 solo)
+    "魔訶不思議アドベンチャー! /高橋洋樹",                              // 男聲
+    "月光/鬼束ちひろ",                                                // 女聲，音色極具特色，低沉且充滿力量
+    "流星群/鬼束ちひろ",                                              // 女聲，同上
+    "眩暈/鬼束ちひろ",                                                // 女聲，同上
+    "私とワルツを/鬼束ちひろ",                                          // 女聲，同上
+    "ダンシング☆サムライ/崎山つばさ",                                   // 男聲 (演員/歌手)
+    "燈/崎山蒼志",                                                    // 男聲，創作歌手
+    "人柱アリス/雪那(歪P)",                                           // MEIKO/KAITO/Miku/Rin/Len，包含男聲Vocaloid
+    "Happiness/嵐",                                                   // 男聲偶像團體
+    "One Love/嵐",                                                    // 男聲偶像團體
+    "Love so sweet/嵐",                                               // 男聲偶像團體
+    "素晴らしき世界/嵐",                                              // 男聲偶像團體
+    "ワイルド アット ハート/嵐",                                       // 男聲偶像團體
+    "香水/瑛人",                                                      // 男聲
+    "FOR REAL/徳山秀典",                                              // 男聲 (演員/歌手)
+    "虹/福山雅治",                                                    // 男聲
+    "道標/橘慶太",                                                    // 男聲 (w-inds.主唱)
+    "ドライフラワー/優里",                                            // 男聲
+    "ベテルギウス/優里",                                              // 男聲
+    "ニブンノイチ/BACK-ON",                                           // 男聲，Rap/搖滾
+    "一斉の声/喜多修平",                                              // 男聲
+    "Drawing days/SPLAY",                                             // 男聲搖滾樂團
+    "心絵/ロードオブメジャー",                                          // 男聲搖滾樂團
+    "らしさ/SUPER BEAVER",                                           // 男聲搖滾樂團
+    "曇天/DOES",                                                      // 男聲搖滾樂團
+    "departure!/小野正利",                                            // 男聲，搖滾 (音高但屬男聲)
+    "栄光への一秒/MAGIC OF LiFE",                                     // 男聲搖滾樂團
+    "サイハテホーム/サクラメリーメン",                                   // 男聲搖滾樂團
+    "アイコトバ/サクラメリーメン",                                      // 男聲搖滾樂團
+    "SUNDAY/ザ・ベイビースターズ",                                      // 男聲搖滾樂團
+    "アドバンス・アドベンチャー/GARDEN",                               // 男聲
+    "ありがとう/SunSet Swish",                                         // 男聲三人組
+    "明日、僕は君に会いに行く/ワカバ",                                   // 男聲雙人組
+    "サヨナラの空/Qwai",                                              // 男聲搖滾樂團
+    "Fast Forward/MONKEY MAJIK",                                      // 男聲樂團
+    "Sunshine/MONKEY MAJIK",                                          // 男聲樂團
+    "ワスレガタキ/石崎ひゅーい",                                        // 男聲，創作歌手
+    "三原色/PELICAN FANCLUB",                                         // 男聲搖滾樂團
+    "夢のような/佐伯ユウス",                                          // 男聲，創作歌手
+    "君に贈る歌/小池徹平",                                            // 男聲 (演員/歌手)
+    "マジで感謝!/T-Pistonz+KMC",                                      // 男聲團體，Rap/流行
+    "Butter-Fly/和田光司",                                            // 男聲
+    "ひまわりの約束/秦基博",                                          // 男聲，創作歌手
+    "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
     "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
