@@ -312,6 +312,7 @@ const songStreamLinks = {
     { },
   ],
   "曲名はまだないです/Aogumo": [
+      { date: "2025年4月30日(アカペラ)", videoId: "x7wxwTR7MYA", timestamp: 7361},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 4292},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6153},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 9873},
