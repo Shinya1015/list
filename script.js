@@ -1,6 +1,8 @@
 
 const songStreamLinks = {
-
+    "ロックマンのテーマ～風を突き": [
+    {  },
+    ],
     "Errand/Faylan": [
     {  },
     ],
@@ -6430,4 +6432,5 @@ const streamerSongList = [
     "Wake up my music/りさ・えいみ", 
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Errand/Faylan",                                    //《聖痕のクェイサー》的片頭曲
+    "ロックマンのテーマ～風を突き抜けて～/橋本仁",            //ロックマン
 ];
