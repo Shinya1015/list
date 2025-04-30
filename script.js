@@ -2515,7 +2515,7 @@ const songStreamLinks = {
       { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12462},
   ],
   "CHANGE THE WORLD/V6": [
-    { },
+      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 9777},
