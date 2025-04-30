@@ -4446,7 +4446,7 @@ const songStreamLinks = {
    ],
   "からくりピエロ/40mP": [ // 中間順序不變
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10472 },
-     { date: "2023年1月924", videoId: "YI2mn04MU_s", timestamp: 2870 }, // 注意: 日期 '1月924' 可能有誤
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 2870 }, // 注意: 日期 '1月924' 可能有誤
  ],
 "シリョクケンサ/40mP": [ // 中間順序不變
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18149 },
@@ -4576,7 +4576,10 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
-     "トンデモワンダーズ/Sasakure. UK",                                // 原曲Miku，但有流行的KAITO(男聲)版本
+    "トリノコシティ/40mP",
+    "からくりピエロ/40mP",   
+     "フラジール/ぬゆり",
+    "トンデモワンダーズ/Sasakure. UK",                                // 原曲Miku，但有流行的KAITO(男聲)版本
     "Brave Shine/Aimer",                                              // 女聲，以沙啞、中低音域著稱
     "Ref:rain/Aimer",                                                 // 女聲，中低音域
     "残響散歌/Aimer",                                                 // 女聲，標誌性中低音
