@@ -4,7 +4,7 @@ const songStreamLinks = {
     {  },
     ],
     "Errand/Faylan": [
-    {  },
+        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
     "リクライム/ROOKiEZ is PUNK'D": [
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3608},
