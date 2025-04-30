@@ -4576,6 +4576,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "ピーターパン・シンドローム/buzzG",
     "鯨/Buzy",
     "Be Somewhere/Buzy",
     "ロンリーユニバース/Aqu3ra",
