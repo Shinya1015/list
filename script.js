@@ -1552,7 +1552,10 @@ const songStreamLinks = {
     { },
   ],
   "I see.../乃木坂46": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10527},
+      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 2666},
+      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 8881},
+      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 6650},
   ],
   "あんたにあっかんべ/一二三": [
     { },
