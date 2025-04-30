@@ -180,8 +180,9 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
   "futuristic imagination/School Food Punishment": [
-    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8894 },
-    { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10242},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8894 },
+      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   "future nova/School Food Punishment": [
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8607 },
