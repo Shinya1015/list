@@ -4576,6 +4576,8 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "鯨/Buzy",
+    "Be Somewhere/Buzy",
     "ロンリーユニバース/Aqu3ra",
     "うっせぇわ/Ado",
     "唱/Ado",
