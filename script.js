@@ -22,7 +22,8 @@ const songStreamLinks = {
       { date: "2025年4月3日(一番のみ)", videoId: "jciPyoWRUt4", timestamp: 4134 },
   ],
   "Zzz/佐咲紗花": [
-    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12422},
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
   "マジで感謝!/T-Pistonz+KMC": [
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6287 },
