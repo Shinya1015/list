@@ -562,7 +562,7 @@ const songStreamLinks = {
     { date: "2023年9月19日", videoId: "gJzpl5BkZ1E", timestamp: 993 },
     { date: "2023年9月7日", videoId: "1MyeFvhJ6Mk", timestamp: 7482 },
     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 14888 },
-    { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 7516 },
+    { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 7516},
     { date: "2023年7月20日", videoId: "nas5KoHEkzY", timestamp: 2184 },
     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 21511 },
     { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 1340 },
@@ -4964,7 +4964,7 @@ const animeSongs = [
     "Magical Babyrinth/DA PUMP",                       // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Glory Days/尾崎裕哉",                             //交響詩篇
     "Wake up my music/りさ・えいみ", 
-  
+    "二人三脚/misono",                                   //Wii遊戲《テイルズ オブ シンフォニア -ラタトスクの騎士-》的主題曲）
 ];
     
 
