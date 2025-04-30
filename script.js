@@ -3328,7 +3328,10 @@ const songStreamLinks = {
     { },
   ],
   "Get Over/dream": [
-    { },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6522},
+      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5301},
+      { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 8911},
+      { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
   "歌に形はないけれど/doriko": [
     { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3897 },
