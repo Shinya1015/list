@@ -1978,7 +1978,9 @@ const songStreamLinks = {
     { },
   ],
   "右肩の蝶/のりぴー": [
-    { },
+      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4236},
+      { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9178},
+      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 1255},
   ],
   "No pain, No game/ナノ": [
     { },
