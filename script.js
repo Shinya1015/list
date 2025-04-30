@@ -749,7 +749,7 @@ const songStreamLinks = {
     { },
   ],
   "人柱アリス/雪那(歪P)": [
-    { },
+        { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12130},
   ],
   "バニラソルト/堀江由衣": [
     { },
