@@ -2755,7 +2755,13 @@ const songStreamLinks = {
     { },
   ],
   "二人三脚/misono": [
-    { },
+       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9504},
+       { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 1987},
+       { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 5175},
+       { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 8495},
+       { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 8221},
+       { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 9673},
+       { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
     { },
