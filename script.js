@@ -2585,7 +2585,9 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
   "君＝花/pigstar": [
-    { },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4524},
+      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 8895},
+      { date: "2023年11月14日-piano ver", videoId: "8m4YNCr-kDo", timestamp: 7261},
   ],
   "チョコレイト・ディスコ/Perfume": [
     { },
