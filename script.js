@@ -4578,7 +4578,6 @@ const songStreamLinks = {
 const lowPitchSongs = [
     "からくりピエロ/40mP",
     "トリノコシティ/40mP",
-    "ハイドアンド・シーク/19's Sound Factory",
     "glow/keeno",
     "crack/keeno",
     "bitter/keeno",
