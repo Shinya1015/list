@@ -2512,7 +2512,7 @@ const songStreamLinks = {
       { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 592},
   ],
   "WAになっておどろう/V6": [
-    { },
+      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12462},
   ],
   "CHANGE THE WORLD/V6": [
     { },
