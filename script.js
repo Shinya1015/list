@@ -4577,8 +4577,10 @@ const songStreamLinks = {
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
     "トリノコシティ/40mP",
-    "からくりピエロ/40mP",   
-     "フラジール/ぬゆり",
+    "からくりピエロ/40mP", 
+    "from Y to Y/ジミーサムP",
+    "No Logic/ジミーサムP",
+    "フラジール/ぬゆり",
     "トンデモワンダーズ/Sasakure. UK",                                // 原曲Miku，但有流行的KAITO(男聲)版本
     "Brave Shine/Aimer",                                              // 女聲，以沙啞、中低音域著稱
     "Ref:rain/Aimer",                                                 // 女聲，中低音域
