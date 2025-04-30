@@ -2818,7 +2818,15 @@ const songStreamLinks = {
     { },
   ],
   "Chasing hearts/miwa": [
-    { },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1837},
+      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7523},
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2259},
+      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 892},
+      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 3226},
+      { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 3586},
+      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 3397},
+      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 4472},
+      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 9444},
   ],
   "二人三脚/misono": [
        { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9504},
@@ -4931,6 +4939,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "Chasing hearts/miwa",                                //鋼之鍊金術師劇場版：嘆息之丘的聖星(OP)
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Be Somewhere/Buzy",                                //洛克人EXE Stream片頭曲     
     "START DASH SENSATION/AIKATSU STARS!",             // 偶像活動！ (Aikatsu!)
