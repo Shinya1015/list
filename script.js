@@ -4576,6 +4576,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+
     "ピーターパン・シンドローム/buzzG",
     "鯨/Buzy",
     "Be Somewhere/Buzy",
@@ -4826,7 +4827,6 @@ const lowPitchSongs = [
     "私とワルツを/鬼束ちひろ",                                          // 女聲，同上
     "ダンシング☆サムライ/崎山つばさ",                                   // 男聲 (演員/歌手)
     "燈/崎山蒼志",                                                    // 男聲，創作歌手
-    "人柱アリス/雪那(歪P)",                                           // MEIKO/KAITO/Miku/Rin/Len，包含男聲Vocaloid
     "Happiness/嵐",                                                   // 男聲偶像團體
     "One Love/嵐",                                                    // 男聲偶像團體
     "Love so sweet/嵐",                                               // 男聲偶像團體
