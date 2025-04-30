@@ -114,7 +114,8 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
   "明日、僕は君に会いに行く/ワカバ": [
-    { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4221},
+      { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3889},
