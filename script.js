@@ -4576,6 +4576,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "ハロ/ハワユ/ナノウ",  
     "トリノコシティ/40mP",
     "からくりピエロ/40mP", 
     "from Y to Y/ジミーサムP",
