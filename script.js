@@ -1,7 +1,7 @@
 
 const songStreamLinks = {
-    "ロックマンのテーマ～風を突き": [
-    {  },
+    "ロックマンのテーマ～風を突き抜けて～/橋本仁": [
+        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9630},
     ],
     "Errand/Faylan": [
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
@@ -5059,6 +5059,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
     "知らなきゃ/安月名莉子",                                //《ハコヅメ～交番女子の逆襲～》片頭曲
     "Chasing hearts/miwa",                                //鋼之鍊金術師劇場版：嘆息之丘的聖星(OP)
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
