@@ -6423,5 +6423,5 @@ const streamerSongList = [
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Wake up my music/りさ・えいみ", 
-    "リクライム/ROOKiEZ is PUNK'D",
+    "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
 ];
