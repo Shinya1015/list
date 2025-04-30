@@ -202,8 +202,9 @@ const songStreamLinks = {
       { date: "2024年9月15日(一番のみ)", videoId: "Hn3uau1HE0o", timestamp: 2519 },
   ],
   "気ままな天使たち/わたてん☆5": [
-     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2054 },
-     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 13826 },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12422},
+      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2054 },
+      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 13826 },
   ],
   "ピエロ/絵師じゃないKEI": [
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 6660 },
