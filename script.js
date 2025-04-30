@@ -117,9 +117,10 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
-    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1129 },
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 8541 },
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3889},
+      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1129 },
+      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 8541 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
     { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 3135},
