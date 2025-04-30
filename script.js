@@ -1504,7 +1504,12 @@ const songStreamLinks = {
     { },
   ],
   "SMILY/大塚愛": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12265},
+      { date: "2024年2月16日", videoId: "uGJVaBlFHlU", timestamp: 10520},
+      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 2470},
+      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 9774},
+      { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 6049},
+      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 5484},
   ],
   "あなただけ見つめてる/大黒摩季": [
     { },
