@@ -156,8 +156,9 @@ const songStreamLinks = {
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13614 },
   ],
   "栄光への一秒/MAGIC OF LiFE": [
-    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 717 },
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 931 },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12521},
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 717 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 931 },
     
   ],
   "light prayer/School Food Punishment": [
