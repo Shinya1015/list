@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+
+    "Errand/Faylan": [
+    {  },
+    ],
     "リクライム/ROOKiEZ is PUNK'D": [
     {  },
     ],
@@ -5223,6 +5227,7 @@ const animeSongs = [
     "Glory Days/尾崎裕哉",                             //交響詩篇
     "Wake up my music/りさ・えいみ", 
     "二人三脚/misono",                                   //Wii遊戲《テイルズ オブ シンフォニア -ラタトスクの騎士-》的主題曲）
+    "Errand/Faylan",                                   //《聖痕のクェイサー》的片頭曲
 ];
     
 
@@ -6424,4 +6429,5 @@ const streamerSongList = [
     "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Wake up my music/りさ・えいみ", 
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
+    "Errand/Faylan",                                    //《聖痕のクェイサー》的片頭曲
 ];
