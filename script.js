@@ -22,7 +22,7 @@ const songStreamLinks = {
       { date: "2025年4月3日(一番のみ)", videoId: "jciPyoWRUt4", timestamp: 4134 },
   ],
   "Zzz/佐咲紗花": [
-      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12422},
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12712},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
   "マジで感謝!/T-Pistonz+KMC": [
@@ -1511,7 +1511,11 @@ const songStreamLinks = {
     { },
   ],
   "Little Wish ～lyrical step～/田村ゆかり": [
-    { },
+      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 861},
+      { date: "2025年4月12日", videoId: "", timestamp: 861},
+      { date: "2025年4月7日", videoId: "", timestamp: 861},
+      { date: "2025年4月1日", videoId: "x7wxwTR7MYA", timestamp: 861},
+      { date: "2025年2月15日", videoId: "x7wxwTR7MYA", timestamp: 861},
   ],
   "Fantastic future/田村ゆかり": [
     { },
