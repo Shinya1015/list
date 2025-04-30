@@ -2809,7 +2809,15 @@ const songStreamLinks = {
     { },
   ],
   "小さなてのひら/Lia": [
-    { },
+       { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8030},
+       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 6316},
+       { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 7912},
+       { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 10216},
+       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 18009},
+       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 12657},
+       { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 12133},
+       { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 15886},
+       { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 7620},
   ],
   "Bravely You/Lia": [
     { },
