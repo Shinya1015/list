@@ -3211,7 +3211,8 @@ const songStreamLinks = {
     { },
   ],
   "恋距離遠愛/DECO*27": [
-    { },
+      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10824},
+      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14533},
   ],
   "ヒバナ/DECO*27": [
     { },
