@@ -2532,7 +2532,22 @@ const songStreamLinks = {
     { },
   ],
   "晩餐歌/tuki.": [
-    { },
+      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 5347},
+      { date: "2025年3月22日-piano ver", videoId: "IYNSyBwT5PQ", timestamp: 25893},
+      { date: "2025年3月8日", videoId: "nGz0rPlZpIY", timestamp: 4094},
+      { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 1749},
+      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 31521},
+      { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 5323},
+      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 11794},
+      { date: "2024年11月10日-piano ver", videoId: "q18m9BbYltI", timestamp: 4188},
+      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13302},
+      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 8861},
+      { date: "2024年9月27日-piano ver", videoId: "cfKcAgPPpi4", timestamp: 16381},
+      { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 3755},
+      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 13327},
+      { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 4031},
+      { date: "2024年3月26日-piano ver", videoId: "3qhlFZL3j_w", timestamp: 15605},
+      { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 2546},
   ],
   "Adrenaline!!!/TrySail": [
     { },
@@ -4916,6 +4931,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "晩餐歌/tuki.",
     "innocent starter/水樹奈々",
     "ピーターパン・シンドローム/buzzG",
     "鯨/Buzy",
