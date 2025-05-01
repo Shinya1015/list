@@ -3754,7 +3754,9 @@ const songStreamLinks = {
      { date: "2022年9月4日-piano ver", videoId: "8SZ3TT-QA3M", timestamp: 4731 },
   ] ,
   "金曜日のおはよう/HoneyWorks": [
-    { },
+      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 5545},
+      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 3175},
+      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 18592},
   ],
   "可愛くてごめん/HoneyWorks": [
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 2848},
