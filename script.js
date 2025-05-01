@@ -3760,7 +3760,7 @@ const songStreamLinks = {
     { },
   ],
   "今ちょっとだけ話題の神様/HoneyWorks": [
-    { },
+      { date: "2023年12月29日", videoId: "ME1ONTBCpho", timestamp: 4042},
   ],
   "ビビっとラブ/HoneyWorks": [
       { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 3607},
