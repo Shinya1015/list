@@ -16,6 +16,9 @@ const songStreamLinks = {
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7615},
       { date: "2025年4月16日(アカペラ)", videoId: "7A2DbCtnoMc", timestamp: 5760 },
   ],
+ "U.S.A. /DA PUMP": [
+     { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 5963},
+  ],
   "ハヤテのごとく!/KOTOKO": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 2695},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13612 },
@@ -3710,9 +3713,7 @@ const songStreamLinks = {
   "faraway/day after tomorrow": [
     { },
   ],
-  "U.S.A. /DA PUMP": [
-    { },
-  ],
+
   "EQUALロマンス/CoCo": [
     { },
   ],
@@ -6160,6 +6161,7 @@ const streamerSongList = [
     "voice/CLOUD",                                      // 遊☆戲☆王 怪獸之決鬥 (Yu-Gi-Oh! Duel Monsters)
     "EQUALロマンス/CoCo",                              // 亂馬1/2 (Ranma 1/2) - 偶像團體CoCo演唱版
     "U.S.A. /DA PUMP",
+    "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "faraway/day after tomorrow",
     "Starry Heavens/day after tomorrow",
     "そして僕にできるコト/day after tomorrow",
@@ -6821,7 +6823,6 @@ const streamerSongList = [
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
-    "Magical Babyrinth/DA PUMP",                        // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Wake up my music/りさ・えいみ", 
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Errand/Faylan",                                    //《聖痕のクェイサー》的片頭曲
