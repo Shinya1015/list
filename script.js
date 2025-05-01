@@ -3735,7 +3735,14 @@ const songStreamLinks = {
     { },
   ],
   "CLICK/ClariS": [
-    { },
+      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 615},
+      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 1347},
+      { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 2710},
+      { date: "2023年10月27日", videoId: "ApaAKdwo6AE", timestamp: 1701},
+      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 4446},
+      { date: "2023年3月5日", videoId: "QU3auA-t1B", timestamp: 7602},
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 25373},
+      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 3234},
   ],
   "世界はまだ君を知らない/阿部真央": [
       { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 7881},
