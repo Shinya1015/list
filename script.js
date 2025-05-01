@@ -3763,7 +3763,7 @@ const songStreamLinks = {
     { },
   ],
   "ビビっとラブ/HoneyWorks": [
-    { },
+      { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 3607},
   ],
   "世界は恋に落ちている/CHiCO with HoneyWorks": [
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7080},
