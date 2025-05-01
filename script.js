@@ -3766,7 +3766,12 @@ const songStreamLinks = {
     { },
   ],
   "世界は恋に落ちている/CHiCO with HoneyWorks": [
-    { },
+      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7080},
+      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 4821},
+      { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 6333},
+      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 694},
+      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 2438},
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 13081},
   ],
   "私、アイドル宣言/CHiCO with HoneyWorks": [
     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 3420 },
