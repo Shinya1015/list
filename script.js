@@ -4984,7 +4984,6 @@ const lowPitchSongs = [
     "ロンリーユニバース/Aqu3ra",
     "うっせぇわ/Ado",
     "唱/Ado",
-    "踊/Ado",
     "みむかｩわナイストライ/初音ミク", 
     "Ur-Style/DATEKEN feat.鏡音リン",   
     "グッドナイトエクスプレス/鏡音リン・レン",   
