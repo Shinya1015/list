@@ -3738,7 +3738,9 @@ const songStreamLinks = {
     { },
   ],
   "世界はまだ君を知らない/阿部真央": [
-    { },
+      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 7881},
+      { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 11367},
+      { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 18824},
   ],
   "誇り高きアイドル/HoneyWorks": [
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 25623 },
@@ -4966,6 +4968,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "金曜日のおはよう/HoneyWorks",
     "晩餐歌/tuki.",
     "innocent starter/水樹奈々",
     "ピーターパン・シンドローム/buzzG",
