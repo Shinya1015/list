@@ -1,5 +1,10 @@
 
 const songStreamLinks = {
+
+    
+    "Flyers/BRADIO": [
+        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 8932 },
+  ],
     "CONFUSED MEMORIES/円谷憂子": [
         { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5595 },
   ],
@@ -5691,6 +5696,7 @@ const animeSongs = [
     "二人三脚/misono",                                   //Wii遊戲《テイルズ オブ シンフォニア -ラタトスクの騎士-》的主題曲）
     "Errand/Faylan",                                   //《聖痕のクェイサー》的片頭曲
     "CONFUSED MEMORIES/円谷憂子",                       //金田一少年事件簿主題曲
+    "Flyers/BRADIO",                                   //死亡遊行OP曲
 ];
     
 
@@ -6896,5 +6902,6 @@ const streamerSongList = [
     "Errand/Faylan",                                    //《聖痕のクェイサー》的片頭曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",            //ロックマン
     "CONFUSED MEMORIES/円谷憂子",
+    "Flyers/BRADIO",                                   //死亡遊行OP曲
     
 ];
