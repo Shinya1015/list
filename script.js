@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+    "CONFUSED MEMORIES/円谷憂子": [
+        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5595 },
+  ],
     "ロックマンのテーマ～風を突き抜けて～/橋本仁": [
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9630},
     ],
@@ -5020,6 +5023,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "CONFUSED MEMORIES/円谷憂子",
     "金曜日のおはよう/HoneyWorks",
     "晩餐歌/tuki.",
     "innocent starter/水樹奈々",
@@ -5669,6 +5673,7 @@ const animeSongs = [
     "Wake up my music/りさ・えいみ", 
     "二人三脚/misono",                                   //Wii遊戲《テイルズ オブ シンフォニア -ラタトスクの騎士-》的主題曲）
     "Errand/Faylan",                                   //《聖痕のクェイサー》的片頭曲
+    "CONFUSED MEMORIES/円谷憂子",                       //金田一少年事件簿主題曲
 ];
     
 
@@ -6873,4 +6878,6 @@ const streamerSongList = [
     "リクライム/ROOKiEZ is PUNK'D",                       //《弱虫ペダル》的第二季片頭曲（OP2）
     "Errand/Faylan",                                    //《聖痕のクェイサー》的片頭曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",            //ロックマン
+    "CONFUSED MEMORIES/円谷憂子",
+    
 ];
