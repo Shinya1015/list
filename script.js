@@ -2454,7 +2454,7 @@ const songStreamLinks = {
     { },
   ],
   "勇者/YOASOBI": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2122 },
   ],
   "夜に駆ける/YOASOBI": [
     { },
