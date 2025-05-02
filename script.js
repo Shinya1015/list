@@ -1327,6 +1327,7 @@ const songStreamLinks = {
     { },
   ],
   "Style. /西野カナ": [
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2341 },
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3790 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 5044 },
   ],
