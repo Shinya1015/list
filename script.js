@@ -139,6 +139,7 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 15991 }, 
   ],
   "弱虫な炎/DIRTY OLD MEN": [
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6734 },
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3285},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13849 },
   ],
