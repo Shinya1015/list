@@ -2769,7 +2769,7 @@ const songStreamLinks = {
     { },
   ],
   "最高到達点/SEKAI NO OWARI": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4141 },
   ],
   "スターライトパレード/SEKAI NO OWARI": [
     { },
