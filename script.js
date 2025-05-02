@@ -2176,7 +2176,16 @@ const songStreamLinks = {
        { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7083 },
   ],
   "ゴールデンタイムラバー/スキマスイッチ": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5920 },
+      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5984 },
+      { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 7436 },
+      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 4350 },
+      { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 3146 },
+      { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 4889},
+      { date: "2023年12月2日", videoId: "lCDIB1wiC7U", timestamp: 1587 },
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 17802 },
+      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 3763 },
+      
   ],
   "Ah Yeah!!/スキマスイッチ": [
     { },
