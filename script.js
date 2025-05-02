@@ -1215,8 +1215,26 @@ const songStreamLinks = {
   "Northern lights/林原めぐみ": [
     { },
   ],
+   "brave heart/宮崎歩": [ 
+       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1816 },
+       { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6478},
+       { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10628},
+       { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 2215},
+       { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 2885},
+       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 1091},
+       { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 4202},
+       { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4497},
+       ],
   "brave heart/林原めぐみ": [
-    { },
+      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5629},
+      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 4906},
+      { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 7959},
+      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 2523},
+      { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 9849},
+      { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 15913},
+      { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 5041},
+      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 8694},
+      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5997},
   ],
   "ライバル!/松本梨香": [
     { },
@@ -5518,7 +5536,8 @@ const animeSongs = [
     "OK!/松本梨香",                                     // 精靈寶可夢 (Pokémon)
     "タイプ:ワイルド/松本梨香",                        // 精靈寶可夢 (Pokémon)
     "ライバル!/松本梨香",                              // 精靈寶可夢 (Pokémon)
-    "brave heart/林原めぐみ",                          // 數碼寶貝大冒險 (Digimon Adventure) - 插入曲
+    "brave heart/宮崎歩",                              //數碼寶貝系列》插曲
+    "brave heart/林原めぐみ",                          // 通靈王
     "Northern lights/林原めぐみ",                      // 通靈王 (Shaman King 2001)
     "Over soul/林原めぐみ",                            // 通靈王 (Shaman King 2001)
     "ふわふわ♪/牧野由依",                              // 水星領航員 The NATURAL (ARIA The NATURAL)
@@ -6655,6 +6674,7 @@ const streamerSongList = [
     "OK!/松本梨香",                                     // 精靈寶可夢 (Pokémon)
     "タイプ:ワイルド/松本梨香",                        // 精靈寶可夢 (Pokémon)
     "ライバル!/松本梨香",                              // 精靈寶可夢 (Pokémon)
+    "brave heart/宮崎歩",                              //數碼寶貝系列》插曲
     "brave heart/林原めぐみ",                          // 數碼寶貝大冒險 (Digimon Adventure) - 插入曲
     "Northern lights/林原めぐみ",                      // 通靈王 (Shaman King 2001)
     "Over soul/林原めぐみ",                            // 通靈王 (Shaman King 2001)
