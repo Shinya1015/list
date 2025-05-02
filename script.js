@@ -635,7 +635,10 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
+
+
+      
   ],
   "恋はスリル、ショック、サスペンス/愛内里菜": [
     { },
