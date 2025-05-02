@@ -97,7 +97,8 @@ const songStreamLinks = {
     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
   ],
   "Dear My Friend~まだ見ぬ未来へ~/ELISA": [
-    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7977 },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7239 },
+      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7977 },
   ],
   "ギー太に首ったけ/平沢唯(豊崎愛生)": [
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
