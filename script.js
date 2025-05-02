@@ -2634,7 +2634,8 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
   "One day/The ROOTLESS": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4390 },
+      
   ],
   "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS": [
     { },
