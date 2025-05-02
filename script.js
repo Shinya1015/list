@@ -890,7 +890,13 @@ const songStreamLinks = {
     { },
   ],
   "バトルフロンティア/高屋亜希那": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2955 },
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13073 },
+      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 4701 },
+      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 4414 },
+      { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 4010 },
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16769 },
+      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8024 },
   ],
   "微笑みの爆弾/馬渡松子": [
     { },
