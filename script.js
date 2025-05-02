@@ -3568,7 +3568,13 @@ const songStreamLinks = {
     { },
   ],
   "GO!!!/FLOW": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3473 },
+      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2161 },
+      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 1003},
+      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 2710},
+      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 9328},
+      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 3153},
+      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4999},
   ],
   "渇いた叫び/FIELD OF VIEW": [
     { },
