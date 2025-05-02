@@ -2457,6 +2457,7 @@ const songStreamLinks = {
     { },
   ],
   "UNDEAD/YOASOBI": [
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7585 },
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 4497},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 11468},
       { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5752},
