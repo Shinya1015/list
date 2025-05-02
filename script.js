@@ -3153,7 +3153,14 @@ const songStreamLinks = {
     { },
   ],
   "悲しみをやさしさに/little by little": [
-    { },
+      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3193 },
+      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4572 },
+      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10082 },
+      { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 5712 },
+      { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 7931 },
+      { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 5593 },
+      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 5968 },
+      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2081 },
   ],
   "紅蓮の弓矢/Linked Horizon": [
     { },
