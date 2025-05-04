@@ -5982,125 +5982,142 @@ function loadSongsCount() {
     }
 }
 
-// ▼▼▼ 貼上這個修改後的函數 ▼▼▼
+// このファイルの上部または別の場所で songStreamLinks, lowPitchSongs, animeSongs, streamerSongList, notionBaseUrl が定義されていると仮定します。
+// 例:
+// const songStreamLinks = { /* ... データ ... */ };
+// const lowPitchSongs = [ /* ... 曲名 ... */ ];
+// const animeSongs = [ /* ... 曲名 ... */ ];
+// const streamerSongList = [ /* ... 曲名 ... */ ];
+// const notionBaseUrl = "https://...";
+
+function loadSongsCount() {
+    const songCount = document.getElementById('song-count');
+    if (songCount && typeof streamerSongList !== 'undefined') {
+        songCount.textContent = `総曲数: ${streamerSongList.length}`;
+    } else if (songCount) {
+        // streamerSongList が未定義の場合、0 または変更なしを表示できます
+        // songCount.textContent = `総曲数: 0`;
+    }
+}
+
 function selectRandomSong() {
     const selector = document.getElementById('song-type-selector');
     const selectedType = selector ? selector.value : "すべて";
-    const resultParagraph = document.getElementById("song-result"); // 獲取結果段落元素
+    const resultParagraph = document.getElementById("song-result");
     let songPool = [];
 
-    // 確保相關列表存在 (這裡是你的判斷邏輯)
     const allSongsDefined = typeof streamerSongList !== 'undefined' && streamerSongList.length > 0;
     const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.length > 0;
     const animeSongsDefined = typeof animeSongs !== 'undefined' && animeSongs.length > 0;
 
-    // --- 錯誤處理和樣式清除 ---
+    resultParagraph.innerHTML = '';
+    resultParagraph.classList.remove('copied-feedback');
+    resultParagraph.removeAttribute('title');
+
     if (selectedType === "すべて") {
         if (allSongsDefined) {
             songPool = streamerSongList;
         } else {
              resultParagraph.textContent = "曲リストが読み込まれていません！";
-             resultParagraph.classList.remove('copyable-song', 'copied-feedback'); // 清除樣式
-             resultParagraph.removeAttribute('title'); // 清除提示
-             return; // ★ 結束函數
+             return;
         }
     } else if (selectedType === "低音") {
         if (lowSongsDefined) {
             songPool = lowPitchSongs;
         } else {
             resultParagraph.textContent = "低音曲リストが空か、定義されていません！";
-            resultParagraph.classList.remove('copyable-song', 'copied-feedback');
-            resultParagraph.removeAttribute('title');
-            return; // ★ 結束函數
+            return;
          }
     } else if (selectedType === "アニソン") {
         if (animeSongsDefined) {
             songPool = animeSongs;
          } else {
             resultParagraph.textContent = "アニソン曲リストが空か、定義されていません！";
-            resultParagraph.classList.remove('copyable-song', 'copied-feedback');
-            resultParagraph.removeAttribute('title');
-            return; // ★ 結束函數
+            return;
          }
     } else {
-        console.warn(`未知的抽選類型: ${selectedType}，將從全部歌曲中抽選。`);
+        console.warn(`不明な抽選タイプ: ${selectedType}，すべての曲から抽選します。`);
         if (allSongsDefined) {
             songPool = streamerSongList;
         } else {
             resultParagraph.textContent = "曲リストが読み込まれていません！";
-            resultParagraph.classList.remove('copyable-song', 'copied-feedback');
-            resultParagraph.removeAttribute('title');
-            return; // ★ 結束函數
+            return;
          }
     }
-    // --- 歌單選擇邏輯結束 ---
-
 
     if (songPool && songPool.length > 0) {
         const randomIndex = Math.floor(Math.random() * songPool.length);
-        const selectedSong = songPool[randomIndex]; // 獲取選中的歌曲
-        resultParagraph.textContent = selectedSong; // 顯示歌曲
-        resultParagraph.classList.add("copyable-song"); // ★ 添加可複製樣式
-        resultParagraph.classList.remove('copied-feedback'); // ★ 移除可能存在的複製反饋樣式
-        resultParagraph.title = "クリックしてコピー"; // ★ 添加滑鼠懸停提示
+        const selectedSong = songPool[randomIndex];
+
+        const songNameSpan = document.createElement('span');
+        songNameSpan.textContent = selectedSong;
+        songNameSpan.classList.add("copyable-song");
+        songNameSpan.title = "クリックしてコピー";
+        resultParagraph.appendChild(songNameSpan);
+
+        const hasLinks = typeof songStreamLinks !== 'undefined' &&
+                         songStreamLinks[selectedSong] &&
+                         songStreamLinks[selectedSong].some(link => link && link.videoId);
+
+        if (hasLinks) {
+            const iconSpan = document.createElement('span');
+            iconSpan.textContent = " ▶️";
+            iconSpan.classList.add('stream-link-icon');
+            iconSpan.dataset.song = selectedSong;
+            iconSpan.title = "配信リストを見る";
+            resultParagraph.appendChild(iconSpan);
+        }
+
     } else {
-        // 這個情況理論上在前面檢查後不該發生，但作為保險
         resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！`;
-        resultParagraph.classList.remove('copyable-song', 'copied-feedback'); // ★ 清除樣式
-        resultParagraph.removeAttribute('title'); // ★ 清除提示
     }
 }
-// ▲▲▲ 修改後的函數結束 ▲▲▲
-// --- ▼▼▼ 新增：處理結果區域點擊事件的函數 ▼▼▼ ---
-async function handleResultClick(event) {
-    const resultParagraph = event.target; // 被點擊的元素就是 P 元素
 
-    // 檢查是否真的包含可複製的歌曲（通過 class 判斷）
-    // 並且不是正在顯示 "コピーしました！" 的反饋狀態
-    if (resultParagraph.classList.contains('copyable-song') && !resultParagraph.classList.contains('copied-feedback')) {
-        const textToCopy = resultParagraph.textContent;
-        const originalText = textToCopy; // 保存原始文字
+async function handleResultClick(event) {
+    const target = event.target;
+
+    if (target.classList.contains('stream-link-icon') && target.dataset.song) {
+        showStreamLinksPopup(target.dataset.song);
+        return;
+    }
+
+    if (target.classList.contains('copyable-song') && !target.classList.contains('copied-feedback')) {
+        const textToCopy = target.textContent;
+        const originalText = textToCopy;
 
         try {
             await navigator.clipboard.writeText(textToCopy);
 
-            // 複製成功：顯示反饋
-            resultParagraph.textContent = 'コピーしました！';
-            resultParagraph.classList.remove('copyable-song'); // 暫時移除可複製樣式
-            resultParagraph.classList.add('copied-feedback'); // 添加反饋樣式
-            resultParagraph.removeAttribute('title'); // 暫時移除提示
+            target.textContent = 'コピーしました！';
+            target.classList.remove('copyable-song');
+            target.classList.add('copied-feedback');
+            target.removeAttribute('title');
 
-            // 短暫延遲後恢復原狀
             setTimeout(() => {
-                // 檢查元素是否仍然存在且處於反饋狀態
-                if (resultParagraph && resultParagraph.classList.contains('copied-feedback')) {
-                    resultParagraph.textContent = originalText; // 恢復文字
-                    resultParagraph.classList.remove('copied-feedback'); // 移除反饋樣式
-                    resultParagraph.classList.add('copyable-song'); // 重新添加可複製樣式
-                    resultParagraph.title = "クリックしてコピー"; // 重新添加提示
+                if (target && target.classList.contains('copied-feedback')) {
+                    target.textContent = originalText;
+                    target.classList.remove('copied-feedback');
+                    target.classList.add('copyable-song');
+                    target.title = "クリックしてコピー";
                 }
-            }, 1500); // 1.5秒後恢復
+            }, 1500);
 
         } catch (err) {
             console.error('テキストのコピーに失敗しました: ', err);
-            // 可選：在這裡向用戶顯示錯誤提示
-            // resultParagraph.textContent = 'コピー失敗';
-            // setTimeout(() => { resultParagraph.textContent = originalText; }, 2000);
+            // target.textContent = 'コピー失敗';
+            // setTimeout(() => { target.textContent = originalText; }, 2000);
         }
     }
 }
-// --- ▲▲▲ 新增函數結束 ▲▲▲ ---
 
-// --- ▼▼▼ 修改：顯示歌曲列表，並根據連結資料添加 class ---
 function toggleSongList() {
     document.getElementById("main-content").style.display = "none";
     const songListDiv = document.getElementById("song-list");
     songListDiv.style.display = "flex";
 
     const songListUl = document.getElementById("songs");
-    songListUl.innerHTML = ""; // 清空舊列表
+    songListUl.innerHTML = "";
 
-    // 確保 streamerSongList 存在
     if (typeof streamerSongList === 'undefined' || streamerSongList.length === 0) {
         songListUl.innerHTML = "<li>曲リストが空です。</li>";
         const songCount = document.getElementById('song-count');
@@ -6111,18 +6128,14 @@ function toggleSongList() {
     streamerSongList.forEach(displayName => {
         const li = document.createElement("li");
 
-        // 歌曲名稱 Span
         const songSpan = document.createElement("span");
         songSpan.textContent = displayName;
 
-     // ▼▼▼ 檢查是否有"有效"連結資料 (至少一個連結有 videoId) ▼▼▼
-    if (songStreamLinks && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
-        songSpan.classList.add("song-name--has-link");
-    }
-    // ▲▲▲ 檢查結束 ▲▲▲
+        if (typeof songStreamLinks !== 'undefined' && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
+            songSpan.classList.add("song-name--has-link");
+        }
         li.appendChild(songSpan);
 
-        // 按鈕容器
         const buttonContainer = document.createElement("div");
         buttonContainer.classList.add("button-group");
         const copyButton = document.createElement("button");
@@ -6135,11 +6148,9 @@ function toggleSongList() {
         songListUl.appendChild(li);
     });
 
-    // --- 事件委派處理列表點擊 ---
     songListUl.removeEventListener('click', handleSongListInteraction);
     songListUl.addEventListener('click', handleSongListInteraction);
 
-    // 重置篩選和搜尋
     const searchInput = document.getElementById('search-input');
     if (searchInput) { searchInput.value = ""; }
     const filterSelect = document.getElementById('list-song-type-filter');
@@ -6148,25 +6159,22 @@ function toggleSongList() {
     loadSongsCount();
 }
 
-// --- ▼▼▼ 修改：處理列表互動，點擊只對有連結的歌名生效 ---
 function handleSongListInteraction(event) {
     const target = event.target;
 
-    // 檢查是否點擊了複製按鈕
     const copyBtn = target.closest('.copy-button');
     if (copyBtn && copyBtn.dataset.song) {
         copySongName(copyBtn.dataset.song, copyBtn);
         return;
     }
 
-    // ▼▼▼ 檢查是否點擊了帶有連結的歌曲名稱 ▼▼▼
-    const songNameSpan = target.closest('.song-name--has-link'); // 只查找有 .song-name--has-link class 的元素
+    const songNameSpan = target.closest('.song-name--has-link');
     if (songNameSpan) {
         const songName = songNameSpan.textContent;
-        // 因為加了 class 就表示 songStreamLinks[songName] 存在且有內容
-        showStreamLinksPopup(songName);
+        if (typeof songStreamLinks !== 'undefined' && songStreamLinks[songName]) {
+             showStreamLinksPopup(songName);
+        }
     }
-    // ▲▲▲ 檢查結束 ▲▲▲
 }
 
 async function copySongName(songText, buttonElement) {
@@ -6176,6 +6184,7 @@ async function copySongName(songText, buttonElement) {
         buttonElement.textContent = 'コピー済み!';
         buttonElement.disabled = true;
         setTimeout(() => {
+            // ボタンがまだリスト内に存在するか確認（リストが閉じられていないかなど）
             if (buttonElement?.closest('ul#songs')) {
                 buttonElement.textContent = originalText;
                 buttonElement.disabled = false;
@@ -6198,16 +6207,12 @@ function filterSongs() {
     if (!songsUl) return;
     const listItems = songsUl.getElementsByTagName('li');
 
-    // 確保相關列表存在
     const lowSongsDefined = typeof lowPitchSongs !== 'undefined';
     const animeSongsDefined = typeof animeSongs !== 'undefined';
 
-
     for (let i = 0; i < listItems.length; i++) {
         const li = listItems[i];
-        // ▼▼▼ 選第一個 span 作為歌名判斷基準 ▼▼▼
         const songSpan = li.querySelector('span:first-child');
-        // ▲▲▲ 修改選擇器 ▲▲▲
         if (songSpan) {
             const songNameText = songSpan.textContent || songSpan.innerText;
             const songNameLower = songNameText.toLowerCase();
@@ -6216,10 +6221,8 @@ function filterSongs() {
             if (filterType === 'すべて') {
                 typeMatch = true;
             } else if (filterType === '低音') {
-                // 加上列表存在的判斷
                 typeMatch = lowSongsDefined && lowPitchSongs.includes(songNameText);
             } else if (filterType === 'アニソン') {
-                 // 加上列表存在的判斷
                 typeMatch = animeSongsDefined && animeSongs.includes(songNameText);
             }
 
@@ -6241,56 +6244,49 @@ function closeSongList() {
     if (mainContentDiv) mainContentDiv.style.display = "flex";
 }
 
-// --- ▼▼▼ 修改後的 showStreamLinksPopup 函數 ▼▼▼ ---
 function showStreamLinksPopup(songName) {
     const modal = document.getElementById('stream-links-modal');
     const overlay = document.getElementById('modal-overlay');
     const titleElement = document.getElementById('modal-song-title');
-    const listElement = document.getElementById('modal-stream-list'); // This should be an <ol>
+    const listElement = document.getElementById('modal-stream-list');
 
     if (!modal || !overlay || !titleElement || !listElement) {
         console.error("ポップアップ表示に必要なHTML要素が見つかりませんでした！");
         return;
     }
 
-    const links = songStreamLinks[songName]; // Assume songStreamLinks is defined elsewhere
+    const links = typeof songStreamLinks !== 'undefined' ? songStreamLinks[songName] : undefined;
     titleElement.textContent = songName;
-    listElement.innerHTML = ''; // Clear previous list items
+    listElement.innerHTML = '';
 
-    // Check if links exist and display accordingly
-    if (!links || links.length === 0) {
-        // Display message if no links found
+    if (!links || !links.some(link => link && link.videoId)) { // videoId がある有効なリンクが存在するか確認
         const li = document.createElement('li');
-        li.style.color = '#555'; // Style for non-clickable item
+        li.style.color = '#555';
         li.style.cursor = 'default';
         li.textContent = '該当する配信記録のリンクが見つかりませんでした。';
         listElement.appendChild(li);
     } else {
-        // Generate list items if links exist
         links.forEach(linkInfo => {
+            // videoId がないリンクはスキップ (または別の表示方法も可能)
+            if (!linkInfo || !linkInfo.videoId) return;
+
             const li = document.createElement('li');
-
-            // ▼▼▼【關鍵修改】創建 span 並添加 class ▼▼▼
             const dateSpan = document.createElement('span');
-            dateSpan.textContent = linkInfo.date; // Put date text inside the span
-            dateSpan.classList.add('modal-list-date'); // Add class for styling
-            li.appendChild(dateSpan); // Add the span to the li
-            // ▲▲▲【修改完成】▲▲▲
+            dateSpan.textContent = linkInfo.date;
+            dateSpan.classList.add('modal-list-date');
+            li.appendChild(dateSpan);
 
-            // Store data attributes on the li element
             li.dataset.videoId = linkInfo.videoId;
-            li.dataset.timestamp = linkInfo.timestamp;
+            // timestamp が存在しない、または null の場合でも dataset に設定する (空文字になる)
+            li.dataset.timestamp = linkInfo.timestamp ?? ''; // null合体演算子で安全に処理
 
-            listElement.appendChild(li); // Add the li to the list (<ol>)
+            listElement.appendChild(li);
         });
     }
 
-    // Display the modal and overlay
     modal.style.display = 'block';
     overlay.style.display = 'block';
 }
-// --- ▲▲▲ 修改後的 showStreamLinksPopup 函數結束 ▲▲▲ ---
-
 
 function closeStreamLinksPopup() {
     const modal = document.getElementById('stream-links-modal');
@@ -6300,23 +6296,27 @@ function closeStreamLinksPopup() {
 }
 
 function openYouTubeLink(videoId, timestamp) {
-    if (!videoId || timestamp === undefined || timestamp === null) {
-        console.error("無効なYouTube動画IDまたはタイムスタンプです！");
+    // timestamp が空文字や null、undefined の場合を考慮
+    if (!videoId) {
+        console.error("無効なYouTube動画IDです！");
         return;
     }
-    const url = `https://www.youtube.com/watch?v=${videoId}&t=${timestamp}s`;
+    let url = `https://www.youtube.com/watch?v=${videoId}`;
+    // timestamp が有効な数値の場合のみ追加
+    const numericTimestamp = parseInt(timestamp, 10);
+    if (!isNaN(numericTimestamp) && numericTimestamp >= 0) {
+       url += `&t=${numericTimestamp}s`;
+    }
     window.open(url, '_blank');
-   //closeStreamLinksPopup(); // Keeping popup open after click
 }
 
-// --- 初始化和事件監聽器 ---
 document.addEventListener('DOMContentLoaded', () => {
    const resultParagraph = document.getElementById("song-result");
     if (resultParagraph) {
         resultParagraph.addEventListener('click', handleResultClick);
       }
     const notionHeaderButton = document.getElementById('notion-header-button');
-    if (notionHeaderButton) {
+    if (notionHeaderButton && typeof notionBaseUrl !== 'undefined') {
         notionHeaderButton.addEventListener('click', () => {
             window.open(notionBaseUrl, '_blank');
         });
@@ -6336,21 +6336,19 @@ document.addEventListener('DOMContentLoaded', () => {
     if (modalList) {
         modalList.addEventListener('click', (event) => {
             const targetLi = event.target.closest('li');
-            if (targetLi && targetLi.dataset.videoId && targetLi.dataset.timestamp) {
+            // videoId が存在することを確認してから開く
+            if (targetLi && targetLi.dataset.videoId) {
+                // timestamp がなくても開けるように、timestamp を渡す
                 openYouTubeLink(targetLi.dataset.videoId, targetLi.dataset.timestamp);
             }
         });
     }
 
-    // 確保 loadSongsCount 和流星生成只執行一次
-    // (如果 streamerSongList 等列表在其他地方延遲載入，這部分可能需要調整)
     if (typeof streamerSongList !== 'undefined') {
        loadSongsCount();
     }
 
-    // 生成流星
     const numberOfMeteors = 60;
-    // 確保 body 存在才添加流星
     if (document.body) {
         for (let i = 0; i < numberOfMeteors; i++) {
             const meteor = document.createElement('div');
@@ -6372,10 +6370,9 @@ document.addEventListener('DOMContentLoaded', () => {
             meteor.style.animationDelay = `${Math.random() * 3}s`;
         }
     } else {
-        console.error("無法生成流星：document.body 不存在。");
+        console.error("body要素が見つからないため、流星を生成できませんでした。");
     }
-
-}); // DOMContentLoaded 結束
+});
 
 const streamerSongList = [
     "天ノ弱/164",
