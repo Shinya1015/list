@@ -3928,7 +3928,9 @@ const songStreamLinks = {
     { },
   ],
   "モザイクロール/DECO*27": [
-    { },
+      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 15997},
+      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2166},
+      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3138},
   ],
   "罪と罰/DECO*27": [
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10196},
