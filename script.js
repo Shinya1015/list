@@ -4019,7 +4019,8 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 5807 },
   ],
   "I Really Like You/Carly Rae Jepsen": [
-    { },
+       { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 13909},
+       { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 8369},
   ],
   "Call Me Maybe/Carly Rae Jepsen": [
        { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 2981},
