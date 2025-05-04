@@ -3873,7 +3873,14 @@ const songStreamLinks = {
   ],
 
   "EQUALロマンス/CoCo": [
-    { },
+      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4319},
+      { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 8206},
+      { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 2683 },
+      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 2694 },
+      { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 3373 },
+      { date: "2023年9月10日", videoId: "g2F88AkmFBs", timestamp: 4993 },
+      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6658 },
+      { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 9693 },
   ],
   "voice/CLOUD": [
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4741},
