@@ -6589,8 +6589,8 @@ const streamerSongList = [
     "夜行性ハイズ/DECO*27",
     "愛言葉Ⅱ/DECO*27",
     "愛言葉Ⅲ/DECO*27",
-    "愛言葉Ⅳ/DECO*27"
-    "愛言葉/DECO*27"
+    "愛言葉Ⅳ/DECO*27",
+    "愛言葉/DECO*27",
     "罪と罰/DECO*27",
     "モザイクロール/DECO*27",
     "ペダルハート/DECO*27",
