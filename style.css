@@ -44,12 +44,17 @@ button:active { transform: scale(0.98); }
 
 .stream-link-icon {
     cursor: pointer;
-    margin-left: 8px;
+    margin-left: 8px; /* 圖示和歌名之間的間距 (可依喜好調整) */
     color: #007bff;
     font-weight: bold;
     transition: opacity 0.2s ease;
-    font-size: 1em;
-    line-height: 1;
+    font-size: 1.1em; /* 圖示本身的文字大小 (可稍微調大，例如 1.1em) */
+    line-height: 1; /* 確保行高一致 */
+    display: inline-flex; /* 讓 padding 生效且內容垂直居中 */
+    align-items: center; /* 垂直居中圖示 */
+    justify-content: center; /* 水平居中圖示 */
+    vertical-align: middle; /* 嘗試與旁邊的文字對齊 */
+    padding: 5px 8px; /* 上下增加 5px, 左右增加 8px 的內邊距 */
 }
 
 .stream-link-icon:hover {
