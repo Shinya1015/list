@@ -4059,7 +4059,10 @@ const songStreamLinks = {
     { },
   ],
   "星の唄/buzzG": [
-    { },
+      { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 1279 },
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11326 },
+      { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 3295 },
+      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 13551 },
   ],
   "ピーターパン・シンドローム/buzzG": [
       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
