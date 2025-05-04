@@ -3885,7 +3885,9 @@ const songStreamLinks = {
     { },
   ],
   "ヒトリゴト/ClariS": [
-    { },
+      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 9817 },
+      { date: "2023年10月14日", videoId: "8R2Kn-EBKdY", timestamp: 1930 },
+      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
   ],
   "コネクト/ClariS": [
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7183},
