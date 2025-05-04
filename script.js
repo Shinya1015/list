@@ -3848,7 +3848,9 @@ const songStreamLinks = {
     { },
   ],
   "弱虫モンブラン/DECO*27": [
-    { },
+      { date: "2024年5月27日-piano ver", videoId: "ZRqhVaH-ZcA", timestamp: 2758},
+      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3508},
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 23492},
   ],
   "おじゃま虫II/DECO*27": [
       { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 15064},
