@@ -3909,7 +3909,15 @@ const songStreamLinks = {
     { },
   ],
   "夜鷹の夢/Do As Infinity": [
-    { },
+      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5367 },
+      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6785 },
+      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2425 },
+      { date: "2024年6月21日", videoId: "hyeKYMlZkDg", timestamp: 5379 },
+      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 15054 },
+      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 10691 },
+      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 3682 },
+      { date: "2023年10月29日", videoId: "vqBUMEuRee4", timestamp: 3213 },
+      { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 3544 },
   ],
   "Just Be Friends/Dixie Flatline": [
       { date: "2024年5月19日-piano ver", videoId: "H-bP3zctwiA", timestamp: 8550 },
