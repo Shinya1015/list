@@ -3979,7 +3979,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13577 },
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2584 },
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 13117 },
-      { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 6304 },
+      { date: "2023年3月2日-piano ver", videoId: "RCe0Wzqw7d8", timestamp: 6304 },
       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 2361 },
   ],
   "二息步行/DECO*27": [
