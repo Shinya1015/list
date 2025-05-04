@@ -3839,7 +3839,7 @@ const songStreamLinks = {
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14533},
   ],
   "ヒバナ/DECO*27": [
-    { },
+      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 8774},
   ],
   "セカイ/DECO*27": [
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13800},
@@ -5214,11 +5214,11 @@ const songStreamLinks = {
  { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 13013 },
 { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 13240 },
  ],
-"Hand in Hand/kz(livetune)": [ // 中間順序不變
+"Hand in Hand/kz(livetune)": [ 
  { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
  { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
   ],
- "天ノ弱/164": [ // 原本第一首，移到最後面
+ "天ノ弱/164": [ 
     { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 1010 },
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 2432 },
     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 6351 },
@@ -5525,6 +5525,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
     "知らなきゃ/安月名莉子",                                //《ハコヅメ～交番女子の逆襲～》片頭曲
     "Chasing hearts/miwa",                                //鋼之鍊金術師劇場版：嘆息之丘的聖星(OP)
