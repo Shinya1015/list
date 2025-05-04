@@ -3860,7 +3860,9 @@ const songStreamLinks = {
     { },
   ],
   "Snow Song Show/DECO*27": [
-    { },
+      { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 3129 },
+      { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7366 },
+      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 1741 },
   ],
   "そして僕にできるコト/day after tomorrow": [
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8364},
