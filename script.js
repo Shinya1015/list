@@ -3882,7 +3882,7 @@ const songStreamLinks = {
     { },
   ],
   "reunion/ClariS": [
-    { },
+      { date: "2025年3月11日", videoId: "IFngoVs50Uo", timestamp: 6023},
   ],
   "ヒトリゴト/ClariS": [
       { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 9817 },
