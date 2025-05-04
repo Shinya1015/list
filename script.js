@@ -3869,7 +3869,8 @@ const songStreamLinks = {
     { },
   ],
   "faraway/day after tomorrow": [
-    { },
+      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 5423},
+      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 7444},
   ],
 
   "EQUALロマンス/CoCo": [
