@@ -3919,13 +3919,14 @@ const songStreamLinks = {
   ],
   "心壊サミット/DECO*27": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
-      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 18127},
+      { date: "2025年4月1日(冒頭アカペラ)", videoId: "3qhlFZL3j_w", timestamp: 5717},
   ],
   "ゴーストルール/DECO*27": [
     { },
   ],
   "ペダルハート/DECO*27": [
-    { },
+      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18555 },
+      { date: "2024年3月26日", videoId: "", timestamp: 1418 },
   ],
   "モザイクロール/DECO*27": [
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 15997},
