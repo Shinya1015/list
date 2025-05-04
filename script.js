@@ -3842,7 +3842,12 @@ const songStreamLinks = {
     { },
   ],
   "セカイ/DECO*27": [
-    { },
+      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13800},
+      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 4733},
+      { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 5989 },
+      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 12621 },
+      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 14919 },
+      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 8707 },
   ],
   "ストリーミングハート/DECO*27": [
       { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
