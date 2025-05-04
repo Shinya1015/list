@@ -3976,7 +3976,8 @@ const songStreamLinks = {
     { },
   ],
   "二息步行/DECO*27": [
-    { },
+      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3876},
+      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 12595},
   ],
   "乙女解剖/DECO*27": [
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7477},
