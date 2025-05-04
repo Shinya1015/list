@@ -847,7 +847,9 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 7695 },
   ],
   "God Knows.../涼宮ハルヒ(CV:平野綾)": [
-    { },
+      { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 2197 },
+      { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 1715 },
+      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 12383 },
   ],
   "虎視眈々/梅とら": [
        { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
