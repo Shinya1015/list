@@ -3912,10 +3912,11 @@ const songStreamLinks = {
     { },
   ],
   "Just Be Friends/Dixie Flatline": [
-    { },
+      { date: "2024年5月19日-piano ver", videoId: "H-bP3zctwiA", timestamp: 8550 },
+      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 15032 },
   ],
   "探し物/DIRTY OLD MEN": [
-    { },
+      { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
   "心壊サミット/DECO*27": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
