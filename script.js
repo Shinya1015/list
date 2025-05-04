@@ -3933,11 +3933,30 @@ const songStreamLinks = {
   "罪と罰/DECO*27": [
     { },
   ],
+  "愛言葉Ⅳ/DECO*27": [
+      { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2520 },
+      { date: "2023年8月1日", videoId: "UC7QboicDS4", timestamp: 3307 },
+      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 8589 },
+      { date: "2023年6月4日", videoId: "q6xsNtoNS8E", timestamp: 6714 },
+   ],
   "愛言葉Ⅲ/DECO*27": [
-    { },
+      { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 6567 },
+      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 15242 },
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 35142 },
+      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 18901 },
+      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 16599 },
+      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 12347 },
+      { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 1420 },
+      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 1020 },
   ],
-  "愛言葉II/DECO*27": [
-    { },
+  "愛言葉Ⅱ/DECO*27": [
+      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 5361 },
+  ],
+  "愛言葉/DECO*27": [
+      { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 9250 },
+      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4889 },
+      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 4429 },
+      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
   ],
   "夜行性ハイズ/DECO*27": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11576},
@@ -6568,8 +6587,10 @@ const streamerSongList = [
     "二息步行/DECO*27",
     "妄想感傷代償連盟/DECO*27",
     "夜行性ハイズ/DECO*27",
-    "愛言葉II/DECO*27",
+    "愛言葉Ⅱ/DECO*27",
     "愛言葉Ⅲ/DECO*27",
+    "愛言葉Ⅳ/DECO*27"
+    "愛言葉/DECO*27"
     "罪と罰/DECO*27",
     "モザイクロール/DECO*27",
     "ペダルハート/DECO*27",
