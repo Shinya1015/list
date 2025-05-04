@@ -3857,7 +3857,7 @@ const songStreamLinks = {
     { },
   ],
   "キミ以上、ボク未満。/DECO*27": [
-    { },
+      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3856},
   ],
   "Snow Song Show/DECO*27": [
       { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 3129 },
