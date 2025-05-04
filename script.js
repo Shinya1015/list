@@ -3931,7 +3931,10 @@ const songStreamLinks = {
     { },
   ],
   "罪と罰/DECO*27": [
-    { },
+      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10196},
+      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 8187},
+      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 4026},
+      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 464},
   ],
   "愛言葉Ⅳ/DECO*27": [
       { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2520 },
