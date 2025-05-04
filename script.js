@@ -3979,7 +3979,11 @@ const songStreamLinks = {
     { },
   ],
   "乙女解剖/DECO*27": [
-    { },
+      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7477},
+      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 9405 },
+      { date: "2023年9月14日-piano ver", videoId: "E4QoAJ7LPow", timestamp: 3273 },
+      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2351},
+      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 3443},
   ],
   "恋距離遠愛/DECO*27": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10824},
