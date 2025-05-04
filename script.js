@@ -5138,6 +5138,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "I Really Like You/Carly Rae Jepsen",
     "CONFUSED MEMORIES/円谷憂子",
     "金曜日のおはよう/HoneyWorks",
     "晩餐歌/tuki.",
