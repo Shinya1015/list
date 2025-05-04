@@ -3876,7 +3876,8 @@ const songStreamLinks = {
     { },
   ],
   "voice/CLOUD": [
-    { },
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4741},
+      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
   "nexus/ClariS": [
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 16290},
