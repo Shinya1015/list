@@ -3854,7 +3854,7 @@ const songStreamLinks = {
     { },
   ],
   "ヴァンパイア/DECO*27": [
-    { },
+      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 6872},
   ],
   "キミ以上、ボク未満。/DECO*27": [
       { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3856},
