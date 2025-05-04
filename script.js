@@ -4062,7 +4062,6 @@ const songStreamLinks = {
     { },
   ],
   "ピーターパン・シンドローム/buzzG": [
-      
       { date: "2025年3月19日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
   ],
   "鯨/Buzy": [
