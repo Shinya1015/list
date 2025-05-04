@@ -3906,7 +3906,14 @@ const songStreamLinks = {
     { },
   ],
   "TAO/Do As Infinity": [
-    { },
+      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 8172 },
+      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9083 },
+      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 11263 },
+      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 9383 },
+      { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 2872 },
+      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 2827 },
+      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 1461 },
+      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
   "夜鷹の夢/Do As Infinity": [
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5367 },
