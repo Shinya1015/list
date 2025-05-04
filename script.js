@@ -4056,7 +4056,7 @@ const songStreamLinks = {
     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 1435 },
   ],
   "ギリギリchop/B'z": [
-    { },
+       { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 2788},
   ],
   "星の唄/buzzG": [
       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 1279 },
