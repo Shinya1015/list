@@ -3953,7 +3953,7 @@ const songStreamLinks = {
       { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 5361 },
   ],
   "愛言葉/DECO*27": [
-      { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 9250 },
+      { date: "2023年3月18日(sasakure.UK Remix)", videoId: "lFt9YfoL-GM", timestamp: 9250 },
       { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4889 },
       { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 4429 },
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
