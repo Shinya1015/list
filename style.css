@@ -29,6 +29,47 @@ button:active { transform: scale(0.98); }
   opacity: 0.8;
 }
 
+
+#song-result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#song-result span {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.stream-link-icon {
+    cursor: pointer;
+    margin-left: 8px;
+    color: #007bff;
+    font-weight: bold;
+    transition: opacity 0.2s ease;
+    font-size: 1em;
+    line-height: 1;
+}
+
+.stream-link-icon:hover {
+    opacity: 0.7;
+}
+
+/* コピー関連の樣式を span に適用するように更新 */
+#song-result span.copyable-song {
+  cursor: pointer;
+  transition: opacity 0.2s ease-in-out;
+}
+#song-result span.copyable-song:hover {
+  opacity: 0.8;
+}
+#song-result span.copied-feedback {
+  cursor: default;
+  opacity: 1;
+  color: green;
+  font-weight: bold;
+}
 /* “已複製”反饋時的樣式 */
 #song-result.copied-feedback {
   cursor: default; /* 反饋期間恢復默認指標 */
