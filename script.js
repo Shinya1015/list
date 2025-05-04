@@ -3,7 +3,7 @@ const songStreamLinks = {
 
     
     "Flyers/BRADIO": [
-        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 8932 },
+        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 8931 },
   ],
     "CONFUSED MEMORIES/円谷憂子": [
         { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5595 },
