@@ -2470,7 +2470,13 @@ const songStreamLinks = {
     { },
   ],
   "未来コネクション/ЯeaL": [
-    { },
+      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 3711},
+      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 5461},
+      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 1442},
+      { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8506 },
+      { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 1349 },
+      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 9984 },
+      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2032 },
   ],
   "secret base～君がくれたもの～/ZONE": [
     { },
