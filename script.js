@@ -3850,8 +3850,9 @@ const songStreamLinks = {
   "弱虫モンブラン/DECO*27": [
     { },
   ],
-  "おじゃま虫/DECO*27": [
-    { },
+  "おじゃま虫II/DECO*27": [
+      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 15064},
+      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 3818},
   ],
   "ヴァンパイア/DECO*27": [
       { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 6872},
@@ -6423,7 +6424,7 @@ const streamerSongList = [
     "Snow Song Show/DECO*27",
     "キミ以上、ボク未満。/DECO*27",
     "ヴァンパイア/DECO*27",
-    "おじゃま虫/DECO*27",
+    "おじゃま虫II/DECO*27",
     "弱虫モンブラン/DECO*27",
     "ストリーミングハート/DECO*27",
     "セカイ/DECO*27",
