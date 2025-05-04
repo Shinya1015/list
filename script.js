@@ -3863,7 +3863,22 @@ const songStreamLinks = {
     { },
   ],
   "そして僕にできるコト/day after tomorrow": [
-    { },
+      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8364},
+      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 3043},
+      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 4083},
+      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 1690},
+      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 1434},
+      { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 4624},
+      { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 856},
+      { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2862},
+      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 4675},
+      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 6631 },
+      { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 4709 },
+      { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 9781 },
+      { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 9948 },
+      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 9384 },
+      { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 9415 },
+      { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 1157 },
   ],
   "Starry Heavens/day after tomorrow": [
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 26947},
@@ -5208,6 +5223,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+    "そして僕にできるコト/day after tomorrow",
     "I Really Like You/Carly Rae Jepsen",
     "CONFUSED MEMORIES/円谷憂子",
     "金曜日のおはよう/HoneyWorks",
