@@ -6138,7 +6138,7 @@ function selectRandomSong() {
             iconSpan.textContent = " ▶️";
             iconSpan.classList.add('stream-link-icon');
             iconSpan.dataset.song = selectedSong;
-            iconSpan.title = "配信リストを見る";
+            iconSpan.title = "アーカイブリストを見る";
             resultParagraph.appendChild(iconSpan);
         }
 
