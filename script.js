@@ -3973,7 +3973,14 @@ const songStreamLinks = {
       { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9004},
   ],
   "妄想感傷代償連盟/DECO*27": [
-    { },
+      { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 6814 },
+      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15525 },
+      { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 5551 },
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13577 },
+      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2584 },
+      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 13117 },
+      { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 6304 },
+      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 2361 },
   ],
   "二息步行/DECO*27": [
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3876},
