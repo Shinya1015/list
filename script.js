@@ -3845,7 +3845,7 @@ const songStreamLinks = {
     { },
   ],
   "ストリーミングハート/DECO*27": [
-    { },
+      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
   ],
   "弱虫モンブラン/DECO*27": [
       { date: "2024年5月27日-piano ver", videoId: "ZRqhVaH-ZcA", timestamp: 2758},
