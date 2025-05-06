@@ -3682,6 +3682,8 @@ const songStreamLinks = {
     { },
   ],
   "clover/hiro": [
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7728},
+
      
   ],
   "かさなる影/Hearts Grow": [
