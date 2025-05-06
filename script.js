@@ -1901,7 +1901,9 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3017},
+
+     
   ],
   "花に亡霊/ヨルシカ": [
     { },
