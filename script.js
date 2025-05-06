@@ -3340,7 +3340,11 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1652},
+
+
+
+     
   ],
   "HANABI/Mr.Children": [
     { },
