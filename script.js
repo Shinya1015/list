@@ -1604,7 +1604,10 @@ const songStreamLinks = {
       { date: "2023年10月18日-piano ver", videoId: "ZfwNBpcQsuc", timestamp: 12882},
   ],
   "Fantastic future/田村ゆかり": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4755},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 4851},
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 11542},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 4670},
   ],
   "fancy baby doll/田村ゆかり": [
     { },
