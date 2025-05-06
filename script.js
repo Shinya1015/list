@@ -3684,7 +3684,7 @@ const songStreamLinks = {
     { },
   ],
   "かさなる影/Hearts Grow": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
   ],
   "Fire◎Flower/halyosy": [
     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
