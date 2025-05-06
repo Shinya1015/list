@@ -532,7 +532,11 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5320},
+
+
+
+     
   ],
   "虹/福山雅治": [
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
