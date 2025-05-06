@@ -2381,7 +2381,9 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3328},
+
+     
   ],
   "夜もすがら君想ふ/ころん": [
     { },
