@@ -3682,7 +3682,7 @@ const songStreamLinks = {
     { },
   ],
   "clover/hiro": [
-    { },
+     
   ],
   "かさなる影/Hearts Grow": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
@@ -5741,6 +5741,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
 ];
 const animeSongs = [
+    "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
     "知らなきゃ/安月名莉子",                                //《ハコヅメ～交番女子の逆襲～》片頭曲
