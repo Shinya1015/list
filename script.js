@@ -3868,7 +3868,9 @@ const songStreamLinks = {
      { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
   "careless breath/EXILE": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6292},
+
+     
   ],
   "群青讃歌/Eve": [
     { },
