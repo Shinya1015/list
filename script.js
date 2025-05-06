@@ -326,8 +326,9 @@ const songStreamLinks = {
     { },
   ],
   "心絵/ロードオブメジャー": [
-      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1472 },
-      { date: "2024年12月10日(一番のみ)", videoId: "WULCzP9OiTw", timestamp: 7938 },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5048},
+     { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1472 },
+     { date: "2024年12月10日(一番のみ)", videoId: "WULCzP9OiTw", timestamp: 7938 },
   ],
   "Drawing days/SPLAY": [
     { },
