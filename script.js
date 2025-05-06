@@ -1586,7 +1586,10 @@ const songStreamLinks = {
     { },
   ],
   "You & Me/田村ゆかり feat. motsu from m.o.v.e": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4490},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 5094},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 1276},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 11629},
   ],
   "童話迷宮/田村ゆかり": [
     { },
