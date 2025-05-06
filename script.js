@@ -575,7 +575,10 @@ const songStreamLinks = {
     { },
   ],
   "輝きは君の中に/鈴木結女": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
+
+
+     
   ],
   "それでも明日はやってくる/鈴木結女": [
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 4081 },
