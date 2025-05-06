@@ -2556,7 +2556,7 @@ const songStreamLinks = {
       
   ],
   "Laugh away/YUI": [
-    { },
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6292},
   ],
   "HELLO ～Paradise Kiss～/YUI": [
     { },
