@@ -585,9 +585,25 @@ const songStreamLinks = {
   ],
   "輝きは君の中に/鈴木結女": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
-
-
-     
+     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4236},
+     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 1105},
+     { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 5685},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 24742},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 12864},
+     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 1136},
+     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 5742},
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 6278},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 7486},
+     { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 3915},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 5961},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 9213},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 1556},
+     { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 3831},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 1655},
+     { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 1527},
+     { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 10355},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4126},
+     { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
   "それでも明日はやってくる/鈴木結女": [
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 4081 },
