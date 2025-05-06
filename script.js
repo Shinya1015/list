@@ -1,7 +1,8 @@
 
 const songStreamLinks = {
-
-    
+   "Seven Deadly Sins/MAN WITH A MISSION": [
+       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1145},
+     ],
     "Flyers/BRADIO": [
         { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 8931 },
   ],
@@ -6071,6 +6072,7 @@ const animeSongs = [
     "Errand/Faylan",                                   //《聖痕のクェイサー》的片頭曲
     "CONFUSED MEMORIES/円谷憂子",                       //金田一少年事件簿主題曲
     "Flyers/BRADIO",                                   //死亡遊行OP曲
+    "Seven Deadly Sins/MAN WITH A MISSION",           //七大罪第一季第13至24集的開場主題曲
 ];
     
 
@@ -7276,5 +7278,6 @@ const streamerSongList = [
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",            //ロックマン
     "CONFUSED MEMORIES/円谷憂子",
     "Flyers/BRADIO",                                   //死亡遊行OP曲
-    
+    "Seven Deadly Sins/MAN WITH A MISSION",
+
 ];
