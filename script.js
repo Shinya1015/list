@@ -4928,12 +4928,13 @@ const songStreamLinks = {
        { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
      ],
 "Velonica/Aqua Timez": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1353 },
-  　{ date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5869 },
-    { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21855 },
- 　 { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1776 },
-    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
-    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
+   { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2708},
+   { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1353 },
+   { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5869 },
+   { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21855 },
+ 　{ date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 1776 },
+   { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
+   { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
 "ロンリーユニバース/Aqu3ra": [
       { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 2736 },
