@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+   "おしえて A to Z/田村ゆかり": [
+      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4224},
+      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 3615},
+  ],
    "Seven Deadly Sins/MAN WITH A MISSION": [
        { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1145},
      ],
@@ -6086,6 +6090,7 @@ const animeSongs = [
     "CONFUSED MEMORIES/円谷憂子",                       //金田一少年事件簿主題曲
     "Flyers/BRADIO",                                   //死亡遊行OP曲
     "Seven Deadly Sins/MAN WITH A MISSION",           //七大罪第一季第13至24集的開場主題曲
+    "おしえて A to Z/田村ゆかり",                        //魔法少女リリカルなのは
 ];
     
 
@@ -7292,5 +7297,6 @@ const streamerSongList = [
     "CONFUSED MEMORIES/円谷憂子",
     "Flyers/BRADIO",                                   //死亡遊行OP曲
     "Seven Deadly Sins/MAN WITH A MISSION",
-
+    "おしえて A to Z/田村ゆかり",
+   
 ];
