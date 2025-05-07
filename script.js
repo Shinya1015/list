@@ -1,6 +1,9 @@
 
 const songStreamLinks = {
    
+   "Little Busters/Rita": [
+      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13854},
+      ],
    "flyaway/BACK-ON": [
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
@@ -6270,6 +6273,7 @@ const animeSongs = [
     "おしえて A to Z/田村ゆかり",                        //魔法少女リリカルなのは
     "サタデー・ナイト・クエスチョン/中島愛",              //ネト充のススメ
     "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
+    "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
 ];
     
 
@@ -7479,5 +7483,5 @@ const streamerSongList = [
     "おしえて A to Z/田村ゆかり",
     "サタデー・ナイト・クエスチョン/中島愛",
     "flyaway/BACK-ON",
-   
+    "Little Busters/Rita",
 ];
