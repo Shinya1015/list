@@ -3371,7 +3371,14 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 10323},
      ],
   "青と夏/Mrs. GREEN APPLE": [
-    { },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 3242},
+     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 2512},
+     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 3352},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 3793},
+     { date: "2024年8月16日", videoId: "uk7DOs1B34I", timestamp: 1779},
+     { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 3346},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 5863},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 6247},
   ],
   "ケセラセラ/Mrs. GREEN APPLE": [
     { },
