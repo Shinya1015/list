@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "サタデー・ナイト・クエスチョン/中島愛": [
+      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2233},
+      ],
    "おしえて A to Z/田村ゆかり": [
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4224},
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 3615},
@@ -6190,6 +6193,7 @@ const animeSongs = [
     "Flyers/BRADIO",                                   //死亡遊行OP曲
     "Seven Deadly Sins/MAN WITH A MISSION",           //七大罪第一季第13至24集的開場主題曲
     "おしえて A to Z/田村ゆかり",                        //魔法少女リリカルなのは
+    "サタデー・ナイト・クエスチョン/中島愛",              //ネト充のススメ
 ];
     
 
@@ -7397,5 +7401,6 @@ const streamerSongList = [
     "Flyers/BRADIO",                                   //死亡遊行OP曲
     "Seven Deadly Sins/MAN WITH A MISSION",
     "おしえて A to Z/田村ゆかり",
+    "サタデー・ナイト・クエスチョン/中島愛",
    
 ];
