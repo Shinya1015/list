@@ -6187,6 +6187,7 @@ const lowPitchSongs = [
     "Butter-Fly/和田光司",                                            // 男聲
     "ひまわりの約束/秦基博",                                          // 男聲，創作歌手
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
+    "Best Friend/Kiroro",
 ];
 const animeSongs = [
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
@@ -6559,7 +6560,6 @@ const animeSongs = [
     "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
     "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
     "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
-    "Best Friend/Kiroro",
 ];
     
 
