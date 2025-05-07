@@ -556,10 +556,22 @@ const songStreamLinks = {
   ],
   "道標/橘慶太": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5320},
-
-
-
-     
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 2967},
+     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3368},
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 8319},
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 12824},
+     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 1922},
+     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7731},
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 5767},
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 4075},
+     { date: "2025年2月11日", videoId: "AOwBqIYQ8E", timestamp: 1948},
+     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 8684},
+     { date: "2025年1月25日", videoId: "ODwLV-exnQU", timestamp: 2220},
+     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 4046},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21125},
+     { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 3128},
+     { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 2285},
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5998},
   ],
   "虹/福山雅治": [
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
