@@ -1,6 +1,6 @@
 
 const songStreamLinks = {
-   
+
    "Little Busters/Rita": [
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13854},
       ],
@@ -2179,10 +2179,10 @@ const songStreamLinks = {
   ],
   "天樂/ゆうゆ": [
     { },
-  ],
-  "honey & clover club/ゆうゆ": [
-    { },
-  ],
+  ], 
+   "honey & clover club/ゆうゆ": [
+      { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 3824},
+      ],
   "走れ！/ももいろクローバー": [
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 1394 },
     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 870 },
