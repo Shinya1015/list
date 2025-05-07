@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+   
+   "flyaway/BACK-ON": [
+      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
+      ],
    "サタデー・ナイト・クエスチョン/中島愛": [
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2233},
       ],
@@ -417,7 +421,14 @@ const songStreamLinks = {
     { },
   ],
   "ヒトミノチカラ/観月ありさ": [
-    { },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8920},
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7240},
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 11594},
+     { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 2166},
+     { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 6930},
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 1001},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 19294},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2799},
   ],
   "you/癒月": [
     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5657 },
@@ -3651,9 +3662,10 @@ const songStreamLinks = {
     { },
   ],
   "ボクラの冒険/Kids Alive": [
-      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 5962},
-      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7535},
-      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 19660},
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8615},
+     { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 5962},
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7535},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 19660},
   ],
   "おはよう。/Keno": [
     { },
@@ -7439,5 +7451,6 @@ const streamerSongList = [
     "Seven Deadly Sins/MAN WITH A MISSION",
     "おしえて A to Z/田村ゆかり",
     "サタデー・ナイト・クエスチョン/中島愛",
+    "flyaway/BACK-ON",
    
 ];
