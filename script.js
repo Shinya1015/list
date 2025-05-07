@@ -3069,7 +3069,20 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4636 },
   ],
   "HOT LIMIT/T.M.Revolution": [
-    { },
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 9674},
+     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 6564},
+     { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 1478},
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 7754},
+     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 6465},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 7871},
+     { date: "2024年5月3日", videoId: "LxLcU7IywuI", timestamp: 2344},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 8259},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 4177},
+     { date: "2024年1月12日", videoId: "c5lqCzfIh10", timestamp: 7861},
+     { date: "2023年8月25日", videoId: "9HthO5jsvYw", timestamp: 2464},
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 1915},
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 2817},
+     { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2842},
@@ -6240,6 +6253,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
+    
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
@@ -6394,6 +6408,7 @@ const animeSongs = [
     "君の知らない物語/supercell",                       // 化物語 (Bakemonogatari)
     "さぁ/SURFACE",                                     // 守護月天！ (Mamotte Shugogetten!)
     "HEART OF SWORD ～夜明け前～/T.M.Revolution",       // 神劍闖江湖 -明治劍客浪漫譚- (Rurouni Kenshin)
+    "HOT LIMIT/T.M.Revolution",                        //ReLIFE第二集片尾曲
     "resonance/T.M.Revolution",                         // SOUL EATER 噬魂者
     "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS", // 偶像大師 灰姑娘女孩 (The Idolmaster Cinderella Girls) - 遊戲/動畫
     "One day/The ROOTLESS",                             // ONE PIECE 航海王
