@@ -589,10 +589,11 @@ const songStreamLinks = {
     { },
   ],
   "FOR REAL/徳山秀典": [
-    { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2008},
-    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3408 },
-    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 5919 },
-    { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11656},
+     { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2008},
+     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3408 },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 5919 },
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
   ],
   "曖昧劣情Lover/電ポルP": [
     { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
