@@ -3905,6 +3905,18 @@ const songStreamLinks = {
   ],
   "かさなる影/Hearts Grow": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5259},
+     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 4938},
+     { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 3586},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 7404},
+     { date: "2024年4月3日", videoId: "VOf65PJXV-0", timestamp: 9145},
+     { date: "2024年3月18日", videoId: "8O2fID25Clk", timestamp: 1483},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 11726},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 11755},
+     { date: "2023年12月2日", videoId: "lCDIB1wiC7U", timestamp: 8748},
+     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 8305},
+     { date: "2023年6月20日", videoId: "_hYbSPBR1v4", timestamp: 5475},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6867},
   ],
   "Fire◎Flower/halyosy": [
     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
