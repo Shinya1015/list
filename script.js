@@ -3934,8 +3934,26 @@ const songStreamLinks = {
   ],
   "clover/hiro": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7728},
-
-     
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 14249},
+     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 1162},
+     { date: "2024年9月21日", videoId: "60HDMkyPOIc", timestamp: 2198},
+     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 6894},
+     { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 5157},
+     { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 7611},
+     { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 6373},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 10908},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 7492},
+     { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 1278},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 4126},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 3505},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 5551},
+     { date: "2024年3月7日", videoId: "5pByTBS_Arc", timestamp: 8190},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8148},
+     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 8903},
+     { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 13580},
+     { date: "2023年10月13日", videoId: "YwhvzxTlELM", timestamp: 6515},
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 10254},
+     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 9523},
   ],
   "かさなる影/Hearts Grow": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
@@ -6428,6 +6446,7 @@ const animeSongs = [
     "サタデー・ナイト・クエスチョン/中島愛",              //ネト充のススメ
     "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
     "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
+    "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
 ];
     
 
