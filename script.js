@@ -1509,7 +1509,7 @@ const songStreamLinks = {
   ],
   "打上花火/米津玄師": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1038},
-     { date: "2025年4月2日-しゃいる/氷々樹ノルン", videoId: "5ktwWXMXY_Q", timestamp: 2374},
+     { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 2374},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 10236},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 8000},
      { date: "2025年3月8日", videoId: "nGz0rPlZpIY", timestamp: 2675},
@@ -3337,7 +3337,18 @@ const songStreamLinks = {
     { },
   ],
   "シル・ヴ・プレジデント/P丸様。": [
-    { },
+     { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 3456},
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 5758},
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 1094},
+     { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 3073},
+     { date: "2024年6月21日", videoId: "hyeKYMlZkDg", timestamp: 6927},
+     { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 1671},
+     { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2390},
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3082},
+     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 3884},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 803},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 24069},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 6963},
   ],
   "衝動/pigstar": [
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
