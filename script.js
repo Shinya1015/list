@@ -3888,7 +3888,10 @@ const songStreamLinks = {
     { },
   ],
   "Best Friend/Kiroro": [
-    { },
+     { date: "2024年7月10日(一番のみ)", videoId: "YM1cJZPZAfg", timestamp: 6221},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 4117},
+     { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 3871},
+     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 1351},
   ],
   "OVERLAP/Kimeru": [
     { },
@@ -6556,6 +6559,7 @@ const animeSongs = [
     "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
     "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
     "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
+    "Best Friend/Kiroro",
 ];
     
 
