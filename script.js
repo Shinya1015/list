@@ -3903,7 +3903,11 @@ const songStreamLinks = {
     { },
   ],
   "sister's noise/fripSide": [
-    { },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2549},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10594},
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 1666},
+     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 2363},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 2424},
   ],
   "only my railgun/fripSide": [
     { },
