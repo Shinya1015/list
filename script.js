@@ -147,10 +147,11 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
-    { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 3135},
-    { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3191 },
-    { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5366 },
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 15991 }, 
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 7789},     
+     { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 3135},
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3191 },
+     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5366 },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 15991 }, 
   ],
   "弱虫な炎/DIRTY OLD MEN": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6758 },
