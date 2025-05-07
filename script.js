@@ -5584,6 +5584,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "ヒトミノチカラ/観月ありさ",
     "そして僕にできるコト/day after tomorrow",
     "I Really Like You/Carly Rae Jepsen",
     "CONFUSED MEMORIES/円谷憂子",
@@ -6243,6 +6244,7 @@ const animeSongs = [
     "Seven Deadly Sins/MAN WITH A MISSION",           //七大罪第一季第13至24集的開場主題曲
     "おしえて A to Z/田村ゆかり",                        //魔法少女リリカルなのは
     "サタデー・ナイト・クエスチョン/中島愛",              //ネト充のススメ
+    "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
 ];
     
 
