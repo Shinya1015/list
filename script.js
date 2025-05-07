@@ -87,11 +87,12 @@ const songStreamLinks = {
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
-      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6279 },
-      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4503 },
-      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2961 },
-      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4327 },
-      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 10686},
+     { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6279 },
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4503 },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2961 },
+     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4327 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
   "Sunshine/MONKEY MAJIK": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3027},
