@@ -80,11 +80,12 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
-      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6474 },
-      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 9216},
-      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3167 },
-      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2445 },
-      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11042},
+     { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6474 },
+     { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 9216},
+     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3167 },
+     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2445 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 10686},
