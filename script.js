@@ -2736,7 +2736,17 @@ const songStreamLinks = {
     { },
   ],
   "JOY/YUKI": [
-    { },
+     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 9717},
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 4971},
+     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 1741},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 6252},
+     { date: "2024年5月15日", videoId: "vT_Yz97tlnc", timestamp: 3818},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 9012},
+     { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 12278},
+     { date: "2024年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 1374},
+     { date: "2024年4月15日", videoId: "FaSdCukc29U", timestamp: 12801},
+     { date: "2024年3月4日", videoId: "STcegm8gGbQ", timestamp: 9934},
+     { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
     { },
