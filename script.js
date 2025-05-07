@@ -4163,7 +4163,7 @@ const songStreamLinks = {
      { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
   "careless breath/EXILE": [
-     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6292},
+     { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7273},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5232},
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 2985},
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 7145},
