@@ -707,10 +707,26 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
-      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
-
-
-      
+     { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
+     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 5811},
+     { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 2576},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 11850},
+     { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 5220},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 14869},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 3369},
+     { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 5765},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 15672},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 750},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 11837},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 18051},
+     { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 2414},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 12463},
+     { date: "2024年1月28日", videoId: "AhrllzwjcXo", timestamp: 7816},
+     { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 8019},
+     { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 2803},
+     { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 9993},
+     { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 7853},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26256},
   ],
   "恋はスリル、ショック、サスペンス/愛内里菜": [
     { },
