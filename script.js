@@ -3517,7 +3517,10 @@ const songStreamLinks = {
        { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
-    { },
+     { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 6181},
+     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4555},
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14129},
+     { date: "2023年11月17日(冒頭アカペラ＆一番のみ)", videoId: "h27RoddZtRQ", timestamp: 5264},
   ],
   "気分上々↑↑/mihimaru GT": [
     { },
