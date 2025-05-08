@@ -4488,9 +4488,6 @@ const songStreamLinks = {
   "ハッピーシンセサイザ/Easy Pop": [
     { },
   ],
-  "ようかい体操第一/Dream5": [
-    { },
-  ],
   "Get Over/dream": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6522},
       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5301},
@@ -6377,7 +6374,6 @@ const animeSongs = [
     "nexus/ClariS",                                     // 我的妹妹哪有這麼可愛！ (Oreimo) - 遊戲版主題曲等
     "voice/CLOUD",                                      // 遊☆戲☆王 怪獸之決鬥 (Yu-Gi-Oh! Duel Monsters)
     "EQUALロマンス/CoCo",                              // 亂馬1/2 (Ranma 1/2) - 偶像團體CoCo演唱版
-    "ようかい体操第一/Dream5",                         // 妖怪手錶 (Yo-kai Watch)
     "名前のない怪物/EGOIST",                           // PSYCHO-PASS 心靈判官 (Psycho-Pass)
     "虹を編めたら/fhana",                              // 春&夏事件簿 (Haruchika)
     "青空のラプソディ/fhána",                          // 小林家的龍女僕 (Miss Kobayashi's Dragon Maid)
@@ -7260,8 +7256,7 @@ const streamerSongList = [
     "モノクロアクト/doriko",
     "ロミオとシンデレラ/doriko",
     "歌に形はないけれど/doriko",
-    "Get Over/dream",
-    "ようかい体操第一/Dream5",                         
+    "Get Over/dream",                        
     "ハッピーシンセサイザ/Easy Pop",
     "名前のない怪物/EGOIST",                          
     "路地裏猫の正体/GUMI",
