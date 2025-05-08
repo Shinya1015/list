@@ -4381,7 +4381,13 @@ const songStreamLinks = {
     { },
   ],
   "LEVEL5 -judgelight-/fripSide": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10882},
+     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 2067},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 6585},
+     { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 2245},
+     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 3633},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 4421},
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 8604},
   ],
   "sister's noise/fripSide": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2549},
