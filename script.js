@@ -4509,7 +4509,8 @@ const songStreamLinks = {
     { },
   ],
   "モノクロアクト/doriko": [
-    { },
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11024},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
   "TAO/Do As Infinity": [
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 8172 },
