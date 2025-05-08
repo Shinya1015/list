@@ -4455,8 +4455,9 @@ const songStreamLinks = {
   "KISS ME BABY!!!/ELEGUMI TOKYO": [
     { },
   ],
-  "路地裏猫の正体/GUMI": [
-    { },
+  "路地裏猫の正体/西沢さんP": [
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
+     { date: "2023年3月4日", videoId: "", timestamp: 765},
   ],
   "名前のない怪物/EGOIST": [
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13109 },
@@ -7275,7 +7276,7 @@ const streamerSongList = [
     "Get Over/dream",                        
     "ハッピーシンセサイザ/Easy Pop",
     "名前のない怪物/EGOIST",                          
-    "路地裏猫の正体/GUMI",
+    "路地裏猫の正体/西沢さんP",
     "KISS ME BABY!!!/ELEGUMI TOKYO",
     "平行線/Eve × suis",
     "群青讃歌/Eve",
