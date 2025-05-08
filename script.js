@@ -6511,7 +6511,6 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
-    "Mysterious/Naifu",                                     //名探偵コナン第24首片頭主題曲
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
@@ -7474,6 +7473,7 @@ const streamerSongList = [
     "LEVEL5 -judgelight-/fripSide",                    
     "夏空/Galileo Galilei",
     "Myself/VALSHE",
+    "Mysterious/Naifu",
     "Mysterious Eyes/GARNET CROW",                      
     "君という光/GARNET CROW",                          
     "夏の幻/GARNET CROW",                              
