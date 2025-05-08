@@ -4506,7 +4506,9 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 5987 },
   ],
   "ロミオとシンデレラ/doriko": [
-    { },
+     { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 7800},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 5903},
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1408},
   ],
   "モノクロアクト/doriko": [
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11024},
