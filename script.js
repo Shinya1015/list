@@ -2471,7 +2471,7 @@ const songStreamLinks = {
      { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 4384},
      { date: "2023年9月14日", videoId: "E4QoAJ7LPow", timestamp: 3864},
      { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 19712},
-     { date: "2023年8月9日", videoId: "bNPIz_XxNxU", timestamp: 2238},
+     { date: "2023年8月9日-piano ver", videoId: "bNPIz_XxNxU", timestamp: 2238},
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 12789},
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 8974},
      { date: "2023年7月9日-piano ver", videoId: "KdXS-tAeEvQ", timestamp: 1920},
