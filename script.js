@@ -4375,7 +4375,11 @@ const songStreamLinks = {
     { },
   ],
   "Myself/VALSHE": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 9135},
+     { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 1239},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 3522},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 17167},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14047},
   ],
   "夏空/Galileo Galilei": [
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2715},
