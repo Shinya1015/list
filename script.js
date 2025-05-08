@@ -6039,6 +6039,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "ハッピーシンセサイザ/Easy Pop",
    "ヒトミノチカラ/観月ありさ",
     "そして僕にできるコト/day after tomorrow",
     "I Really Like You/Carly Rae Jepsen",
