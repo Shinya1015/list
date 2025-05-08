@@ -6579,7 +6579,8 @@ const animeSongs = [
     "only my railgun/fripSide",                         // 科學超電磁砲 (A Certain Scientific Railgun)
     "sister's noise/fripSide",                          // 科學超電磁砲S (A Certain Scientific Railgun S)
     "LEVEL5 -judgelight-/fripSide",                     // 科學超電磁砲 (A Certain Scientific Railgun)
-    "Mysterious Eyes/GARNET CROW",                      // 名偵探柯南 (Detective Conan)
+    "Mysterious/Naifu",                                 // 名偵探柯南 (Detective Conan)
+    "Mysterious Eyes/GARNET CROW",                      
     "君という光/GARNET CROW",                          // 名偵探柯南 (Detective Conan)
     "夏の幻/GARNET CROW",                              // 名偵探柯南 (Detective Conan)
     "涙のイエスタデー/GARNET CROW",                    // 名偵探柯南 (Detective Conan)
