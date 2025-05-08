@@ -4378,7 +4378,16 @@ const songStreamLinks = {
     { },
   ],
   "夏空/Galileo Galilei": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2715},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 1563},
+     { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 6430},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 6519},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5120},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 10939},
+     { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3602},
+     { date: "2023年6月20日", videoId: "_hYbSPBR1v4", timestamp: 3887},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 9048},
+     { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 3991},
   ],
   "LEVEL5 -judgelight-/fripSide": [
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10882},
