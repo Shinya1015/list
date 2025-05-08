@@ -4372,7 +4372,12 @@ const songStreamLinks = {
     { },
   ],
   "Mysterious/Naifu": [
-     
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7879},
+     { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 4342},
+     { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 3002},
+     { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 4935},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14407},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10288},
