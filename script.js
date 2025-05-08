@@ -4412,7 +4412,8 @@ const songStreamLinks = {
     { },
   ],
   "青空のラプソディ/fhána": [
-    { },
+     { date: "2024年12月31日", videoId: "Hn3uau1HE0o", timestamp: 2089},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 9950},
   ],
   "虹を編めたら/fhana": [
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 18377 },
