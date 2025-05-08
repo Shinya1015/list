@@ -4369,7 +4369,26 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 8705},
   ],
   "君という光/GARNET CROW": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8213},
+     { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 11216},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13993},
+     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 2073},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 10718},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 8486},
+     { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 4969},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 7213},
+     { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 1729},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 3777},
+     { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 1170},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 21078},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 3808},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 19276},
+     { date: "2024年4月3日", videoId: "VOf65PJXV-0", timestamp: 6068},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 10764},
+     { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 12276},
+     { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 4522},
+     { date: "2024年2月26日", videoId: "pjRxjZz-Cq0", timestamp: 2868},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 3244},
   ],
   "Mysterious/Naifu": [
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7879},
@@ -6306,6 +6325,7 @@ const lowPitchSongs = [
     "ちいさな日々/flumpool",                                          // 男聲
     "夏空/Galileo Galilei",                                           // 男聲，搖滾
     "Myself/VALSHE",                                                  // 女聲，以中性、偏低的少年音著稱
+    "Mysterious/Naifu",
     "Mysterious Eyes/GARNET CROW",                                    // 女聲 (中村由利)，以獨特的中低音著稱
     "君という光/GARNET CROW",                                         // 女聲，中低音
     "夏の幻/GARNET CROW",                                             // 女聲，中低音
