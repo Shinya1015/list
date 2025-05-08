@@ -4457,7 +4457,7 @@ const songStreamLinks = {
   ],
   "路地裏猫の正体/西沢さんP": [
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
-     { date: "2023年3月4日", videoId: "", timestamp: 765},
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1947},
   ],
   "名前のない怪物/EGOIST": [
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13109 },
