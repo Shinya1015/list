@@ -4447,10 +4447,28 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 7027},
   ],
   "群青讃歌/Eve": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 4565},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 14241},
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4854},
   ],
   "平行線/Eve × suis": [
-    { },
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 10058},
+     { date: "2025年2月5日", videoId: "76sEx59ZSf8", timestamp: 4987},
+     { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4472},
+     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 3010},
+     { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 9719},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 16109},
+     { date: "2024年11月16日", videoId: "toBPQ1vBNqs", timestamp: 989},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 5698},
+     { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 486},
+     { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 8526},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 3699},
+     { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 16698},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 7650},
+     { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 3282},
+     { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5987},
+     { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 8999},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 9844},
   ],
   "KISS ME BABY!!!/ELEGUMI TOKYO": [
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 847},
@@ -6042,6 +6060,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "KISS ME BABY!!!/ELEGUMI TOKYO",
    "ハッピーシンセサイザ/Easy Pop",
    "ヒトミノチカラ/観月ありさ",
     "そして僕にできるコト/day after tomorrow",
@@ -6121,7 +6140,6 @@ const lowPitchSongs = [
     "探し物/DIRTY OLD MEN",                                           // 男聲搖滾樂團
     "弱虫な炎/DIRTY OLD MEN",                                         // 男聲搖滾樂團
     "平行線/Eve × suis",                                             // 男聲(Eve) + 女聲(suis) 合唱，包含男聲部分
-    "群青讃歌/Eve",                                                   // 男聲 (Utaite/歌手)
     "careless breath/EXILE",                                          // 男聲團體，R&B/流行，包含低音部分
     "DAN DAN 心魅かれてく/FIELD OF VIEW",                             // 男聲，搖滾
     "渇いた叫び/FIELD OF VIEW",                                       // 男聲，搖滾
