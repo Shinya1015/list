@@ -4409,7 +4409,11 @@ const songStreamLinks = {
     { },
   ],
   "星に願いを/flumpool": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 9449},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13896},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 1217},
+     { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 7750},
+     { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 1414},
   ],
   "Answer/FLOW": [
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 3341},
