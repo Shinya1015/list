@@ -4371,8 +4371,43 @@ const songStreamLinks = {
   "君という光/GARNET CROW": [
     { },
   ],
+  "Mysterious/Naifu": [
+     
+  ],
   "Mysterious Eyes/GARNET CROW": [
-    { },
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10288},
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 7075},
+     { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 3356},
+     { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 10928},
+     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 5393},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 11400},
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 637},
+     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 2820},
+     { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 893},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 3208},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 10287},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 9960},
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 11206},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 4135},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 615},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 4558},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 5361},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 8319},
+     { date: "2024年5月15日", videoId: "zJSlMu5wgdg", timestamp: 6079},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 2222},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 20576},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 12348},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 14521},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 19598},
+     { date: "2024年3月18日", videoId: "8O2fID25Clk", timestamp: 2697},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 5279},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 6288},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 11204},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 13143},
+     { date: "2023年12月16日", videoId: "_8AG30JS1IY", timestamp: 2613},
+     { date: "2023年11月12日", videoId: "EUa_YVeNuvs", timestamp: 9950},
+     { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 1524},
+     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 4754},
   ],
   "Myself/VALSHE": [
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 9135},
@@ -6471,7 +6506,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
-    
+    "Mysterious/Naifu",                                     //名探偵コナン第24首片頭主題曲
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
