@@ -4394,7 +4394,8 @@ const songStreamLinks = {
     { },
   ],
   "SAKURAスキップ/fourfolium": [
-    { },
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 6465},
+     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 8033},
   ],
   "Believe/Folder5": [
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6120},
