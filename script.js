@@ -4295,7 +4295,7 @@ const songStreamLinks = {
   "極楽浄土/GARNiDELiA": [
     { },
   ],
-  "君の思い描いた夢 集Xル HEAVEN／GARNET CROW": [
+  "君の思い描いた夢 集Xル HEAVEN/GARNET CROW": [
     { },
   ],
   "涙のイエスタデー/GARNET CROW": [
@@ -6330,7 +6330,7 @@ const lowPitchSongs = [
     "君という光/GARNET CROW",                                         // 女聲，中低音
     "夏の幻/GARNET CROW",                                             // 女聲，中低音
     "涙のイエスタデー/GARNET CROW",                                   // 女聲，中低音
-    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",                       // 女聲，中低音
+    "君の思い描いた夢 集Xル HEAVEN/GARNET CROW",                       // 女聲，中低音
     "あいうえおんがく/GReeeeN",                                       // 男聲團體，中音域
     "キセキ/GReeeeN",                                                 // 男聲團體
     "奇跡/GReeeeN",                                                   // 男聲團體 (應與キセキ相同)
@@ -6603,7 +6603,7 @@ const animeSongs = [
     "君という光/GARNET CROW",                          // 名偵探柯南 (Detective Conan)
     "夏の幻/GARNET CROW",                              // 名偵探柯南 (Detective Conan)
     "涙のイエスタデー/GARNET CROW",                    // 名偵探柯南 (Detective Conan)
-    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",      // MÄR 魔兵傳奇 (MÄR)
+    "君の思い描いた夢 集Xル HEAVEN/GARNET CROW",      // MÄR 魔兵傳奇 (MÄR)
     "Alchemy/Girls Dead Monster",                       // Angel Beats! - 插入曲
     "Crow Song/Girls Dead Monster ",                    // Angel Beats! - 插入曲
     "# あくあ色ぱれっと/湊あくあ",                      // Hololive關聯歌曲 (VTuber) - 很可能非動畫合作曲
@@ -7498,7 +7498,7 @@ const streamerSongList = [
     "君という光/GARNET CROW",                          
     "夏の幻/GARNET CROW",                              
     "涙のイエスタデー/GARNET CROW",                    
-    "君の思い描いた夢 集Xル HEAVEN／GARNET CROW",      
+    "君の思い描いた夢 集Xル HEAVEN/GARNET CROW",      
     "極楽浄土/GARNiDELiA",
     "偶然の確率/girl next door",
     "Alchemy/Girls Dead Monster",                       // Angel Beats! - 插入曲
