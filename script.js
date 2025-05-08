@@ -4453,7 +4453,9 @@ const songStreamLinks = {
     { },
   ],
   "KISS ME BABY!!!/ELEGUMI TOKYO": [
-    { },
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 847},
+     { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2187},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 5191},
   ],
   "路地裏猫の正体/西沢さんP": [
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
