@@ -376,7 +376,14 @@ const songStreamLinks = {
     { },
   ],
   "一斉の声/喜多修平": [
-    { },
+     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 805},
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 16808},
+     { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 3328},
+     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 9381},
+     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 3503},
+     { date: "2024年8月14日", videoId: "iTnqYhtm6OQ", timestamp: 4832},
+     { date: "2024年5月3日", videoId: "LxLcU7IywuI", timestamp: 4070},
+     { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
   "ニブンノイチ/BACK-ON": [
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 2308 },
