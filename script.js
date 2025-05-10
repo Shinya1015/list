@@ -4122,7 +4122,8 @@ const songStreamLinks = {
     { },
   ],
   "シルエット/KANA-BOON": [
-    { },
+     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 1628},
+     
   ],
   "ポップンガール@コミュニケーション/Junky": [
     { },
