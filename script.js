@@ -2566,7 +2566,8 @@ const songStreamLinks = {
        { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 9789 },
        { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7083 },
   ],
-  "ゴールデンタイムラバー/スキマスイッチ": [
+   "ゴールデンタイムラバー/スキマスイッチ": [
+      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2532},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5920 },
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5984 },
       { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 7436 },
