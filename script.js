@@ -1917,7 +1917,20 @@ const songStreamLinks = {
   ],
   "空色デイズ/中川翔子": [
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 4728},
-     
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3325},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10878},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 425},
+     { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 3351},
+     { date: "2024年1月12日", videoId: "c5lqCzfIh10", timestamp: 913},
+     { date: "2023年10月29日", videoId: "vqBUMEuRee4", timestamp: 7667},
+     { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 542},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 1807},
+     { date: "2023年6月24日", videoId: "NSDbgOVoe-I", timestamp: 9807},
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 3126},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 1324},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 1871},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 1040},
+     { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 5102},
   ],
   "Oh My Darlin'/中ノ森BAND": [
    { },
