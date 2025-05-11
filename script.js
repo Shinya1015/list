@@ -3779,7 +3779,11 @@ const songStreamLinks = {
      
   ],
   "リアルワールド/nano.RIPE": [
-    { },
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12718},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 7412},
+     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8632},
+     { date: "2024年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26993},
+     { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
   "STYX HELIX/MYTH & ROID ": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5102},
