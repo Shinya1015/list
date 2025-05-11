@@ -385,9 +385,22 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 8607},
      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},   
   ],
-  "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)": [
-    { },
-  ],
+  "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13651},
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2340},
+     { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5501},
+     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 2039},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 5217},
+     { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 3394},
+     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 7572},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 7086},
+     { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 10395},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 4404},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 18408},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 853},
+     { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2237},
+     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
+],
   "一斉の声/喜多修平": [
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 805},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 16808},
@@ -7010,7 +7023,7 @@ const animeSongs = [
     "道標/橘慶太",                                      // 家庭教師HITMAN REBORN! (Reborn!)
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
-    "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
+    "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "小さきもの/林明日香",                              // 精靈寶可夢劇場版：七夜的許願星 基拉祈 (Pokémon: Jirachi—Wish Maker) - 電影
     "Drawing days/SPLAY",                               // 家庭教師HITMAN REBORN! (Reborn!)
     "心絵/ロードオブメジャー",                          // MAJOR 棒球大聯盟
@@ -8204,7 +8217,7 @@ const streamerSongList = [
     "*～アスタリスク～/オレンジレンジ",
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
-    "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
+    "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "曲名はまだないです/Aogumo",
     "White Love/SPEED",
     "小さきもの/林明日香",                              // 精靈寶可夢劇場版：七夜的許願星 基拉祈 (Pokémon: Jirachi—Wish Maker) - 電影
