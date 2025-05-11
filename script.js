@@ -12,6 +12,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
    "サタデー・ナイト・クエスチョン/中島愛": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11436},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2233},
       ],
    "おしえて A to Z/田村ゆかり": [
