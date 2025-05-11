@@ -4012,7 +4012,7 @@ const songStreamLinks = {
     { },
   ],
   "あの日タイムマシン/LONG SHOT PARTY ": [
-    { },
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
   ],
   "悲しみをやさしさに/little by little": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3193 },
