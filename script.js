@@ -1,6 +1,10 @@
 
 const songStreamLinks = {
-
+   "フィクション/sumika": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2517},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2261},
+      { date: "2025年8月4日", videoId: "JbRbXDESJOs", timestamp: 2885},
+      ],
    "Little Busters/Rita": [
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13854},
       ],
@@ -8247,4 +8251,5 @@ const streamerSongList = [
     "サタデー・ナイト・クエスチョン/中島愛",
     "flyaway/BACK-ON",
     "Little Busters/Rita",
+    "フィクション/sumika",
 ];
