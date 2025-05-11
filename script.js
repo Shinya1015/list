@@ -82,7 +82,7 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3174 },
   ],
   "夢のような/佐伯ユウス": [
-     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 10541},
+     { date: "2025年5月10日(一番のみ)", videoId: "Fxvnbk3viFA", timestamp: 10541},
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
