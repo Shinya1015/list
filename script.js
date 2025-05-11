@@ -454,7 +454,8 @@ const songStreamLinks = {
   "マル・マル・モリ・モリ!/薫と友樹、たまにムック。": [
     { },
   ],
-  "ベテルギウス/優里": [
+ "ベテルギウス/優里": [
+    { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 5399},
     { date: "2025年3月18日-piano ver", videoId: "oXcvvDAPpEU", timestamp: 7394 },
     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 3892 },
     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 6391 },
@@ -6553,6 +6554,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
+    "ちいさな日々/flumpool",                                 //かくしごと片頭主題曲
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
     "ロックマンのテーマ～風を突き抜けて～/橋本仁",             //《洛克人EXE》片頭主題曲
