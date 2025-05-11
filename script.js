@@ -2407,7 +2407,17 @@ const songStreamLinks = {
     { },
   ],
   "ナイテタッテ/ナオト・インティライミ": [
-    { },
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1947},
+     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1490},
+     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 6907},
+     { date: "2024年7月21日", videoId: "8srFrHvleKw", timestamp: 687},
+     { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 2270},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 880},
+     { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 3060},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 5632},
+     { date: "2024年5月3日", videoId: "LxLcU7IywuI", timestamp: 6411},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 1013},
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
     { },
