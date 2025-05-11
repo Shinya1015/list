@@ -3162,7 +3162,8 @@ const songStreamLinks = {
       { date: "2023年6月29日(一番アカペラ)", videoId: "2KydWEbyldU", timestamp: 3726},
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
-  "Get Wild/TM NETWORK": [
+  　"Get Wild/TM NETWORK": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2795},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8882},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 10826},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 9468},
