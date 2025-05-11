@@ -140,7 +140,8 @@ const songStreamLinks = {
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4042},
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
-  "サヨナラの空/Qwai": [
+ 　 "サヨナラの空/Qwai": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4185},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8164},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5143 },
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3759 },
