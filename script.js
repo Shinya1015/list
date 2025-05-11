@@ -4447,6 +4447,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9324},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 16038},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10602},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 7836},
