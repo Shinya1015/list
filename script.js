@@ -3880,7 +3880,8 @@ const songStreamLinks = {
   "ケセラセラ/Mrs. GREEN APPLE": [
     { },
   ],
-  "インフェルノ/Mrs. GREEN APPLE": [
+  　"インフェルノ/Mrs. GREEN APPLE": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6670},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8450},
       { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 1320},
       { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 6590},
