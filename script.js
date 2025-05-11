@@ -2415,6 +2415,7 @@ const songStreamLinks = {
     { },
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 993},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7006},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 446},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2987},
