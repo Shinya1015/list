@@ -4517,6 +4517,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 8705},
   ],
   "君という光/GARNET CROW": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 8983},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8213},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 11216},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13993},
