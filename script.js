@@ -2735,6 +2735,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5441},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3328},
 
      
