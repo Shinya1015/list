@@ -2011,7 +2011,8 @@ const songStreamLinks = {
   "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)": [
     { },
   ],
-  "リテラチュア/上田麗奈": [
+   "リテラチュア/上田麗奈": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11738},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10808},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 23418},
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 10634},
