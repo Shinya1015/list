@@ -5365,7 +5365,8 @@ const songStreamLinks = {
      { date: "2023年2月13日-piano ver", videoId: "WDaTU01Humc", timestamp: 2524 },
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2075 },
   ],
-  "月虹/BUMP OF CHICKEN": [
+ "月虹/BUMP OF CHICKEN": [
+    { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5417 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10172 },
     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8756 },
