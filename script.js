@@ -4437,6 +4437,7 @@ const songStreamLinks = {
     { },
   ],
   "君の思い描いた夢 集Xル HEAVEN/GARNET CROW": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9663},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2812},
      { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 3474},
      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 4333},
