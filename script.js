@@ -3769,7 +3769,8 @@ const songStreamLinks = {
     { },
   ],
   "なないろびより/Nano.RIPE": [
-  { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12945},
+     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
   ],
    "こだまことだま/nano.RIPE": [
     { },
