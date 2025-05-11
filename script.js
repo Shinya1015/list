@@ -1013,6 +1013,7 @@ const songStreamLinks = {
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3060 },
   ],
   "青空のナミダ/高橋瞳": [
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3881},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9983},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3376},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 11857},
