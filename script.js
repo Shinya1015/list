@@ -6669,6 +6669,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
+    "フィクション/sumika",                                    //ヲタクに恋は難しい op
     "ちいさな日々/flumpool",                                 //かくしごと片頭主題曲
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
     "斜陽/ヨルシカ",                                         //僕の心のヤバイやつ）的第一季片頭主題曲
