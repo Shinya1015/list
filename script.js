@@ -2906,7 +2906,8 @@ const songStreamLinks = {
     { },
   ],
   "again/YUI": [
-    { },
+     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 3278},
+     
   ],
   "UNDEAD/YOASOBI": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7585 },
