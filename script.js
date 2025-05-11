@@ -2625,7 +2625,8 @@ const songStreamLinks = {
   "めいど・うぃず・どらごんず/スーパーちょろゴンず": [
     { },
   ],
-  "はじまりの日/スガシカオ": [
+  　"はじまりの日/スガシカオ": [
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3111},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2832},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3539},
       { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 3016},
