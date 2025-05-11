@@ -5846,7 +5846,8 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 7808 },
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
-"さよならごっこ/amazarashi": [ 
+  "さよならごっこ/amazarashi": [ 
+     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 10696},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2662 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 1506 },
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1507 },
