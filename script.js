@@ -1907,7 +1907,8 @@ const songStreamLinks = {
     { },
   ],
   "空色デイズ/中川翔子": [
-    {  },
+     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 4728},
+     
   ],
   "Oh My Darlin'/中ノ森BAND": [
    { },
