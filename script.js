@@ -385,7 +385,7 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 8607},
      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},   
   ],
-  "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠": [
+  "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)": [
     { },
   ],
   "一斉の声/喜多修平": [
@@ -3773,7 +3773,8 @@ const songStreamLinks = {
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
   ],
    "こだまことだま/nano.RIPE": [
-    { },
+      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13245},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12361},
@@ -7009,7 +7010,7 @@ const animeSongs = [
     "道標/橘慶太",                                      // 家庭教師HITMAN REBORN! (Reborn!)
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
-    "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
+    "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "小さきもの/林明日香",                              // 精靈寶可夢劇場版：七夜的許願星 基拉祈 (Pokémon: Jirachi—Wish Maker) - 電影
     "Drawing days/SPLAY",                               // 家庭教師HITMAN REBORN! (Reborn!)
     "心絵/ロードオブメジャー",                          // MAJOR 棒球大聯盟
@@ -8203,7 +8204,7 @@ const streamerSongList = [
     "*～アスタリスク～/オレンジレンジ",
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
-    "おかえり/宮内れんげ・一条蛍・越谷夏海・越谷小鞠",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
+    "おかえり/宮内れんげ(小岩井ことり)、一条蛍(村川梨衣)、越谷夏海(佐倉綾音)、越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "曲名はまだないです/Aogumo",
     "White Love/SPEED",
     "小さきもの/林明日香",                              // 精靈寶可夢劇場版：七夜的許願星 基拉祈 (Pokémon: Jirachi—Wish Maker) - 電影
