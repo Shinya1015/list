@@ -4155,7 +4155,7 @@ const songStreamLinks = {
   "けーたいみしてよ/MAISONdes": [
     { },
   ],
-  "あの日タイムマシン/LONG SHOT PARTY ": [
+  "あの日タイムマシン/LONG SHOT PARTY": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
   ],
   "悲しみをやさしさに/little by little": [
@@ -6649,7 +6649,7 @@ const lowPitchSongs = [
     "OVERLAP/Kimeru",                                                 // 男聲
     "アウト オブ エデン/Kouhei",                                      // 推測為翻唱K's Sound Project的男歌手
     "紅蓮の弓矢/Linked Horizon",                                      // 男聲 (Revo)，史詩搖滾
-    "あの日タイムマシン/LONG SHOT PARTY ",                             // 男聲，Ska/搖滾
+    "あの日タイムマシン/LONG SHOT PARTY",                             // 男聲，Ska/搖滾
     "トウキョウ・シャンディ・ランデヴ/MAISONdes",                       // 女聲 (Kafu) + 男聲 (Tsumiki)，包含男聲
     "絆ノ奇跡/MAN WITH A MISSION × milet",                           // 男聲搖滾 (MWAM) + 低音女聲 (milet)
     "気分上々↑↑/mihimaru GT",                                         // 女聲為主，但有男聲Rap部分 (miyake)
@@ -6931,7 +6931,7 @@ const animeSongs = [
     "紅蓮華/LiSA",                                      // 鬼滅之刃 (Demon Slayer: Kimetsu no Yaiba)
     "紅蓮の弓矢/Linked Horizon",                       // 進擊的巨人 (Attack on Titan)
     "悲しみをやさしさに/little by little",              // 火影忍者 (Naruto)
-    "あの日タイムマシン/LONG SHOT PARTY ",              // 夏目友人帳 續 (Natsume Yujin-cho Shi)
+    "あの日タイムマシン/LONG SHOT PARTY",              // 夏目友人帳 續 (Natsume Yujin-cho Shi)
     "絆ノ奇跡/MAN WITH A MISSION × milet",              // 鬼滅之刃 刀匠村篇 (Demon Slayer: Swordsmith Village Arc)
     "ライオン/May'n/中島愛",                           // 超時空要塞F (Macross Frontier)
     "ファンサ/mona(CV:夏川椎菜)",                        // 女主角育成計劃！～被討厭的女主角和秘密的工作～ (Heroines Run the Show) - 插入曲
@@ -7867,7 +7867,7 @@ const streamerSongList = [
     "紅蓮華/LiSA",                                      // 鬼滅之刃 (Demon Slayer: Kimetsu no Yaiba)
     "紅蓮の弓矢/Linked Horizon",                       // 進擊的巨人 (Attack on Titan)
     "悲しみをやさしさに/little by little",              // 火影忍者 (Naruto)
-    "あの日タイムマシン/LONG SHOT PARTY ",              // 夏目友人帳 續 (Natsume Yujin-cho Shi)
+    "あの日タイムマシン/LONG SHOT PARTY",              // 夏目友人帳 續 (Natsume Yujin-cho Shi)
     "けーたいみしてよ/MAISONdes",
     "トウキョウ・シャンディ・ランデヴ/MAISONdes",
     "絆ノ奇跡/MAN WITH A MISSION × milet",              // 鬼滅之刃 刀匠村篇 (Demon Slayer: Swordsmith Village Arc)
