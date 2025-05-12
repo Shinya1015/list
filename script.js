@@ -3299,7 +3299,7 @@ const songStreamLinks = {
       
   ],
   "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS": [
-     { date: "2024年12月31日", videoId: "WrpCj3w5QmY", timestamp: 894},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 894},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 12695},
   ],
   "We Are Never Ever Getting Back Together/Taylor Swift": [
