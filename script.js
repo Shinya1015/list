@@ -2808,8 +2808,34 @@ const songStreamLinks = {
   "シンデレラ/サイダーガール": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5441},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3328},
-
-     
+     { date: "2025年3月18日", videoId: "", timestamp: 730},
+     { date: "2025年2月5日", videoId: "", timestamp: 730},
+     { date: "2024年12月31日", videoId: "", timestamp: 730},
+     { date: "2024年11月30日", videoId: "", timestamp: 730},
+     { date: "2024年11月24日", videoId: "", timestamp: 730},
+     { date: "2024年10月15日", videoId: "", timestamp: 730},
+     { date: "2024年10月2日", videoId: "", timestamp: 765},
+     { date: "2024年8月17日", videoId: "", timestamp: 765},
+     { date: "2024年7月25日", videoId: "", timestamp: 765},
+     { date: "2024年6月9日", videoId: "", timestamp: 765},
+     { date: "2024年5月25日", videoId: "", timestamp: 765},
+     { date: "2024年4月22日", videoId: "", timestamp: 765},
+     { date: "2024年3月31日", videoId: "", timestamp: 765},
+     { date: "2024年3月17日", videoId: "", timestamp: 765},
+     { date: "2024年3月10日", videoId: "", timestamp: 765},
+     { date: "2023年12月17日", videoId: "", timestamp: 765},
+     { date: "2023年11月13日", videoId: "", timestamp: 765},
+     { date: "2023年11月12日", videoId: "", timestamp: 765},
+     { date: "2023年9月28日", videoId: "", timestamp: 765},
+     { date: "2023年8月30日", videoId: "", timestamp: 765},
+     { date: "2023年8月26日", videoId: "", timestamp: 765},
+     { date: "2023年8月16日", videoId: "", timestamp: 765},
+     { date: "2023年7月29日", videoId: "", timestamp: 765},
+     { date: "2023年7月20日", videoId: "", timestamp: 765},
+     { date: "2023年7月15日", videoId: "", timestamp: 765},
+     { date: "2023年6月16日", videoId: "", timestamp: 765},
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
+     { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 4515},
   ],
   "夜もすがら君想ふ/ころん": [
     { },
@@ -3276,7 +3302,8 @@ const songStreamLinks = {
       
   ],
   "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS": [
-    { },
+     { date: "2024年12月31日", videoId: "WrpCj3w5QmY", timestamp: 894},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 12695},
   ],
   "We Are Never Ever Getting Back Together/Taylor Swift": [
     { },
@@ -5004,6 +5031,9 @@ const songStreamLinks = {
   "探し物/DIRTY OLD MEN": [
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
+   "シンデレラ/DECO*27": [
+      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
+    ],
   "心壊サミット/DECO*27": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
       { date: "2025年4月1日(冒頭アカペラ)", videoId: "3qhlFZL3j_w", timestamp: 5717},
@@ -7722,6 +7752,7 @@ const streamerSongList = [
     "ペダルハート/DECO*27",
     "ゴーストルール/DECO*27",
     "心壊サミット/DECO*27",
+    "シンデレラ/DECO*27",
     "探し物/DIRTY OLD MEN",
     "Just Be Friends/Dixie Flatline",
     "夜鷹の夢/Do As Infinity",
