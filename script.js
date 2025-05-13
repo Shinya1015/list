@@ -3652,7 +3652,8 @@ const songStreamLinks = {
   "メグメル/riya": [
     { },
   ],
-  "ENDLESS STORY/REIRA starring YUNA ITO": [
+   "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1484},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10061},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 24872},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 2462},
