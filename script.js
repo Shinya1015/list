@@ -480,6 +480,7 @@ const songStreamLinks = {
     { },
   ],
  "ベテルギウス/優里": [
+    { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 566},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 5399},
     { date: "2025年3月18日-piano ver", videoId: "oXcvvDAPpEU", timestamp: 7394 },
     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 3892 },
