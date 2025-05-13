@@ -2619,6 +2619,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 3434},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2213},
      { date: "2025年3月23日-piano ver", videoId: "r4WSqrEyefI", timestamp: 8919},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 23693},
