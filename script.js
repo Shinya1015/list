@@ -148,7 +148,8 @@ const songStreamLinks = {
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 3759 },
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
-  "Reset/平原綾香": [
+   "Reset/平原綾香": [
+      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2501},
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3336 },
   ],
   "いーあるふぁんくらぶ/みきとP": [
@@ -2003,7 +2004,7 @@ const songStreamLinks = {
     { },
   ],
   "プラネタリウム/大塚愛": [
-    { },
+     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2179},
   ],
   "SMILY/大塚愛": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12265},
