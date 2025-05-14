@@ -354,7 +354,15 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 12077 },
   ],
   "愛包ダンスホール/HIMEHINA": [
-    { },
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4825},
+     { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2291},
+     { date: "2024年8月16日", videoId: "uk7DOs1B34I", timestamp: 1515},
+     { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 1413},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 8581},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 6269},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 6791},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 13337},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 10117},
   ],
   "心絵/ロードオブメジャー": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5048},
@@ -6783,6 +6791,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "忘れじの言の葉/安次嶺希和子",
    "KISS ME BABY!!!/ELEGUMI TOKYO",
    "ハッピーシンセサイザ/Easy Pop",
    "ヒトミノチカラ/観月ありさ",
