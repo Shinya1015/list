@@ -4800,7 +4800,13 @@ const songStreamLinks = {
     { },
   ],
   "Crow Song/Girls Dead Monster ": [
-   { },
+     { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 1279},
+     { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 907},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 4043},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 4262},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 1931},
+     { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 4876},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 14893},
   ],
   "Alchemy/Girls Dead Monster": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14231},
