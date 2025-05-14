@@ -2384,7 +2384,8 @@ const songStreamLinks = {
     { },
   ],
   "栄光の架橋/ゆず": [
-    { },
+     { date: "2023年2月13日(一番のみ)", videoId: "WDaTU01Humc", timestamp: 5267},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2207},
   ],
   "イロトリドリ/ゆず": [
     { },
