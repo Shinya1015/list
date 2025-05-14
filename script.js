@@ -1855,7 +1855,12 @@ const songStreamLinks = {
        { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 2989 },
   ],
   "灼け落ちない翼/多田葵 ": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9966},
+     { date: "2024年8月23日(一番のみ)", videoId: "zQ5VSScbMa8", timestamp: 9395},
+     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 10208},
+     { date: "2024年8月4日(一番のみ)", videoId: "JbRbXDESJOs", timestamp: 5067},
+     { date: "2023年6月1日(アカペラ)", videoId: "1I55fc-EfIM", timestamp: 8373},
+     { date: "2023年1月30日(メン限)", videoId: "AsWB22GQh10", timestamp: 9454},
   ],
   "勇気100%/光GENJI ": [
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 8077},
