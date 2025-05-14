@@ -1432,7 +1432,8 @@ const songStreamLinks = {
     { },
   ],
   "ふわふわ♪/牧野由依": [
-    { },
+     { date: "2023年10月13日", videoId: "YwhvzxTlELM", timestamp: 8394},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 13335},
   ],
   "おもかげ/林原めぐみ": [
     { },
