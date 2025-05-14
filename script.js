@@ -4433,7 +4433,7 @@ const songStreamLinks = {
        { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 7620},
   ],
   "Bravely You/Lia": [
-    { },
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7987},
   ],
   "My Soul, Your Beats!/Lia": [
     { },
