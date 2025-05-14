@@ -1846,7 +1846,7 @@ const songStreamLinks = {
     { },
   ],
   "勇気100%/光GENJI ": [
-    { },
+     { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 8077},
   ],
   "君はいなせなガール/石風呂": [
     { },
