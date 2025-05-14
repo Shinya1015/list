@@ -4800,7 +4800,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 12521},
   ],
   "Here I am/globe": [
-    { },
+     { date: "2023年2月28日", videoId: "fZtpLFMNs2s", timestamp: 11208},
   ],
   "Crow Song/Girls Dead Monster ": [
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 1279},
