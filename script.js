@@ -4794,7 +4794,10 @@ const songStreamLinks = {
     { },
   ],
   "# あくあ色ぱれっと/湊あくあ": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 6480},
+     { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 2129},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 5466},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 12521},
   ],
   "Here I am/globe": [
     { },
