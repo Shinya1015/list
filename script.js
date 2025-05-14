@@ -4005,7 +4005,16 @@ const songStreamLinks = {
     { },
   ],
   "以心電信/ORANGE RANGE": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19505},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 1757},
+     { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3494},
+     { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 1413},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 7206},
+     { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 1540},
+     { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2981},
+     { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 896},
+     { date: "2023年11月25日", videoId: "SaIZRCOjLjg", timestamp: 5667},
+     { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 2488},
   ],
   "What Makes You Beautiful/One Direction": [
     { },
