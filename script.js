@@ -339,7 +339,10 @@ const songStreamLinks = {
      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7172 },
   ],
   "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19767},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 13057},
+     { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 4584},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 21109},
   ],
   "わたしの一番かわいいところ/FRUITS ZIPPER": [
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 2463 },
