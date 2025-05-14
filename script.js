@@ -1808,7 +1808,17 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 19143 },
   ],
   "KICK BACK/米津玄師": [
-    { },
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7373},
+     { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 4519},
+     { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 5260},
+     { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 2722},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12896},
+     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 2462},
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 2621},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 6813},
+     { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 5372},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 10580},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5700},
   ],
   "Flamingo/米津玄師": [
     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 3972 },
