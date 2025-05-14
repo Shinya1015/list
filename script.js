@@ -7479,6 +7479,7 @@ const animeSongs = [
     "ヒトミノチカラ/観月ありさ",                         //棋魂（ヒカルの碁）的第二季片尾主題曲
     "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
     "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
+    "Here I am/globe",                                  //Black Jack的第二首片頭主題曲
 ];
     
 
