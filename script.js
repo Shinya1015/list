@@ -1476,7 +1476,7 @@ const songStreamLinks = {
     { },
   ],
   "GO! GO! MANIAC/放課後ティータイム": [
-    { },
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 9536},
