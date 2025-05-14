@@ -4052,7 +4052,14 @@ const songStreamLinks = {
     { },
   ],
   "天地ガエシ/NICO Touches the Walls": [
-    { },
+     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 4045},
+     { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2473},
+     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 4770},
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 6228},
+     { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 2524},
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 6243},
+     { date: "2023年12月12日", videoId: "lLpuBcr1Bb0", timestamp: 2393},
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2246},
