@@ -4830,7 +4830,9 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 9386},
   ],
   "偶然の確率/girl next door": [
-    { },
+     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 4363},
+     { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 3771},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
     { },
