@@ -1514,7 +1514,17 @@ const songStreamLinks = {
     { },
   ],
   "Butter-Fly/和田光司": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2943},
+     { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 5755},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 2179},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4754},
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 2481},
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 7308},
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 2314},
+     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 1892},
+     { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4353},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 13466},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1410},
