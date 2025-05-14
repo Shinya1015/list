@@ -1498,7 +1498,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 6751},
   ],
   "ふわふわ時間/放課後ティータイム": [
-    { },
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 10925},
   ],
   "Don't say ”lazy”/放課後ティータイム": [
     { },
