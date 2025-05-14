@@ -1501,7 +1501,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 10925},
   ],
   "Don't say ”lazy”/放課後ティータイム": [
-    { },
+     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 15407},
   ],
   "TOMORROW/岡本真夜": [
     { },
