@@ -3968,7 +3968,7 @@ const songStreamLinks = {
     { },
   ],
   "ロストワンの号哭/Neru": [
-    { },
+     { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12945},
