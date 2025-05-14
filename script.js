@@ -4835,7 +4835,14 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9461},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 7252},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 5220},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 6666},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 12272},
+     { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7030},
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 2607},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 4938},
   ],
   "君の思い描いた夢 集Xル HEAVEN/GARNET CROW": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9663},
