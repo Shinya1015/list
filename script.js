@@ -4701,7 +4701,8 @@ const songStreamLinks = {
     { },
   ],
   "くじら12号/JUDY AND MARY": [
-    { },
+     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 7945},
+     { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 10218},
   ],
   "恋の願い星/JellyPanda": [
      { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1379},
