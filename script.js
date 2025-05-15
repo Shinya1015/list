@@ -4686,7 +4686,9 @@ const songStreamLinks = {
     { },
   ],
   "トゥインクル/Junky": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7553},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5400},
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 5772},
   ],
   "Happy Halloween/Junky": [
      { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 1450},
