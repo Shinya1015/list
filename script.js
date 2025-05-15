@@ -7020,6 +7020,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "素晴らしき世界/Rake",
    "忘れじの言の葉/安次嶺希和子",
    "KISS ME BABY!!!/ELEGUMI TOKYO",
    "ハッピーシンセサイザ/Easy Pop",
