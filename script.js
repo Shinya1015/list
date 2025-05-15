@@ -4667,7 +4667,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4371},
   ],
   "ポップンガール@コミュニケーション/Junky": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8034},
   ],
   "夕花火/Junky": [
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13785},
