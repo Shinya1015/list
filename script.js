@@ -6982,7 +6982,6 @@ const lowPitchSongs = [
     "あいうえおんがく/GReeeeN",                                       // 男聲團體，中音域
     "キセキ/GReeeeN",                                                 // 男聲團體
     "愛唄/GReeeeN",                                                   // 男聲團體
-    "Blessing/halyosy",                                               // 男聲 (製作人/歌手)
     "Connecting/halyosy",                                             // 男聲 (製作人/歌手)
     "Fire◎Flower/halyosy",                                           // Len原曲，halyosy本人及許多男唱見翻唱
     "366日/HY",                                                       // 男女混合樂團，有明顯的男聲部分
