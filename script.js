@@ -3670,7 +3670,7 @@ const songStreamLinks = {
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
   ],
   "輝きのエチュード/STAR☆ANIS": [
-     { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4458},
+     { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4858},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4953},
   ],
   "prism spiral/STAR☆ANIS": [
