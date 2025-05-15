@@ -4739,7 +4739,16 @@ const songStreamLinks = {
     { },
   ],
   "グロウアップ/Hysteric Blue": [
-    { },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3878},
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 5432},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 2434},
+     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 3191},
+     { date: "2024年5月19日", videoId: "H-bP3zctwiA", timestamp: 2960},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 15433},
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 3046},
+     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 16431},
+     { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 6276},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7728},
@@ -7177,6 +7186,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
+    "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
     "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
     "フィクション/sumika",                                    //ヲタクに恋は難しい op
     "ちいさな日々/flumpool",                                 //かくしごと片頭主題曲
