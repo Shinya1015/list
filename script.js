@@ -4555,7 +4555,8 @@ const songStreamLinks = {
     { },
   ],
   "人生リセットボタン/kemu": [
-    { },
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 10881},
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7288},
   ],
   "glow/keeno": [
     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 9241 },
