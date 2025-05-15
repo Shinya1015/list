@@ -4692,7 +4692,7 @@ const songStreamLinks = {
     { },
   ],
   "ディスティック・ラブ/Junky": [
-    { },
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1558},
   ],
   "ZIGG-ZAGG/Junky": [
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 5711},
