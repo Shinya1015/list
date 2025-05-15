@@ -4611,7 +4611,14 @@ const songStreamLinks = {
     { },
   ],
   "ソングオブザデッド/KANA-BOON": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5529},
+     { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 7429},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 842},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 2912},
+     { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3644},
+     { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 1684},
+     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1781},
+     { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 4674},
   ],
   "スターマーカー/KANA-BOON": [
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 7449},
