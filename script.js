@@ -4695,7 +4695,8 @@ const songStreamLinks = {
     { },
   ],
   "ZIGG-ZAGG/Junky": [
-    { },
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 5711},
+     { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
   ],
   "そばかす/JUDY AND MARY": [
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 3183},
