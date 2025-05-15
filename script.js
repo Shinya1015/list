@@ -4670,7 +4670,8 @@ const songStreamLinks = {
     { },
   ],
   "夕花火/Junky": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13785},
+     { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 1456},
   ],
   "キミペディア/Junky": [
     { },
