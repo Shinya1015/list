@@ -882,6 +882,7 @@ const songStreamLinks = {
   ],
   "素晴らしき世界/Rake": [
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4040},
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10527},
   ],
   "Love so sweet/嵐": [
     { },
