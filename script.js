@@ -4683,7 +4683,9 @@ const songStreamLinks = {
     { },
   ],
   "メランコリック/Junky": [
-    { },
+     { date: "2024年5月12日-piano ver", videoId: "M_OMw1TfyTk", timestamp: 1675},
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 4975},
+     { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2588},
   ],
   "トゥインクル/Junky": [
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7553},
