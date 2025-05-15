@@ -2720,7 +2720,7 @@ const songStreamLinks = {
   "ホシノウタ/とくP": [
     { },
   ],
-  "SPiCa-acoustic arrange.ver-/とくP": [
+  "SPiCa/とくP": [
        { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4141 },
        { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2277 },
        { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 1050 },
@@ -7277,7 +7277,6 @@ const animeSongs = [
     "君の思い描いた夢 集Xル HEAVEN/GARNET CROW",      // MÄR 魔兵傳奇 (MÄR)
     "Alchemy/Girls Dead Monster",                       // Angel Beats! - 插入曲
     "Crow Song/Girls Dead Monster ",                    // Angel Beats! - 插入曲
-    "# あくあ色ぱれっと/湊あくあ",                      // Hololive關聯歌曲 (VTuber) - 很可能非動畫合作曲
     "センチメンタルクライシス/halca",                   // 輝夜姬想讓人告白～天才們的戀愛頭腦戰～ (Kaguya-sama: Love Is War)
     "スターティングブルー/halca",                      // 逆轉裁判 ～對這個「真實」，有異議！～ Season 2 (Ace Attorney Season 2)
     "かさなる影/Hearts Grow",                           // 銀魂 (Gintama)
@@ -7320,7 +7319,6 @@ const animeSongs = [
     "ミックスナッツ/Official髭男dism",                  // SPY×FAMILY 間諜家家酒
     "Surges/Orangestar",                                // 「加油吧，同期醬」Web動畫 主題曲
     "君＝花/pigstar",                                  // 純情羅曼史 (Junjou Romantica)
-    "シル・ヴ・プレジデント/P丸様。",                    // VTuber歌曲 - 很可能非動畫合作曲
     "すずめ/RADWIMPS",                                  // 鈴芽之旅 (Suzume) - 電影
     "スパークル/RADWIMPS",                              // 你的名字。 (Your Name.) - 電影
     "なんでもないや/RADWIMPS",                          // 你的名字。 (Your Name.) - 電影
@@ -7403,14 +7401,11 @@ const animeSongs = [
     "Los! Los! Los!/ターニャ・デグレチャフ(悠木碧)",   // 幼女戰記 (Saga of Tanya the Evil)
     "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)", // 少女終末旅行 (Girls' Last Tour)
     "風になる/つじあやの",                              // 貓的報恩 (The Cat Returns) - 電影
-    "SPiCa-acoustic arrange.ver-/とくP",                // VOCALOID歌曲 - 非動畫合作曲 (初音未來 -Project DIVA- 關聯)
     "No pain, No game/ナノ",                            // BTOOOM! 驚爆遊戲
-    "砂の惑星/ハチ",                                    // VOCALOID歌曲 (Magical Mirai 2017主題曲) - 非動畫合作曲
     "悪魔の子/ヒグチアイ",                              // 進擊的巨人 The Final Season Part 2
     "ヒャダインのカカカタ カタオモイ-/ヒャダイン",      // 日常 (Nichijou)
     "一輪の花/ふみP",                                  // BLEACH 死神
     "メリッサ/ポルノグラフィティ",                      // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
-    "脳漿炸裂ガール/れるりり",                         // VOCALOID歌曲 - 非動畫合作曲 (有關聯小說/電影)
     "リテラチュア/上田麗奈",                            // 魔女之旅 (Wandering Witch: The Journey of Elaina)
     "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)", // 偶像大師 灰姑娘女孩劇場 (The Idolmaster Cinderella Girls Theater) - 遊戲/動畫
     "もうそう えくすぷれす/千石撫子(花澤香菜)",          // 〈物語〉系列 第二季 (Monogatari Series Second Season) - 囮物語
@@ -7467,7 +7462,6 @@ const animeSongs = [
     "どこまでも～How Far I'll Go～/屋比久知奈",        // 海洋奇緣 (Moana) - 電影 (日語版)
     "太陽曰く燃えよカオス/後ろから這いより隊G",         // 襲來！美少女邪神 (Nyaruko: Crawling with Love)
     "恋は渾沌の隷也/後ろから這いより隊G",               // 襲來！美少女邪神W (Nyaruko: Crawling with Love W)
-    "Stellar Stellar/星街すいせい",                     // Hololive關聯歌曲 (VTuber) - 非動畫合作曲
     "always/倉木麻衣",                                  // 名偵探柯南 (Detective Conan) - 電影『往天國的倒數計時』主題曲 / ED
     "Secret of my heart/倉木麻衣",                      // 名偵探柯南 (Detective Conan)
     "Time after time～花舞う街で～/倉木麻衣",          // 名偵探柯南 (Detective Conan) - 電影『迷宮的十字路』主題曲
@@ -7561,8 +7555,6 @@ const animeSongs = [
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                       // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
     "Glory Days/尾崎裕哉",                             //交響詩篇
-    "Wake up my music/りさ・えいみ", 
-    "二人三脚/misono",                                   //Wii遊戲《テイルズ オブ シンフォニア -ラタトスクの騎士-》的主題曲）
     "Errand/Faylan",                                   //《聖痕のクェイサー》的片頭曲
     "CONFUSED MEMORIES/円谷憂子",                       //金田一少年事件簿主題曲
     "Flyers/BRADIO",                                   //死亡遊行OP曲
@@ -8446,7 +8438,7 @@ const streamerSongList = [
     "風になる/つじあやの",                              // 貓的報恩 (The Cat Returns) - 電影
     "フォニイ/ツミキ",
     "ミュージックミュージック/とあ",
-    "SPiCa-acoustic arrange.ver-/とくP",                // VOCALOID歌曲 - 非動畫合作曲 (初音未來 -Project DIVA- 關聯)
+    "SPiCa/とくP",
     "ホシノウタ/とくP",
     "Hello/ナオト・インティライミ",
     "いつかきっと/ナオト・インティライミ",
@@ -8592,7 +8584,6 @@ const streamerSongList = [
     "Butter-Fly/和田光司",                              // 數碼寶貝大冒險 (Digimon Adventure)
     "バレンタイン・キッス/国生さゆり",
     "ミライチズ/夜のひと笑い",
-    "美少女無罪♡パイレーツ/宝鐘マリン",                // Hololive關聯歌曲 (VTuber) - 非動畫合作曲
     "TOMORROW/岡本真夜",
     "Don't say ”lazy”/放課後ティータイム",             // K-ON！輕音部 (K-On!)
     "ふわふわ時間/放課後ティータイム",                  // K-ON！輕音部 (K-On!) - 插入曲
