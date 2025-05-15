@@ -3986,7 +3986,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
-    { },
+     { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 2224},
   ],
   "スパークル/RADWIMPS": [
     { },
