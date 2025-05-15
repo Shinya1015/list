@@ -4674,7 +4674,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 1456},
   ],
   "キミペディア/Junky": [
-    { },
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 6312},
   ],
   "スイートマジック/Junky": [
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15183},
