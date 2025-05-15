@@ -4787,7 +4787,7 @@ const songStreamLinks = {
     { },
   ],
   "Blessing/halyosy": [
-    { },
+     { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2055},
