@@ -4677,7 +4677,11 @@ const songStreamLinks = {
     { },
   ],
   "スイートマジック/Junky": [
-    { },
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15183},
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 5291},
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 3785},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1834},
+     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3074},
   ],
   "ラブチーノ/Junky": [
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7217},
