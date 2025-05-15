@@ -880,7 +880,7 @@ const songStreamLinks = {
      { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 12943 },
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
-  "素晴らしき世界/嵐": [
+  "素晴らしき世界/Rake": [
     { },
   ],
   "Love so sweet/嵐": [
@@ -7274,7 +7274,6 @@ const lowPitchSongs = [
     "Happiness/嵐",                                                   // 男聲偶像團體
     "One Love/嵐",                                                    // 男聲偶像團體
     "Love so sweet/嵐",                                               // 男聲偶像團體
-    "素晴らしき世界/嵐",                                              // 男聲偶像團體
     "ワイルド アット ハート/嵐",                                       // 男聲偶像團體
     "香水/瑛人",                                                      // 男聲
     "FOR REAL/徳山秀典",                                              // 男聲 (演員/歌手)
@@ -8399,6 +8398,7 @@ const streamerSongList = [
     "愛にできることはまだあるかい/RADWIMPS",            // 天氣之子 (Weathering With You) - 電影
     "夢灯篭/RADWIMPS",                                  // 你的名字。 (Your Name.) - 電影
     "祝祭/RADWIMPS",                                    // 天氣之子 (Weathering With You) - 電影
+　　"素晴らしき世界/Rake",                                            
     "100万回の「I love you」/Rake",
     "大切な人/Rake",
     "ebb and flow/Ray",                                 // 來自風平浪靜的明天 (Nagi-Asu: A Lull in the Sea)
@@ -8773,7 +8773,6 @@ const streamerSongList = [
     "Happiness/嵐",
     "One Love/嵐",
     "Love so sweet/嵐",
-    "素晴らしき世界/嵐",
     "丸の内サディスティック/椎名林檎",
     "カラカラ/結束バンド",                              // 孤獨搖滾！ (Bocchi the Rock!)
     "ギターと孤独と蒼い惑星/結束バンド",                // 孤獨搖滾！ (Bocchi the Rock!)
