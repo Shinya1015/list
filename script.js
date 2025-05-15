@@ -7282,7 +7282,6 @@ const animeSongs = [
     "スターティングブルー/halca",                      // 逆轉裁判 ～對這個「真實」，有異議！～ Season 2 (Ace Attorney Season 2)
     "かさなる影/Hearts Grow",                           // 銀魂 (Gintama)
     "I'll be the one/HΛL",                              // 棋魂 (Hikaru no Go)
-    "明日への扉/I WiSH",                               // 戀愛巴士 (Ainori) - 綜藝節目，但在動漫情境中也常被演唱
     "月光花/Janne Da Arc",                              // 怪醫黑傑克 (Black Jack)
     "そばかす/JUDY AND MARY",                           // 神劍闖江湖 -明治劍客浪漫譚- (Rurouni Kenshin)
     "シルエット/KANA-BOON",                             // 火影忍者疾風傳 (Naruto Shippuden)
