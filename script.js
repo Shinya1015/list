@@ -4680,7 +4680,10 @@ const songStreamLinks = {
     { },
   ],
   "ラブチーノ/Junky": [
-    { },
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7217},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 6065},
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 5990},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 3471},
   ],
   "メランコリック/Junky": [
      { date: "2024年5月12日-piano ver.", videoId: "M_OMw1TfyTk", timestamp: 1675},
