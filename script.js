@@ -4804,9 +4804,6 @@ const songStreamLinks = {
   "愛唄/GReeeeN": [
     { },
   ],
-  "奇跡/GReeeeN": [
-    { },
-  ],
   "キセキ/GReeeeN": [
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 10238},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 22271},
@@ -6959,7 +6956,6 @@ const lowPitchSongs = [
     "君の思い描いた夢 集Xル HEAVEN/GARNET CROW",                       // 女聲，中低音
     "あいうえおんがく/GReeeeN",                                       // 男聲團體，中音域
     "キセキ/GReeeeN",                                                 // 男聲團體
-    "奇跡/GReeeeN",                                                   // 男聲團體 (應與キセキ相同)
     "愛唄/GReeeeN",                                                   // 男聲團體
     "Blessing/halyosy",                                               // 男聲 (製作人/歌手)
     "Connecting/halyosy",                                             // 男聲 (製作人/歌手)
@@ -8138,7 +8134,6 @@ const streamerSongList = [
     "# あくあ色ぱれっと/湊あくあ",                      // Hololive關聯歌曲 (VTuber) - 很可能非動畫合作曲
     "あいうえおんがく/GReeeeN",
     "キセキ/GReeeeN",
-    "奇跡/GReeeeN",
     "愛唄/GReeeeN",
     "瞬きもせずに/H△G",
     "センチメンタルクライシス/halca",                   // 輝夜姬想讓人告白～天才們的戀愛頭腦戰～ (Kaguya-sama: Love Is War)
