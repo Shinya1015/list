@@ -4796,7 +4796,7 @@ const songStreamLinks = {
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2546 },
   ],
   "センチメンタルクライシス/halca": [
-    { },
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5988},
   ],
   "瞬きもせずに/H△G": [
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 3907},
