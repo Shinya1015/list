@@ -1553,7 +1553,7 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 7290 }, 
   ],
   "人生リセットボタンぽちーw/沙花叉クロヱ": [
-    { },
+     { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 3081},
   ],
   "プラチナ/monaca(10日P)": [
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 10057 },
