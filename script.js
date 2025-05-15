@@ -4784,7 +4784,7 @@ const songStreamLinks = {
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4837 },
   ],
   "Connecting/halyosy": [
-    { },
+     { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6903},
   ],
   "Blessing/halyosy": [
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
