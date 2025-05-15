@@ -4704,7 +4704,8 @@ const songStreamLinks = {
     { },
   ],
   "恋の願い星/JellyPanda": [
-    { },
+     { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1379},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 3138},
   ],
   "月光花/Janne Da Arc": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5205 },
