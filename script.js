@@ -7140,6 +7140,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
+    "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
     "フィクション/sumika",                                    //ヲタクに恋は難しい op
     "ちいさな日々/flumpool",                                 //かくしごと片頭主題曲
     "careless breath/EXILE",                                 //《怪醫黑傑克21》（Black Jack 21）的片尾主題曲
