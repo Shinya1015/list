@@ -4799,7 +4799,9 @@ const songStreamLinks = {
     { },
   ],
   "瞬きもせずに/H△G": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 3907},
+     { date: "2023年8月19日(アカペラ、一番のみ)", videoId: "_LMnJTamXFo", timestamp: 1366},
+     { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5773},
