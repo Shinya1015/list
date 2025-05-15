@@ -4689,7 +4689,11 @@ const songStreamLinks = {
     { },
   ],
   "Happy Halloween/Junky": [
-    { },
+     { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 1450},
+     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 626},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 11025},
+     { date: "2024年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 9403},
+     { date: "2024年6月8日", videoId: "CS5HvLlsDVc", timestamp: 5529},
   ],
   "ディスティック・ラブ/Junky": [
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1558},
