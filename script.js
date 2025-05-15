@@ -4719,7 +4719,18 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 6056 },
   ],
   "明日への扉/I WiSH": [
-    { },
+     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7129},
+     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 9131},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 11968},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 1838},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 12046},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 12461},
+     { date: "2023年11月8日", videoId: "rowdCcqtrRE", timestamp: 6795},
+     { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 11207},
+     { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 3372},
+     { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 6815},
+     { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 7335},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 17933},
   ],
   "I'll be the one/HΛL": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6218},
@@ -6995,7 +7006,6 @@ const lowPitchSongs = [
     "愛唄/GReeeeN",                                                   // 男聲團體
     "Connecting/halyosy",                                             // 男聲 (製作人/歌手)
     "Fire◎Flower/halyosy",                                           // Len原曲，halyosy本人及許多男唱見翻唱
-    "366日/HY",                                                       // 男女混合樂團，有明顯的男聲部分
     "月光花/Janne Da Arc",                                            // 男聲 (yasu)，搖滾
     "シルエット/KANA-BOON",                                           // 男聲，搖滾
     "スターマーカー/KANA-BOON",                                       // 男聲，搖滾
