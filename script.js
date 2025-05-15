@@ -4698,7 +4698,9 @@ const songStreamLinks = {
     { },
   ],
   "そばかす/JUDY AND MARY": [
-    { },
+     { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 3183},
+     { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 1342},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 2772},
   ],
   "くじら12号/JUDY AND MARY": [
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 7945},
