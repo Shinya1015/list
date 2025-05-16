@@ -1417,7 +1417,8 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
   ],
   "マーシャル・マキシマイザー/柊マグネタイト": [
-     
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9282},
+     { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7560},
   ],
   "Stellar Stellar/星街すいせい": [
     { },
