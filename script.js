@@ -691,7 +691,7 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
   ],
   "Lap Tap Love/電ポルP": [
-    { },
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
   "輝きは君の中に/鈴木結女": [
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
