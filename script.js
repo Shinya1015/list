@@ -6342,7 +6342,8 @@ const songStreamLinks = {
     { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 4929 },
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
-  "ray/BUMP OF CHICKEN": [
+    "ray/BUMP OF CHICKEN": [
+       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 5172},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 7870 },
        { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 7491 },
        { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8956 },
