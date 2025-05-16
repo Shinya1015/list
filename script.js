@@ -2645,7 +2645,30 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11917 }, 
   ],
   "17才/ハルカトミユキ": [
-    { },
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9817},
+     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 5722},
+     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 2428},
+     { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 6105},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 7495},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 13446},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 884},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 6586},
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 3027},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 578},
+     { date: "2024年1月28日", videoId: "AhrllzwjcXo", timestamp: 2995},
+     { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 5849},
+     { date: "2023年12月21日", videoId: "fWV5gEtemxc", timestamp: 1961},
+     { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 666},
+     { date: "2023年9月19日", videoId: "gJzpl5BkZ1E", timestamp: 5832},
+     { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 4194},
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 5806},
+     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 4644},
+     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8275},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6526},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 14546},
+     { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3206},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 13661},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 9509},
   ],
   "シャルル/バルーン": [
        { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 9783 },
@@ -7468,7 +7491,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
 ];
 const animeSongs = [
-   
+    "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
     "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
     "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
     "フィクション/sumika",                                    //ヲタクに恋は難しい op
