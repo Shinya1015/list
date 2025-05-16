@@ -1408,7 +1408,8 @@ const songStreamLinks = {
       { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 10554},
   ],
   "magnet/湊 貴大(流星P)": [
-    { },
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1145},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5956},
   ],
   "Soar/流星P": [
     { },
