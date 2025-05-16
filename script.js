@@ -202,6 +202,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2509 },
   ],
   "SUNDAY/ザ・ベイビースターズ": [
+     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 2785},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2397},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 1381 },
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9453 },
