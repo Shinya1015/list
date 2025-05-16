@@ -673,7 +673,8 @@ const songStreamLinks = {
     
   ],
   "Treasure/碧陽学園生徒会": [
-    { },
+     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3720},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3496},
