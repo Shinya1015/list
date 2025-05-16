@@ -482,7 +482,8 @@ const songStreamLinks = {
     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4911 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
-    { },
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 2306},
+     { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6339},
   ],
   "ヒトミノチカラ/観月ありさ": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8920},
