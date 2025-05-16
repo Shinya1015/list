@@ -1662,6 +1662,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4213},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 3277},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6085},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1038},
