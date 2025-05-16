@@ -504,7 +504,15 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 4472 },
   ],
   "マル・マル・モリ・モリ!/薫と友樹、たまにムック。": [
-    { },
+     { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 5595},
+     { date: "2024年11月16日", videoId: "toBPQ1vBNqs", timestamp: 1508},
+     { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 7804},
+     { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 7609},
+     { date: "2024年5月15日", videoId: "zJSlMu5wgdg", timestamp: 7080},
+     { date: "2024年6月12日", videoId: "P7vvZTtvB4g", timestamp: 8825},
+     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 14097},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 10172},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 566},
