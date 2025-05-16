@@ -5385,6 +5385,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3165},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 5097},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11376},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1431},
