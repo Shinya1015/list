@@ -162,6 +162,7 @@ const songStreamLinks = {
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4833},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 1302},
      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3889},
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1129 },
