@@ -804,7 +804,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26256},
   ],
   "恋はスリル、ショック、サスペンス/愛内里菜": [
-    { },
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 10661},
   ],
   "MAGIC/愛内里菜": [
     { },
