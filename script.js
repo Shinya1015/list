@@ -657,6 +657,7 @@ const songStreamLinks = {
     { },
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3496},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11656},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2008},
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 3408 },
