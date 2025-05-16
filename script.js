@@ -688,7 +688,7 @@ const songStreamLinks = {
     { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
-    { },
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
   ],
   "Lap Tap Love/電ポルP": [
     { },
