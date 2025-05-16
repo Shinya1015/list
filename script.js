@@ -6560,8 +6560,9 @@ const songStreamLinks = {
        { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 4907 },
        { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 6739 },
      ],
- "シャボン玉Days/Aqua Timez": [
-   { date: "2024年3月10日", videoId: "OJPIEaziIPU", timestamp: 6602 },
+    "シャボン玉Days/Aqua Timez": [
+       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3829},
+       { date: "2024年3月10日", videoId: "OJPIEaziIPU", timestamp: 6602 },
      ],
 "つぼみ/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
