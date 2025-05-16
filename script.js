@@ -1417,7 +1417,7 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
   ],
   "マーシャル・マキシマイザー/柊マグネタイト": [
-    { },
+     
   ],
   "Stellar Stellar/星街すいせい": [
     { },
@@ -7413,8 +7413,10 @@ const lowPitchSongs = [
     "ひまわりの約束/秦基博",                                          // 男聲，創作歌手
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
     "Best Friend/Kiroro",
+    "Soar/流星P",
 ];
 const animeSongs = [
+   
     "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
     "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
     "フィクション/sumika",                                    //ヲタクに恋は難しい op
