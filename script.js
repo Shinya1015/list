@@ -1201,7 +1201,11 @@ const songStreamLinks = {
     { },
   ],
   "だんご大家族/茶太": [
-    { },
+     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8422},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 7811},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 9917},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 7081},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5714},
   ],
   "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)": [
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10029},
