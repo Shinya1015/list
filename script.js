@@ -391,7 +391,8 @@ const songStreamLinks = {
      { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 1833},
   ],
   "White Love/SPEED": [
-    { },
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 2851},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1463},
