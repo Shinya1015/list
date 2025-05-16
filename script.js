@@ -7808,6 +7808,7 @@ const animeSongs = [
     "Little Busters/Rita",                              //《Little Busters!》的開場主題曲
     "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
     "Here I am/globe",                                  //Black Jack的第二首片頭主題曲
+    "SIX COLORS BOY/雛形あきこ",                        //蠟筆小新：奇天烈大冒險 的片尾主題曲
 ];
     
 
