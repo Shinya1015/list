@@ -806,9 +806,6 @@ const songStreamLinks = {
   "恋はスリル、ショック、サスペンス/愛内里菜": [
     { },
   ],
-  "I can't stop my love for you/愛内里菜 ": [
-    { },
-  ],
   "MAGIC/愛内里菜": [
     { },
   ],
@@ -7747,7 +7744,6 @@ const animeSongs = [
     "青春コンプレックス/結束バンド",                    // 孤獨搖滾！ (Bocchi the Rock!)
     "星座になれたら/結束バンド",                        // 孤獨搖滾！ (Bocchi the Rock!)
     "MAGIC/愛内里菜",                                   // 名偵探柯南 (Detective Conan)
-    "I can't stop my love for you/愛内里菜 ",           // 名偵探柯南 (Detective Conan)
     "恋はスリル、ショック、サスペンス/愛内里菜",        // 名偵探柯南 (Detective Conan)
     "staple stable/戦場ヶ原ひたぎ(斎藤千和)",           // 化物語 (Bakemonogatari) - ひたぎクラブ
     "それでも明日はやってくる/鈴木結女",                // 魔法騎士雷阿斯 (Magic Knight Rayearth)
@@ -8926,7 +8922,6 @@ const streamerSongList = [
     "星座になれたら/結束バンド",                        // 孤獨搖滾！ (Bocchi the Rock!)
     "PLEASURE/華原朋美",
     "MAGIC/愛内里菜",                                   // 名偵探柯南 (Detective Conan)
-    "I can't stop my love for you/愛内里菜 ",           // 名偵探柯南 (Detective Conan)
     "恋はスリル、ショック、サスペンス/愛内里菜",        // 名偵探柯南 (Detective Conan)
     "staple stable/戦場ヶ原ひたぎ(斎藤千和)",           // 化物語 (Bakemonogatari) - ひたぎクラブ
     "香水/瑛人",
