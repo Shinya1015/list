@@ -377,7 +377,11 @@ const songStreamLinks = {
      { date: "2024年12月10日(一番のみ)", videoId: "WULCzP9OiTw", timestamp: 7938 },
   ],
   "Drawing days/SPLAY": [
-    { },
+     { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 1483},
+     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1415},
+     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 2905},
+     { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 2004},
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
     { },
