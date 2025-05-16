@@ -1061,7 +1061,16 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 5648 },
   ],
   "眩暈/鬼束ちひろ": [
-    { },
+     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 13858},
+     { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 2780},
+     { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 2266},
+     { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 3916},
+     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 3587},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 8206},
+     { date: "2024年3月20日", videoId: "vUDASqh4kWs", timestamp: 4069},
+     { date: "2023年10月13日", videoId: "YwhvzxTlELM", timestamp: 2505},
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9594},
+     { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1801},
