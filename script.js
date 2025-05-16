@@ -7413,7 +7413,6 @@ const lowPitchSongs = [
     "ひまわりの約束/秦基博",                                          // 男聲，創作歌手
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
     "Best Friend/Kiroro",
-    "Soar/流星P",
 ];
 const animeSongs = [
    
