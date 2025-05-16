@@ -4134,7 +4134,9 @@ const songStreamLinks = {
     { },
   ],
   "Magic of Love/Perfume": [
-    { },
+     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3906},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 2073},
+     { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 8180},
   ],
   "Good Time/Owl city & Carly Rae Jepsen": [
     { },
