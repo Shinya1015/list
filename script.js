@@ -1412,7 +1412,9 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5956},
   ],
   "Soar/流星P": [
-    { },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 13917},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9982},
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
   ],
   "マーシャル・マキシマイザー/柊マグネタイト": [
     { },
