@@ -384,7 +384,11 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
-    { },
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 2405},
+     { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 4666},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 7434},
+     { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 2259},
+     { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 1833},
   ],
   "White Love/SPEED": [
     { },
