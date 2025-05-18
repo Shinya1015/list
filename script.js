@@ -3183,7 +3183,7 @@ const songStreamLinks = {
     { },
   ],
   "Step and Go!/シグナルP": [
-    { },
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
   ],
   "世界はそれを愛と呼ぶんだぜ/サンボマスター": [
     { },
