@@ -1016,7 +1016,7 @@ const songStreamLinks = {
      { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 5459},
   ],
   "Happiness/嵐": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2050},
   ],
   "ガーネット/奥華子": [
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 18295 },
