@@ -2165,7 +2165,11 @@ const songStreamLinks = {
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
   "Override/市瀬るぽ": [
-    { },
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11410},
+     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7999},
+     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10106},
+     { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 9806},
+     { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 1772},
   ],
   "消せない罪/北出菜奈": [
     { },
