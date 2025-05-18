@@ -1,5 +1,11 @@
 
 const songStreamLinks = {
+   "告白ライバル宣言/HoneyWorks": [
+       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 5044},
+      ],
+   "春に一番近い街/40mP": [
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4608},
+      ],
    "フィクション/sumika": [
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2517},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2261},
@@ -8422,6 +8428,7 @@ document.addEventListener('DOMContentLoaded', () => {
 const streamerSongList = [
     "天ノ弱/164",
     "タイムマシン/1640mP",
+    "春に一番近い街/40mP",
     "からくりピエロ/40mP",
     "シリョクケンサ/40mP",
     "恋愛裁判/40mP",
@@ -8520,6 +8527,7 @@ const streamerSongList = [
     "I Really Like You/Carly Rae Jepsen",
     "Period/CHEMISTRY",                                 // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "桜ロック/CHERRYBLOSSOM",                           // 家庭教師HITMAN REBORN! (Reborn!)
+    "告白ライバル宣言/HoneyWorks",
     "病名恋ワズライ/HoneyWorks",                       // 告白實行委員會系列 - 動畫電影/關聯歌曲
     "カヌレ/CHiCO with HoneyWorks",                     // 告白實行委員會系列 - 動畫電影/關聯歌曲
     "プライド革命/CHiCO with HoneyWorks",               // 銀魂° (Gintama°)
