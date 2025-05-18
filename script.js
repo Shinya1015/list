@@ -1096,7 +1096,10 @@ const songStreamLinks = {
     { },
   ],
   "千本桜/黒うさP": [
-    { },
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4312},
+     { date: "2023年9月10日", videoId: "g2F88AkmFBs", timestamp: 2433},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11839},
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 7484},
   ],
   "なだめスかし Negotiation/鹿乃": [
     { },
