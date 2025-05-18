@@ -1013,7 +1013,7 @@ const songStreamLinks = {
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 9597},
   ],
   "One Love/嵐": [
-    { },
+     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 5459},
   ],
   "Happiness/嵐": [
     { },
