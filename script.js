@@ -831,7 +831,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7644},
   ],
   "PLEASURE/華原朋美": [
-    { },
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14527},
