@@ -884,7 +884,15 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 2923 },
   ],
   "青春コンプレックス/結束バンド": [
-    { },
+     { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 2858},
+     { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 3451},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 1444},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 19310},
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 9572},
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 11234},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2229},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4921},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
     { },
