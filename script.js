@@ -2162,7 +2162,7 @@ const songStreamLinks = {
       { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 2775},
   ],
   "Step by step/市瀬るぽ": [
-    { },
+     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
   "Override/市瀬るぽ": [
     { },
