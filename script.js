@@ -1009,7 +1009,8 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10527},
   ],
   "Love so sweet/嵐": [
-    { },
+     { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 3300},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 9597},
   ],
   "One Love/嵐": [
     { },
