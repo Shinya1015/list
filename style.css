@@ -239,7 +239,7 @@ button:active {
     padding: 8px 12px;
     font-size: 14px;
     background-color: transparent;
-    min-width: 100px; /* 避免在 flex 佈局中被過度壓縮 */
+    min-width: 80px; /* 避免在 flex 佈局中被過度壓縮 */
     box-sizing: border-box; /* 確保 padding 不會導致寬度溢出 */
     margin: 0; /* 重置 input 的 margin */
 }
