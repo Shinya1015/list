@@ -9233,4 +9233,5 @@ const streamerSongList = [
     "flyaway/BACK-ON",
     "Little Busters/Rita",
     "フィクション/sumika",
+    "When they cry/片霧烈火",
 ];
