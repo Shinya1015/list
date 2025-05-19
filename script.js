@@ -8041,29 +8041,20 @@ const animeSongs = [
 
 
 const notionBaseUrl = "https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652";
-
+let searchInput;
+let clearSearchButton;
 // --- 函數定義區域 ---
 
-function loadSongsCount() {
-    const songCount = document.getElementById('song-count');
-    // 確保 streamerSongList 存在 (如果它在其他地方定義)
-    if (songCount && typeof streamerSongList !== 'undefined') {
-        songCount.textContent = `総曲数: ${streamerSongList.length}`;
-    } else if (songCount) {
-         // 如果 streamerSongList 未定義，可以顯示 0 或保持不變
-         // songCount.textContent = `総曲数: 0`;
-    }
-}
-
-
 
 function loadSongsCount() {
     const songCount = document.getElementById('song-count');
-    if (songCount && typeof streamerSongList !== 'undefined') {
-        songCount.textContent = `総曲数: ${streamerSongList.length}`;
-    } else if (songCount) {
-        // streamerSongList が未定義の場合、0 または変更なしを表示できます
-        // songCount.textContent = `総曲数: 0`;
+    if (songCount) {
+        // Since streamerSongList is omitted, we'll show 0 or a placeholder
+        if (typeof streamerSongList !== 'undefined' && streamerSongList.length > 0) {
+            songCount.textContent = `総曲数: ${streamerSongList.length}`;
+        } else {
+            songCount.textContent = `総曲数: 0 (リスト未定義)`; // Or just 0
+        }
     }
 }
 
@@ -8073,33 +8064,35 @@ function selectRandomSong() {
     const resultParagraph = document.getElementById("song-result");
     let songPool = [];
 
+    // Check if data arrays are defined (they won't be in this version)
     const allSongsDefined = typeof streamerSongList !== 'undefined' && streamerSongList.length > 0;
     const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs.length > 0;
     const animeSongsDefined = typeof animeSongs !== 'undefined' && animeSongs.length > 0;
 
-    resultParagraph.innerHTML = '';
+    resultParagraph.innerHTML = ''; // Clear previous results
     resultParagraph.classList.remove('copied-feedback');
     resultParagraph.removeAttribute('title');
+
 
     if (selectedType === "すべて") {
         if (allSongsDefined) {
             songPool = streamerSongList;
         } else {
-             resultParagraph.textContent = "曲リストが読み込まれていません！";
+             resultParagraph.textContent = "「すべて」の曲リストが定義されていません！";
              return;
         }
     } else if (selectedType === "低音") {
         if (lowSongsDefined) {
             songPool = lowPitchSongs;
         } else {
-            resultParagraph.textContent = "低音曲リストが空か、定義されていません！";
+            resultParagraph.textContent = "「低音」曲リストが定義されていません！";
             return;
          }
     } else if (selectedType === "アニソン") {
         if (animeSongsDefined) {
             songPool = animeSongs;
          } else {
-            resultParagraph.textContent = "アニソン曲リストが空か、定義されていません！";
+            resultParagraph.textContent = "「アニソン」曲リストが定義されていません！";
             return;
          }
     } else {
@@ -8107,7 +8100,7 @@ function selectRandomSong() {
         if (allSongsDefined) {
             songPool = streamerSongList;
         } else {
-            resultParagraph.textContent = "曲リストが読み込まれていません！";
+            resultParagraph.textContent = "曲リストが定義されていません！";
             return;
          }
     }
@@ -8134,9 +8127,8 @@ function selectRandomSong() {
             iconSpan.title = "アーカイブリストを見る";
             resultParagraph.appendChild(iconSpan);
         }
-
     } else {
-        resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！`;
+        resultParagraph.textContent = `「${selectedType}」タイプの曲が見つかりません！ (リスト空)`;
     }
 }
 
@@ -8177,6 +8169,8 @@ async function handleResultClick(event) {
     }
 }
 
+
+// --- Your provided code starts here, with integrations ---
 function toggleSongList() {
     document.getElementById("main-content").style.display = "none";
     const songListDiv = document.getElementById("song-list");
@@ -8185,45 +8179,56 @@ function toggleSongList() {
     const songListUl = document.getElementById("songs");
     songListUl.innerHTML = "";
 
+    // streamerSongList will be undefined here as per request, so this will show "empty list"
     if (typeof streamerSongList === 'undefined' || streamerSongList.length === 0) {
-        songListUl.innerHTML = "<li>曲リストが空です。</li>";
+        songListUl.innerHTML = "<li>曲リストが空です。(データ未提供)</li>";
         const songCount = document.getElementById('song-count');
         if (songCount) songCount.textContent = `総曲数: 0`;
-        return;
+        // We might still want to set up event listeners and search, so don't return immediately unless intended
+    } else {
+        // This block will not execute if streamerSongList is omitted
+        streamerSongList.forEach(displayName => {
+            const li = document.createElement("li");
+
+            const songSpan = document.createElement("span");
+            songSpan.textContent = displayName;
+
+            if (typeof songStreamLinks !== 'undefined' && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
+                songSpan.classList.add("song-name--has-link");
+            }
+            li.appendChild(songSpan);
+
+            const buttonContainer = document.createElement("div");
+            buttonContainer.classList.add("button-group");
+            const copyButton = document.createElement("button");
+            copyButton.textContent = "コピー";
+            copyButton.classList.add("copy-button");
+            copyButton.dataset.song = displayName;
+            buttonContainer.appendChild(copyButton);
+            li.appendChild(buttonContainer);
+
+            songListUl.appendChild(li);
+        });
     }
 
-    streamerSongList.forEach(displayName => {
-        const li = document.createElement("li");
-
-        const songSpan = document.createElement("span");
-        songSpan.textContent = displayName;
-
-        if (typeof songStreamLinks !== 'undefined' && songStreamLinks[displayName] && songStreamLinks[displayName].some(link => link && link.videoId)) {
-            songSpan.classList.add("song-name--has-link");
-        }
-        li.appendChild(songSpan);
-
-        const buttonContainer = document.createElement("div");
-        buttonContainer.classList.add("button-group");
-        const copyButton = document.createElement("button");
-        copyButton.textContent = "コピー";
-        copyButton.classList.add("copy-button");
-        copyButton.dataset.song = displayName;
-        buttonContainer.appendChild(copyButton);
-        li.appendChild(buttonContainer);
-
-        songListUl.appendChild(li);
-    });
 
     songListUl.removeEventListener('click', handleSongListInteraction);
     songListUl.addEventListener('click', handleSongListInteraction);
 
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) { searchInput.value = ""; }
+    // Use the globally declared searchInput for value reset
+    if (searchInput) { // searchInput is assigned in DOMContentLoaded
+        searchInput.value = "";
+    }
+    // Hide the clear button
+    if (clearSearchButton) { // clearSearchButton is assigned in DOMContentLoaded
+        clearSearchButton.style.display = 'none';
+    }
+
     const filterSelect = document.getElementById('list-song-type-filter');
     if (filterSelect) { filterSelect.value = "すべて"; }
-    filterSongs();
-    loadSongsCount();
+
+    filterSongs(); // This will also be affected by missing data arrays
+    loadSongsCount(); // This will show 0 or placeholder
 }
 
 function handleSongListInteraction(event) {
@@ -8238,7 +8243,7 @@ function handleSongListInteraction(event) {
     const songNameSpan = target.closest('.song-name--has-link');
     if (songNameSpan) {
         const songName = songNameSpan.textContent;
-        if (typeof songStreamLinks !== 'undefined' && songStreamLinks[songName]) {
+        if (typeof songStreamLinks !== 'undefined' && songStreamLinks[songName]) { // songStreamLinks will be undefined
              showStreamLinksPopup(songName);
         }
     }
@@ -8251,7 +8256,6 @@ async function copySongName(songText, buttonElement) {
         buttonElement.textContent = 'コピー済み!';
         buttonElement.disabled = true;
         setTimeout(() => {
-            // ボタンがまだリスト内に存在するか確認（リストが閉じられていないかなど）
             if (buttonElement?.closest('ul#songs')) {
                 buttonElement.textContent = originalText;
                 buttonElement.disabled = false;
@@ -8263,19 +8267,19 @@ async function copySongName(songText, buttonElement) {
 }
 
 function filterSongs() {
-    const searchInput = document.getElementById('search-input');
-    const filterSelect = document.getElementById('list-song-type-filter');
-    if (!searchInput || !filterSelect) return;
+    // Ensure searchInput is used (it's global and assigned in DOMContentLoaded)
+    if (!searchInput || !document.getElementById('list-song-type-filter')) return;
 
     const searchText = searchInput.value.toLowerCase();
-    const filterType = filterSelect.value;
+    const filterType = document.getElementById('list-song-type-filter').value;
 
     const songsUl = document.getElementById('songs');
     if (!songsUl) return;
     const listItems = songsUl.getElementsByTagName('li');
 
-    const lowSongsDefined = typeof lowPitchSongs !== 'undefined';
-    const animeSongsDefined = typeof animeSongs !== 'undefined';
+    // These will be false if data is omitted
+    const lowSongsDefined = typeof lowPitchSongs !== 'undefined' && lowPitchSongs && lowPitchSongs.length > 0;
+    const animeSongsDefined = typeof animeSongs !== 'undefined' && animeSongs && animeSongs.length > 0;
 
     for (let i = 0; i < listItems.length; i++) {
         const li = listItems[i];
@@ -8322,19 +8326,19 @@ function showStreamLinksPopup(songName) {
         return;
     }
 
+    // songStreamLinks will be undefined
     const links = typeof songStreamLinks !== 'undefined' ? songStreamLinks[songName] : undefined;
     titleElement.textContent = songName;
     listElement.innerHTML = '';
 
-    if (!links || !links.some(link => link && link.videoId)) { // videoId がある有効なリンクが存在するか確認
+    if (!links || !links.some(link => link && link.videoId)) {
         const li = document.createElement('li');
         li.style.color = '#555';
         li.style.cursor = 'default';
-        li.textContent = '該当する配信記録のリンクが見つかりませんでした。';
+        li.textContent = '該当する配信記録のリンクが見つかりませんでした。(データ未提供)';
         listElement.appendChild(li);
     } else {
         links.forEach(linkInfo => {
-            // videoId がないリンクはスキップ (または別の表示方法も可能)
             if (!linkInfo || !linkInfo.videoId) return;
 
             const li = document.createElement('li');
@@ -8344,8 +8348,7 @@ function showStreamLinksPopup(songName) {
             li.appendChild(dateSpan);
 
             li.dataset.videoId = linkInfo.videoId;
-            // timestamp が存在しない、または null の場合でも dataset に設定する (空文字になる)
-            li.dataset.timestamp = linkInfo.timestamp ?? ''; // null合体演算子で安全に処理
+            li.dataset.timestamp = linkInfo.timestamp ?? '';
 
             listElement.appendChild(li);
         });
@@ -8363,18 +8366,29 @@ function closeStreamLinksPopup() {
 }
 
 function openYouTubeLink(videoId, timestamp) {
-    // timestamp が空文字や null、undefined の場合を考慮
     if (!videoId) {
         console.error("無効なYouTube動画IDです！");
         return;
     }
     let url = `https://www.youtube.com/watch?v=${videoId}`;
-    // timestamp が有効な数値の場合のみ追加
     const numericTimestamp = parseInt(timestamp, 10);
     if (!isNaN(numericTimestamp) && numericTimestamp >= 0) {
        url += `&t=${numericTimestamp}s`;
     }
     window.open(url, '_blank');
+}
+
+// searchInput and clearSearchButton are already declared globally at the top of this script.
+
+function handleSearchInput() {
+    filterSongs();
+    if (searchInput && clearSearchButton) {
+        if (searchInput.value.length > 0) {
+            clearSearchButton.style.display = 'inline-block';
+        } else {
+            clearSearchButton.style.display = 'none';
+        }
+    }
 }
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -8403,17 +8417,37 @@ document.addEventListener('DOMContentLoaded', () => {
     if (modalList) {
         modalList.addEventListener('click', (event) => {
             const targetLi = event.target.closest('li');
-            // videoId が存在することを確認してから開く
             if (targetLi && targetLi.dataset.videoId) {
-                // timestamp がなくても開けるように、timestamp を渡す
                 openYouTubeLink(targetLi.dataset.videoId, targetLi.dataset.timestamp);
             }
         });
     }
 
-    if (typeof streamerSongList !== 'undefined') {
-       loadSongsCount();
+    // Initialize search input and clear button
+    searchInput = document.getElementById('search-input');
+    clearSearchButton = document.getElementById('clear-search-button');
+
+    if (searchInput && clearSearchButton) {
+        searchInput.addEventListener('input', handleSearchInput);
+
+        clearSearchButton.addEventListener('click', () => {
+            searchInput.value = '';
+            handleSearchInput(); // This will call filterSongs() and update button visibility
+            searchInput.focus();
+        });
+        // Initial state for clear button
+        handleSearchInput();
     }
+
+
+    // loadSongsCount will run, but show 0 or placeholder due to omitted data
+    // This is consistent with the request to omit the song list data.
+    if (typeof streamerSongList !== 'undefined') { // This will be false
+       loadSongsCount();
+    } else {
+       loadSongsCount(); // Call it anyway to set the placeholder text
+    }
+
 
     const numberOfMeteors = 60;
     if (document.body) {
@@ -8440,7 +8474,6 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error("body要素が見つからないため、流星を生成できませんでした。");
     }
 });
-
 const streamerSongList = [
     "天ノ弱/164",
     "タイムマシン/1640mP",
