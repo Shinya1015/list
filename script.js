@@ -5757,6 +5757,7 @@ const songStreamLinks = {
   ],
   "群青讃歌/Eve": [
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 4565},
+     { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 2198},
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 14241},
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4854},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 1700},
