@@ -28,7 +28,8 @@ const songStreamLinks = {
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4224},
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 3615},
   ],
-   "Seven Deadly Sins/MAN WITH A MISSION": [
+    "Seven Deadly Sins/MAN WITH A MISSION": [
+       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 6399},
        { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1145},
      ],
     "Flyers/BRADIO": [
