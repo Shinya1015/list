@@ -163,7 +163,8 @@ const songStreamLinks = {
     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 6217 },
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
-  "明日、僕は君に会いに行く/ワカバ": [
+   "明日、僕は君に会いに行く/ワカバ": [
+      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 600},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4221},
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
