@@ -4916,6 +4916,7 @@ const songStreamLinks = {
     { },
   ],
   "ボクラの冒険/Kids Alive": [
+     { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 864},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8615},
      { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 5962},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7535},
