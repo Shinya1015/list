@@ -1110,7 +1110,7 @@ const songStreamLinks = {
      { date: "2022年9月13日(一番のみ)", videoId: "yuLgBmm19Ts", timestamp: 2904},
   ],
   "紅一葉/黒うさP": [
-    { },
+     { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 7008},
   ],
   "千本桜/黒うさP": [
      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4312},
