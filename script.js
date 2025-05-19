@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "When they cry/片霧烈火": [
+      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 5762},
+      ],
    "告白ライバル宣言/HoneyWorks": [
        { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 5044},
       ],
@@ -8024,6 +8027,7 @@ const animeSongs = [
     "clover/hiro",                                      //怪醫黑傑克》（Black Jack）第二代片尾主題曲
     "Here I am/globe",                                  //Black Jack的第二首片頭主題曲
     "SIX COLORS BOY/雛形あきこ",                        //蠟筆小新：奇天烈大冒險 的片尾主題曲
+    "When they cry/片霧烈火",                           //寒蟬鳴泣之時  07th Expansion pc
 ];
     
 
@@ -8044,13 +8048,7 @@ function loadSongsCount() {
     }
 }
 
-// このファイルの上部または別の場所で songStreamLinks, lowPitchSongs, animeSongs, streamerSongList, notionBaseUrl が定義されていると仮定します。
-// 例:
-// const songStreamLinks = { /* ... データ ... */ };
-// const lowPitchSongs = [ /* ... 曲名 ... */ ];
-// const animeSongs = [ /* ... 曲名 ... */ ];
-// const streamerSongList = [ /* ... 曲名 ... */ ];
-// const notionBaseUrl = "https://...";
+
 
 function loadSongsCount() {
     const songCount = document.getElementById('song-count');
