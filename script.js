@@ -1119,7 +1119,8 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 7484},
   ],
   "なだめスかし Negotiation/鹿乃": [
-    { },
+     { date: "2023年11月25日", videoId: "SaIZRCOjLjg", timestamp: 4106},
+     { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 1658},
   ],
   "人柱アリス/雪那(歪P)": [
         { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12130},
