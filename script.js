@@ -4021,7 +4021,8 @@ const songStreamLinks = {
     { },
   ],
   "世界に一つだけの花/SMAP": [
-    { },
+     { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 3334},
+     { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 2312},
   ],
   "LOVEトロピカ～ナ/Sister MAYO": [
     { },
