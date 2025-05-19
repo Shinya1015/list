@@ -3563,7 +3563,23 @@ const songStreamLinks = {
 
   ],
   "群青/YOASOBI": [
-    { },
+     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 1872},
+     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 6450},
+     { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 2824},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 13768},
+     { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 9190},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 21891},
+     { date: "2023年11月28日", videoId: "9c9LSfg2V4c", timestamp: 3967},
+     { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 8036},
+     { date: "2023年8月9日", videoId: "bNPIz_XxNxU", timestamp: 1622},
+     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 4975},
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 9379},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 427},
+     { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4237},
+     { date: "2023年1月30日(一番のみ)", videoId: "AsWB22GQh10", timestamp: 6116},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15357},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 14473},
+     { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
   "勇者/YOASOBI": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2122 },
@@ -5743,6 +5759,8 @@ const songStreamLinks = {
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 4565},
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 14241},
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4854},
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 1700},
+     { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5689},
   ],
   "平行線/Eve × suis": [
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 10058},
