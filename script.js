@@ -1105,7 +1105,9 @@ const songStreamLinks = {
       { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 5917},
   ],
   "Happy Girl/喜多村英梨": [
-    { },
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 873},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 7009},
+     { date: "2022年9月13日(一番のみ)", videoId: "yuLgBmm19Ts", timestamp: 2904},
   ],
   "紅一葉/黒うさP": [
     { },
