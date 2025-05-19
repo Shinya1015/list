@@ -225,24 +225,26 @@ button:active {
 .search-wrapper {
     display: flex;
     align-items: center;
-    flex-grow: 1;
+    width: 280px;
+    flex-grow: 0;
+    overflow: hidden;
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     /* margin-right: 10px; /* 與右邊 Notion 按鈕的間距，如果需要 */
 }
 
-#search-input {
-    flex-grow: 1;
-    border: none;
-    outline: none;
-    padding: 8px 12px;
-    font-size: 14px;
-    background-color: transparent;
-    min-width: 0px; /* 避免在 flex 佈局中被過度壓縮 */
-    box-sizing: border-box; /* 確保 padding 不會導致寬度溢出 */
-    margin: 0; /* 重置 input 的 margin */
-}
+    #search-input {
+        flex-grow: 1;
+        border: none;
+        outline: none;
+        padding: 8px 12px;
+        font-size: 14px;
+        background-color: transparent;
+        min-width: 0px; /* 避免在 flex 佈局中被過度壓縮 */
+        box-sizing: border-box; /* 確保 padding 不會導致寬度溢出 */
+        margin: 0; /* 重置 input 的 margin */
+    }
 
 #clear-search-button {
     background: none;
