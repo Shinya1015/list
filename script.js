@@ -474,7 +474,8 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 2324 },
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
-  "*～アスタリスク～/オレンジレンジ": [
+ "*～アスタリスク～/オレンジレンジ": [
+    { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1210},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 990 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6411 },
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6899 },
