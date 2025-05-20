@@ -1150,7 +1150,16 @@ const songStreamLinks = {
        { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
   ],
   "コンプレックス・イマージュ/彩音": [
-    { },
+     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 4475},
+     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 3408},
+     { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 2013},
+     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 6924},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 6561},
+     { date: "2024年4月3日", videoId: "VOf65PJXV-0", timestamp: 3464},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 2854},
+     { date: "2023年10月14日", videoId: "8R2Kn-EBKdY&", timestamp: 765},
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 12177},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 12129},
