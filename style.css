@@ -14,7 +14,7 @@ body {
     font-family: "Segoe UI", Meiryo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     height: 100vh;
     position: relative;
-    box-sizing: border-box;
+    box-sizing: border-box; /* 確保 padding 不會增加 body 的總高度 */
 }
 
 body::before {
@@ -171,30 +171,37 @@ button:active {
   font-weight: bold;
 }
 
+/* This rule was for the text "コピーしました！" when the whole p was clickable */
+/* If you only make the song name span clickable, this rule might not be needed for #song-result directly */
+/* #song-result.copied-feedback {
+  cursor: default;
+  opacity: 1;
+  color: green;
+  font-weight: bold;
+} */
+
 #song-list {
     display: none;
     flex-direction: column;
     width: 100%;
     max-width: 700px;
-    margin: 10px auto; /* 上下左右居中的 margin */
+    margin: 10px auto;
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    height: auto; /* 讓內容決定高度，但受 max-height 限制 */
-    /* ▼▼▼ 核心修改點：調整 max-height 以避開底部圖示 ▼▼▼ */
-    max-height: calc(100vh - 80px - 20px - 20px); /* 100vh - 底部圖示區高度 - 上下 margin - 一些緩衝 */
-                                                 /* 假設底部圖示區佔 80px, #song-list 上下 margin 各 10px (共20px), 再加 20px 緩衝 */
-                                                 /* 即 calc(100vh - 120px) */
-    /* 如果 #song-list 的父級不是 body 且有 padding，計算會更複雜 */
-    /* 一個更簡單的嘗試可能是固定的 vh 值，比如 70vh 或 65vh */
-    /* max-height: 70vh; */ /* <<< 您可以先嘗試這個，如果不行再用 calc */
+    height: auto;
+    /* ▼▼▼ 這是您提供的原始 max-height，我將在此基礎上修改 ▼▼▼ */
+    /* max-height: 80vh; */
+    /* ▼▼▼ 新的 max-height，請仔細調整減去的值 ▼▼▼ */
+    max-height: calc(80vh - 70px); /* 假設底部固定圖示區域高度約為 70px，您可以調整 */
     overflow: hidden;
     position: relative;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* --- Header Styles (Applies to All Screen Sizes unless overridden by media queries) --- */
+/* --- Base Header Styles (Default/Desktop) --- */
+/* 這部分 header 樣式來自您提供的版本，並進行了微調以實現兩行佈局 */
 .song-list-header {
     display: flex;
     flex-wrap: wrap;
@@ -205,32 +212,30 @@ button:active {
     z-index: 3;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     box-sizing: border-box;
-    gap: 10px;
+    gap: 10px; /* 調整為 10px，如果之前是 15px */
 }
-
-.song-list-header > * {
-    flex-shrink: 0;
-    margin: 0;
-}
-
 .song-list-header h2 {
-    order: 1;
+    order: 1; /* 新增 */
+    margin: 0;
     font-size: 1.3em;
     color: #343a40;
-    white-space: nowrap;
-    margin-right: 5px;
+    flex-shrink: 0;
+    margin-right: 5px; /* 新增，標題和曲數間距 */
 }
-
-.song-list-header p#song-count {
-    order: 2;
+.song-list-header p#song-count { /* 明確指定 p#song-count */
+    order: 2; /* 新增 */
+    margin: 0;
+    /* margin-left: 5px;  由 h2 的 margin-right 控制 */
     font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
+    flex-shrink: 0;
 }
 
 #notion-header-button {
-    order: 3;
-    margin: 0 0 0 auto;
+    order: 3; /* 新增 */
+    margin: 0 0 0 auto; /* 關鍵：將其和後面的 close-button 推到最右邊 */
+    flex-shrink: 0;
     background-color: #5bc0de;
     color: white;
     padding: 8px 12px;
@@ -240,8 +245,9 @@ button:active {
 #notion-header-button:hover { background-color: #31b0d5; }
 
 #close-button {
-    order: 4;
-    margin: 0;
+    order: 4; /* 新增 */
+    margin: 0; /* 確保緊跟 Notion 按鈕 */
+    flex-shrink: 0;
     background-color: #dc3545;
     color: white;
     padding: 8px 15px;
@@ -249,25 +255,23 @@ button:active {
 }
 #close-button:hover { background-color: #c82333; }
 
-.search-wrapper {
-    order: 5;
+.search-wrapper { /* HTML 中需要將 input 和 clear button 包裹起來 */
+    order: 5; /* 新增，確保在第二行 */
     width: 100%;
-    flex-basis: 100%;
+    flex-basis: 100%; /* 確保佔滿整行 */
     display: flex;
     align-items: center;
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
-    margin-top: 10px;
+    margin-top: 10px; /* 與第一行的間距 */
     transition: border-color 0.15s ease-in-out;
 }
-
 .search-wrapper:focus-within {
     border-color: #86b7fe;
-    box-shadow: none;
+    box-shadow: none; /* 移除陰影 */
 }
-
 #search-input {
     flex-grow: 1;
     border: none;
@@ -275,11 +279,10 @@ button:active {
     padding: 8px 12px;
     font-size: 14px;
     background-color: transparent;
-    min-width: 0;
+    min-width: 0px;
     box-sizing: border-box;
     margin: 0;
 }
-
 #clear-search-button {
     background: none;
     border: none;
@@ -287,65 +290,28 @@ button:active {
     color: #aaa;
     cursor: pointer;
     padding: 0 8px;
-    margin: 0 2px 0 0;
+    margin: 0 2px 0 0; /* 原來的 margin */
     line-height: 1;
     display: none;
     flex-shrink: 0;
 }
-#clear-search-button:hover {
-    color: #333;
-}
-/* --- End Header Styles --- */
+#clear-search-button:hover { color: #333; }
+/* --- End Base Header Styles --- */
 
-
-.list-filter-controls {
-    padding: 8px 15px;
-    background-color: #f1f3f5;
-    border-bottom: 1px solid #e9ecef;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    box-sizing: border-box;
-}
-.list-filter-controls label {
-    margin: 0;
-}
+.list-filter-controls { padding: 8px 15px; background-color: #f1f3f5; border-bottom: 1px solid #e9ecef; display: flex; align-items: center; gap: 8px; }
+.list-filter-controls label { margin: 0; }
 
 .scrollable-list {
     flex-grow: 1;
     overflow-y: auto;
-    padding: 10px; /* 上右下左都 10px，底部空間由 #song-list 的 max-height 控制 */
+    padding: 10px; /* 恢復正常的上下左右 padding */
     width: 100%;
     box-sizing: border-box;
     background-color: #fff;
 }
-/* 如果還是有滾動到底部被遮擋的問題，可以保留這個 ::after 偽元素 */
-/* .scrollable-list::after {
-    content: '';
-    display: block;
-    height: 10px; /* 稍微留一點滾動緩衝 */
-/* } */
-
-
-#songs {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    text-align: left;
-}
-#songs li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 8px 12px;
-    border-bottom: 1px solid #e9ecef;
-    text-align: left;
-    box-sizing: border-box;
-}
-#songs li:last-child {
-    border-bottom: none;
-}
+#songs { list-style-type: none; padding: 0; margin: 0; width: 100%; text-align: left; }
+#songs li { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; border-bottom: 1px solid #e9ecef; text-align: left; box-sizing: border-box; }
+#songs li:last-child { border-bottom: none; }
 
 #songs li span:first-child {
     margin-right: 8px;
@@ -364,77 +330,19 @@ button:active {
     text-decoration: underline;
 }
 
-.button-group {
-    display: flex;
-    align-items: center;
-    flex-shrink: 0;
-    margin-left: auto;
-}
-.copy-button {
-    padding: 5px 10px;
-    font-size: 12px;
-    line-height: 1.4;
-    border-radius: 4px;
-    background-color: #6c757d;
-    color: white;
-    border: none;
-    cursor: pointer;
-    flex-shrink: 0;
-    transition: background-color 0.2s ease, transform 0.1s ease;
-}
-.copy-button:hover {
-    background-color: #5a6268;
-}
-.copy-button:disabled {
-    background-color: #ced4da;
-    color: #6c757d;
-    cursor: default;
-    transform: none;
-}
-.copy-button:active:not(:disabled) {
-    transform: scale(0.98);
-}
+.button-group { display: flex; align-items: center; flex-shrink: 0; margin-left: auto; }
+.copy-button { padding: 5px 10px; font-size: 12px; line-height: 1.4; border-radius: 4px; background-color: #6c757d; color: white; border: none; cursor: pointer; flex-shrink: 0; transition: background-color 0.2s ease, transform 0.1s ease; }
+.copy-button:hover { background-color: #5a6268; }
+.copy-button:disabled { background-color: #ced4da; color: #6c757d; cursor: default; transform: none; }
+.copy-button:active:not(:disabled) { transform: scale(0.98); }
 
-.meteor {
-    position: absolute;
-    width: 3px;
-    height: 3px;
-    background-color: #fff;
-    border-radius: 50%;
-    animation: meteor linear infinite;
-    z-index: 1;
-    opacity: 0;
-}
-@keyframes meteor {
-    0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; }
-    70% { opacity: 1; }
-    100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; }
-}
-[id$="-link"] {
-    position: fixed;
-    z-index: 1000;
-}
-[id$="-link"] img, #notion-link a {
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-    display: block;
-    width: 40px;
-    height: 40px;
-    border-radius: 60%;
-}
-#notion-link a {
-    width: auto;
-    height: auto;
-    font-size: 38px;
-    border-radius: 0;
-    text-decoration: none;
-}
-[id$="-link"] img:hover, #notion-link a:hover {
-    transform: scale(1.15);
-    box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3);
-}
-#notion-link a:hover {
-    text-decoration: none;
-}
+.meteor { position: absolute; width: 3px; height: 3px; background-color: #fff; border-radius: 50%; animation: meteor linear infinite; z-index: 1; opacity: 0; }
+@keyframes meteor { 0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; } 70% { opacity: 1; } 100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; } }
+[id$="-link"] { position: fixed; z-index: 1000; }
+[id$="-link"] img, #notion-link a { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
+#notion-link a { width: auto; height: auto; font-size: 38px; border-radius: 0; text-decoration: none; }
+[id$="-link"] img:hover, #notion-link a:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
+#notion-link a:hover { text-decoration: none; }
 #youtube-link { bottom: 10px; right: 10px; }
 #notion-link { bottom: 10px; right: 210px; }
 #twitter-link { bottom: 8px; right: 60px; }
@@ -448,44 +356,30 @@ button:active {
 @media (max-width: 768px) {
     body {
         align-items: center;
-        /* padding-top and padding-bottom will be inherited from base if not overridden */
+        padding-top: 0; /* If using margin on .container and #song-list for centering */
         height: 100vh;
         overflow: hidden;
+        padding-bottom: 60px; /* Space for footer icons on tablet */
     }
-    .container {
-        padding: 20px;
-        width: 90%;
-        margin: 10px auto;
-    }
+    .container { padding: 20px; width: 90%; margin: 10px auto; }
     #song-list {
         width: 90%;
-        /* max-height: calc(100vh - 100px); */ /* Use a value appropriate for tablets */
-        max-height: calc(100vh - 100px - 20px); /* Example: 100px for bottom icons, 20px for margins */
-        margin: 10px auto; /* Keep some margin for centering */
+        /* max-height: 70vh; */ /* Original */
+        max-height: calc(100vh - 20px - 60px - 20px); /* 100vh - margins - body_padding_bottom - buffer */
+        margin: 10px auto;
     }
 
-    .song-list-header {
-        padding: 8px 12px;
-        gap: 8px;
-    }
+    .song-list-header { padding: 8px 12px; gap: 10px; }
     .song-list-header h2 { font-size: 1.1em; }
-    .song-list-header p#song-count { font-size: 0.8em; }
+    .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; } /* Re-add margin-left if spacer is not used */
+    /* #notion-header-button will still have margin-left: auto pushing it right */
     #notion-header-button { padding: 6px 10px; font-size: 13px; }
     #close-button { padding: 6px 12px; font-size: 13px; }
 
     .search-wrapper {
         margin-top: 8px;
     }
-    #search-input {
-        font-size: 13px;
-        padding: 6px 10px;
-    }
-    .scrollable-list {
-        padding: 10px; /* Simpler padding */
-    }
-    .scrollable-list::after {
-        height: 60px; /* Adjust if needed for tablets */
-    }
+    #search-input { font-size: 13px; padding: 6px 10px; }
 
     .list-filter-controls { padding: 6px 12px; }
     label[for="list-song-type-filter"] { font-size: 13px; }
@@ -509,17 +403,19 @@ button:active {
 
 /* --- Small Screens (Phones) --- */
 @media (max-width: 480px) {
+     body {
+        padding-bottom: 60px; /* Space for footer icons on phone */
+     }
      #song-list {
          width: 95%;
-         /* max-height: calc(100vh - 90px); */ /* Example */
-         max-height: calc(100vh - 80px - 20px); /* Example: 80px for bottom icons, 20px for margins */
+         /* max-height: 68vh; */ /* Original */
+         max-height: calc(100vh - 20px - 60px - 10px); /* 100vh - margins - body_padding_bottom - buffer */
      }
 
      .song-list-header {
-         padding: 8px 10px;
+         padding: 8px 10px; /* Adjusted padding */
          gap: 6px;
      }
-
      .song-list-header h2 {
          font-size: 1em;
          white-space: normal;
@@ -546,13 +442,6 @@ button:active {
         font-size: 1.2em;
         padding: 0 6px;
      }
-    .scrollable-list {
-        padding: 10px; /* Simpler padding */
-    }
-    .scrollable-list::after {
-        height: 60px; /* Adjust if needed for phones */
-    }
-
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
      label[for="list-song-type-filter"] { font-size: 12px; }
