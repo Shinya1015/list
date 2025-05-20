@@ -1387,7 +1387,7 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7417 },
   ],
   "太陽の楽園 ～Promised Land～/神戸みゆき": [
-    { },
+     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3493},
   ],
   "Cagayake! GIRLS/桜高軽音部": [
     { },
