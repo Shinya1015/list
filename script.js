@@ -1758,7 +1758,16 @@ const songStreamLinks = {
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8888},
   ],
   "白金ディスコ/阿良々木月火(井口裕香)": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2376},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 5100},
+     { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 1427},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 15334},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 2201},
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 2239},
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 1946},
+     { date: "2023年3月26日", videoId: "S-x_yVQkv6E", timestamp: 25959},
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 13289},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15242},
   ],
   "はっぴぃ にゅう にゃあ/芹沢文乃(伊藤かな恵)&梅ノ森千世(井口裕香)&霧谷希(竹達彩奈)": [
     { },
