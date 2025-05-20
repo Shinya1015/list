@@ -7,14 +7,14 @@ html, body {
 
 body {
     display: flex;
-    justify-content: center; /* 保持 body 內容垂直居中 */
+    justify-content: center;
     align-items: center;
     flex-direction: column;
     background: radial-gradient(circle at 50% 50%, #1a1a2e, #16213e, #0f3460);
     font-family: "Segoe UI", Meiryo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     height: 100vh;
     position: relative;
-    box-sizing: border-box; /* 確保 body 的 padding 不會使其溢出 100vh */
+    box-sizing: border-box;
 }
 
 body::before {
@@ -49,7 +49,7 @@ body::before {
     flex-direction: column;
     align-items: center;
     gap: 15px;
-    margin: 10px; /* 保持 container 的 margin */
+    margin: 10px;
 }
 
 .container h1 {
@@ -176,12 +176,18 @@ button:active {
     flex-direction: column;
     width: 100%;
     max-width: 700px;
-    margin: 10px auto; /* 保持 #song-list 的上下外邊距 */
+    margin: 10px auto; /* 上下左右居中的 margin */
     background-color: #ffffff;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    height: auto;
-    max-height: 80vh; /* 保持 #song-list 的最大高度限制 */
+    height: auto; /* 讓內容決定高度，但受 max-height 限制 */
+    /* ▼▼▼ 核心修改點：調整 max-height 以避開底部圖示 ▼▼▼ */
+    max-height: calc(100vh - 80px - 20px - 20px); /* 100vh - 底部圖示區高度 - 上下 margin - 一些緩衝 */
+                                                 /* 假設底部圖示區佔 80px, #song-list 上下 margin 各 10px (共20px), 再加 20px 緩衝 */
+                                                 /* 即 calc(100vh - 120px) */
+    /* 如果 #song-list 的父級不是 body 且有 padding，計算會更複雜 */
+    /* 一個更簡單的嘗試可能是固定的 vh 值，比如 70vh 或 65vh */
+    /* max-height: 70vh; */ /* <<< 您可以先嘗試這個，如果不行再用 calc */
     overflow: hidden;
     position: relative;
     padding: 0;
@@ -207,7 +213,6 @@ button:active {
     margin: 0;
 }
 
-/* First Row Elements */
 .song-list-header h2 {
     order: 1;
     font-size: 1.3em;
@@ -244,7 +249,6 @@ button:active {
 }
 #close-button:hover { background-color: #c82333; }
 
-/* Second Row Element */
 .search-wrapper {
     order: 5;
     width: 100%;
@@ -310,11 +314,19 @@ button:active {
 .scrollable-list {
     flex-grow: 1;
     overflow-y: auto;
-    padding: 10px 10px 80px 10px;  /* <<<<<< KEY MODIFICATION FOR FIXED ICONS */
+    padding: 10px; /* 上右下左都 10px，底部空間由 #song-list 的 max-height 控制 */
     width: 100%;
     box-sizing: border-box;
     background-color: #fff;
 }
+/* 如果還是有滾動到底部被遮擋的問題，可以保留這個 ::after 偽元素 */
+/* .scrollable-list::after {
+    content: '';
+    display: block;
+    height: 10px; /* 稍微留一點滾動緩衝 */
+/* } */
+
+
 #songs {
     list-style-type: none;
     padding: 0;
@@ -436,20 +448,20 @@ button:active {
 @media (max-width: 768px) {
     body {
         align-items: center;
-        padding-top: 0; /* Reset body padding for tablets if .container is centered */
-        padding-bottom: 0;
+        /* padding-top and padding-bottom will be inherited from base if not overridden */
         height: 100vh;
         overflow: hidden;
     }
-    .container { /* Main content container */
+    .container {
         padding: 20px;
         width: 90%;
-        margin: 10px auto; /* Standard margin for main content */
+        margin: 10px auto;
     }
-    #song-list { /* Song list container */
+    #song-list {
         width: 90%;
-        max-height: 80vh; /* Use vh for song list max height */
-        margin: 10px auto; /* Centered with some margin */
+        /* max-height: calc(100vh - 100px); */ /* Use a value appropriate for tablets */
+        max-height: calc(100vh - 100px - 20px); /* Example: 100px for bottom icons, 20px for margins */
+        margin: 10px auto; /* Keep some margin for centering */
     }
 
     .song-list-header {
@@ -468,8 +480,11 @@ button:active {
         font-size: 13px;
         padding: 6px 10px;
     }
-    .scrollable-list { /* Adjust padding for tablets */
-        padding: 10px 10px 70px 10px; /* Slightly less padding for tablets */
+    .scrollable-list {
+        padding: 10px; /* Simpler padding */
+    }
+    .scrollable-list::after {
+        height: 60px; /* Adjust if needed for tablets */
     }
 
     .list-filter-controls { padding: 6px 12px; }
@@ -496,7 +511,8 @@ button:active {
 @media (max-width: 480px) {
      #song-list {
          width: 95%;
-         max-height: 80vh; /* Consistent with tablet for now */
+         /* max-height: calc(100vh - 90px); */ /* Example */
+         max-height: calc(100vh - 80px - 20px); /* Example: 80px for bottom icons, 20px for margins */
      }
 
      .song-list-header {
@@ -530,9 +546,13 @@ button:active {
         font-size: 1.2em;
         padding: 0 6px;
      }
-    .scrollable-list { /* Adjust padding for phones */
-        padding: 10px 10px 70px 10px; /* Consistent padding-bottom */
+    .scrollable-list {
+        padding: 10px; /* Simpler padding */
     }
+    .scrollable-list::after {
+        height: 60px; /* Adjust if needed for phones */
+    }
+
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
      label[for="list-song-type-filter"] { font-size: 12px; }
