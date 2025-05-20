@@ -1710,7 +1710,12 @@ const songStreamLinks = {
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7560},
   ],
   "Stellar Stellar/星街すいせい": [
-    { },
+     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 11806},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 2110},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 7415},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 23509},
+     { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 118},
+     { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 5975},
   ],
   "恋は渾沌の隷也/後ろから這いより隊G": [
     { },
