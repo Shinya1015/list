@@ -86,7 +86,7 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 6px;
-    margin: 5px; /* General margin, clear button has its own */
+    margin: 5px;
     transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
@@ -198,40 +198,36 @@ button:active {
     z-index: 3;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     box-sizing: border-box;
-    gap: 10px; /* Default gap between items in a row */
+    gap: 10px;
+}
+
+.song-list-header > * {
+    flex-shrink: 0; /* Prevent items from shrinking by default */
 }
 
 /* First Row Elements */
 .song-list-header h2 { /* 標題 */
-    order: 1; /* First item in the first row */
+    order: 1;
     margin: 0;
     font-size: 1.3em;
     color: #343a40;
-    flex-shrink: 0;
     white-space: nowrap;
-    margin-right: 5px; /* Gap between title and song count */
+    margin-right: 5px;
 }
 
 .song-list-header p#song-count { /* 曲數統計 */
-    order: 2; /* Second item in the first row */
+    order: 2;
     margin: 0;
     font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
-    flex-shrink: 0;
-    /* No margin-right: auto here, it will be next to title */
+    /* Removed margin-right: auto to allow buttons to be on the right */
 }
 
-/* This div will act as a spacer to push buttons to the right on the first row */
-.header-spacer {
-    order: 3;
-    flex-grow: 1; /* Takes up all available space between song count and buttons */
-}
-
+/* Notion按鈕會被推到右邊 */
 #notion-header-button {
-    order: 4; /* Third item group (first button) in the first row */
-    margin: 0; /* Remove default button margin if any */
-    flex-shrink: 0;
+    order: 3;
+    margin: 0 0 0 auto; /* Left auto margin pushes it and subsequent items to the right */
     background-color: #5bc0de;
     color: white;
     padding: 8px 12px;
@@ -241,9 +237,8 @@ button:active {
 #notion-header-button:hover { background-color: #31b0d5; }
 
 #close-button {
-    order: 5; /* Fourth item group (second button) in the first row */
-    margin: 0; /* Remove default button margin if any */
-    flex-shrink: 0;
+    order: 4; /* Follows Notion button */
+    margin: 0;
     background-color: #dc3545;
     color: white;
     padding: 8px 15px;
@@ -253,16 +248,16 @@ button:active {
 
 /* Second Row Element */
 .search-wrapper {
-    order: 6; /* This will force it to the next line */
-    width: 100%; /* Take full width of the container */
-    flex-basis: 100%; /* Ensures it takes full width in flex context */
+    order: 5;          /* Forces it to the next line */
+    width: 100%;       /* Takes full width */
+    flex-basis: 100%;  /* Ensures it takes full width in flex context */
     display: flex;
     align-items: center;
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
-    margin-top: 10px; /* Space between first and second row */
+    margin-top: 10px;  /* Space between first and second row */
     transition: border-color 0.15s ease-in-out;
 }
 
@@ -439,7 +434,6 @@ button:active {
 #booth-link { bottom: 10px; left: 60px; }
 
 /* --- Medium Screens (Tablets, Larger Phones) --- */
-/* Styles here will inherit from the base and then be overridden if specified */
 @media (max-width: 768px) {
     body {
         align-items: center;
@@ -454,7 +448,7 @@ button:active {
     }
     #song-list {
         width: 90%;
-        max-height: 70vh;
+        max-height: 80vh;
         margin: 10px auto;
     }
 
@@ -463,23 +457,18 @@ button:active {
         gap: 8px;
     }
     .song-list-header h2 { font-size: 1.1em; }
-    .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
-
-    /* .header-spacer for medium screens - might not be needed if buttons fit */
-
+    .song-list-header p#song-count { font-size: 0.8em; }
+    /* Notion and Close buttons will be pushed right by #notion-header-button's margin-left: auto */
     #notion-header-button { padding: 6px 10px; font-size: 13px; }
     #close-button { padding: 6px 12px; font-size: 13px; }
 
     .search-wrapper {
-        /* min-width: 150px; */ /* Already set in base */
-        /* max-width: 100%; */ /* Allow it to take full width on its line if other elements wrap */
-        margin-top: 8px; /* Ensure spacing if it wraps */
+        margin-top: 8px;
     }
     #search-input {
         font-size: 13px;
         padding: 6px 10px;
     }
-
 
     .list-filter-controls { padding: 6px 12px; }
     label[for="list-song-type-filter"] { font-size: 13px; }
@@ -502,7 +491,6 @@ button:active {
 }
 
 /* --- Small Screens (Phones) --- */
-/* Styles here will inherit from base and medium, then be overridden */
 @media (max-width: 480px) {
      #song-list {
          width: 95%;
@@ -511,51 +499,40 @@ button:active {
 
      .song-list-header {
          padding: 8px 10px;
-         gap: 6px; /* Smaller gap for phone */
+         gap: 6px;
      }
 
-     /* First Row on Mobile */
+     /* First Row Elements on Mobile */
      .song-list-header h2 {
          order: 1;
          font-size: 1em;
-         margin: 0;
-         /* flex-basis: auto; /* Let content decide for title */
          white-space: normal; /* Allow title to wrap */
      }
      .song-list-header p#song-count {
          order: 2;
          font-size: 0.75em;
-         margin: 0;
-         white-space: nowrap;
-         /* margin-left: auto; /* This is handled by the spacer now */
-         align-self: center;
      }
-     .header-spacer { /* Ensure spacer works on mobile too */
-        order: 3;
-        flex-grow: 1;
-     }
+     /* Notion button will be pushed right by its own margin-left: auto */
      #notion-header-button {
-         order: 4;
+         order: 3;
          padding: 5px 8px;
          font-size: 12px;
-         margin:0; /* Reset margin */
+         margin: 0 0 0 auto; /* Push to right */
      }
      #close-button {
-         order: 5;
+         order: 4;
          padding: 5px 10px;
          font-size: 12px;
-         margin:0; /* Reset margin */
+         margin: 0; /* Next to Notion button */
      }
 
     /* Second Row on Mobile */
      .search-wrapper {
-         order: 6;
+         order: 5; /* After all first-row items */
          width: 100%;
          flex-basis: 100%;
-         min-width: 0; /* Allow full shrink if necessary */
+         min-width: 0;
          margin: 8px 0 0 0; /* Top margin, no side margins */
-         margin-left: 0;
-         margin-right: 0;
      }
      #search-input {
          font-size: 13px;
@@ -565,7 +542,6 @@ button:active {
         font-size: 1.2em;
         padding: 0 6px;
      }
-
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
      label[for="list-song-type-filter"] { font-size: 12px; }
