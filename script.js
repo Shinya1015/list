@@ -7897,7 +7897,6 @@ const lowPitchSongs = [
     "CHANGE THE WORLD/V6",                                            // 男聲偶像團體
     "WAになっておどろう/V6",                                          // 男聲偶像團體
     "怪獣の花唄/Vaundy",                                              // 男聲，創作歌手，音域多變但包含低音
-    "unravel/TK from 凛として時雨",                                   // 男聲 (TK)，基底為男聲
     "A Whole New World/アラジン",                                     // 男女對唱，包含男聲 (阿拉丁)
     "フレンド・ライク・ミー/アラジン",                                  // 男聲 (精靈)
     "TKGの歌/アリレム",                                               // 男聲 (Utaite)
