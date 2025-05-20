@@ -3416,7 +3416,8 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 3276},
   ],
   "ギガンティックO.T.N/ギガP": [
-    { },
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 7251},
+     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 1755},
   ],
   "LUVORATORRRRRY!/ギガ・れをる": [
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 7852},
