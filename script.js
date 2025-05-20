@@ -1406,7 +1406,15 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 3883},
   ],
   "ZERO!!/栗林みな実": [
-    { },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3264},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5666},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 4862},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 10139},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 4930},
+     { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 3743},
+     { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 4445},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 1998},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 6830},
   ],
   "YUME日和/島谷ひとみ": [
     { },
