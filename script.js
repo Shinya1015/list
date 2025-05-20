@@ -353,7 +353,9 @@ const songStreamLinks = {
      { date: "2025年1月17日(一番のみ)", videoId: "n6AnYYTLADM", timestamp: 8547 },
   ],
   "チューリングラブ/ナナヲアカリ": [
+     { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 1128},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1762 },
+     { date: "2024年12月31日", videoId: "", timestamp: 765},
      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7172 },
   ],
   "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)": [
@@ -2264,6 +2266,7 @@ const songStreamLinks = {
     { },
   ],
   "空色デイズ/中川翔子": [
+     { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 2267},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 4728},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3325},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10878},
@@ -2612,7 +2615,8 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
-    { },
+     { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 3528},
+     
   ],
   "ただ君に晴れ/ヨルシカ": [
     { },
@@ -5871,6 +5875,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2025年5月20日(ひより/しゃいる，冒頭アカペラ)", videoId: "kMWrZ4ZtsZ8", timestamp: 1960},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6029},
      { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 3448},
      { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 4954},
