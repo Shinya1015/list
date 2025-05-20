@@ -187,10 +187,10 @@ button:active {
     box-sizing: border-box;
 }
 
-/* --- Universal Header Styles --- */
+/* --- Base Header Styles (Applies to Desktop first, then overridden by media queries) --- */
 .song-list-header {
     display: flex;
-    flex-wrap: wrap; /* 允許在空間不足時換行 */
+    flex-wrap: wrap; /* Allow wrapping for smaller screens if needed */
     align-items: center;
     width: 100%;
     padding: 10px 15px;
@@ -201,39 +201,41 @@ button:active {
     gap: 10px;
 }
 
-.song-list-header > * { /* 讓所有直接子元素都有一定的收縮能力，除非特別指定不收縮 */
-    flex-shrink: 1;
+.song-list-header > * {
+    flex-shrink: 1; /* Default shrink for items */
 }
 
 .song-list-header h2 { /* 標題 */
     margin: 0;
-    font-size: 1.3em; /* 桌面版字體 */
+    font-size: 1.3em;
     color: #343a40;
-    flex-shrink: 0; /* 標題不縮小 */
+    flex-shrink: 0; /* Title doesn't shrink */
     white-space: nowrap;
+    margin-right: 5px; /* Gap between title and song count */
 }
 
 .song-list-header p#song-count { /* 曲數統計 */
     margin: 0;
-    margin-left: 5px;
-    font-size: 0.9em; /* 桌面版字體 */
+    font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
-    flex-shrink: 0; /* 曲數不縮小 */
+    flex-shrink: 0; /* Song count doesn't shrink */
+    /* margin-right: auto; This will be handled differently for desktop vs mobile */
 }
 
 .search-wrapper {
     display: flex;
     align-items: center;
-    flex-grow: 1;      /* 讓搜尋框容器嘗試填滿剩餘空間 */
-    min-width: 150px;  /* 設定最小寬度 */
-    /* max-width: 350px; */ /* 可以根據需要設定最大寬度，如果不想它太長 */
+    flex-grow: 1;      /* Allows it to take up available space */
+    min-width: 200px;  /* Minimum width for the search box */
+    max-width: 380px;  /* Maximum width for the search box (adjust as needed) */
+    margin-left: auto; /* Pushes search and subsequent buttons to the right of song count */
+    margin-right: 10px;/* Gap before Notion button */
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
-    margin-left: auto; /* 將搜尋框推到標題和曲數之後，但在按鈕之前 */
-    margin-right: 10px; /* 與Notion按鈕的間隔 */
+    transition: border-color 0.15s ease-in-out;
 }
 
 .search-wrapper:focus-within {
@@ -246,9 +248,9 @@ button:active {
     border: none;
     outline: none;
     padding: 8px 12px;
-    font-size: 14px; /* 桌面版字體 */
+    font-size: 14px;
     background-color: transparent;
-    min-width: 0;
+    min-width: 0; /* Crucial for preventing content from expanding the wrapper */
     box-sizing: border-box;
     margin: 0;
 }
@@ -271,25 +273,25 @@ button:active {
 
 #notion-header-button {
     margin: 0;
-    flex-shrink: 0; /* Notion按鈕不縮小 */
+    flex-shrink: 0; /* Notion button doesn't shrink */
     background-color: #5bc0de;
     color: white;
     padding: 8px 12px;
-    font-size: 14px; /* 桌面版字體 */
+    font-size: 14px;
     white-space: nowrap;
 }
 #notion-header-button:hover { background-color: #31b0d5; }
 
 #close-button {
     margin: 0;
-    flex-shrink: 0; /* 關閉按鈕不縮小 */
+    flex-shrink: 0; /* Close button doesn't shrink */
     background-color: #dc3545;
     color: white;
     padding: 8px 15px;
-    font-size: 14px; /* 桌面版字體 */
+    font-size: 14px;
 }
 #close-button:hover { background-color: #c82333; }
-/* --- End Universal Header Styles --- */
+/* --- End Base Header Styles --- */
 
 
 .list-filter-controls {
@@ -456,8 +458,8 @@ button:active {
     .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
 
     .search-wrapper {
-        min-width: 120px; /* 平板上給個稍大的最小寬度 */
-        max-width: 250px; /* 平板上的最大寬度 */
+        min-width: 150px;
+        max-width: 300px; /* Adjust max-width for tablets */
         margin-left: auto;
         margin-right: 8px;
     }
@@ -491,66 +493,71 @@ button:active {
 
 /* --- Small Screens (Phones) --- */
 @media (max-width: 480px) {
-     #song-list { width: 95%; max-height: 68vh; }
-
-     .song-list-header {
-         padding: 6px 10px;
-         gap: 6px; /* 減小元素間距 */
-         flex-wrap: wrap; /* 確保換行 */
+     #song-list {
+         width: 95%;
+         max-height: 80vh; /* Slightly increase max height for better usability with two header rows */
      }
 
-     /* 第一行: 標題和曲數 */
-     .song-list-header h2 {
+     .song-list-header {
+         padding: 8px 10px;
+         gap: 8px;
+         flex-wrap: wrap;
+     }
+
+     /* First row on mobile: Title and Song Count */
+     .song-list-header h2 { /* 標題 */
          order: 1;
          font-size: 1em;
          margin: 0;
-         white-space: normal; /* 允許標題換行 */
-         flex-basis: calc(70% - 3px); /* 給標題一個較大的基礎寬度，減去gap的一半 */
+         white-space: normal; /* Allow title to wrap */
+         flex-grow: 1; /* Allow title to take up space */
+         flex-basis: 60%; /* Give it a basis to start */
      }
-     .song-list-header p#song-count {
+     .song-list-header p#song-count { /* 曲數統計 */
          order: 2;
          font-size: 0.75em;
          margin: 0;
          white-space: nowrap;
-         flex-basis: calc(30% - 3px); /* 給曲數一個較小的基礎寬度 */
-         text-align: right; /* 曲數靠右一點 */
-         margin-left: auto; /* 覆蓋之前的 margin-right: auto */
+         margin-left: auto; /* Pushes it to the right of the title */
+         align-self: center; /* Vertically align with title */
+         flex-shrink: 0;
      }
 
-    /* 第二行: 搜尋框 */
+    /* Second row on mobile: Search, Notion Button, Close Button */
      .search-wrapper {
          order: 3;
-         width: 100%;      /* 佔滿整行 */
-         flex-basis: 100%;
-         min-width: 0;
-         margin: 6px 0 0 0; /* 與上方元素的間距 */
-         margin-left: 0;
-         margin-right: 0;
-         /* max-width: none; /* 小螢幕上移除桌面版的max-width限制 */
+         width: auto; /* Let flex control the width */
+         flex-grow: 1; /* Takes up most space in the second row */
+         flex-basis: 0; /* Allows flex-grow to dominate */
+         min-width: 100px; /* Prevent it from becoming too small */
+         max-width: none; /* Remove desktop max-width */
+         margin: 8px 0 0 0; /* Top margin, remove side margins */
+         margin-right: 8px; /* Space before Notion button */
      }
      #search-input {
          font-size: 13px;
          padding: 6px 10px;
      }
+     #clear-search-button {
+        font-size: 1.2em;
+        padding: 0 6px;
+     }
 
-     /* 第三行: 按鈕 */
-     /* 將 Notion 和 Close 按鈕放在一個容器中 (需要在HTML中修改) */
-     /* 如果沒有HTML修改，則單獨設定它們的 order */
      #notion-header-button {
          order: 4;
          padding: 5px 8px;
          font-size: 12px;
-         margin: 6px 0 0 auto; /* 與搜尋框的間距，並推到右邊 */
-         flex-grow: 0; /* 不要讓它填滿剩餘空間 */
-         flex-basis: auto; /* 內容決定寬度 */
+         white-space: nowrap;
+         margin: 8px 0 0 0; /* Align with search wrapper's top margin */
+         flex-shrink: 0;
      }
      #close-button {
          order: 5;
          padding: 5px 10px;
          font-size: 12px;
-         margin: 6px 0 0 0; /* 與搜尋框的間距 */
-         flex-grow: 0;
-         flex-basis: auto;
+         white-space: nowrap;
+         margin: 8px 0 0 0; /* Align with search wrapper's top margin */
+         flex-shrink: 0;
      }
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
