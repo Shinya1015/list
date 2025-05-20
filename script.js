@@ -1390,7 +1390,8 @@ const songStreamLinks = {
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3493},
   ],
   "Cagayake! GIRLS/桜高軽音部": [
-    { },
+     { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 2655},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 4720},
   ],
   "明日晴れるかな/桑田佳祐": [
     { },
