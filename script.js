@@ -1728,7 +1728,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 5861},
   ],
   "恋のヒメヒメ☆ぺったんこ/姫野湖鳥(田村ゆかり)": [
-    { },
+     { date: "2023年6月29日(冒頭アカペラ)", videoId: "2KydWEbyldU", timestamp: 7584},
   ],
   "story/前島麻由": [
     { },
