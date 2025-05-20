@@ -3421,7 +3421,7 @@ const songStreamLinks = {
     { date: "2023年1月6日-piano ver.", videoId: "lb9LTP381-c", timestamp: 12213 },
   ],
   "嘘/シド": [
-    { },
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 1442},
   ],
   "モノクロのキス/シド": [
     { },
