@@ -3412,7 +3412,8 @@ const songStreamLinks = {
     { },
   ],
   "ウィーアー!/きただにひろし": [
-    { },
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 2778},
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 3276},
   ],
   "ギガンティックO.T.N/ギガP": [
     { },
