@@ -1305,7 +1305,7 @@ const songStreamLinks = {
      { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 8409},
   ],
   "キラメキラリ/高槻やよい(仁後真耶子)": [
-    { },
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 12968},
   ],
   "バトルフロンティア/高屋亜希那": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2955 },
