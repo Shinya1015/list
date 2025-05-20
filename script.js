@@ -2868,7 +2868,15 @@ const songStreamLinks = {
     { },
   ],
   "神っぽいな/ピノキオピー": [
-    { },
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 596},
+     { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 2880},
+     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 1516},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 421},
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 6431},
+     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 1230},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 9624},
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 563},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 6652},
   ],
   "soundless voice/ひとしずくP": [
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
