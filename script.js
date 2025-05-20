@@ -1294,7 +1294,12 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 8437},
   ],
   "ウォーアイニー/高橋瞳": [
-    { },
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12513},
+     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 2981},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 3113},
+     { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 490},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 9299},
+     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 9498},
   ],
   "魔訶不思議アドベンチャー! /高橋洋樹": [
      { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 8409},
