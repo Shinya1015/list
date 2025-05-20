@@ -1488,7 +1488,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12581},
    ],
   "涙そうそう/夏川りみ": [
-    { },
+     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
   "TRY AGAIN/倉木麻衣": [
     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 4569 },
