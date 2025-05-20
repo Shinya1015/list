@@ -3422,6 +3422,9 @@ const songStreamLinks = {
   ],
   "嘘/シド": [
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 1442},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 4937},
+     { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 1750},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 5128},
   ],
   "モノクロのキス/シド": [
     { },
