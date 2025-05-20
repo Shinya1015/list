@@ -254,7 +254,7 @@ button:active {
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
-    margin-top: 10px;
+    margin-top: 5px;
     transition: border-color 0.15s ease-in-out;
 }
 .search-wrapper:focus-within {
