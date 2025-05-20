@@ -1721,7 +1721,7 @@ const songStreamLinks = {
      { date: "2023年11月16日", videoId: "h27RoddZtRQ", timestamp: 2824},
   ],
   "太陽曰く燃えよカオス/後ろから這いより隊G": [
-    { },
+     { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 4473},
   ],
   "どこまでも～How Far I'll Go～/屋比久知奈": [
     { },
