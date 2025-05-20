@@ -3419,7 +3419,12 @@ const songStreamLinks = {
     { },
   ],
   "LUVORATORRRRRY!/ギガ・れをる": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 7852},
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 2119},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7488},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 3102},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 24561},
+     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 11742},
