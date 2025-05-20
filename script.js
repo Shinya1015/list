@@ -1195,7 +1195,7 @@ const songStreamLinks = {
      { date: "2023年12月21日", videoId: "fWV5gEtemxc", timestamp: 6379},
   ],
   "ダンシング☆サムライ/崎山つばさ": [
-    { },
+     { date: "2023年1月16日", videoId: "lb9LTP381-c", timestamp: 963},
   ],
   "私とワルツを/鬼束ちひろ": [
     { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3455 },
