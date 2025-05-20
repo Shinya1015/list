@@ -1752,7 +1752,9 @@ const songStreamLinks = {
       { date: "2024年12月31日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
   ],
   "白い雪のプリンセスは/のぼる": [
-    { },
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 9765},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 15830},
+     { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8888},
   ],
   "白金ディスコ/阿良々木月火(井口裕香)": [
     { },
