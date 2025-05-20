@@ -8233,6 +8233,7 @@ const animeSongs = [
     "SIX COLORS BOY/雛形あきこ",                        //蠟筆小新：奇天烈大冒險 的片尾主題曲
     "When they cry/片霧烈火",                           //寒蟬鳴泣之時  07th Expansion pc
     "花になって/緑黄色社会",                              //薬屋のひとりごと op
+    "ウォーアイニー/高橋瞳",                                  //銀魂 ed14
 ];
     
 
