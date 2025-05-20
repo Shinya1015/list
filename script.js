@@ -1718,7 +1718,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 5975},
   ],
   "恋は渾沌の隷也/後ろから這いより隊G": [
-    { },
+     { date: "2023年11月16日", videoId: "h27RoddZtRQ", timestamp: 2824},
   ],
   "太陽曰く燃えよカオス/後ろから這いより隊G": [
     { },
