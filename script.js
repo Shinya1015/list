@@ -3928,7 +3928,8 @@ const songStreamLinks = {
      { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 1980 },
   ],
   "夏祭り/Whiteberry": [
-    { },
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 3300},
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
   "怪獣の花唄/Vaundy": [
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5514},
