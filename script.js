@@ -1724,7 +1724,8 @@ const songStreamLinks = {
      { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 4473},
   ],
   "どこまでも～How Far I'll Go～/屋比久知奈": [
-    { },
+     { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 6583},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 5861},
   ],
   "恋のヒメヒメ☆ぺったんこ/姫野湖鳥(田村ゆかり)": [
     { },
