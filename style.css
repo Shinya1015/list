@@ -86,7 +86,7 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 6px;
-    margin: 5px;
+    margin: 5px; /* General margin, clear button has its own */
     transition: background-color 0.2s ease, transform 0.1s ease;
 }
 
@@ -187,10 +187,10 @@ button:active {
     box-sizing: border-box;
 }
 
-/* --- Base Header Styles (Applies to Desktop first, then overridden by media queries) --- */
+/* --- Header Styles (Applies to All Screen Sizes unless overridden by media queries) --- */
 .song-list-header {
     display: flex;
-    flex-wrap: wrap; /* Allow wrapping for smaller screens if needed */
+    flex-wrap: wrap; /* Crucial for two-row layout */
     align-items: center;
     width: 100%;
     padding: 10px 15px;
@@ -198,43 +198,71 @@ button:active {
     z-index: 3;
     box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     box-sizing: border-box;
-    gap: 10px;
+    gap: 10px; /* Default gap between items in a row */
 }
 
-.song-list-header > * {
-    flex-shrink: 1; /* Default shrink for items */
-}
-
+/* First Row Elements */
 .song-list-header h2 { /* 標題 */
+    order: 1; /* First item in the first row */
     margin: 0;
     font-size: 1.3em;
     color: #343a40;
-    flex-shrink: 0; /* Title doesn't shrink */
+    flex-shrink: 0;
     white-space: nowrap;
     margin-right: 5px; /* Gap between title and song count */
 }
 
 .song-list-header p#song-count { /* 曲數統計 */
+    order: 2; /* Second item in the first row */
     margin: 0;
     font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
-    flex-shrink: 0; /* Song count doesn't shrink */
-    /* margin-right: auto; This will be handled differently for desktop vs mobile */
+    flex-shrink: 0;
+    /* No margin-right: auto here, it will be next to title */
 }
 
+/* This div will act as a spacer to push buttons to the right on the first row */
+.header-spacer {
+    order: 3;
+    flex-grow: 1; /* Takes up all available space between song count and buttons */
+}
+
+#notion-header-button {
+    order: 4; /* Third item group (first button) in the first row */
+    margin: 0; /* Remove default button margin if any */
+    flex-shrink: 0;
+    background-color: #5bc0de;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    white-space: nowrap;
+}
+#notion-header-button:hover { background-color: #31b0d5; }
+
+#close-button {
+    order: 5; /* Fourth item group (second button) in the first row */
+    margin: 0; /* Remove default button margin if any */
+    flex-shrink: 0;
+    background-color: #dc3545;
+    color: white;
+    padding: 8px 15px;
+    font-size: 14px;
+}
+#close-button:hover { background-color: #c82333; }
+
+/* Second Row Element */
 .search-wrapper {
+    order: 6; /* This will force it to the next line */
+    width: 100%; /* Take full width of the container */
+    flex-basis: 100%; /* Ensures it takes full width in flex context */
     display: flex;
     align-items: center;
-    flex-grow: 1;      /* Allows it to take up available space */
-    min-width: 200px;  /* Minimum width for the search box */
-    max-width: 380px;  /* Maximum width for the search box (adjust as needed) */
-    margin-left: auto; /* Pushes search and subsequent buttons to the right of song count */
-    margin-right: 10px;/* Gap before Notion button */
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
+    margin-top: 10px; /* Space between first and second row */
     transition: border-color 0.15s ease-in-out;
 }
 
@@ -250,7 +278,7 @@ button:active {
     padding: 8px 12px;
     font-size: 14px;
     background-color: transparent;
-    min-width: 0; /* Crucial for preventing content from expanding the wrapper */
+    min-width: 0;
     box-sizing: border-box;
     margin: 0;
 }
@@ -270,28 +298,7 @@ button:active {
 #clear-search-button:hover {
     color: #333;
 }
-
-#notion-header-button {
-    margin: 0;
-    flex-shrink: 0; /* Notion button doesn't shrink */
-    background-color: #5bc0de;
-    color: white;
-    padding: 8px 12px;
-    font-size: 14px;
-    white-space: nowrap;
-}
-#notion-header-button:hover { background-color: #31b0d5; }
-
-#close-button {
-    margin: 0;
-    flex-shrink: 0; /* Close button doesn't shrink */
-    background-color: #dc3545;
-    color: white;
-    padding: 8px 15px;
-    font-size: 14px;
-}
-#close-button:hover { background-color: #c82333; }
-/* --- End Base Header Styles --- */
+/* --- End Header Styles --- */
 
 
 .list-filter-controls {
@@ -432,6 +439,7 @@ button:active {
 #booth-link { bottom: 10px; left: 60px; }
 
 /* --- Medium Screens (Tablets, Larger Phones) --- */
+/* Styles here will inherit from the base and then be overridden if specified */
 @media (max-width: 768px) {
     body {
         align-items: center;
@@ -457,19 +465,21 @@ button:active {
     .song-list-header h2 { font-size: 1.1em; }
     .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
 
+    /* .header-spacer for medium screens - might not be needed if buttons fit */
+
+    #notion-header-button { padding: 6px 10px; font-size: 13px; }
+    #close-button { padding: 6px 12px; font-size: 13px; }
+
     .search-wrapper {
-        min-width: 150px;
-        max-width: 300px; /* Adjust max-width for tablets */
-        margin-left: auto;
-        margin-right: 8px;
+        /* min-width: 150px; */ /* Already set in base */
+        /* max-width: 100%; */ /* Allow it to take full width on its line if other elements wrap */
+        margin-top: 8px; /* Ensure spacing if it wraps */
     }
     #search-input {
         font-size: 13px;
         padding: 6px 10px;
     }
 
-    #notion-header-button { padding: 6px 10px; font-size: 13px; }
-    #close-button { padding: 6px 12px; font-size: 13px; }
 
     .list-filter-controls { padding: 6px 12px; }
     label[for="list-song-type-filter"] { font-size: 13px; }
@@ -492,47 +502,60 @@ button:active {
 }
 
 /* --- Small Screens (Phones) --- */
+/* Styles here will inherit from base and medium, then be overridden */
 @media (max-width: 480px) {
      #song-list {
          width: 95%;
-         max-height: 80vh; /* Slightly increase max height for better usability with two header rows */
+         max-height: 80vh;
      }
 
      .song-list-header {
          padding: 8px 10px;
-         gap: 8px;
-         flex-wrap: wrap;
+         gap: 6px; /* Smaller gap for phone */
      }
 
-     /* First row on mobile: Title and Song Count */
-     .song-list-header h2 { /* 標題 */
+     /* First Row on Mobile */
+     .song-list-header h2 {
          order: 1;
          font-size: 1em;
          margin: 0;
+         /* flex-basis: auto; /* Let content decide for title */
          white-space: normal; /* Allow title to wrap */
-         flex-grow: 1; /* Allow title to take up space */
-         flex-basis: 60%; /* Give it a basis to start */
      }
-     .song-list-header p#song-count { /* 曲數統計 */
+     .song-list-header p#song-count {
          order: 2;
          font-size: 0.75em;
          margin: 0;
          white-space: nowrap;
-         margin-left: auto; /* Pushes it to the right of the title */
-         align-self: center; /* Vertically align with title */
-         flex-shrink: 0;
+         /* margin-left: auto; /* This is handled by the spacer now */
+         align-self: center;
+     }
+     .header-spacer { /* Ensure spacer works on mobile too */
+        order: 3;
+        flex-grow: 1;
+     }
+     #notion-header-button {
+         order: 4;
+         padding: 5px 8px;
+         font-size: 12px;
+         margin:0; /* Reset margin */
+     }
+     #close-button {
+         order: 5;
+         padding: 5px 10px;
+         font-size: 12px;
+         margin:0; /* Reset margin */
      }
 
-    /* Second row on mobile: Search, Notion Button, Close Button */
+    /* Second Row on Mobile */
      .search-wrapper {
-         order: 3;
-         width: auto; /* Let flex control the width */
-         flex-grow: 1; /* Takes up most space in the second row */
-         flex-basis: 0; /* Allows flex-grow to dominate */
-         min-width: 100px; /* Prevent it from becoming too small */
-         max-width: none; /* Remove desktop max-width */
-         margin: 8px 0 0 0; /* Top margin, remove side margins */
-         margin-right: 8px; /* Space before Notion button */
+         order: 6;
+         width: 100%;
+         flex-basis: 100%;
+         min-width: 0; /* Allow full shrink if necessary */
+         margin: 8px 0 0 0; /* Top margin, no side margins */
+         margin-left: 0;
+         margin-right: 0;
      }
      #search-input {
          font-size: 13px;
@@ -543,22 +566,6 @@ button:active {
         padding: 0 6px;
      }
 
-     #notion-header-button {
-         order: 4;
-         padding: 5px 8px;
-         font-size: 12px;
-         white-space: nowrap;
-         margin: 8px 0 0 0; /* Align with search wrapper's top margin */
-         flex-shrink: 0;
-     }
-     #close-button {
-         order: 5;
-         padding: 5px 10px;
-         font-size: 12px;
-         white-space: nowrap;
-         margin: 8px 0 0 0; /* Align with search wrapper's top margin */
-         flex-shrink: 0;
-     }
 
      .list-filter-controls { padding: 5px 10px; justify-content: center; }
      label[for="list-song-type-filter"] { font-size: 12px; }
