@@ -8183,6 +8183,7 @@ const animeSongs = [
     "Here I am/globe",                                  //Black Jack的第二首片頭主題曲
     "SIX COLORS BOY/雛形あきこ",                        //蠟筆小新：奇天烈大冒險 的片尾主題曲
     "When they cry/片霧烈火",                           //寒蟬鳴泣之時  07th Expansion pc
+    "花になって/緑黄色社会",                              //薬屋のひとりごと op
 ];
     
 
