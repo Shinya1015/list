@@ -181,16 +181,16 @@ button:active {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     height: auto;
     max-height: 80vh;
-    overflow: hidden;
+    overflow: hidden; /* Container itself hides overflow */
     position: relative;
-    padding: 0;
+    padding: 0; /* Padding will be on scrollable-list and header/filter */
     box-sizing: border-box;
 }
 
 /* --- Header Styles (Applies to All Screen Sizes unless overridden by media queries) --- */
 .song-list-header {
     display: flex;
-    flex-wrap: wrap; /* Crucial for two-row layout */
+    flex-wrap: wrap;
     align-items: center;
     width: 100%;
     padding: 10px 15px;
@@ -202,32 +202,33 @@ button:active {
 }
 
 .song-list-header > * {
-    flex-shrink: 0; /* Prevent items from shrinking by default */
+    flex-shrink: 0;
+    margin: 0;
 }
 
-/* First Row Elements */
-.song-list-header h2 { /* 標題 */
+.song-list-header h2 {
     order: 1;
-    margin: 0;
     font-size: 1.3em;
     color: #343a40;
     white-space: nowrap;
     margin-right: 5px;
 }
 
-.song-list-header p#song-count { /* 曲數統計 */
+.song-list-header p#song-count {
     order: 2;
-    margin: 0;
     font-size: 0.9em;
     color: #6c757d;
     white-space: nowrap;
-    /* Removed margin-right: auto to allow buttons to be on the right */
 }
 
-/* Notion按鈕會被推到右邊 */
-#notion-header-button {
+.header-spacer { /* Needs to be in HTML: <div class="header-spacer"></div> */
     order: 3;
-    margin: 0 0 0 auto; /* Left auto margin pushes it and subsequent items to the right */
+    flex-grow: 1;
+    min-width: 10px;
+}
+
+#notion-header-button {
+    order: 4;
     background-color: #5bc0de;
     color: white;
     padding: 8px 12px;
@@ -237,8 +238,7 @@ button:active {
 #notion-header-button:hover { background-color: #31b0d5; }
 
 #close-button {
-    order: 4; /* Follows Notion button */
-    margin: 0;
+    order: 5;
     background-color: #dc3545;
     color: white;
     padding: 8px 15px;
@@ -246,18 +246,17 @@ button:active {
 }
 #close-button:hover { background-color: #c82333; }
 
-/* Second Row Element */
 .search-wrapper {
-    order: 5;          /* Forces it to the next line */
-    width: 100%;       /* Takes full width */
-    flex-basis: 100%;  /* Ensures it takes full width in flex context */
+    order: 6;
+    width: 100%;
+    flex-basis: 100%;
     display: flex;
     align-items: center;
     border: 1px solid #ced4da;
     border-radius: 4px;
     background-color: white;
     overflow: hidden;
-    margin-top: 10px;  /* Space between first and second row */
+    margin-top: 10px;
     transition: border-color 0.15s ease-in-out;
 }
 
@@ -303,6 +302,7 @@ button:active {
     display: flex;
     align-items: center;
     gap: 8px;
+    box-sizing: border-box;
 }
 .list-filter-controls label {
     margin: 0;
@@ -311,7 +311,7 @@ button:active {
 .scrollable-list {
     flex-grow: 1;
     overflow-y: auto;
-    padding: 0 10px 10px 10px;
+    padding: 10px 10px 80px 10px;  /* <<<<<< padding-bottom IS THE KEY MODIFICATION HERE */
     width: 100%;
     box-sizing: border-box;
     background-color: #fff;
@@ -458,7 +458,6 @@ button:active {
     }
     .song-list-header h2 { font-size: 1.1em; }
     .song-list-header p#song-count { font-size: 0.8em; }
-    /* Notion and Close buttons will be pushed right by #notion-header-button's margin-left: auto */
     #notion-header-button { padding: 6px 10px; font-size: 13px; }
     #close-button { padding: 6px 12px; font-size: 13px; }
 
@@ -499,40 +498,26 @@ button:active {
 
      .song-list-header {
          padding: 8px 10px;
-         gap: 6px;
+         gap: 6px; /* Smaller gap for phone */
      }
 
-     /* First Row Elements on Mobile */
      .song-list-header h2 {
-         order: 1;
          font-size: 1em;
-         white-space: normal; /* Allow title to wrap */
+         white-space: normal;
      }
      .song-list-header p#song-count {
-         order: 2;
          font-size: 0.75em;
      }
-     /* Notion button will be pushed right by its own margin-left: auto */
      #notion-header-button {
-         order: 3;
          padding: 5px 8px;
          font-size: 12px;
-         margin: 0 0 0 auto; /* Push to right */
      }
      #close-button {
-         order: 4;
          padding: 5px 10px;
          font-size: 12px;
-         margin: 0; /* Next to Notion button */
      }
-
-    /* Second Row on Mobile */
      .search-wrapper {
-         order: 5; /* After all first-row items */
-         width: 100%;
-         flex-basis: 100%;
-         min-width: 0;
-         margin: 8px 0 0 0; /* Top margin, no side margins */
+         margin-top: 8px;
      }
      #search-input {
          font-size: 13px;
