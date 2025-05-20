@@ -1265,7 +1265,7 @@ const songStreamLinks = {
     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 1625 },
   ],
   "光/LOVE PSYCHEDELICO": [
-     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9054},
+     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9052},
   ],
   "僕たちの行方/高橋瞳": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3326 },
