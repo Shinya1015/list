@@ -1394,7 +1394,16 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 4720},
   ],
   "明日晴れるかな/桑田佳祐": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8567},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 16339},
+     { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 8770},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 8832},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 1518},
+     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 2199},
+     { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 9502},
+     { date: "2023年7月4日", videoId: "mkpd9yNavEM", timestamp: 2782},
+     { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 5063},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 3883},
   ],
   "ZERO!!/栗林みな実": [
     { },
