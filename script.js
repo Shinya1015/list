@@ -2471,7 +2471,16 @@ const songStreamLinks = {
     { },
   ],
   "花になって/緑黄色社会": [
-    { },
+     { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 790},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 1523},
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6946},
+     { date: "2024年5月30日", videoId: "H8CIE-SG5Tg", timestamp: 937},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 15683},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 4024},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 10470},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 6653},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 10435},
+     { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 1857},
