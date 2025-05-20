@@ -408,8 +408,8 @@ button:active {
      }
      #song-list {
          width: 95%;
-         /* max-height: 55vh; */ /* Original */
-         max-height: calc(100vh - 20px - 60px - 10px); /* 100vh - margins - body_padding_bottom - buffer */
+         max-height: 55vh; 
+      
      }
 
      .song-list-header {
