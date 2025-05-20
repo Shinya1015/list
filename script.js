@@ -2871,7 +2871,7 @@ const songStreamLinks = {
     { },
   ],
   "soundless voice/ひとしずくP": [
-    { },
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12836},
