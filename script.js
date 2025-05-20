@@ -1749,7 +1749,8 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
    "Story/19's Sound Factory": [
-      { date: "2024年12月31日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
+      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
+      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9611},
   ],
   "白い雪のプリンセスは/のぼる": [
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 9765},
