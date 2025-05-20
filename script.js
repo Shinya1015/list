@@ -1317,7 +1317,17 @@ const songStreamLinks = {
       { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8024 },
   ],
   "微笑みの爆弾/馬渡松子": [
-    { },
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3597},
+     { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 1594},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 1883},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 4647},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 5099},
+     { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 790},
+     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 8684},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 21241},
+     { date: "2023年6月24日", videoId: "NSDbgOVoe-I", timestamp: 4097},
+     { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 2309},
+     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 915},
   ],
   "だんご大家族/茶太": [
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8422},
