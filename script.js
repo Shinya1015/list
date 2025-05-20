@@ -4070,7 +4070,6 @@ const songStreamLinks = {
   ],
   "One day/The ROOTLESS": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4390 },
-      
   ],
   "お願い！シンデレラ/THE IDOLM@STER CINDERELLA GIRLS": [
      { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 894},
@@ -4080,7 +4079,8 @@ const songStreamLinks = {
     { },
   ],
   "The Story of Us/Taylor Swift": [
-    { },
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 13550},
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 3538},
   ],
   "The secret garden/葉月ゆら": [
     { },
