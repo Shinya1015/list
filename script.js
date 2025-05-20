@@ -1128,7 +1128,7 @@ const songStreamLinks = {
         { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12130},
   ],
   "バニラソルト/堀江由衣": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4257 },
