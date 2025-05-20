@@ -3442,7 +3442,16 @@ const songStreamLinks = {
     { },
   ],
   "粛聖!!ロリ神レクイエム☆/しぐれうい": [
-     
+     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 2065},
+     { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 6979},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 8046},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 3457},
+     { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 11832},
+     { date: "2023年12月21日", videoId: "fWV5gEtemxc", timestamp: 5632},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 5435},
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 6070},
+     { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 14451},
+     { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 7823},
   ],
   "Step and Go!/シグナルP": [
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
