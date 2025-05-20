@@ -3669,7 +3669,11 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2032 },
   ],
   "secret base～君がくれたもの～/ZONE": [
-    { },
+     { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 6887},
+     { date: "2024年7月19日-piano ver", videoId: "axfOi0qwNKQ", timestamp: 2510},
+     { date: "2023年9月5日-piano ver", videoId: "SQDAP7N--Vk", timestamp: 2265},
+     { date: "2023年8月9日-piano ver", videoId: "bNPIz_XxNxU", timestamp: 1143},
+     { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
     { },
