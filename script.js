@@ -3442,7 +3442,7 @@ const songStreamLinks = {
     { },
   ],
   "粛聖!!ロリ神レクイエム☆/しぐれうい": [
-    { },
+     
   ],
   "Step and Go!/シグナルP": [
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
@@ -8228,7 +8228,6 @@ const animeSongs = [
     "それは小さな光のような/さユり",                   // 只有我不存在的城市 (ERASED)
     "ミカヅキ/さユり",                                  // 亂步奇譚 Game of Laplace
     "花の塔/さユり",                                    // Lycoris Recoil 莉可麗絲
-    "粛聖!!ロリ神レクイエム☆/しぐれうい",              // VTuber歌曲 - 非動畫合作曲
     "モノクロのキス/シド",                              // 黑執事 (Black Butler)
     "嘘/シド",                                          // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "めいど・うぃず・どらごんず/スーパーちょろゴンず",  // 小林家的龍女僕S (Miss Kobayashi's Dragon Maid S)
