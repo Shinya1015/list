@@ -1837,7 +1837,13 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 3291},
   ],
   "タイプ:ワイルド/松本梨香": [
-    { },
+     { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 3978},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 9150},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 2079},
+     { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 3977},
+     { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 5029},
+     { date: "2023年2月25日(一番のみ)", videoId: "MlwfL4gWsqo", timestamp: 5903},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8458},
   ],
   "OK!/松本梨香": [
     { },
