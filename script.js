@@ -1846,7 +1846,17 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8458},
   ],
   "OK!/松本梨香": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6904},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 10218},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5517},
+     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 6703},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 3687},
+     { date: "2024年4月25日", videoId: "LPxqWJTDXCw", timestamp: 19627},
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 1218},
+     { date: "2023年11月9日", videoId: "z_XBDnAUf8A", timestamp: 5414},
+     { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 4299},
+     { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 8696},
+     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 6746},
   ],
   "GO! GO! MANIAC/放課後ティータイム": [
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
