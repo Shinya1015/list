@@ -1770,7 +1770,8 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15242},
   ],
   "はっぴぃ にゅう にゃあ/芹沢文乃(伊藤かな恵)&梅ノ森千世(井口裕香)&霧谷希(竹達彩奈)": [
-    { },
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 1244},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 7395},
   ],
   "ふわふわ♪/牧野由依": [
      { date: "2023年10月13日", videoId: "YwhvzxTlELM", timestamp: 8394},
