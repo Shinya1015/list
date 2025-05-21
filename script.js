@@ -1779,7 +1779,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 6241},
   ],
   "おもかげ/林原めぐみ": [
-    { },
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 15397},
   ],
   "Over soul/林原めぐみ": [
     { },
@@ -3382,7 +3382,9 @@ const songStreamLinks = {
     { },
   ],
   "めいど・うぃず・どらごんず/スーパーちょろゴンず": [
-    { },
+     { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 6276},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 17521},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 6275},
   ],
   　"はじまりの日/スガシカオ": [
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3111},
