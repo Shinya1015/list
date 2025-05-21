@@ -8053,6 +8053,7 @@ const lowPitchSongs = [
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
     "Best Friend/Kiroro",
     "夏祭り/Whiteberry",
+    "おもかげ/林原めぐみ",
 ];
 const animeSongs = [
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
