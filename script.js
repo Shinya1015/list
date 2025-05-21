@@ -5187,7 +5187,16 @@ const songStreamLinks = {
     { },
   ],
   "ファンサ/mona(CV:夏川椎菜)": [
-    { },
+     { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4364},
+     { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2168},
+     { date: "2024年4月20日", videoId: "OyA_gOnzlwg", timestamp: 3530},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 21238},
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 8814},
+     { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 4006},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 19018},
+     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 7026},
+     { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 2930},
+     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 3398},
   ],
   "リブート/miwa": [
     { },
