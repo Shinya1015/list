@@ -1907,7 +1907,10 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 7722},
   ],
   "バレンタイン・キッス/国生さゆり": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 2650},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 959},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 3427},
+     { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 9434},
   ],
   "Butter-Fly/和田光司": [
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2943},
