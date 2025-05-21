@@ -1832,7 +1832,9 @@ const songStreamLinks = {
       { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5997},
   ],
   "ライバル!/松本梨香": [
-    { },
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 2311},
+     { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 9637},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 3291},
   ],
   "タイプ:ワイルド/松本梨香": [
     { },
