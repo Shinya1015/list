@@ -1887,7 +1887,7 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 15407},
   ],
   "TOMORROW/岡本真夜": [
-    { },
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2378},
   ],
   "美少女無罪♡パイレーツ/宝鐘マリン": [
     { },
