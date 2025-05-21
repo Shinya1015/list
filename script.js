@@ -1993,7 +1993,12 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 5044 },
   ],
   "トリセツ/西野カナ": [
-    { },
+     { date: "2025年1月25日", videoId: "ODwLV-exnQU", timestamp: 5181},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 19721},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 3693},
+     { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 4614},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 5776},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1106},
   ],
   "Best Friend/西野カナ": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1720},
