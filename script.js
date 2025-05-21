@@ -1975,7 +1975,13 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 8764 },
   ],
   "ウラオモテ・フォーチュン/佐倉千代(CV:小澤亜李)": [
-    { },
+     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9575},
+     { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 4964},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 7809},
+     { date: "2023年11月25日", videoId: "SaIZRCOjLjg", timestamp: 4364},
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 2392},
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 2512},
+     { date: "2023年1月4日", videoId: "ZuvpreZgpGk", timestamp: 8912},
   ],
   "吉原ラメント/亜沙": [
     { },
