@@ -1782,7 +1782,16 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 15397},
   ],
   "Over soul/林原めぐみ": [
-    { },
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3512},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 4652},
+     { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 7733},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 9543},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 2292},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 9605},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 9256},
+     { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4806},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 8187},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2162},
   ],
   "Northern lights/林原めぐみ": [
     { },
