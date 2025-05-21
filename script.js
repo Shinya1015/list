@@ -1984,7 +1984,8 @@ const songStreamLinks = {
      { date: "2023年1月4日", videoId: "ZuvpreZgpGk", timestamp: 8912},
   ],
   "吉原ラメント/亜沙": [
-    { },
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4262},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
   "Style. /西野カナ": [
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2341 },
