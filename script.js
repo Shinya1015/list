@@ -2362,7 +2362,7 @@ const songStreamLinks = {
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 8077},
   ],
   "君はいなせなガール/石風呂": [
-    { },
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4301},
   ],
   "ゆるふわ樹海ガール/石風呂": [
     { },
