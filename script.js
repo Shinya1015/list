@@ -2252,6 +2252,7 @@ const songStreamLinks = {
     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
+     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1389},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6439},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 5447},
      { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 5778},
