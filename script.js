@@ -2433,7 +2433,8 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 11635},
   ],
   "Super Driver/平野綾": [
-    { },
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 2105},
+     { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 5703},
   ],
   "POP STAR/平井堅": [
       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 10916},
