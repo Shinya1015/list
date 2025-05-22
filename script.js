@@ -4616,6 +4616,7 @@ const songStreamLinks = {
     { },
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1987},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1080},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 4976},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 3875},
