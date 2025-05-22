@@ -2406,7 +2406,13 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 4670},
   ],
   "fancy baby doll/田村ゆかり": [
-    { },
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 7709},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 11342},
+     { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 4565},
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 2673},
+     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 4098},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 3525},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4456},
   ],
   "FEELING AROUND/鈴木みのり": [
     { },
