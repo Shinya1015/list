@@ -2138,7 +2138,13 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20856},
   ],
   "パプリカ/米津玄師": [
-    { },
+     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7012},
+     { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 6373},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 31809},
+     { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 6317},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 20373},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 11364},
+     { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1337},
