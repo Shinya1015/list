@@ -1,6 +1,7 @@
 
 const songStreamLinks = {
    "When they cry/片霧烈火": [
+      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2666},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 5762},
       ],
    "告白ライバル宣言/HoneyWorks": [
