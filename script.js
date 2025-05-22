@@ -2169,6 +2169,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 4018},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 730},
      { date: "2025年3月31日", videoId: "", timestamp: 10351 },
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 1498 },
