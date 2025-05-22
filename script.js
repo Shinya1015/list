@@ -2415,7 +2415,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4456},
   ],
   "FEELING AROUND/鈴木みのり": [
-    { },
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 10100},
   ],
   "冒険でしょでしょ？/平野綾": [
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 4437},
