@@ -2386,7 +2386,9 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 11629},
   ],
   "童話迷宮/田村ゆかり": [
-    { },
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 3899},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 11373},
+     { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
   "Little Wish ～lyrical step～/田村ゆかり": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 13039},
