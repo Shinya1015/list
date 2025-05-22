@@ -7112,6 +7112,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2260},
        { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 3631},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 8206 },
        { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11766 },
