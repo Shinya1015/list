@@ -2369,7 +2369,10 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2493},
   ],
   "ゆずれない願い/田村直美": [
-    { },
+     { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 5989},
+     { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2887},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 12607},
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
   "Ready Go!/田村直美": [
     { },
