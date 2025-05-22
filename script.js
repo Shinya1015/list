@@ -2365,7 +2365,8 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4301},
   ],
   "ゆるふわ樹海ガール/石風呂": [
-    { },
+     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 5420},
+     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2493},
   ],
   "ゆずれない願い/田村直美": [
     { },
