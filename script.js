@@ -644,6 +644,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5783},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 11002},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5320},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 2967},
