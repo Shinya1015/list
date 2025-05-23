@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "遥か/清竜人": [
+      { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1410},
+      ], 
    "When they cry/片霧烈火": [
       { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2666},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 5762},
@@ -8188,6 +8191,7 @@ const lowPitchSongs = [
     "Best Friend/Kiroro",
     "夏祭り/Whiteberry",
     "おもかげ/林原めぐみ",
+    "遥か/清竜人",
 ];
 const animeSongs = [
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
@@ -9800,4 +9804,5 @@ const streamerSongList = [
     "Little Busters/Rita",
     "フィクション/sumika",
     "When they cry/片霧烈火",
+    "遥か/清竜人",
 ];
