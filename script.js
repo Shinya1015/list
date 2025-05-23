@@ -2587,7 +2587,13 @@ const songStreamLinks = {
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1435},
   ],
   "月曜日の憂鬱/天月-あまつき-": [
-    { },
+     { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 798},
+     { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 1391},
+     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 5524},
+     { date: "2024年7月21日", videoId: "8srFrHvleKw", timestamp: 1955},
+     { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 7410},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8783},
+     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
   ],
   "シューティングスター/天月-あまつき-": [
     { },
