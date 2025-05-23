@@ -2582,7 +2582,9 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 1023 },
   ],
   "かいしんのいちげき!/天月-あまつき-": [
-    { },
+     { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 1688},
+     { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 4006},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1435},
   ],
   "月曜日の憂鬱/天月-あまつき-": [
     { },
