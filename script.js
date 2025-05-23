@@ -2553,7 +2553,10 @@ const songStreamLinks = {
      { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 2933},
   ],
   "ブリキノダンス/日向電工": [
-    { },
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1802},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14451},
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1344},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5836},
   ],
   "テルーの唄/手嶌葵": [
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 7429 },
