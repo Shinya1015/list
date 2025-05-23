@@ -2544,7 +2544,13 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 922},
   ],
   "いつも何度でも/木村弓": [
-    { },
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17194},
+     { date: "2024年10月15日", videoId: "V121F-Q8R2c", timestamp: 3387},
+     { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 5820},
+     { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 6407},
+     { date: "2023年11月28日", videoId: "9c9LSfg2V4c", timestamp: 3649},
+     { date: "2023年10月27日", videoId: "ApaAKdwo6AE", timestamp: 5647},
+     { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 2933},
   ],
   "ブリキノダンス/日向電工": [
     { },
@@ -8270,6 +8276,7 @@ const lowPitchSongs = [
     "消せない罪/北出菜奈",
     "エジソン/水曜日のカンパネラ",
     "いのちの名前/木村弓",
+    "いつも何度でも/木村弓",
 ];
 const animeSongs = [
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
