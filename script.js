@@ -2595,8 +2595,14 @@ const songStreamLinks = {
      { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8783},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
   ],
+  "シューティングスター/八王子P": [
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9849},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 14492},
+     { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 11355},
+     { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 2136},
+  ],
   "シューティングスター/天月-あまつき-": [
-    { },
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 460},
@@ -2778,9 +2784,6 @@ const songStreamLinks = {
     { },
   ],
   "バタフライ・グラフィティ/八王子P": [
-    { },
-  ],
-  "シューティングスター/八王子P": [
     { },
   ],
   "KiLLER LADY/八王子P": [
