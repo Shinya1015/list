@@ -2466,7 +2466,14 @@ const songStreamLinks = {
      { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 3695},
   ],
   "エジソン/水曜日のカンパネラ": [
-    { },
+     { date: "2025年3月8日", videoId: "nGz0rPlZpIY", timestamp: 4504},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 7047},
+     { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 8202},
+     { date: "2023年10月13日", videoId: "YwhvzxTlELM", timestamp: 9199},
+     { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 4468},
+     { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 1351},
+     { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 13467},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
   "innocent starter/水樹奈々": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 861},
@@ -8215,6 +8222,7 @@ const lowPitchSongs = [
     "おもかげ/林原めぐみ",
     "遥か/清竜人",
     "消せない罪/北出菜奈",
+    "エジソン/水曜日のカンパネラ",
 ];
 const animeSongs = [
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
