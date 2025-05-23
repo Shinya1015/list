@@ -2458,7 +2458,12 @@ const songStreamLinks = {
      { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 1772},
   ],
   "消せない罪/北出菜奈": [
-    { },
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9386},
+     { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 2816},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 2981},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 8622},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 22701},
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 3695},
   ],
   "エジソン/水曜日のカンパネラ": [
     { },
@@ -8209,6 +8214,7 @@ const lowPitchSongs = [
     "夏祭り/Whiteberry",
     "おもかげ/林原めぐみ",
     "遥か/清竜人",
+    "消せない罪/北出菜奈",
 ];
 const animeSongs = [
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
