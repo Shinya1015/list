@@ -2649,7 +2649,7 @@ const songStreamLinks = {
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 5102},
   ],
   "Oh My Darlin'/中ノ森BAND": [
-   { },
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 11289},
   ],
   "PSI-missing/川田まみ": [
     { },
@@ -8306,6 +8306,7 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
+
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
     "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
     "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
