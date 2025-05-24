@@ -3873,7 +3873,10 @@ const songStreamLinks = {
       { date: "2023年1月18日-piano ver.", videoId: "ME1ONTBCpho", timestamp: 7352 },
   ],
   "君のそばで～ヒカリのテーマ～/グリン": [
-    { },
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 3066},
+     { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 1155},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 1580},
+     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 6528},
   ],
   "Catch You Catch Me/グミ": [
     { },
