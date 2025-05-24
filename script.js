@@ -2694,7 +2694,11 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 7501},
   ],
   "輝く未来/小此木麻里&畠中洋": [
-    { },
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 15722},
+     { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 564},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 6384},
+     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 4391},
+     { date: "2023年6月22日", videoId: "__d7n-cufO8", timestamp: 1337},
   ],
   "たしかなこと/小田和正": [
     { },
