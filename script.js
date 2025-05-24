@@ -2705,7 +2705,12 @@ const songStreamLinks = {
      { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9055},
   ],
   "ラブ・ストーリーは突然に/小田和正": [
-     { },
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4176},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 12724},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 15972},
+     { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 6702},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 10042},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 13527},
   ],
   "キラキラ/小田和正": [
    { },
