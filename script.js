@@ -106,6 +106,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8187},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1782},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11042},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6474 },
