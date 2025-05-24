@@ -1029,6 +1029,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3168},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4040},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10527},
   ],
