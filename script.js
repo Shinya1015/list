@@ -427,6 +427,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4176},
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 2405},
      { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 4666},
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 7434},
