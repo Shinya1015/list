@@ -7342,7 +7342,8 @@ const songStreamLinks = {
         { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 5513 },
         { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
      ],
-"ココロのちず/BOYSTYLE": [
+    "ココロのちず/BOYSTYLE": [
+       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 5824},
        { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8429 },
        { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6823 },
        { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 5026 },
