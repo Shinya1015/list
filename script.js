@@ -1,6 +1,7 @@
 
 const songStreamLinks = {
    "遥か/清竜人": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3898},
       { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1410},
       ], 
    "When they cry/片霧烈火": [
