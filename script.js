@@ -1879,6 +1879,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8458},
   ],
   "OK!/松本梨香": [
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2194},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6904},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 10218},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5517},
