@@ -5922,6 +5922,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5988},
   ],
   "瞬きもせずに/H△G": [
+     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1185},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 3907},
      { date: "2023年8月19日(アカペラ、一番のみ)", videoId: "_LMnJTamXFo", timestamp: 1366},
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
