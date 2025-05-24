@@ -2701,7 +2701,8 @@ const songStreamLinks = {
      { date: "2023年6月22日", videoId: "__d7n-cufO8", timestamp: 1337},
   ],
   "たしかなこと/小田和正": [
-    { },
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 11259},
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9055},
   ],
   "ラブ・ストーリーは突然に/小田和正": [
      { },
