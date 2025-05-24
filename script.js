@@ -1,5 +1,10 @@
 
 const songStreamLinks = {
+
+   
+   "ポケッターリ モンスターリ/可名": [
+      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
+      ],
    "HIGH POWERED/スフィア": [
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13406},
       ],
@@ -8786,6 +8791,7 @@ const animeSongs = [
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
     "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
     "小さきもの/林明日香",                              // 精靈寶可夢劇場版：七夜的許願星 基拉祈 (Pokémon: Jirachi—Wish Maker) - 電影
+  　"ポケッターリ モンスターリ/可名",
     "Drawing days/SPLAY",                               // 家庭教師HITMAN REBORN! (Reborn!)
     "心絵/ロードオブメジャー",                          // MAJOR 棒球大聯盟
     "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)", // 幸運☆星 (Lucky☆Star)
@@ -10096,4 +10102,5 @@ const streamerSongList = [
     "遥か/清竜人",
     "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
     "HIGH POWERED/スフィア",
+　　"ポケッターリ モンスターリ/可名",
 ];
