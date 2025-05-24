@@ -3909,6 +3909,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 5469},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 11742},
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4850},
      { date: "2025年1月25日", videoId: "ODwLV-exnQU", timestamp: 1895},
