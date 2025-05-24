@@ -6708,6 +6708,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1496},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 6087},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 16290},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5325},
