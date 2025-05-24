@@ -273,6 +273,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
   "星屑のインターリュード/fhana": [
+     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12446},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 4904},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5489},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3860 },
