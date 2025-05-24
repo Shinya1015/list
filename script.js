@@ -1,5 +1,11 @@
 
 const songStreamLinks = {
+   "HIGH POWERED/スフィア": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13406},
+      ],
+   "いつかの、いくつかのきみとのせかい/fhana": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
+      ], 
    "遥か/清竜人": [
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3898},
       { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1410},
@@ -8436,6 +8442,8 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
+    "HIGH POWERED/スフィア",                                       //侵略!?イカ娘第2季（OP）
+    "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
     "Deep in Abyss/リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)",         //來自深淵 第一季的片頭曲OP
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
     "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
@@ -10048,4 +10056,6 @@ const streamerSongList = [
     "フィクション/sumika",
     "When they cry/片霧烈火",
     "遥か/清竜人",
+    "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
+    "HIGH POWERED/スフィア",
 ];
