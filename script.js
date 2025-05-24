@@ -2735,7 +2735,17 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13439},
   ],
   "黒毛和牛上塩タン焼680円/大塚愛": [
-    { },
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 4664},
+     { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 568},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 19390},
+     { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 5389},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 8054},
+     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 4419},
+     { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 5605},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 5860},
+  ],
+    "黒毛和牛上塩タン焼735円/大塚愛": [
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 2890},
   ],
   "フレンジャー/大塚愛": [
     { },
@@ -9825,6 +9835,7 @@ const streamerSongList = [
     "プラネタリウム/大塚愛",
     "フレンジャー/大塚愛",
     "黒毛和牛上塩タン焼680円/大塚愛",
+    "黒毛和牛上塩タン焼735円/大塚愛",
     "火炎/女王蜂",
     "キラキラ/aiko",
     "キラキラ/小田和正",
