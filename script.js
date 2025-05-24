@@ -2690,7 +2690,8 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 14084},
   ],
   "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)": [
-    { },
+     { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 9044},
+     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 7501},
   ],
   "輝く未来/小此木麻里&畠中洋": [
     { },
@@ -8143,6 +8144,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)",
    "TOMORROW/岡本真夜",
    "素晴らしき世界/Rake",
    "忘れじの言の葉/安次嶺希和子",
