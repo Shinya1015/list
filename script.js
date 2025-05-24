@@ -6606,7 +6606,8 @@ const songStreamLinks = {
       { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 1461 },
       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
-  "夜鷹の夢/Do As Infinity": [
+   "夜鷹の夢/Do As Infinity": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13732},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5367 },
       { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6785 },
       { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2425 },
