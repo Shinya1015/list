@@ -8347,7 +8347,7 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
-
+    "Deep in Abyss/リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)",         //來自深淵 第一季的片頭曲OP
     "17才/ハルカトミユキ",                                       //色づく世界の明日から 的片頭主題曲
     "グロウアップ/Hysteric Blue",                               //学校の怪談 片頭主題曲
     "あいうえおんがく/GReeeeN",                                 //LINE TOWN的片頭主題曲
