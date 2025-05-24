@@ -2400,7 +2400,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 11373},
      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
-  "Little Wish ～lyrical step～/田村ゆかり": [
+   "Little Wish ～lyrical step～/田村ゆかり": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6538},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 13039},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9680},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 3494},
