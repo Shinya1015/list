@@ -2488,7 +2488,8 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 13467},
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
-  "innocent starter/水樹奈々": [
+   "innocent starter/水樹奈々": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12144},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 861},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 3182},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10884},
