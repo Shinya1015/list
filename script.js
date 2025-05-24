@@ -1,7 +1,8 @@
 
 const songStreamLinks = {
-
-   
+   "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)": [
+      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2442},
+      ],
    "ポケッターリ モンスターリ/可名": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
@@ -8482,6 +8483,7 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
+    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",   // 精靈寶可夢 (Pokémon)
     "火炎/女王蜂",                                                //どろろ op
     "HIGH POWERED/スフィア",                                       //侵略!?イカ娘第2季（OP）
     "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
@@ -10104,4 +10106,5 @@ const streamerSongList = [
     "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
     "HIGH POWERED/スフィア",
 　　"ポケッターリ モンスターリ/可名",
+    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",   // 精靈寶可夢 (Pokémon)
 ];
