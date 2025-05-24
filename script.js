@@ -7532,6 +7532,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 2882},
       { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2774},
       { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 2736 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 1974 },
