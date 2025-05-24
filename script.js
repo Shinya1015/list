@@ -2943,7 +2943,8 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 9534},
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
-  "斜陽/ヨルシカ": [
+   "斜陽/ヨルシカ": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10068},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15839},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 10436},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 16605},
