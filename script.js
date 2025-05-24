@@ -126,6 +126,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
    "Sunshine/MONKEY MAJIK": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8632},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9672},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3027},
       { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 4177 },
