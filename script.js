@@ -2406,6 +2406,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
   "Ready Go!/田村直美": [
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2741},
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 4724},
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 17201},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7527},
