@@ -156,7 +156,8 @@ const songStreamLinks = {
   "ギー太に首ったけ/平沢唯(豊崎愛生)": [
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
-  "ETERNAL BLAZE/水樹奈々": [
+   "ETERNAL BLAZE/水樹奈々": [
+      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11772},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7250},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9313},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4042},
