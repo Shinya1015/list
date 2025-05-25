@@ -1946,7 +1946,15 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2378},
   ],
   "美少女無罪♡パイレーツ/宝鐘マリン": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5347},
+     { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6666},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 5959},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 13604},
+     { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 1141},
+     { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 6642},
+     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 3060},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 6203},
+     { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 5683},
   ],
   "ミライチズ/夜のひと笑い": [
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 6580},
@@ -8808,7 +8816,6 @@ const animeSongs = [
     "ウラオモテ・フォーチュン/佐倉千代(CV:小澤亜李)",   // 月刊少女野崎同學 (Monthly Girls' Nozaki-kun)
     "プラチナ/坂本真綾",                                // 庫洛魔法使 (Cardcaptor Sakura)
     "Butter-Fly/和田光司",                              // 數碼寶貝大冒險 (Digimon Adventure)
-    "美少女無罪♡パイレーツ/宝鐘マリン",                // Hololive關聯歌曲 (VTuber) - 非動畫合作曲
     "Don't say ”lazy”/放課後ティータイム",             // K-ON！輕音部 (K-On!)
     "ふわふわ時間/放課後ティータイム",                  // K-ON！輕音部 (K-On!) - 插入曲
     "わたしの恋はホッチキス/放課後ティータイム",        // K-ON！輕音部 (K-On!) - 插入曲
@@ -9988,6 +9995,7 @@ const streamerSongList = [
     "人生リセットボタンぽちーw/沙花叉クロヱ",
     "Good day/足立佳奈",
     "Butter-Fly/和田光司",                              // 數碼寶貝大冒險 (Digimon Adventure)
+    "少女無罪♡パイレーツ/宝鐘マリン",
     "バレンタイン・キッス/国生さゆり",
     "ミライチズ/夜のひと笑い",
     "TOMORROW/岡本真夜",
