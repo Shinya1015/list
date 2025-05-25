@@ -5082,7 +5082,8 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 8180},
   ],
   "Good Time/Owl city & Carly Rae Jepsen": [
-    { },
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9374},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 34238},
   ],
   "trick and treat/OSTER project": [
     { },
