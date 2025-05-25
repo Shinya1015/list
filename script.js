@@ -501,7 +501,8 @@ const songStreamLinks = {
      { date: "2024年5月3日", videoId: "LxLcU7IywuI", timestamp: 4070},
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
-  "ニブンノイチ/BACK-ON": [
+   "ニブンノイチ/BACK-ON": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2031},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 2308 },
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 8597 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13478 },
