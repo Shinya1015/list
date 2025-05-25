@@ -2890,7 +2890,9 @@ const songStreamLinks = {
     { },
   ],
   "バタフライ・グラフィティ/八王子P": [
-    { },
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 10633},
+     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6640},
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6095},
   ],
   "KiLLER LADY/八王子P": [
     { },
