@@ -2839,7 +2839,6 @@ const songStreamLinks = {
   "ようこそジャパリパークへ/大石昌良": [
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 9489},
   ],
-  ],
   "かくしん的☆めたまるふぉ～ぜっ!/土間うまる(田中あいみ)": [
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 8058},
   ],
