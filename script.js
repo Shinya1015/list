@@ -2777,7 +2777,10 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 2890},
   ],
   "フレンジャー/大塚愛": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2689},
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 2408},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 9514},
+     { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2179},
