@@ -91,7 +91,8 @@ const songStreamLinks = {
  "U.S.A. /DA PUMP": [
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 5963},
   ],
-  "ハヤテのごとく!/KOTOKO": [
+   "ハヤテのごとく!/KOTOKO": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2629},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 2695},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13612 },
       { date: "2025年4月3日(一番のみ)", videoId: "jciPyoWRUt4", timestamp: 4134 },
