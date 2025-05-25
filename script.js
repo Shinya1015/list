@@ -2936,7 +2936,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5235},
   ],
   "whiteout/八王子P": [
-    { },
+     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 9615},
   ],
   "バタフライ・グラフィティ/八王子P": [
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 10633},
