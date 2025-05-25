@@ -5973,6 +5973,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1558},
   ],
   "ZIGG-ZAGG/Junky": [
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 13898},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 5711},
      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
   ],
