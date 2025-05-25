@@ -4647,7 +4647,8 @@ const songStreamLinks = {
   "prism spiral/STAR☆ANIS": [
     { },
   ],
-  "フレンド/STAR☆ANIS": [
+   "フレンド/STAR☆ANIS": [
+      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9007},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7695 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },   
   ],
