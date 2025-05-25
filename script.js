@@ -533,6 +533,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/オレンジレンジ": [
+    { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2369},
     { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1210},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 990 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6411 },
