@@ -2933,7 +2933,7 @@ const songStreamLinks = {
       { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13947},
   ],
   "Sweet Devil/八王子P": [
-    { },
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5235},
   ],
   "whiteout/八王子P": [
     { },
