@@ -7072,7 +7072,8 @@ const songStreamLinks = {
        { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 8369},
   ],
   "Call Me Maybe/Carly Rae Jepsen": [
-       { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 2981},
+     { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9736},
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 2981},
   ],
   "STAR☆T☆RAIN/B小町": [
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5066 },
