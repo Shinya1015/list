@@ -2868,7 +2868,9 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 11154},
   ],
   "もうそう えくすぷれす/千石撫子(花澤香菜)": [
-    { },
+     { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 12739},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 1909},
+     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13098},
   ],
   "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)": [
     { },
