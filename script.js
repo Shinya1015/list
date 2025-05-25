@@ -2857,7 +2857,15 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5563},
   ],
   "恋愛サーキュレーション/千石撫子(花澤香菜)": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 808},
+     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 1317},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 12279},
+     { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 1735},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 25686},
+     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 12807},
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 13593},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 3782},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 11154},
   ],
   "もうそう えくすぷれす/千石撫子(花澤香菜)": [
     { },
