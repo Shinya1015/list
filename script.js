@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+   
+   "君＋謎＋私でJUMP!!/Larval Stage Planning": [
+      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 8460},
+      ],
    "バカ・ゴー・ホーム/milktub": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 8221},
       ],
@@ -8876,7 +8880,8 @@ const animeSongs = [
     "黒毛和牛上塩タン焼680円/大塚愛",               //怪醫黑傑克》（ブラック・ジャック）ED
     "黒毛和牛上塩タン焼735円/大塚愛",                //怪醫黑傑克》（ブラック・ジャック）ED
     "風といっしょに/小林幸子",                     //ポケットモンスター ミュウツーの逆襲
-    "バカ・ゴー・ホーム/milktub"                   //バカとテストと召喚獣 ed
+    "バカ・ゴー・ホーム/milktub",                  //バカとテストと召喚獣 ed
+    "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
 ];
     
 
@@ -10125,4 +10130,5 @@ const streamerSongList = [
     "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",   // 精靈寶可夢 (Pokémon)
     "風といっしょに/小林幸子",                     //ポケットモンスター ミュウツーの逆襲
     "バカ・ゴー・ホーム/milktub"                   //バカとテストと召喚獣 ed
+    "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
 ];
