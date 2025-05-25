@@ -1,6 +1,9 @@
 
 const songStreamLinks = {
    
+   "MOTTO!!!/Junky": [
+      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
+      ],
    "愛▽スクリ～ム！/AiScReam(一部分のみ)": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 10003},
       ],
@@ -10144,4 +10147,5 @@ const streamerSongList = [
     "バカ・ゴー・ホーム/milktub",                 //バカとテストと召喚獣 ed
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛▽スクリ～ム！/AiScReam(一部分のみ)",
+    "MOTTO!!!/Junky"
 ];
