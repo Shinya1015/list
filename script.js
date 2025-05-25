@@ -2873,7 +2873,26 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13098},
   ],
   "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)": [
-    { },
+     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 3758},
+     { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5180},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 1730},
+     { date: "2024年8月16日", videoId: "uk7DOs1B34I", timestamp: 1180},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 487},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 505},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 7025},
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 7970},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 2430},
+     { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 1905},
+     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 9827},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 508},
+     { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 15396},
+     { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 13751},
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 1559},
+     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 6018},
+     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 4140},
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 12149},
+     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 8302},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11738},
@@ -8755,7 +8774,6 @@ const animeSongs = [
     "一輪の花/ふみP",                                  // BLEACH 死神
     "メリッサ/ポルノグラフィティ",                      // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
     "リテラチュア/上田麗奈",                            // 魔女之旅 (Wandering Witch: The Journey of Elaina)
-    "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)", // 偶像大師 灰姑娘女孩劇場 (The Idolmaster Cinderella Girls Theater) - 遊戲/動畫
     "もうそう えくすぷれす/千石撫子(花澤香菜)",          // 〈物語〉系列 第二季 (Monogatari Series Second Season) - 囮物語
     "恋愛サーキュレーション/千石撫子(花澤香菜)",        // 化物語 (Bakemonogatari) - なでこスネイク
     "カサブタ/千綿ヒデノリ",                            // 魔法少年賈修 (Zatch Bell!)
