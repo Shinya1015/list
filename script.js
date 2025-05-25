@@ -2830,7 +2830,11 @@ const songStreamLinks = {
       { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 5484},
   ],
   "あなただけ見つめてる/大黒摩季": [
-    { },
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 6636},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 765},
+     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 5524},
+     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 5577},
+     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 4838},
   ],
   "ようこそジャパリパークへ/大石昌良": [
     { },
