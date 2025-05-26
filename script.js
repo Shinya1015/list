@@ -3296,7 +3296,8 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5423},
   ],
   "Blackjack/ゆちゃP": [
-    { },
+     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 1040},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13568},
   ],
   "↑人生ゲーム↓/ゆずひこ": [
     { },
