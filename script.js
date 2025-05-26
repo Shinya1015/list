@@ -110,6 +110,7 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
   "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5238},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12770},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5508 },
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 6811 },
