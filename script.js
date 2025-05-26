@@ -84,6 +84,7 @@ const songStreamLinks = {
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
     "リクライム/ROOKiEZ is PUNK'D": [
+       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12060},
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3608},
     ],
 "Wake up my music/りさ・えいみ": [
