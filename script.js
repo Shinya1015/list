@@ -2992,7 +2992,8 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 2193},
   ],
   "脳漿炸裂ガール/れるりり": [
-    { },
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 9738},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4752},
   ],
   "言ノ葉カルマ/れるりり": [
     { },
