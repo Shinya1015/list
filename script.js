@@ -4497,10 +4497,11 @@ const songStreamLinks = {
   "BOY MEETS GIRL/TRF": [
     { },
   ],
-  "Pray/Wish*": [
-    { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12015}, 
-    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6637},
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10422},
+   "Pray/Wish*": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10023},
+      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12015}, 
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6637},
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 10422},
   ],
   "Pray/Tommy heavenly6": [
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 6601},
