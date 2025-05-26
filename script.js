@@ -154,6 +154,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9601},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8410},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 2005},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 10686},
