@@ -3287,7 +3287,8 @@ const songStreamLinks = {
      { date: "2024年11月3日(一番のみ)", videoId: "1WJ9n2-K7S4", timestamp: 7702},
   ],
   "I will find a star/ゆよゆっぺ": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13269},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 10278},
   ],
   "星天ドロップス/ゆちゃP": [
     { },
