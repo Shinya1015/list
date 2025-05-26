@@ -3352,7 +3352,9 @@ const songStreamLinks = {
     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 4066 },
   ],
   "うそつき/めざめP": [
-    { },
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 3668},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 15489},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5704},
   ],
   "世田谷ナイトサファリ/みきとP": [
    { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8007 },
