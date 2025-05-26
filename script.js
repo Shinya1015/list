@@ -2972,7 +2972,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6095},
   ],
   "KiLLER LADY/八王子P": [
-    { },
+     { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1143},
   ],
   "Carry Me Off/八王子P": [
     { },
