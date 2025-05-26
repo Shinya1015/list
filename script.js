@@ -3022,7 +3022,11 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 5982},
   ],
   "星間飛行/ランカ・リー(CV:中島愛)": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2119},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 3259},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 1484},
+     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 2518},
+     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 4452},
   ],
   "愛を感じて/ライオン・キング": [
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7408},
