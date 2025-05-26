@@ -7783,6 +7783,7 @@ const songStreamLinks = {
        { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
      ],
 "Velonica/Aqua Timez": [
+   { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9061},
    { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2708},
    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1353 },
    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5869 },
