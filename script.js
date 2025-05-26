@@ -1728,7 +1728,8 @@ const songStreamLinks = {
       { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 3115 },
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
-  "アイデンティティ/秋山黄色": [
+   "アイデンティティ/秋山黄色": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11694},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 7686},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 10280},
       { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 1151},
