@@ -117,6 +117,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4951},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9952},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 4660 },
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11119 },
