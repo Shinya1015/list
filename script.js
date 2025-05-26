@@ -3001,7 +3001,8 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 9414},
   ],
   "少年と魔法のロボット/伊東歌詞太郎": [
-    { },
+     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 5228},
+     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 4224},
   ],
   "Deep in Abyss/リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)": [
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6853},
