@@ -6159,6 +6159,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3610},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2055},
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 4373 },
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 6660 },
