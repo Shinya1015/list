@@ -307,6 +307,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12281},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4449},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10482},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8607 },
