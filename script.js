@@ -3025,7 +3025,7 @@ const songStreamLinks = {
     { },
   ],
   "愛を感じて/ライオン・キング": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7408},
   ],
   "花になって/緑黄色社会": [
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 790},
