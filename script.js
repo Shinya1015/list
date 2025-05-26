@@ -2996,7 +2996,9 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4752},
   ],
   "言ノ葉カルマ/れるりり": [
-    { },
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7741},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2474},
+     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 9414},
   ],
   "少年と魔法のロボット/伊東歌詞太郎": [
     { },
