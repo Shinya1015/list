@@ -3335,7 +3335,8 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10135},
   ],
   "天樂/ゆうゆ": [
-    { },
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 20684},
+     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8052},
   ], 
    "honey & clover club/ゆうゆ": [
       { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 3824},
