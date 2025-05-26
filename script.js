@@ -4625,6 +4625,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10890},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2842},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 5081},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 1801},
