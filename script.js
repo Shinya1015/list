@@ -3300,7 +3300,7 @@ const songStreamLinks = {
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13568},
   ],
   "↑人生ゲーム↓/ゆずひこ": [
-    { },
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7058},
   ],
   "夏色/ゆず": [
     { },
