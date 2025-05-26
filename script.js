@@ -6744,6 +6744,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8474},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 10233},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 8172 },
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9083 },
