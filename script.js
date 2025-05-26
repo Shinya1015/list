@@ -33,6 +33,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9798},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3898},
       { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1410},
       ], 
