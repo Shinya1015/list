@@ -3291,7 +3291,9 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 10278},
   ],
   "星天ドロップス/ゆちゃP": [
-    { },
+     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 9747},
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 7420},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5423},
   ],
   "Blackjack/ゆちゃP": [
     { },
