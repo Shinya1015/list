@@ -10208,7 +10208,7 @@ const streamerSongList = [
     "バカ・ゴー・ホーム/milktub",                 //バカとテストと召喚獣 ed
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛▽スクリ～ム！/AiScReam(一部分のみ)",
-    "MOTTO!!!/Junky"
+    "MOTTO!!!/Junky",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
    
 ];
