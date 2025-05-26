@@ -794,6 +794,7 @@ const songStreamLinks = {
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
  "それでも明日はやってくる/鈴木結女": [   
+    { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8780},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9348},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 4081 },
     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 2225 },
