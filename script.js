@@ -4758,7 +4758,8 @@ const songStreamLinks = {
   "KIRA☆Power/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
-  "サムライハート/SPYAIR": [
+   "サムライハート/SPYAIR": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10655},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3798 },
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6880},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4881},
