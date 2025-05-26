@@ -2985,7 +2985,11 @@ const songStreamLinks = {
       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 6650},
   ],
   "あんたにあっかんべ/一二三": [
-    { },
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 12446},
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9475},
+     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1005},
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 14479},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 2193},
   ],
   "脳漿炸裂ガール/れるりり": [
     { },
