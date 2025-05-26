@@ -3229,7 +3229,8 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 13200},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
-  "だから僕は音楽を辞めた/ヨルシカ": [
+   "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3890},
       { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 3595},
       { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 2666},
       { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 6824},
