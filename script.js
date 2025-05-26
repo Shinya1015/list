@@ -6563,7 +6563,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4999},
   ],
   "渇いた叫び/FIELD OF VIEW": [
-     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10364},
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10378},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4192},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9117},
      { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 345},
