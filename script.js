@@ -2975,7 +2975,8 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1143},
   ],
   "Carry Me Off/八王子P": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9015},
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7079},
   ],
   "I see.../乃木坂46": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10527},
