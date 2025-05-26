@@ -3629,7 +3629,10 @@ const songStreamLinks = {
     { },
   ],
   "風吹けば恋/チャットモンチー": [
-    { },
+     { date: "2024年2月23日", videoId: "lspd9aMQIXU", timestamp: 3381},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 11481},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 2728},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7749},
   ],
   "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)": [
     { },
