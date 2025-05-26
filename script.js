@@ -3303,7 +3303,17 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7058},
   ],
   "夏色/ゆず": [
-    { },
+     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 4030},
+     { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 2112},
+     { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 2912},
+     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 4379},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1943},
+     { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 4965},
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 4294},
+     { date: "2023年8月30日", videoId: "sy_-z0MkfKk", timestamp: 3209},
+     { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 7712},
+     { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 8740},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 4478},
   ],
   "栄光の架橋/ゆず": [
      { date: "2023年2月13日(一番のみ)", videoId: "WDaTU01Humc", timestamp: 5267},
