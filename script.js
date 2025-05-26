@@ -3283,7 +3283,8 @@ const songStreamLinks = {
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16185},
   ],
   "だいしきゅーだいしゅき/femme fatale": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 4843},
+     { date: "2024年11月3日(一番のみ)", videoId: "1WJ9n2-K7S4", timestamp: 7702},
   ],
   "I will find a star/ゆよゆっぺ": [
     { },
