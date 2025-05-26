@@ -3796,6 +3796,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 6275},
   ],
   　"はじまりの日/スガシカオ": [
+      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 7265},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3111},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 2832},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 3539},
