@@ -2775,6 +2775,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 9142},
   ],
   "火炎/女王蜂": [
+     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4449},
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 13654},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13439},
   ],
