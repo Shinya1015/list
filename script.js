@@ -3385,10 +3385,15 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1751},
   ],
   "かまってちょーだい/まふまふ×天月": [
-    { },
+     { date: "2024年5月30日", videoId: "H8CIE-SG5Tg", timestamp: 4180},
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 3015},
+     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 6152},
   ],
   "ブラッククリスマス/まふまふ": [
-    { },
+     { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2183},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 11542},
+     { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7018},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 9985},
   ],
   "㋰責任集合体/マサラダ": [
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10146},
