@@ -3511,7 +3511,7 @@ const songStreamLinks = {
   "またあした/ふわりP": [
      { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 8738},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 7007},
-     { date: "2023年3月39", videoId: "ocR9SezEBfQ", timestamp: 16670},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 16670},
   ],
   "一輪の花/ふみP": [
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5747},
