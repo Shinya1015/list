@@ -897,6 +897,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 10661},
   ],
   "MAGIC/愛内里菜": [
+     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6405},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 10236},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13405},
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 4381},
