@@ -2827,6 +2827,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 7697},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2179},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 15724},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 7889},
