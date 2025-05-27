@@ -3380,7 +3380,9 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7722},
   ],
   "ロキ/みきとP": [
-    { },
+     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 9449},
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 4278},
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1751},
   ],
   "かまってちょーだい/まふまふ×天月": [
     { },
