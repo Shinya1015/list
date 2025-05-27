@@ -3655,7 +3655,9 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 1083},
   ],
   "Panorama/なぎ": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9040},
+     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 1751},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 1252},
   ],
   "ナイテタッテ/ナオト・インティライミ": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1947},
