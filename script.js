@@ -8341,6 +8341,7 @@ const songStreamLinks = {
 { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 13240 },
  ],
  "Hand in Hand/kz(livetune)": [ 
+    { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
