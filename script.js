@@ -3514,7 +3514,7 @@ const songStreamLinks = {
      { date: "2023年3月39", videoId: "ocR9SezEBfQ", timestamp: 16670},
   ],
   "一輪の花/ふみP": [
-    { },
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5747},
   ],
   "ヒャダインのカカカタ カタオモイ-/ヒャダイン": [
     { },
