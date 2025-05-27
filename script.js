@@ -3440,7 +3440,8 @@ const songStreamLinks = {
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 7879},
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
-  "サウダージ/ポルノグラフィティ": [
+   "サウダージ/ポルノグラフィティ": [
+      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1584},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1755},
       { date: "2025年4月2日-しゃいる/氷々樹ノルン", videoId: "5ktwWXMXY_Q", timestamp: 2863},
       { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6728},
