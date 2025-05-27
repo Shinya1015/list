@@ -26,6 +26,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4903},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 7880},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13406},
       ],
