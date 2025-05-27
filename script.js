@@ -3435,7 +3435,9 @@ const songStreamLinks = {
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 2252},
   ],
   "ハネウマライダー/ポルノグラフィティ": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 20548},
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 7879},
+     { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1755},
