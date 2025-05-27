@@ -4935,7 +4935,7 @@ const songStreamLinks = {
     { },
   ],
   "最高到達点/SEKAI NO OWARI": [
-     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9366},
+     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9386},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4141 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6409},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 1341},
