@@ -5039,7 +5039,11 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9801 },
   ],
   "RPG/SEKAI NO OWARI": [
-    { },
+     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 4966},
+     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 9620},
+     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 1117},
+     { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 6123},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9386},
