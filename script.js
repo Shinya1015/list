@@ -3961,7 +3961,10 @@ const songStreamLinks = {
       
   ],
   "Ah Yeah!!/スキマスイッチ": [
-    { },
+     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4196},
+     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 4706},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 4778},
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4662},
   ],
   "めいど・うぃず・どらごんず/スーパーちょろゴンず": [
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 6276},
