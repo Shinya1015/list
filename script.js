@@ -3999,7 +3999,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4265},
   ],
   "オツキミリサイタル/じん": [
-    { },
+     { date: "2023年12月29日", videoId: "w1YikQ8OqAc", timestamp: 2004},
   ],
   "Starduster/ジミーサムP": [
     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 6714 },
