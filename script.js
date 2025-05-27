@@ -4656,6 +4656,7 @@ const songStreamLinks = {
     { },
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6986},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11151},
       { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 5347},
       { date: "2025年3月22日-piano ver.", videoId: "IYNSyBwT5PQ", timestamp: 25893},
