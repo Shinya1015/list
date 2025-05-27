@@ -5838,7 +5838,23 @@ const songStreamLinks = {
     { },
   ],
   "小さな恋のうた/MONGOL800": [
-    { },
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8188},
+     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7485},
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1468},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 16265},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 12880},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 11952},
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 10693},
+     { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 11004},
+     { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 6144},
+     { date: "2024年6月21日", videoId: "hyeKYMlZkDg", timestamp: 11178},
+     { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 5292},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7208},
+     { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 4064},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 12078},
+     { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 5909},
+     { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 5122},
+     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 8897},
   ],
   "ファンサ/mona(CV:夏川椎菜)": [
      { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4364},
@@ -8869,6 +8885,7 @@ const lowPitchSongs = [
     "たばこ/コレサワ",
 ];
 const animeSongs = [
+    "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
     "残機/ずっと真夜中でいいのに。",                               //Chainsaw Man）第2話ED
     "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",               // 精靈寶可夢 (Pokémon)
     "火炎/女王蜂",                                                //どろろ op
