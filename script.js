@@ -5025,7 +5025,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 2312},
   ],
   "LOVEトロピカ～ナ/Sister MAYO": [
-    { },
+     { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 1675},
   ],
   "桃源郷エイリアン/serial TV drama": [
     { },
