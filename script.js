@@ -6473,6 +6473,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8494},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5773},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 22622},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17620},
