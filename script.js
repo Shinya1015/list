@@ -9278,6 +9278,7 @@ const animeSongs = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR 片尾曲
     "星間飛行/ランカ・リー(CV:中島愛)",                // 超時空要塞F (Macross Frontier)
+    "オツキミリサイタル/じん",                        //メカクシティアクターズ 陽炎計畫 插入歌
 ];
     
 
