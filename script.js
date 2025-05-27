@@ -3909,7 +3909,8 @@ const songStreamLinks = {
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1809},
   ],
   "世界寿命と最後の一日/スズム": [
-    { },
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 3955},
+     { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
   "ボクノート/スキマスイッチ": [
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2580 },
@@ -8589,6 +8590,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "世界寿命と最後の一日/スズム",
    "東京レトロ/すこっぷ",
    "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)",
    "TOMORROW/岡本真夜",
