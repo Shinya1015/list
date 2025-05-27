@@ -3763,7 +3763,7 @@ const songStreamLinks = {
   ],
   "風になる/つじあやの": [
      { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 3213},
-     { date: "2024年2月6日-piano ver", videoId: "alU1RfrvC74", timestamp: 3483},
+     { date: "2024年2月6日-piano ver(一番のみ)", videoId: "alU1RfrvC74", timestamp: 3483},
      { date: "2023年11月27日", videoId: "5yeMXL3dho0", timestamp: 5485},
   ],
   "風吹けば恋/チャットモンチー": [
