@@ -5002,7 +5002,8 @@ const songStreamLinks = {
       { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 4985},
   ],
   "イマジネーション/SPYAIR": [
-    { },
+     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3071},
+     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 3156},
   ],
   "夜空ノムコウ/SMAP": [
     { },
