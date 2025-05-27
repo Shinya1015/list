@@ -3995,7 +3995,8 @@ const songStreamLinks = {
       { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 4869},
   ],
   "夜咄ディセイブ/じん": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 887},
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4265},
   ],
   "オツキミリサイタル/じん": [
     { },
