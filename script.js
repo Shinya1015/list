@@ -3751,7 +3751,15 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 7427},
   ],
   "フォニイ/ツミキ": [
-    { },
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 12225},
+     { date: "2024年9月10日-piano ver", videoId: "9PoJ2QbvWmA", timestamp: 6671},
+     { date: "2024年3月18日", videoId: "8O2fID25Clk", timestamp: 4609},
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 8749},
+     { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 12987},
+     { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 3309},
+     { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 1716},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 10898},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 6326},
   ],
   "風になる/つじあやの": [
     { },
