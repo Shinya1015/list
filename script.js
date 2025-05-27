@@ -1087,6 +1087,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4552},
   ],
   "丸の内サディスティック/椎名林檎": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8778},
      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 1631 },
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 35784 },
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 3126 },
