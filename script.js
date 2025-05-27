@@ -506,6 +506,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
+     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1155},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 805},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 16808},
      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 3328},
