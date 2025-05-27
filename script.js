@@ -1163,7 +1163,8 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 4698 },
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 15532 },
   ],
-  "Wind Climbing ～風にあそばれて～/奥井亜紀": [
+   "Wind Climbing ～風にあそばれて～/奥井亜紀": [
+      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 2298},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10009},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 10062},
       { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 7143},
