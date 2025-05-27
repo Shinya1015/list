@@ -3611,7 +3611,11 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 5832 },
   ],
   "clock lock works/ハチ": [
-    { },
+     { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 7048},
+     { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 4386},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 15699},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5342},
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 6155},
   ],
   "右肩の蝶/のりぴー": [
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4236},
