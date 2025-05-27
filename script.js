@@ -8860,6 +8860,7 @@ const lowPitchSongs = [
     "エジソン/水曜日のカンパネラ",
     "いのちの名前/木村弓",
     "いつも何度でも/木村弓",
+    "たばこ/コレサワ",
 ];
 const animeSongs = [
     "残機/ずっと真夜中でいいのに。",                               //Chainsaw Man）第2話ED
