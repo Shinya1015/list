@@ -1297,6 +1297,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6596},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1801},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 18682},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 9384},
