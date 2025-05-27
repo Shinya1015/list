@@ -7291,7 +7291,8 @@ const songStreamLinks = {
     { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 5710 },
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
-  "Be Somewhere/Buzy": [
+   "Be Somewhere/Buzy": [
+      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6044},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9229},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 1603 },
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2594 },
