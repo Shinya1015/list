@@ -4038,7 +4038,10 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 5128},
   ],
   "モノクロのキス/シド": [
-    { },
+     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 3218},
+     { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2756},
+     { date: "2024年1月28日", videoId: "AhrllzwjcXo", timestamp: 5309},
+     { date: "2023年10月14日", videoId: "8R2Kn-EBKdY", timestamp: 4292},
   ],
   "粛聖!!ロリ神レクイエム☆/しぐれうい": [
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 2065},
