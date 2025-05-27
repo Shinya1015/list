@@ -5083,7 +5083,16 @@ const songStreamLinks = {
      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 1530},
   ],
   "スターライトパレード/SEKAI NO OWARI": [
-    { },
+     { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 3304},
+     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 1676},
+     { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 3612},
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 4924},
+     { date: "2025年2月5日", videoId: "2b4rj6lnxs", timestamp: 7825},
+     { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 1193},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 29442},
+     { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 625},
+     { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 4592},
+     { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 2754},
   ],
   "あんなに一緒だったのに/See-Saw": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 2623 },
