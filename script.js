@@ -7,8 +7,8 @@ const songStreamLinks = {
    "MOTTO!!!/Junky": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
-   "愛▽スクリ～ム！/AiScReam(一部分のみ)": [
-      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 10003},
+   "愛▽スクリ～ム！/AiScReam": [
+      { date: "2025年5月24日(一部分のみ)", videoId: "G0PaWs_h9Kk", timestamp: 10003},
       ],
    "君＋謎＋私でJUMP!!/Larval Stage Planning": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 8460},
@@ -9833,6 +9833,7 @@ const streamerSongList = [
     "スイートマジック/Junky",
     "キミペディア/Junky",
     "夕花火/Junky",
+    "MOTTO!!!/Junky",
     "ポップンガール@コミュニケーション/Junky",
     "シルエット/KANA-BOON",                             // 火影忍者疾風傳 (Naruto Shippuden)
     "スターマーカー/KANA-BOON",                         // 我的英雄學院 (My Hero Academia)
@@ -10420,8 +10421,7 @@ const streamerSongList = [
     "風といっしょに/小林幸子",                     //ポケットモンスター ミュウツーの逆襲
     "バカ・ゴー・ホーム/milktub",                 //バカとテストと召喚獣 ed
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
-    "愛▽スクリ～ム！/AiScReam(一部分のみ)",
-    "MOTTO!!!/Junky",
+    "愛▽スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
    
 ];
