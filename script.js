@@ -6361,6 +6361,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 682},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 5251},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7728},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 14249},
