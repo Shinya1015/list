@@ -5855,7 +5855,7 @@ const songStreamLinks = {
      { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 12078},
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 5909},
      { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 5122},
-     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 8897},
+     { date: "2023年6月26日-piano ver", videoId: "RqnDCwCAL0I", timestamp: 8897},
   ],
   "ファンサ/mona(CV:夏川椎菜)": [
      { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4364},
