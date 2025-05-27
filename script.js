@@ -2018,6 +2018,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1059},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 6684},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1410},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 2317 },
