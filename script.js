@@ -6400,6 +6400,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4481},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9933},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 6879},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 9988},
