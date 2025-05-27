@@ -2536,6 +2536,7 @@ const songStreamLinks = {
      { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 1772},
   ],
   "消せない罪/北出菜奈": [
+     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 2132},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9386},
      { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 2816},
      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 2981},
