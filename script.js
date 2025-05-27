@@ -5098,7 +5098,7 @@ const songStreamLinks = {
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 2623 },
   ],
   "グメグ☆ファイアーエンドレスナイト/samfree": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16223},
   ],
   "ホウキ雲/RYTHEM": [
     { },
