@@ -7085,7 +7085,8 @@ const songStreamLinks = {
       { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 3570 },
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2957 },
   ],
-  "CLICK/ClariS": [
+   "CLICK/ClariS": [
+      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 5261},
       { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 615},
       { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 1347},
       { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 2710},
