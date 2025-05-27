@@ -3905,7 +3905,8 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 5815},
   ],
   "東京レトロ/すこっぷ": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9330},
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1809},
   ],
   "世界寿命と最後の一日/スズム": [
     { },
