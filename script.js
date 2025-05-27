@@ -3517,7 +3517,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5747},
   ],
   "ヒャダインのカカカタ カタオモイ-/ヒャダイン": [
-    { },
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 3132},
   ],
   "神っぽいな/ピノキオピー": [
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 596},
@@ -8642,7 +8642,6 @@ const lowPitchSongs = [
     "砂の惑星/ハチ",                                                  // Miku原曲，但此曲Miku音域偏低且風格黑暗 (米津玄師)
     "シャルル/バルーン",                                              // Flower原曲，但作者本人男聲翻唱流行
     "soundless voice/ひとしずくP",                                   // Len原曲 (男聲Vocaloid)
-    "ヒャダインのカカカタ カタオモイ-/ヒャダイン",                        // 男聲 (ヒャダイン)
     "SKY'S the limit/ぼくのりりっくのぼうよみ",                          // 男聲，Rap/歌手
     "アゲハ蝶/ポルノグラフィティ",                                      // 男聲雙人組，搖滾
     "サウダージ/ポルノグラフィティ",                                    // 男聲雙人組
@@ -8732,7 +8731,8 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
-    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",   // 精靈寶可夢 (Pokémon)
+
+    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",               // 精靈寶可夢 (Pokémon)
     "火炎/女王蜂",                                                //どろろ op
     "HIGH POWERED/スフィア",                                       //侵略!?イカ娘第2季（OP）
     "いつかの、いくつかのきみとのせかい/fhana",                      //僕らはみんな河合荘OP
