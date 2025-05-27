@@ -3801,7 +3801,7 @@ const songStreamLinks = {
      { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 4271},
   ],
   "Los! Los! Los!/ターニャ・デグレチャフ(悠木碧)": [
-    { },
+     { date: "2023年11月27日", videoId: "5yeMXL3dho0", timestamp: 3144},
   ],
   "快眠！安眠！スヤリスト生活/スヤリス姫(水瀬いのり)": [
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 9079},
