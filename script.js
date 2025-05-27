@@ -2429,7 +2429,8 @@ const songStreamLinks = {
       { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 8801},
       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 6871},
   ],
-  "First Love/宇多田ヒカル": [
+    "First Love/宇多田ヒカル": [
+       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5465},
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 8378 },
        { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 4346 },
        { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 3871 },
