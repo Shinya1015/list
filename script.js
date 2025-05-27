@@ -8589,6 +8589,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "東京レトロ/すこっぷ",
    "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)",
    "TOMORROW/岡本真夜",
    "素晴らしき世界/Rake",
