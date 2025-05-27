@@ -735,7 +735,8 @@ const songStreamLinks = {
      { date: "2024年12月22日", videoId: "E-RQDPc6eIg", timestamp: 2285},
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5998},
   ],
-  "虹/福山雅治": [
+ "虹/福山雅治": [
+    { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 2001},
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1991 },
     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 3024 },
