@@ -3866,7 +3866,10 @@ const songStreamLinks = {
      { date: "2023年5月25日-piano ver.", videoId: "0D7De4cmwf0", timestamp: 2525},
   ],
   "残機/ずっと真夜中でいいのに。": [
-    { },
+     { date: "2023年2月12日(一番のみ)", videoId: "lLpuBcr1Bb0", timestamp: 6833},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 7006},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 10701},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 16945},
@@ -8833,7 +8836,7 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
 ];
 const animeSongs = [
-
+    "残機/ずっと真夜中でいいのに。",                               //Chainsaw Man）第2話ED
     "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",               // 精靈寶可夢 (Pokémon)
     "火炎/女王蜂",                                                //どろろ op
     "HIGH POWERED/スフィア",                                       //侵略!?イカ娘第2季（OP）
