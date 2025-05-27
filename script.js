@@ -5028,7 +5028,7 @@ const songStreamLinks = {
      { date: "2023年10月6日", videoId: "vaT_7VciVW4", timestamp: 1675},
   ],
   "桃源郷エイリアン/serial TV drama": [
-    { },
+     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 9133},
   ],
   "Dragon Night/SEKAI NO OWARI": [
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
