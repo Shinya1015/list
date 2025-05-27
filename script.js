@@ -3787,7 +3787,8 @@ const songStreamLinks = {
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 12765},
   ],
   "だってだってだって/タカノン": [
-    { },
+     { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 3749},
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 4271},
   ],
   "Los! Los! Los!/ターニャ・デグレチャフ(悠木碧)": [
     { },
