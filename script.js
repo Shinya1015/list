@@ -5666,7 +5666,8 @@ const songStreamLinks = {
       { date: "2023年11月14日-piano ver.", videoId: "8m4YNCr-kDo", timestamp: 7261},
   ],
   "チョコレイト・ディスコ/Perfume": [
-    { },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 2389},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 1770},
   ],
   "コンピューターシティ/Perfume": [
     { },
