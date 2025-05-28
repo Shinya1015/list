@@ -5869,7 +5869,22 @@ const songStreamLinks = {
      { date: "2023年3月4日(一番のみ)", videoId: "STcegm8gGbQ", timestamp: 10288},
   ],
   "Cry Baby/Official髭男dism": [
-    { },
+     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 4322},
+     { date: "2024年10月12日", videoId: "de4cSPVlTCE", timestamp: 1177},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 8749},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 13495},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 3232},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 3364},
+     { date: "2024年2月19日", videoId: "mjSJIvPinIE", timestamp: 2257},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 4448},
+     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 3487},
+     { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 7843},
+     { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 11243},
+     { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 3770},
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 11777},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3327},
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20041},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 8052},
   ],
   "Bad Apple!!/nomico": [
     { },
@@ -9219,6 +9234,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "Cry Baby/Official髭男dism",                                    //東京卍復仇者 op
     "メグメル/riya",                                                //CLANNAD OP
     "BOY MEETS GIRL/TRF",                                         //だぁ!だぁ!だぁ! ED
     "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
