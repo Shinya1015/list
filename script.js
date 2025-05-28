@@ -4418,6 +4418,9 @@ const songStreamLinks = {
   "イーガー・ビリーバー/アヒル軍曹P": [
      { date: "2023年1月18日", videoId: "w1YikQ8OqAc", timestamp: 3800},
   ],
+  "嘘とタイムマシン／アヒル軍曹P": [
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 10650},
+  ],
   "生まれてはじめて/アナと雪の女王": [
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7643},
   ],
@@ -10256,6 +10259,7 @@ const streamerSongList = [
     "Let It Go/アナと雪の女王",                        // 冰雪奇緣 (Frozen) - 電影
     "生まれてはじめて/アナと雪の女王",                  // 冰雪奇緣 (Frozen) - 電影
     "イーガー・ビリーバー/アヒル軍曹P",
+    "嘘とタイムマシン／アヒル軍曹P"
     "A Whole New World/アラジン",                       // 阿拉丁 (Aladdin) - 電影
     "フレンド・ライク・ミー/アラジン",                  // 阿拉丁 (Aladdin) - 電影
     "TKGの歌/アリレム",
