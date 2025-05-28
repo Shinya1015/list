@@ -4378,7 +4378,19 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5463},
   ],
   "花は桜 君は美し/いきものがかり": [
-    { },
+     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2054},
+     { date: "2025年3月31日-piano ver", videoId: "fWeibuWPkzs", timestamp: 18155},
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 28014},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15836},
+     { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 3982},
+     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 4100},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 7962},
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 982},
+     { date: "2023年3月7日", videoId: "5pByTBS_Arc", timestamp: 6960},
+     { date: "2023年2月12日", videoId: "qVdJphvNm3M", timestamp: 3050},
+     { date: "2023年2月4日", videoId: "Jpeut_xMcWY", timestamp: 2088},
+     { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 1255},
+     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 2571},
   ],
   "気まぐれロマンティック/いきものがかり": [
     { },
@@ -10234,7 +10246,7 @@ const streamerSongList = [
     "TKGの歌/アリレム",
     "ブルーバード/いきものがかり",                       // 火影忍者疾風傳 (Naruto Shippuden)
     "気まぐれロマンティック/いきものがかり",
-    "花は桜 君は美し/いきものがかり ",
+    "花は桜 君は美し/いきものがかり",
     "青春ライン/いきものがかり",                       // 王牌投手 振臂高揮 (Big Windup!)
     "熱情のスペクトラム/いきものがかり",                 // 七大罪 (The Seven Deadly Sins)
     "きゅうくらりん/いよわ",
