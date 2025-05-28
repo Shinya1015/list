@@ -5858,7 +5858,15 @@ const songStreamLinks = {
     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 3727 },
   ],
   "HELLO/Official髭男dism": [
-    { },
+     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 818},
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 6006},
+     { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 946},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 1709},
+     { date: "2023年11月8日", videoId: "rowdCcqtrRE", timestamp: 1353},
+     { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 2706},
+     { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 6368},
+     { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2897},
+     { date: "2023年3月4日(一番のみ)", videoId: "STcegm8gGbQ", timestamp: 10288},
   ],
   "Cry Baby/Official髭男dism": [
     { },
