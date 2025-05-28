@@ -6443,7 +6443,11 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6756},
   ],
   "oath sign/LiSA": [
-    { },
+     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3609},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 7901},
+     { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 5979},
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 4307},
+     { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 6780},
   ],
   "crossing field/LiSA": [
     { },
