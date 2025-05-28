@@ -6536,7 +6536,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 6360},
   ],
   "セツナトリップ/Last Note.": [
-    { },
+     { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 5008},
   ],
   "なりすましゲンガー/KulfiQ": [
     { },
