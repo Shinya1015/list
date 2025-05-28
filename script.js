@@ -5752,7 +5752,17 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
-    { },
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 11652},
+     { date: "2025年2月16日(アカペラ)", videoId: "uGJVaBlFHlU", timestamp: 15567},
+     { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 8149},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 7657},
+     { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 8871},
+     { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 13891},
+     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 10397},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 2182},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 5165},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 15820},
+     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 5346},
   ],
   "以心電信/ORANGE RANGE": [
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19505},
