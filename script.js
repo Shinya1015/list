@@ -9042,7 +9042,7 @@ const lowPitchSongs = [
     "いのちの名前/木村弓",
     "いつも何度でも/木村弓",
     "たばこ/コレサワ",
-
+    "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
     "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
