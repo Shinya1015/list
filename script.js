@@ -6289,7 +6289,13 @@ const songStreamLinks = {
      { date: "2023年11月17日(冒頭アカペラ＆一番のみ)", videoId: "h27RoddZtRQ", timestamp: 5264},
   ],
   "気分上々↑↑/mihimaru GT": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 15742},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 7829},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 13972},
+     { date: "2023年11月27日", videoId: "5yeMXL3dho0", timestamp: 683},
+     { date: "2023年10月19日", videoId: "3MUWFjPBoCo", timestamp: 1660},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2783},
+     { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4196},
   ],
   "ライオン/May'n/中島愛": [
     { },
@@ -9257,6 +9263,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "気分上々↑↑/mihimaru GT",                                          //派對咖孔明ED
     "ココロオドル/nobodyknows+",                                     //SDガンダムフォース ED2
     "Cry Baby/Official髭男dism",                                    //東京卍復仇者 op
     "メグメル/riya",                                                //CLANNAD OP
