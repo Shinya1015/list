@@ -9078,6 +9078,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "BOY MEETS GIRL/TRF",                                         //だぁ!だぁ!だぁ! ED
     "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
     "残機/ずっと真夜中でいいのに。",                               //Chainsaw Man）第2話ED
     "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)",               // 精靈寶可夢 (Pokémon)
