@@ -4869,7 +4869,7 @@ const songStreamLinks = {
      { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 3064},
   ],
   "BOY MEETS GIRL/TRF": [
-    { },
+     { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10023},
