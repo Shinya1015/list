@@ -4210,7 +4210,15 @@ const songStreamLinks = {
     { date: "2025年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3090 },
   ],
   "はいよろこんで/こっちのけんと": [
-    { },
+     { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10440},
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4515},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 27060},
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 3781},
+     { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 2227},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 11199},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 9249},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 14968},
+     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 5739},
   ],
   "インタビュア/クワガタP": [
       { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7111 },
