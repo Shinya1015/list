@@ -5149,7 +5149,8 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },   
   ],
   "オトナモード/STAR☆ANIS": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14441},
+     { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 5780},
   ],
   "カレンダーガール/STAR☆ANIS": [
     { },
