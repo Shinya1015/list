@@ -5418,10 +5418,17 @@ const songStreamLinks = {
       { date: "2023年3月18日-piano ver.", videoId: "lFt9YfoL-GM", timestamp: 3890},
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 7519},
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 6433},
-
   ],
   "銀色の空/redballoon": [
-    { },
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 6863},
+     { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 7078},
+     { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 3917},
+     { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 1267},
+     { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 5926},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 11528},
+     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 8619},
+     { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 2855},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 8075},
@@ -8963,7 +8970,6 @@ const lowPitchSongs = [
     "祝祭/RADWIMPS",                                                  // 男聲
     "100万回の「I love you」/Rake",                                   // 男聲，創作歌手
     "大切な人/Rake",                                                  // 男聲，創作歌手
-    "銀色の空/redballoon",                                           // 男聲搖滾雙人組
     "My SunShine/ROCK'A'TRENCH",                                      // 男聲樂團
     "あんなに一緒だったのに/See-Saw",                                   // 女聲雙人組，石川智晶音色偏低
     "スターライトパレード/SEKAI NO OWARI",                              // 男聲 (Fukase)
