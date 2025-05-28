@@ -5104,7 +5104,9 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 11263},
   ],
   "ワールドイズマイン/supercell": [
-    { },
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7680},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2603},
+     { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 3396},
   ],
   "さよならメモリーズ/supercell": [
     { },
