@@ -4233,7 +4233,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 6528},
   ],
   "Catch You Catch Me/グミ": [
-    { },
+     { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8184},
   ],
   "金木犀/くじら": [
     { },
