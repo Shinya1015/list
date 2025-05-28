@@ -4428,7 +4428,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
   ],
   "Together/あきよしふみえ": [
-     { date: "2025年2月5日", videoId: "2b4rj6lnxs", timestamp: 780},
+     { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 780},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6648},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5753},
      { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 4126},
