@@ -5122,7 +5122,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 2309},
   ],
   "SPLASH FREE/STYLE FIVE": [
-    { },
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2690},
   ],
   "ダイヤモンドハッピー/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8344 },
