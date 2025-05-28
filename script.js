@@ -4866,7 +4866,7 @@ const songStreamLinks = {
       { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 2546},
   ],
   "Adrenaline!!!/TrySail": [
-    { },
+     { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 3064},
   ],
   "BOY MEETS GIRL/TRF": [
     { },
