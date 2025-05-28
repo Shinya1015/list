@@ -5496,7 +5496,8 @@ const songStreamLinks = {
      { date: "2023年1月16日-piano ver", videoId: "czmPQXUWDsA", timestamp: 12188},
   ],
   "祝祭/RADWIMPS": [
-    { },
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 14405},
+     { date: "2023年6月20日", videoId: "_hYbSPBR1v4", timestamp: 2616},
   ],
   "夢灯篭/RADWIMPS": [
     { },
