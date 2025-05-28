@@ -4462,7 +4462,16 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
-    { },
+     { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 2027},
+     { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 7476},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 9246},
+     { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 9009},
+     { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 4983},
+     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 4595},
+     { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 8293},
+     { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 374},
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 4605},
+     { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 3556},
   ],
   "JOY/YUKI": [
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 9717},
