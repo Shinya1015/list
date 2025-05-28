@@ -4555,7 +4555,12 @@ const songStreamLinks = {
      { date: "2023年2月13日-piano ver.", videoId: "WDaTU01Humc", timestamp: 5638},
   ],
   "HELLO ～Paradise Kiss～/YUI": [
-    { },
+     { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3507},
+     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 11006},
+     { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 3073},
+     { date: "2023年11月8日", videoId: "rowdCcqtrRE", timestamp: 4013},
+     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 13348},
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 10400},
   ],
   "Good-bye days/YUI": [
     { },
