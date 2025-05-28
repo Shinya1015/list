@@ -4393,7 +4393,9 @@ const songStreamLinks = {
      { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 2571},
   ],
   "気まぐれロマンティック/いきものがかり": [
-    { },
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 1996},
+     { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 6989},
+     { date: "2024年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 3225},
   ],
   "ブルーバード/いきものがかり": [
     { },
