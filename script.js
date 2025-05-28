@@ -5062,7 +5062,11 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 14721},
   ],
   "初めての恋が終わる時/supercell": [
-    { },
+     { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 7515},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 9410},
+     { date: "2023年12月27日(一部ミュート)", videoId: "1hOWx3YdjIQ", timestamp: 706},
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 6980},
+     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12817},
