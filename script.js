@@ -6236,7 +6236,10 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 3398},
   ],
   "リブート/miwa": [
-    { },
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 7040},
+     { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 8141},
+     { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 12335},
+     { date: "2029年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
   ],
   "ヒカリへ/miwa": [
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4458},
