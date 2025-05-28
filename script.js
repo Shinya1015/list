@@ -4236,8 +4236,8 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8184},
   ],
   "金木犀/くじら": [
-     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9124},
-     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 7463},
+     { date: "2024年11月22日(一番のみ)", videoId: "3b0GZDNe2AM", timestamp: 9124},
+     { date: "2023年9月16日(一番のみ)", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
     { },
