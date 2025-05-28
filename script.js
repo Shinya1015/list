@@ -4415,8 +4415,8 @@ const songStreamLinks = {
   "A Whole New World/アラジン": [
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 6745},
   ],
-  "イーガービリーバー/アヒル軍曹P": [
-    { },
+  "イーガー・ビリーバー/アヒル軍曹P": [
+     { date: "2023年1月18日", videoId: "w1YikQ8OqAc", timestamp: 3800},
   ],
   "生まれてはじめて/アナと雪の女王": [
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7643},
@@ -10255,7 +10255,7 @@ const streamerSongList = [
     "HAKOBAKO PLAYER/アゴアニキP",
     "Let It Go/アナと雪の女王",                        // 冰雪奇緣 (Frozen) - 電影
     "生まれてはじめて/アナと雪の女王",                  // 冰雪奇緣 (Frozen) - 電影
-    "イーガービリーバー/アヒル軍曹P",
+    "イーガー・ビリーバー/アヒル軍曹P",
     "A Whole New World/アラジン",                       // 阿拉丁 (Aladdin) - 電影
     "フレンド・ライク・ミー/アラジン",                  // 阿拉丁 (Aladdin) - 電影
     "TKGの歌/アリレム",
