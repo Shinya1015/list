@@ -4236,7 +4236,8 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8184},
   ],
   "金木犀/くじら": [
-    { },
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9124},
+     { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
     { },
@@ -8963,6 +8964,7 @@ const lowPitchSongs = [
     "いのちの名前/木村弓",
     "いつも何度でも/木村弓",
     "たばこ/コレサワ",
+    "金木犀/くじら",
 ];
 const animeSongs = [
     "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
