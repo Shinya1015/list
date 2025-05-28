@@ -4962,7 +4962,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 3538},
   ],
   "The secret garden/葉月ゆら": [
-    { },
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 2845},
   ],
   "resonance/T.M.Revolution": [
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3458 },
