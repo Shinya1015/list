@@ -4110,7 +4110,10 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 2785},
   ],
   "お断りします/さつきがてんこもり": [
-    { },
+     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 10093},
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 6694},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 7352},
+     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11035},
   ],
   "ネトゲ廃人シュプレヒコール/さつきがてんこもり": [
     { },
