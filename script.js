@@ -4326,7 +4326,9 @@ const songStreamLinks = {
      { date: "2023年1月26日", videoId: "lb9LTP381-c", timestamp: 11753},
   ],
   "メンタルチェンソー/かいりきベア": [
-    { },
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 7896},
+     { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 1390},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 7075},
   ],
   "ベノム/かいりきベア": [
     { },
