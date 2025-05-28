@@ -4398,7 +4398,9 @@ const songStreamLinks = {
      { date: "2024年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 3225},
   ],
   "ブルーバード/いきものがかり": [
-    { },
+     { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 7615},
+     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 15916},
+     { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 1064},
   ],
   "TKGの歌/アリレム": [
     { },
