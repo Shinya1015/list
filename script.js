@@ -5949,7 +5949,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 14976},   
   ],
   "命のユースティティア/Neru": [
-    { },
+     
   ],
   "ロストワンの号哭/Neru": [
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
@@ -9238,6 +9238,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "ココロオドル/nobodyknows+",                                     //SDガンダムフォース ED2
     "Cry Baby/Official髭男dism",                                    //東京卍復仇者 op
     "メグメル/riya",                                                //CLANNAD OP
     "BOY MEETS GIRL/TRF",                                         //だぁ!だぁ!だぁ! ED
