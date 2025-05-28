@@ -4362,7 +4362,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 1371},
   ],
   "Stay Alive/エミリア(高橋李依)": [
-    { },
+     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 9082},
   ],
   "うまぴょい伝説/ウマ娘": [
     { },
