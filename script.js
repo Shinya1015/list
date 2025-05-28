@@ -5382,7 +5382,10 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 2218},
   ],
   "メグメル/riya": [
-    { },
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 2596},
+     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 13254},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 20215},
+     { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
    "ENDLESS STORY/REIRA starring YUNA ITO": [
       { date: "2025年5月13日-piano ver.", videoId: "zPR8pqQgpCE", timestamp: 1484},
@@ -9106,6 +9109,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "メグメル/riya",                                                //CLANNAD OP
     "BOY MEETS GIRL/TRF",                                         //だぁ!だぁ!だぁ! ED
     "小さな恋のうた/MONGOL800",                                    //からかい上手の高木さんED
     "残機/ずっと真夜中でいいのに。",                               //Chainsaw Man）第2話ED
