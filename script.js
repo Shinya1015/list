@@ -5449,7 +5449,9 @@ const songStreamLinks = {
      { date: "2023年2月5日-piano ver", videoId: "rm-RCo2r-jA", timestamp: 3521},
   ],
   "大切な人/Rake": [
-    { },
+     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 16402},
+     { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 6316},
+     { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1987},
