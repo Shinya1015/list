@@ -5670,7 +5670,7 @@ const songStreamLinks = {
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 1770},
   ],
   "コンピューターシティ/Perfume": [
-     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 1380},
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 1410},
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 8031},
   ],
   "Magic of Love/Perfume": [
