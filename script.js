@@ -5891,7 +5891,10 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 15378},
   ],
   "ココロオドル/nobodyknows+": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 2473},
+     { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 7633},
+     { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 936},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
   "天地ガエシ/NICO Touches the Walls": [
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 12122},
