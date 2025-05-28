@@ -4428,7 +4428,14 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
   ],
   "Together/あきよしふみえ": [
-    { },
+     { date: "2025年2月5日", videoId: "2b4rj6lnxs", timestamp: 780},
+     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6648},
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5753},
+     { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 4126},
+     { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 1803},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 10222},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 1192},
+     { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 1819},
   ],
   "unravel/TK from 凛として時雨": [
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 2109},
@@ -4903,7 +4910,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 12695},
   ],
   "We Are Never Ever Getting Back Together/Taylor Swift": [
-    { },
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 765},
   ],
   "The Story of Us/Taylor Swift": [
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 13550},
