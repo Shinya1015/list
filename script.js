@@ -4403,7 +4403,8 @@ const songStreamLinks = {
      { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 1064},
   ],
   "TKGの歌/アリレム": [
-    { },
+     { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 6609},
+     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 12370},
   ],
   "フレンド・ライク・ミー/アラジン": [
     { },
