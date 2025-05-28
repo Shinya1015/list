@@ -5949,7 +5949,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 14976},   
   ],
   "命のユースティティア/Neru": [
-     
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 2094},
   ],
   "ロストワンの号哭/Neru": [
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
