@@ -4116,7 +4116,11 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11035},
   ],
   "ネトゲ廃人シュプレヒコール/さつきがてんこもり": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20266},
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 3260},
+     { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 4962},
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 7027},
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "うさぎのかぞえかた/さつきがてんこもり": [
       { },
@@ -8636,6 +8640,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "ネトゲ廃人シュプレヒコール/さつきがてんこもり",
    "世界寿命と最後の一日/スズム",
    "東京レトロ/すこっぷ",
    "hectopascal/小糸侑(高田憂希),七海燈子(寿美菜子)",
