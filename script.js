@@ -4353,7 +4353,13 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6090},
   ],
   "君じゃなきゃダメみたい/オーイシマサヨシ": [
-    { },
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 471},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 2662},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 1743},
+     { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 10024},
+     { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 1738},
+     { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 9256},
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 1371},
   ],
   "Stay Alive/エミリア(高橋李依)": [
     { },
