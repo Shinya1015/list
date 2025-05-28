@@ -4059,7 +4059,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
   ],
   "世界はそれを愛と呼ぶんだぜ/サンボマスター": [
-    { },
+     { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3844},
   ],
   "花の塔/さユり": [
     { },
