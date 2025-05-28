@@ -6298,7 +6298,14 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4196},
   ],
   "ライオン/May'n/中島愛": [
-    { },
+     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 11392},
+     { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 1324},
+     { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 890},
+     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 1999},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 2080},
+     { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 1396},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 11226},
+     { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2513},
   ],
   "絆ノ奇跡/MAN WITH A MISSION × milet": [
     { },
