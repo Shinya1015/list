@@ -4177,8 +4177,11 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 36001},
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 4515},
   ],
-  "夜もすがら君想ふ/ころん": [
-    { },
+  "夜もすがら君想ふ/西沢さんP": [
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6615},
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11161},
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2760},
+     { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
   "たばこ/コレサワ": [
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5073},
@@ -8842,7 +8845,7 @@ const lowPitchSongs = [
     "君のそばで～ヒカリのテーマ～/グリン",                               // 推測為男歌手Grin
     "はいよろこんで/こっちのけんと",                                    // 男聲
     "蕾/コブクロ",                                                    // 男聲雙人組，包含低音聲部
-    "夜もすがら君想ふ/ころん",                                          // 男聲 (Utaite - すとぷり)
+    "夜もすがら君想ふ/西沢さんP",                                          // 男聲 (Utaite - すとぷり)
     "シンデレラ/サイダーガール",                                        // 男聲樂團
     "TSUNAMI/サザンオールスターズ",                                     // 男聲 (桑田佳祐)
     "明日晴れるかな/桑田佳祐",                                        // 男聲
@@ -10203,7 +10206,7 @@ const streamerSongList = [
     "はいよろこんで/こっちのけんと",
     "蕾/コブクロ",
     "たばこ/コレサワ",
-    "夜もすがら君想ふ/ころん",
+    "夜もすがら君想ふ/西沢さんP",
     "シンデレラ/サイダーガール",
     "TSUNAMI/サザンオールスターズ",
     "青いベンチ/サスケ",
