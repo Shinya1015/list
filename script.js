@@ -4331,7 +4331,11 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 7075},
   ],
   "ベノム/かいりきベア": [
-    { },
+     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 5507},
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 7610},
+     { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 2487},
+     { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3824},
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9248},
   ],
   "ダーリンダンス/かいりきベア": [
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 6101},
