@@ -5777,7 +5777,7 @@ const songStreamLinks = {
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 2488},
   ],
   "What Makes You Beautiful/One Direction": [
-    { },
+     { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 5485},
   ],
   "ミックスナッツ/Official髭男dism": [
     { },
