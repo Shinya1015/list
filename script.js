@@ -6466,7 +6466,8 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 12167},
   ],
   "ロメオ/LIP×LIP": [
-    { },
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 3141},
+     { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 2537},
   ],
   "時を刻む唄/Lia": [
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 10672},
