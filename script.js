@@ -4563,7 +4563,9 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 10400},
   ],
   "Good-bye days/YUI": [
-    { },
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 9459},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13018},
+     { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4665},
   ],
   "CHE.R.RY/YUI": [
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 708},
