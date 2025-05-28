@@ -6510,8 +6510,18 @@ const songStreamLinks = {
   "Bravely You/Lia": [
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7987},
   ],
-  "My Soul, Your Beats!/Lia": [
-     
+  "My Soul,Your Beats!/Lia": [
+     { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 2149},
+     { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 3427},
+     { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 10280},
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 19979},
+     { date: "2024年1月24日", videoId: "jN2G271wICI", timestamp: 6328},
+     { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 3408},
+     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 1240},
+     { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 1558},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 8999},
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 5412},
+     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 523},
   ],
   "有頂天ビバーチェ/Last Note.": [
     { },
@@ -9422,7 +9432,7 @@ const animeSongs = [
     "おはよう。/Keno",                                  // HUNTER×HUNTER 獵人 (1999年版)
     "ボクラの冒険/Kids Alive",                          // 棋魂 (Hikaru no Go)
     "OVERLAP/Kimeru",                                   // 遊☆戲☆王 怪獸之決鬥 (Yu-Gi-Oh! Duel Monsters)
-    "My Soul, Your Beats!/Lia",                         // Angel Beats!
+    "My Soul,Your Beats!/Lia",                         // Angel Beats!
     "Bravely You/Lia",                                  // Charlotte 夏洛特
     "時を刻む唄/Lia",                                   // CLANNAD ～AFTER STORY～
     "ロメオ/LIP×LIP",                                   // 告白實行委員會系列 - 關聯歌曲
@@ -10391,7 +10401,7 @@ const streamerSongList = [
     "放課後ストライド/Last Note.",
     "恋愛勇者/Last Note.",
     "有頂天ビバーチェ/Last Note.",
-    "My Soul, Your Beats!/Lia",                         // Angel Beats!
+    "My Soul,Your Beats!/Lia",                         // Angel Beats!
     "Bravely You/Lia",                                  // Charlotte 夏洛特
     "小さなてのひら/Lia",
     "時を刻む唄/Lia",                                   // CLANNAD ～AFTER STORY～
