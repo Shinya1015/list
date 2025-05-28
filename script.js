@@ -4413,7 +4413,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8401},
   ],
   "A Whole New World/アラジン": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 6745},
   ],
   "イーガービリーバー/アヒル軍曹P": [
     { },
