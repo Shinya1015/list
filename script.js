@@ -4368,6 +4368,9 @@ const songStreamLinks = {
      { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 9504},
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 2322},
   ],
+   "ぼなぺてぃーと♡S/フレンド・A": [
+      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 2514},
+  ],
   "きゅうくらりん/いよわ": [
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7748},
   ],
@@ -9408,6 +9411,7 @@ const animeSongs = [
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR 片尾曲
     "星間飛行/ランカ・リー(CV:中島愛)",                // 超時空要塞F (Macross Frontier)
     "オツキミリサイタル/じん",                        //メカクシティアクターズ 陽炎計畫 插入歌
+   "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
 ];
     
 
@@ -10256,6 +10260,7 @@ const streamerSongList = [
     "熱情のスペクトラム/いきものがかり",                 // 七大罪 (The Seven Deadly Sins)
     "きゅうくらりん/いよわ",
     "うまぴょい伝説/ウマ娘",                           // 賽馬娘Pretty Derby (Uma Musume Pretty Derby) - 遊戲/動畫
+    "ぼなぺてぃーと♡S/フレンド・A",
     "Stay Alive/エミリア(高橋李依)",                   // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
     "君じゃなきゃダメみたい/オーイシマサヨシ",          // 月刊少女野崎同學 (Monthly Girls' Nozaki-kun)
     "ダーリンダンス/かいりきベア",
