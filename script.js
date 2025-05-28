@@ -4365,7 +4365,8 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 9082},
   ],
   "うまぴょい伝説/ウマ娘": [
-    { },
+     { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 9504},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 2322},
   ],
   "きゅうくらりん/いよわ": [
     { },
