@@ -4425,7 +4425,7 @@ const songStreamLinks = {
     { },
   ],
   "HAKOBAKO PLAYER/アゴアニキP": [
-    { },
+     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
   ],
   "Together/あきよしふみえ": [
     { },
