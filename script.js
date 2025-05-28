@@ -5158,7 +5158,10 @@ const songStreamLinks = {
      { date: "2024年9月24日", videoId: "yiPEGApmGdI", timestamp: 5446},
   ],
   "オリジナルスター☆彡/STAR☆ANIS": [
-    { },
+     { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6670},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 2006},
+     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 8002},
+     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 15500},
   ],
   "SHINING LINE*/STAR☆ANIS": [
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 9538},
