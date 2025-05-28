@@ -4082,7 +4082,13 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3821},
   ],
   "ミカヅキ/さユり": [
-    { },
+     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 9206},
+     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4853},
+     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 8143},
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 2595},
+     { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 5521},
+     { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 3655},
+     { date: "2023年11月19日-piano ver", videoId: "CeX2ME0QtAI", timestamp: 5099},
   ],
   "それは小さな光のような/さユり": [
     { },
