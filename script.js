@@ -6543,7 +6543,8 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5902},
   ],
   "アウト オブ エデン/Kouhei": [
-    { },
+     { date: "2023年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16563},
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5429},
   ],
   "Best Friend/Kiroro": [
      { date: "2024年7月10日(一番のみ)", videoId: "YM1cJZPZAfg", timestamp: 6221},
