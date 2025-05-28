@@ -5627,7 +5627,21 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 1800},
   ],
   "すずめ/RADWIMPS": [
-    { },
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7991},
+     { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 2899},
+     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 6003},
+     { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 7798},
+     { date: "2024年5月15日", videoId: "zJSlMu5wgdg", timestamp: 1585},
+     { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 14566},
+     { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 2338},
+     { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 9750},
+     { date: "2024年1月9日", videoId: "lSdN2PzHKvI", timestamp: 5709},
+     { date: "2023年11月21日", videoId: "pstazwptVkg", timestamp: 3486},
+     { date: "2023年9月10日", videoId: "g2F88AkmFBs", timestamp: 4395},
+     { date: "2023年8月9日", videoId: "bNPIz_XxNxU", timestamp: 2691},
+     { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 15887},
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 7880},
+     { date: "2023年7月12日(アカペラ)", videoId: "HnqygtJDc1w", timestamp: 9384},
   ],
   "シル・ヴ・プレジデント/P丸様。": [
      { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 3456},
@@ -8966,7 +8980,6 @@ const lowPitchSongs = [
     "Good Time/Owl city & Carly Rae Jepsen",                          // 男聲 (Owl City) + 女聲，包含男聲
     "君＝花/pigstar",                                                 // 男聲搖滾樂團
     "衝動/pigstar",                                                   // 男聲搖滾樂團
-    "すずめ/RADWIMPS",                                                // RADWIMPS (男聲主唱) 有演唱版本
     "スパークル/RADWIMPS",                                            // 男聲
     "なんでもないや/RADWIMPS",                                        // 男聲
     "前前前世/RADWIMPS",                                              // 男聲
