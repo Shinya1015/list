@@ -6533,7 +6533,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 8048},
   ],
   "放課後ストライド/Last Note.": [
-    { },
+     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 6360},
   ],
   "セツナトリップ/Last Note.": [
     { },
@@ -9329,6 +9329,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "放課後ストライド/Last Note.",                                       //放課後ストライドED
     "気分上々↑↑/mihimaru GT",                                          //派對咖孔明ED
     "ココロオドル/nobodyknows+",                                     //SDガンダムフォース ED2
     "Cry Baby/Official髭男dism",                                    //東京卍復仇者 op
