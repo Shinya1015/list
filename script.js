@@ -6415,7 +6415,9 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2081 },
   ],
   "紅蓮の弓矢/Linked Horizon": [
-    { },
+     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 16426},
+     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 1718},
+     { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 2569},
   ],
   "紅蓮華/LiSA": [
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8595},
