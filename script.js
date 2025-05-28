@@ -4375,7 +4375,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9665},
   ],
   "青春ライン/いきものがかり": [
-    { },
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5463},
   ],
   "花は桜 君は美し/いきものがかり": [
     { },
