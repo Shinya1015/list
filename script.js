@@ -4422,7 +4422,7 @@ const songStreamLinks = {
     { },
   ],
   "Let It Go/アナと雪の女王": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 6052},
   ],
   "HAKOBAKO PLAYER/アゴアニキP": [
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
