@@ -6524,7 +6524,9 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 523},
   ],
   "有頂天ビバーチェ/Last Note.": [
-    { },
+     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11479},
+     { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 2401},
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 2550},
   ],
   "恋愛勇者/Last Note.": [
       { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 8229},
