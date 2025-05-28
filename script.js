@@ -5109,7 +5109,17 @@ const songStreamLinks = {
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 3396},
   ],
   "さよならメモリーズ/supercell": [
-    { },
+     { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 1923},
+     { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 860},
+     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 1291},
+     { date: "2024年3月7日", videoId: "5pByTBS_Arc", timestamp: 7233},
+     { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 16231},
+     { date: "2024年1月27日", videoId: "WrpCj3w5QmY", timestamp: 22292},
+     { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 9008},
+     { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 7367},
+     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 1631},
+     { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 15321},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 2309},
   ],
   "SPLASH FREE/STYLE FIVE": [
     { },
