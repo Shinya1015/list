@@ -5377,7 +5377,9 @@ const songStreamLinks = {
       { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 9861},
   ],
   "My SunShine/ROCK'A'TRENCH": [
-    { },
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 9436},
+     { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 10481},
+     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 2218},
   ],
   "メグメル/riya": [
     { },
