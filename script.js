@@ -4407,7 +4407,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 12370},
   ],
   "フレンド・ライク・ミー/アラジン": [
-    { },
+     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8401},
   ],
   "A Whole New World/アラジン": [
     { },
