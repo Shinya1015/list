@@ -5887,7 +5887,8 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 8052},
   ],
   "Bad Apple!!/nomico": [
-    { },
+     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 2267},
+     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 15378},
   ],
   "ココロオドル/nobodyknows+": [
     { },
