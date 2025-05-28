@@ -6374,7 +6374,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 2027},
   ],
   "けーたいみしてよ/MAISONdes": [
-    { },
+     { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
