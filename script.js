@@ -5101,7 +5101,7 @@ const songStreamLinks = {
   "ブラック★ロックシューター/supercell": [
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 5345},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2982},
-     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 11263},
+     { date: "2023年1月6日-piano ver", videoId: "lb9LTP381-c", timestamp: 11263},
   ],
   "ワールドイズマイン/supercell": [
      { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7680},
