@@ -5094,7 +5094,9 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9606},
   ],
   "メルト/supercell": [
-    { },
+     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2316},
+     { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 4841},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 7306},
   ],
   "ブラック★ロックシューター/supercell": [
     { },
