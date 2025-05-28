@@ -6435,7 +6435,7 @@ const songStreamLinks = {
       { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 8836},
   ],
   "炎/LiSA": [
-    { },
+     { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 3496},
   ],
   "oath sign/LiSA": [
     { },
