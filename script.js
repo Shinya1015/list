@@ -5741,7 +5741,15 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 6342},
   ],
   "Surges/Orangestar": [
-    { },
+     { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 12675},
+     { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 1907},
+     { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 10841},
+     { date: "2023年11月15日", videoId: "C-a3Y32FgzA", timestamp: 5406},
+     { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2960},
+     { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 4049},
+     { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 4251},
+     { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 2985},
+     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
     { },
