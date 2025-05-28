@@ -5686,7 +5686,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 11771},
   ],
   "空奏列車/Orangestar": [
-    { },
+     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 1586},
   ],
   "回る空うさぎ/Orangestar": [
     { },
