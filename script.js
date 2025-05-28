@@ -4372,7 +4372,7 @@ const songStreamLinks = {
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7748},
   ],
   "熱情のスペクトラム/いきものがかり": [
-    { },
+     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9665},
   ],
   "青春ライン/いきものがかり": [
     { },
