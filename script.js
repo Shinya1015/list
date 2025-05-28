@@ -4419,7 +4419,7 @@ const songStreamLinks = {
     { },
   ],
   "生まれてはじめて/アナと雪の女王": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7643},
   ],
   "Let It Go/アナと雪の女王": [
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 6052},
