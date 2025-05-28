@@ -6539,7 +6539,8 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 5008},
   ],
   "なりすましゲンガー/KulfiQ": [
-    { },
+     { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7570},
+     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5902},
   ],
   "アウト オブ エデン/Kouhei": [
     { },
