@@ -5683,7 +5683,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 34238},
   ],
   "trick and treat/OSTER project": [
-    { },
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 11771},
   ],
   "空奏列車/Orangestar": [
     { },
