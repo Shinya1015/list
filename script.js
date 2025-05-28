@@ -5153,7 +5153,9 @@ const songStreamLinks = {
      { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 5780},
   ],
   "カレンダーガール/STAR☆ANIS": [
-    { },
+     { date: "2024年12月31日", videoId: "1VI45dHw", timestamp: 769},
+     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 1180},
+     { date: "2024年9月24日", videoId: "yiPEGApmGdI", timestamp: 5446},
   ],
   "オリジナルスター☆彡/STAR☆ANIS": [
     { },
