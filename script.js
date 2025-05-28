@@ -5500,7 +5500,9 @@ const songStreamLinks = {
      { date: "2023年6月20日", videoId: "_hYbSPBR1v4", timestamp: 2616},
   ],
   "夢灯篭/RADWIMPS": [
-    { },
+     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 3765},
+     { date: "2023年10月7日(アカペラ)", videoId: "X-eV7122PC4", timestamp: 3273},
+     { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
   ],
   "愛にできることはまだあるかい/RADWIMPS": [
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 20650},
