@@ -4816,7 +4816,6 @@ const songStreamLinks = {
   ],
   "アンビバレント/Uru ": [
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8204},
-     { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 2736},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 2330},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13031},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 9777},
