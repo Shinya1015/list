@@ -688,7 +688,8 @@ const songStreamLinks = {
     { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 11095 },
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18288 },
   ],
-  "心拍数# 0822/蝶々P": [
+   "心拍数# 0822/蝶々P": [
+      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4887 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 15376},
       { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4165},
       { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12423},
@@ -2592,6 +2593,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3861 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 16921},
      { date: "2025年3月8日", videoId: "nGz0rPlZpIY", timestamp: 1961},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 15148},
@@ -5547,6 +5549,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4159 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5861},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 2224},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 20298},
@@ -5720,6 +5723,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 1998},
   ],
   "アスノヨゾラ哨戒班/Orangestar": [
+     { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4553 },
      { date: "2025年4月1日-Fast ver.", videoId: "wNMS4XNQuh4", timestamp: 6633},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10951},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 16536},
