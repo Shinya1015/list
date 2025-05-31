@@ -3063,6 +3063,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 975 },
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 1857},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12044},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7499},
