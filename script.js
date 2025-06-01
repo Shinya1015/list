@@ -8749,7 +8749,8 @@ const songStreamLinks = {
     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10178 },
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13735 },
     ], 
-"Ref:rain/Aimer": [ 
+　"Ref:rain/Aimer": [ 
+    { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 5334},
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 12154 },
     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 10899 },
     { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 4649 },
