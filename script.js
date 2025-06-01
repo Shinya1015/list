@@ -2792,6 +2792,7 @@ const songStreamLinks = {
      { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 13527},
   ],
   "キラキラ/小田和正": [
+     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 8623},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 5794},
      { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 6732},
      { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 7008},
