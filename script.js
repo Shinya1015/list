@@ -7002,6 +7002,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
   "キセキ/GReeeeN": [
+     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 7678},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 10238},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 22271},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 2978},
