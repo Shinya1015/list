@@ -3394,6 +3394,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 12323 },
   ],
   "夕立のりぼん/みきとP": [
+     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 9254},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11740},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7722},
   ],
