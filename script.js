@@ -8865,6 +8865,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2916},
     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 2495},
     { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 1549},
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 2994 },
