@@ -4487,6 +4487,7 @@ const songStreamLinks = {
      { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 3556},
   ],
   "JOY/YUKI": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2310},
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 9717},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 4971},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 1741},
