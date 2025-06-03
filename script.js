@@ -7057,6 +7057,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10347},
   ],
   "# あくあ色ぱれっと/湊あくあ": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6020},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 6480},
      { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 2129},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 5466},
