@@ -6654,7 +6654,8 @@ const songStreamLinks = {
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 6697 },
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 9681 },
   ],
-  "bitter/keeno": [
+ "bitter/keeno": [
+    { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2600},
     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 1757 },
     { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 2900 },
     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 14501 },
