@@ -6060,6 +6060,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2003},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9188},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2850},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1142 },
