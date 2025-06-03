@@ -3894,6 +3894,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3263},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 16945},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 4211},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 3020},
