@@ -4536,6 +4536,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4965},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 6080},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6292},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 15985},
