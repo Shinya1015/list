@@ -399,6 +399,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4325},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3052},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9834},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1210},
