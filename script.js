@@ -7,7 +7,8 @@ const songStreamLinks = {
    "MOTTO!!!/Junky": [
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
-   "愛▽スクリ～ム！/AiScReam": [
+   "愛♡スクリ～ム！/AiScReam": [
+      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3875},
       { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1948},
       { date: "2025年5月24日(一部分のみ)", videoId: "G0PaWs_h9Kk", timestamp: 10003},
       ],
@@ -480,6 +481,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3613},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9536},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1463},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13655},
@@ -11050,7 +11052,7 @@ const streamerSongList = [
     "風といっしょに/小林幸子",                     //ポケットモンスター ミュウツーの逆襲
     "バカ・ゴー・ホーム/milktub",                 //バカとテストと召喚獣 ed
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
-    "愛▽スクリ～ム！/AiScReam",
+    "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
    
 ];
