@@ -7968,7 +7968,8 @@ const songStreamLinks = {
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9736},
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 2981},
   ],
-  "STAR☆T☆RAIN/B小町": [
+ "STAR☆T☆RAIN/B小町": [
+    { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6735},
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5066 },
     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 991 },
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 28802 },
