@@ -1718,7 +1718,8 @@ const songStreamLinks = {
      { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 1752 },
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 13872 },
   ],
-  "Secret of my heart/倉木麻衣": [
+ "Secret of my heart/倉木麻衣": [
+    { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 8131},
     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 8432 },
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 4710 },
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13093 },
