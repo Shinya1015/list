@@ -1123,6 +1123,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2050},
   ],
   "ガーネット/奥華子": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 7313},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3498 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 18295 },
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 9123 },
