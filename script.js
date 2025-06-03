@@ -446,6 +446,7 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 12077 },
   ],
   "愛包ダンスホール/HIMEHINA": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6442},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4825},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2291},
      { date: "2024年8月16日", videoId: "uk7DOs1B34I", timestamp: 1515},
