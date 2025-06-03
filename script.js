@@ -5741,6 +5741,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 1998},
   ],
   "アスノヨゾラ哨戒班/Orangestar": [
+     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 7011},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4553 },
      { date: "2025年4月1日-Fast ver.", videoId: "wNMS4XNQuh4", timestamp: 6633},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10951},
