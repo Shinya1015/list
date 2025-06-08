@@ -3566,6 +3566,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
+     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6540 },
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12836},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 5841},
      { date: "2025年2月5日", videoId: "76sEx59ZSf8", timestamp: 2617},
