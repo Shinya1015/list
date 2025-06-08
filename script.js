@@ -8677,7 +8677,8 @@ const songStreamLinks = {
       { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4701 },
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
     ],      
-"僕が死のうと思ったのは/amazarashi": [
+ "僕が死のうと思ったのは/amazarashi": [
+    { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6044 },
     { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 9091 },
 　  { date: "2024年10月6日", videoId: "n301kEGUSMU", timestamp: 9886 },
