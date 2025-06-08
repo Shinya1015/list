@@ -3589,7 +3589,8 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 5388},
      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 6902},
   ],
-  "ハロ/ハワユ/ナノウ": [
+   "ハロ/ハワユ/ナノウ": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 5540 },
       { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 9353 },
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 8672 },
       { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 9123 },
