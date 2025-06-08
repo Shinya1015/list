@@ -1146,7 +1146,8 @@ const songStreamLinks = {
     { date: "2024年2月26日", videoId: "pjRxjZz-Cq0", timestamp: 9455 },
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
-  "変わらないもの/奥華子": [
+ "変わらないもの/奥華子": [
+    { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1973 },
     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6048 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17899 },
     { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 8509 },
@@ -4872,6 +4873,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2342 },
       { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 4637},
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6986},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11151},
