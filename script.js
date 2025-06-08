@@ -8614,7 +8614,11 @@ const songStreamLinks = {
    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
+   "解けない夏/Aqu3ra": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
+      ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1148 },
       { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 2340 },
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 7256},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 2882},
@@ -10313,6 +10317,7 @@ const streamerSongList = [
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
     "僕が死のうと思ったのは/amazarashi",
     "ロンリーユニバース/Aqu3ra",
+    "解けない夏/Aqu3ra",
     "Velonica/Aqua Timez",                              // BLEACH 死神
     "しおり/Aqua Timez",                                // 火影忍者疾風傳劇場版：羈絆 (Naruto Shippuden the Movie: Bonds)
     "千の夜をこえて/Aqua Timez",
@@ -11064,5 +11069,4 @@ const streamerSongList = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
-   
 ];
