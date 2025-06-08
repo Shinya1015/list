@@ -2548,7 +2548,8 @@ const songStreamLinks = {
      { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 2105},
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 5703},
   ],
-  "POP STAR/平井堅": [
+   "POP STAR/平井堅": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 3645 },
       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 10916},
       { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 17019},
       { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 8941},
