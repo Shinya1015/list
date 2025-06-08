@@ -3185,6 +3185,7 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
+     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8350 },
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 4971},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3017},
      { date: "2025年3月31日(冒頭アカペラ)", videoId: "fWeibuWPkzs", timestamp: 16626},
