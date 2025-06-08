@@ -8400,6 +8400,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4331 },
         { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 8090},
         { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 8575 },
         { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1493 },
