@@ -695,6 +695,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18288 },
   ],
    "心拍数# 0822/蝶々P": [
+      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1409 },
       { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4887 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 15376},
       { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4165},
