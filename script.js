@@ -4489,6 +4489,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6810 },
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 2027},
      { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 7476},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 9246},
