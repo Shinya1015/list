@@ -8,6 +8,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
    "愛♡スクリ～ム！/AiScReam": [
+      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 5060},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3875},
       { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1948},
       { date: "2025年5月24日(一部分のみ)", videoId: "G0PaWs_h9Kk", timestamp: 10003},
@@ -2743,6 +2744,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 7886},
   ],
   "空色デイズ/中川翔子": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1947},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 2267},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 4728},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3325},
@@ -2828,6 +2830,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13439},
   ],
   "黒毛和牛上塩タン焼680円/大塚愛": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1598},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 4664},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 568},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 19390},
@@ -3228,6 +3231,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4171},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 3528},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 25595},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 10609},
@@ -4491,6 +4495,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4773},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6810 },
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 2027},
      { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 7476},
@@ -5682,6 +5687,7 @@ const songStreamLinks = {
      { date: "2023年7月12日(アカペラ)", videoId: "HnqygtJDc1w", timestamp: 9384},
   ],
   "シル・ヴ・プレジデント/P丸様。": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 3121},
      { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 3456},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 5758},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 1094},
@@ -6114,6 +6120,7 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 10323},
      ],
   "青と夏/Mrs. GREEN APPLE": [
+     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 3461},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 3242},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 2512},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 3352},
@@ -8434,6 +8441,7 @@ const songStreamLinks = {
         { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
      ],
     "ココロのちず/BOYSTYLE": [
+       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1224},
        { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 5824},
        { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8429 },
        { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6823 },
@@ -8628,6 +8636,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
