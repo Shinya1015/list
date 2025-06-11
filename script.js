@@ -6281,6 +6281,7 @@ const songStreamLinks = {
      { date: "2023年6月26日-piano ver.", videoId: "RqnDCwCAL0I", timestamp: 8897},
   ],
   "ファンサ/mona(CV:夏川椎菜)": [
+     { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 960},
      { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4364},
      { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2168},
      { date: "2024年4月20日", videoId: "OyA_gOnzlwg", timestamp: 3530},
@@ -7087,6 +7088,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10347},
   ],
   "# あくあ色ぱれっと/湊あくあ": [
+     { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 1563},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6020},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 6480},
      { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 2129},
@@ -7879,6 +7881,7 @@ const songStreamLinks = {
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 18824},
   ],
   "誇り高きアイドル/HoneyWorks": [
+     { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 1247},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 25623 },
      { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4739 },
      { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2766 },
