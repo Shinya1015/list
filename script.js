@@ -7301,6 +7301,7 @@ const songStreamLinks = {
      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14047},
   ],
   "夏空/Galileo Galilei": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2296},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2715},
      { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 1563},
      { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 6430},
@@ -8310,7 +8311,8 @@ const songStreamLinks = {
     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 21984 },
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 14545 },
   ],
-  "アカシア/BUMP OF CHICKEN": [
+ "アカシア/BUMP OF CHICKEN": [
+    { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1693},
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15629 },
     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 3362 },
     { date: "2025年3月11日(アカペラ、一番のみ)", videoId: "z5MYa4kPW4o", timestamp: 3263 },
@@ -8526,7 +8528,8 @@ const songStreamLinks = {
        { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 8504 },
        { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 14061 },
      ],      
-"ドラマチック/Base Ball Bear": [
+    "ドラマチック/Base Ball Bear": [
+       { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2002},
        { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 2790 },
        { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 10069 },
        { date: "2023年6月24日", videoId: "NSDbgOVoe-I", timestamp: 3029 },
