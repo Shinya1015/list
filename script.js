@@ -655,6 +655,7 @@ const songStreamLinks = {
     
   ],
  "ドライフラワー/優里": [
+    { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 6657},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 5669},
     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 1873 },
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 6272 },
@@ -2617,6 +2618,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7003},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3861 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 16921},
      { date: "2025年3月8日", videoId: "nGz0rPlZpIY", timestamp: 1961},
@@ -5558,7 +5560,8 @@ const songStreamLinks = {
      { date: "2023年10月7日(アカペラ)", videoId: "X-eV7122PC4", timestamp: 3273},
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
   ],
-  "愛にできることはまだあるかい/RADWIMPS": [
+   "愛にできることはまだあるかい/RADWIMPS": [
+      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7761},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 20650},
       { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 14269},
       { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 1815 },
@@ -5647,6 +5650,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7275},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 2593},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 19481},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 8825},
@@ -6560,7 +6564,8 @@ const songStreamLinks = {
       { date: "2023年9月11日(冒頭アカペラ)", videoId: "PqeDAWM9HVc", timestamp: 8562},
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15554},         
   ],
-  "小さなてのひら/Lia": [
+    "小さなてのひら/Lia": [
+       { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4505},
        { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8030},
        { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 6316},
        { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 7912},
@@ -8602,7 +8607,8 @@ const songStreamLinks = {
        { date: "2024年9月11日(1番アカペラ、2番からオケ有り)", videoId: "PqeDAWM9HVc", timestamp: 4690 },
        { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8593 },
      ],
-  "夏のかけら/Aqua Timez": [
+    "夏のかけら/Aqua Timez": [
+       { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 6341},
        { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 1279 },
        { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8924 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 4465 },
