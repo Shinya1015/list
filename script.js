@@ -2262,6 +2262,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1265},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4015 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6275},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1337},
@@ -3855,6 +3856,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 930},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 3434},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2213},
      { date: "2025年3月23日-piano ver.", videoId: "r4WSqrEyefI", timestamp: 8919},
