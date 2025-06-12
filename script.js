@@ -562,6 +562,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/オレンジレンジ": [
+    { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3716},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2369},
     { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1210},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 990 },
@@ -2182,6 +2183,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2685},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5503},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4213},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 3277},
@@ -2394,6 +2396,7 @@ const songStreamLinks = {
     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4249},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1389},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6439},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 5447},
@@ -5821,6 +5824,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 5346},
   ],
   "以心電信/ORANGE RANGE": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3981},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19505},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 1757},
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3494},
@@ -7461,6 +7465,7 @@ const songStreamLinks = {
      { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
   "careless breath/EXILE": [
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3040},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7273},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5232},
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 2985},
@@ -8730,6 +8735,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [ 
+     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3361},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1183},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 6082},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 10696},
