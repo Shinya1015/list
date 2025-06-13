@@ -10602,6 +10602,7 @@ const streamerSongList = [
     "ミックスナッツ/Official髭男dism",                  // SPY×FAMILY 間諜家家酒
     "What Makes You Beautiful/One Direction",
     "以心電信/ORANGE RANGE",
+    "*～アスタリスク～/ORANGE RANGE",
     "DAYBREAK FRONTLINE/Orangestar",
     "Surges/Orangestar",                                // 「加油吧，同期醬」Web動畫 主題曲
     "アスノヨゾラ哨戒班/Orangestar",
@@ -11029,7 +11030,6 @@ const streamerSongList = [
     "you/癒月",
     "ヒトミノチカラ/観月ありさ",
     "SIX COLORS BOY/雛形あきこ",
-    "*～アスタリスク～/ORANGE RANGE",
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
     "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
