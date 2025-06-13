@@ -561,7 +561,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 2324 },
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
- "*～アスタリスク～/オレンジレンジ": [
+ "*～アスタリスク～/ORANGE RANGE": [
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3716},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2369},
     { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1210},
@@ -9320,7 +9320,7 @@ const lowPitchSongs = [
     "ミックスナッツ/Official髭男dism",                                // 男聲
     "What Makes You Beautiful/One Direction",                         // 男聲團體
     "以心電信/ORANGE RANGE",                                          // 男聲，搖滾/嘻哈
-    "*～アスタリスク～/オレンジレンジ",                                  // 男聲，搖滾/嘻哈
+    "*～アスタリスク～/ORANGE RANGE",                                  // 男聲，搖滾/嘻哈
     "Good Time/Owl city & Carly Rae Jepsen",                          // 男聲 (Owl City) + 女聲，包含男聲
     "君＝花/pigstar",                                                 // 男聲搖滾樂團
     "衝動/pigstar",                                                   // 男聲搖滾樂團
@@ -11029,7 +11029,7 @@ const streamerSongList = [
     "you/癒月",
     "ヒトミノチカラ/観月ありさ",
     "SIX COLORS BOY/雛形あきこ",
-    "*～アスタリスク～/オレンジレンジ",
+    "*～アスタリスク～/ORANGE RANGE",
     "ニブンノイチ/BACK-ON",                             // 鋼彈創鬥者 (Gundam Build Fighters)
     "一斉の声/喜多修平",                                // 夏目友人帳 (Natsume Yujin-cho)
     "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)",  // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
