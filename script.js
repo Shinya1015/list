@@ -2267,6 +2267,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4977},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1265},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4015 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6275},
