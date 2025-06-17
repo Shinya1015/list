@@ -6112,6 +6112,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4167},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2003},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9188},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2850},
@@ -8668,6 +8669,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4587},
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
