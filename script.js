@@ -2155,7 +2155,8 @@ const songStreamLinks = {
   "No.1/mona(CV：夏川椎菜)": [
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2240},
   ],
-  "灰色と青/米津玄師": [
+ "灰色と青/米津玄師": [
+    { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2459},
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 23976 },
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 11939 },
     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 5070 },
@@ -5652,6 +5653,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2022},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7275},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 2593},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 19481},
