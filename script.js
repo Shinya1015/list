@@ -3103,6 +3103,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 5942},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 975 },
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 1857},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12044},
@@ -8615,6 +8616,7 @@ const songStreamLinks = {
        { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8593 },
      ],
     "夏のかけら/Aqua Timez": [
+       { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 6316},
        { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 6341},
        { date: "2024年9月26日", videoId: "jwyspCUiryQ", timestamp: 1279 },
        { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 8924 },
