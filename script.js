@@ -2618,6 +2618,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 1325},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7003},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3861 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 16921},
@@ -2683,7 +2684,8 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1344},
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5836},
   ],
-  "テルーの唄/手嶌葵": [
+ "テルーの唄/手嶌葵": [
+    { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 1670},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 7429 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17560 },
     { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 5696 },
