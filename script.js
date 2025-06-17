@@ -655,6 +655,7 @@ const songStreamLinks = {
     
   ],
  "ドライフラワー/優里": [
+    { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2846},
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 6657},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 5669},
     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 1873 },
