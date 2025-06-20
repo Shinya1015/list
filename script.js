@@ -1,6 +1,8 @@
 
 const songStreamLinks = {
-   
+   "独りんぼエンヴィー/電ポルP": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3879},
+      ],
    "うまるん体操/妹S": [
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3293},
       ],
@@ -9194,6 +9196,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "独りんぼエンヴィー/電ポルP",
    "夕立のりぼん/みきとP",
    "ネトゲ廃人シュプレヒコール/さつきがてんこもり",
    "世界寿命と最後の一日/スズム",
@@ -10994,6 +10997,7 @@ const streamerSongList = [
     "魔訶不思議アドベンチャー! /高橋洋樹",              // 七龍珠 (Dragon Ball)
     "ウォーアイニー/高橋瞳",
     "青空のナミダ/高橋瞳",
+   
     "僕たちの行方/高橋瞳",
     "光/LOVE PSYCHEDELICO",
     "月光/鬼束ちひろ",
@@ -11036,6 +11040,7 @@ const streamerSongList = [
     "Lap Tap Love/電ポルP",
     "サイノウサンプラー/電ポルP",
     "曖昧劣情Lover/電ポルP",
+    "独りんぼエンヴィー/電ポルP",
     "FOR REAL/徳山秀典",                                // 最遊記 (Saiyuki)
     "Treasure/碧陽学園生徒会",                          // 學生會的一存 (Student Council's Discretion)
     "虹/Aqua Timez",
