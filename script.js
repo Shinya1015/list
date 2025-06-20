@@ -1843,6 +1843,7 @@ const songStreamLinks = {
      { date: "2023年6月29日(冒頭アカペラ)", videoId: "2KydWEbyldU", timestamp: 7584},
   ],
   "story/前島麻由": [
+     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1588},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3691},
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 590},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 6354},
@@ -2367,7 +2368,8 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 3502 },
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6021 },
   ],
-  "Lemon/米津玄師": [
+ "Lemon/米津玄師": [
+    { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3295},
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1703 },
     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 4786 },
     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 9703 },
@@ -6410,6 +6412,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1338},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11495},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 9883},
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 6827},
@@ -7663,7 +7666,8 @@ const songStreamLinks = {
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2166},
       { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3138},
   ],
-  "罪と罰/DECO*27": [
+   "罪と罰/DECO*27": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1041},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10196},
       { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 8187},
       { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 4026},
@@ -8673,6 +8677,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1955},
       { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4587},
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
@@ -8944,6 +8949,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 2952},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 5245 },
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2916},
     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 2495},
