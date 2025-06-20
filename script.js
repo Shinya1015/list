@@ -1501,6 +1501,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 4720},
   ],
   "明日晴れるかな/桑田佳祐": [
+     { date: "2025年6月21日(アカペラ)", videoId: "k6lWuLyQ8a4", timestamp: 6914},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8567},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 16339},
      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 8770},
@@ -3169,6 +3170,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4954},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10068},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15839},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 10436},
@@ -4911,6 +4913,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 5272},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2342 },
       { date: "2025年6月2日-piano ver.", videoId: "BcJxg8xYz10", timestamp: 4637},
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6986},
@@ -6266,6 +6269,7 @@ const songStreamLinks = {
      { date: "2023年8月19日(前半アカペラ)", videoId: "_LMnJTamXFo", timestamp: 8350},
   ],
   "HANABI/Mr.Children": [
+     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 6479},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 7018},
      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 6395},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 2804},
@@ -6718,6 +6722,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 9681 },
   ],
  "bitter/keeno": [
+    { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4179},
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2600},
     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 1757 },
     { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 2900 },
