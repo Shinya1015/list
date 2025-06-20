@@ -7727,7 +7727,8 @@ const songStreamLinks = {
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3876},
       { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 12595},
   ],
-  "乙女解剖/DECO*27": [
+   "乙女解剖/DECO*27": [
+      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3590},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7477},
       { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 9405 },
       { date: "2023年9月14日-piano ver.", videoId: "E4QoAJ7LPow", timestamp: 3273 },
