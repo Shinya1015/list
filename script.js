@@ -7182,6 +7182,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1008},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9324},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 16038},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10602},
@@ -7210,6 +7211,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 750},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4481},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9933},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 6879},
