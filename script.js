@@ -1661,6 +1661,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6397},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6609},
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13152 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 11627 },
