@@ -2191,6 +2191,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2304},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2685},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5503},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4213},
@@ -3301,6 +3302,7 @@ const songStreamLinks = {
      { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 2241},
   ],
   "ただ君に晴れ/ヨルシカ": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2059},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 4312},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 486},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 4385},
@@ -5140,6 +5142,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2959},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12817},
      { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 1844},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 8509},
@@ -5702,6 +5705,7 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 1800},
   ],
   "すずめ/RADWIMPS": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2654},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7991},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 2899},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 6003},
