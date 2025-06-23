@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+   
+   "rain stops, good-bye/におP": [
+      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 5488},
+      ],
    "独りんぼエンヴィー/電ポルP": [
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3879},
       ],
@@ -4077,7 +4081,8 @@ const songStreamLinks = {
     { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1746 },
     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 3682 },
   ],
-  "from Y to Y/ジミーサムP": [
+ "from Y to Y/ジミーサムP": [
+    { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 4837},
     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 6501 },
     { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 1028 },
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 3866 },
@@ -11159,4 +11164,5 @@ const streamerSongList = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
+    "rain stops, good-bye/におP",
 ];
