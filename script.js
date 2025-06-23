@@ -3474,6 +3474,7 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4704},
   ],
   "ミュージック・アワー/ポルノグラフィティ": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1380},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8080},
      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 1338},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 14685},
@@ -6975,6 +6976,7 @@ const songStreamLinks = {
      { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 12369},
   ],
   "グロウアップ/Hysteric Blue": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1789},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3878},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 5432},
      { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 2434},
