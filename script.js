@@ -4090,7 +4090,8 @@ const songStreamLinks = {
     { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 2601 },
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 10881 },
   ],
-  "Calc./ジミーサムP": [
+ "Calc./ジミーサムP": [
+    { date: "2025年6月22日-piano ver", videoId: "BXAvS6OVwpM", timestamp: 5833},
     { date: "2024年5月31日-piano ver.", videoId: "hWIjbIBRDuU", timestamp: 13726 },
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20998 },
     { date: "2023年1月23日-piano ver.", videoId: "wfTcM2JgtyE", timestamp: 11315 },
