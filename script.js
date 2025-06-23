@@ -1325,6 +1325,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 12068},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6596},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1801},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 18682},
@@ -7643,6 +7644,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11483},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8474},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 10233},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 8172 },
@@ -7819,7 +7821,8 @@ const songStreamLinks = {
       { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 9415 },
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 1157 },
   ],
-  "Starry Heavens/day after tomorrow": [
+   "Starry Heavens/day after tomorrow": [
+      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11174},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 26947},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8656},
       { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 10818},
