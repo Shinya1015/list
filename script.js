@@ -3116,6 +3116,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 9698},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 5942},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 975 },
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 1857},
@@ -5843,6 +5844,7 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
+     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10213},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4840 },
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 11652},
      { date: "2025年2月16日(アカペラ)", videoId: "uGJVaBlFHlU", timestamp: 15567},
