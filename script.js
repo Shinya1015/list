@@ -1270,6 +1270,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
+     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3338},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 1287 },
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1702},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 12129},
