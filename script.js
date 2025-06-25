@@ -1,7 +1,7 @@
 
 const songStreamLinks = {
    "モノクロ∞ブルースカイ/のぼる↑": [
-      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6468},
+      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
@@ -5640,6 +5640,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 7717},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4159 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5861},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 2224},
