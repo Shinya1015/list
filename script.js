@@ -6343,7 +6343,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
-     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 9659},
+     { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 9659},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8188},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7485},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1468},
