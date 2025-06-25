@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "モノクロ∞ブルースカイ/のぼる↑": [
+      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6468},
+      ],
    "ジェンガ/40mP": [
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
@@ -1882,7 +1885,7 @@ const songStreamLinks = {
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
       { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9611},
   ],
-  "白い雪のプリンセスは/のぼる": [
+  "白い雪のプリンセスは/のぼる↑": [
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 9765},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 15830},
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8888},
@@ -11005,7 +11008,8 @@ const streamerSongList = [
     "ふわふわ♪/牧野由依",                              // 水星領航員 The NATURAL (ARIA The NATURAL)
     "はっぴぃ にゅう にゃあ/芹沢文乃(伊藤かな恵)&梅ノ森千世(井口裕香)&霧谷希(竹達彩奈)", // 嬌蠻貓娘大橫行！ (Mayoi Neko Overrun!)
     "白金ディスコ/阿良々木月火(井口裕香)",              // 偽物語 (Nisemonogatari)
-    "白い雪のプリンセスは/のぼる",
+    "白い雪のプリンセスは/のぼる↑",
+    "モノクロ∞ブルースカイ/のぼる↑"
     "story/前島麻由",                                  // Re:從零開始的異世界生活 (Re:ZERO) 第2季 後半OP
     "恋のヒメヒメ☆ぺったんこ/姫野湖鳥(田村ゆかり)",     // 飆速宅男 (Yowamushi Pedal) - 劇中動畫「Love★Hime」主題曲
     "どこまでも～How Far I'll Go～/屋比久知奈",        // 海洋奇緣 (Moana) - 電影 (日語版)
