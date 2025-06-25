@@ -1,6 +1,8 @@
 
 const songStreamLinks = {
-   
+   "ジェンガ/40mP": [
+      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
+      ],
    "rain stops, good-bye/におP": [
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4775},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 5488},
@@ -6725,7 +6727,8 @@ const songStreamLinks = {
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 10881},
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7288},
   ],
-  "glow/keeno": [
+ "glow/keeno": [
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 5663},
     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 9241 },
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 3119 },
     { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 4685 },
@@ -9277,7 +9280,7 @@ const lowPitchSongs = [
     "丸の内サディスティック/椎名林檎", 
     "ハロ/ハワユ/ナノウ",  
     "トリノコシティ/40mP",
-    "からくりピエロ/40mP", 
+    "からくりピエロ/40mP",  
     "from Y to Y/ジミーサムP",
     "No Logic/ジミーサムP",
     "フラジール/ぬゆり",
@@ -10377,6 +10380,7 @@ const streamerSongList = [
      "フタリボシ/40mP",
     "Step to you/40mP",
     "トリノコシティ/40mP",
+    "ジェンガ/40mP",
     "静電気。/emon(Tes.)",
     "too Cute!/emon(Tes.)",
     "Cosmic star/emon(Tes.)",
