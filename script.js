@@ -3351,6 +3351,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
    "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10333},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3890},
       { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 3595},
       { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 2666},
@@ -8898,6 +8899,7 @@ const songStreamLinks = {
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13735 },
     ], 
 　"Ref:rain/Aimer": [ 
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10751},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 5334},
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 12154 },
     { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 10899 },
