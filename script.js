@@ -813,7 +813,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
   ],
    "曖昧劣情Lover/電ポルP": [
-      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 9321},
+      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 9321},
       { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
@@ -1598,7 +1598,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
   ],
    "ニア/夏代孝明": [
-      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 8861},
+      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8861},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 7068},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9251},
       { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 9937},
