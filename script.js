@@ -812,8 +812,9 @@ const songStreamLinks = {
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 5919 },
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7902 },
   ],
-  "曖昧劣情Lover/電ポルP": [
-    { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
+   "曖昧劣情Lover/電ポルP": [
+      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 9321},
+      { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
@@ -1597,6 +1598,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
   ],
    "ニア/夏代孝明": [
+      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 8861},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 7068},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9251},
       { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 9937},
@@ -6341,6 +6343,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 9659},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8188},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7485},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1468},
@@ -7135,6 +7138,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
   "キセキ/GReeeeN": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 8485},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 7678},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 10238},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 22271},
