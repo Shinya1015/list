@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "東京テディベア/Neru": [
+      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3499},
+      ],
    "モノクロ∞ブルースカイ/のぼる↑": [
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
@@ -380,6 +383,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },,
   ],
  "X-encounter/黑崎真音": [
+    { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1871},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 10331},
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12051 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 4710 },
@@ -499,6 +503,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2641},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3613},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9536},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1463},
@@ -1753,6 +1758,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 13872 },
   ],
  "Secret of my heart/倉木麻衣": [
+    { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1566},
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 8131},
     { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 8432 },
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 4710 },
@@ -3964,6 +3970,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2310},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3263},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 16945},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 4211},
@@ -5098,6 +5105,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1247},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10890},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2842},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 5081},
@@ -5851,6 +5859,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 6342},
   ],
   "Surges/Orangestar": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3355},
      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 12675},
      { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 1907},
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 10841},
@@ -10666,6 +10675,7 @@ const streamerSongList = [
     "なないろびより/Nano.RIPE",
     "ロストワンの号哭/Neru",
     "命のユースティティア/Neru",
+    "東京テディベア/Neru",
     "ホログラム/NICO Touches the Walls",                // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "天地ガエシ/NICO Touches the Walls",                // 排球少年!! (Haikyu!!)
     "ココロオドル/nobodyknows+",
