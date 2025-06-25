@@ -10400,6 +10400,7 @@ const streamerSongList = [
     "ファインダー/livetune",
     "Last Night,Good Night/livetune",
     "Tómur/におP",
+    "rain stops, good-bye/におP",
     "マトリョシカ/初音ミク・GUMI",
     "Rabbit/一億円P feat. 初音ミク",
     "深海少女/初音ミク",
@@ -11184,5 +11185,4 @@ const streamerSongList = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
-    "rain stops, good-bye/におP",
 ];
