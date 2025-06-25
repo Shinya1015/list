@@ -448,6 +448,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1405},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3058 },
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 3996 },
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 4171 },
@@ -1462,6 +1463,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
  "ひまわりの約束/秦基博": [
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1782},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 3038},
     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1050},
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 21860 },
@@ -2635,6 +2637,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1116},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 1325},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7003},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3861 },
@@ -7072,6 +7075,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3059},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8494},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5773},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 22622},
@@ -7626,6 +7630,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2134},
     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 7536},
     { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3897 },
     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 6858 },
@@ -8715,6 +8720,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3634},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1148 },
       { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 2340 },
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 7256},
@@ -9039,6 +9045,7 @@ const songStreamLinks = {
   { date: "2024年5月4日", videoId: "ocR9SezEBfQ", timestamp: 6353 },
   ],   
  "Tómur/におP": [
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2648},
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
     { date: "2023年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
   ],   
