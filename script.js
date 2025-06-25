@@ -7,6 +7,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7364},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
    "rain stops, good-bye/におP": [
@@ -1846,6 +1847,7 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
   ],
   "マーシャル・マキシマイザー/柊マグネタイト": [
+     { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 7990},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9282},
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7560},
   ],
@@ -3529,6 +3531,7 @@ const songStreamLinks = {
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 2252},
   ],
   "ハネウマライダー/ポルノグラフィティ": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 5327},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 20548},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 7879},
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
@@ -3724,6 +3727,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 4554},
      { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 5473},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 3878},
      { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 1478},
@@ -5177,6 +5181,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 5866},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2959},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12817},
      { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 1844},
@@ -8740,6 +8745,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7090},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1955},
       { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4587},
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
@@ -9103,7 +9109,8 @@ const songStreamLinks = {
     { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 6930 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
-  "タイムマシン/1640mP": [ // 中間順序不變
+ "タイムマシン/1640mP": [
+    { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7684},
     { date: "2025年3月29日", videoId: "r4WSqrEyefI", timestamp: 7466 },
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7466 },
     { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 3779 },
