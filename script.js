@@ -3477,6 +3477,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1751},
   ],
   "かまってちょーだい/まふまふ×天月": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 4214},
      { date: "2024年5月30日", videoId: "H8CIE-SG5Tg", timestamp: 4180},
      { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 3015},
      { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 6152},
@@ -6075,6 +6076,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 2094},
   ],
   "ロストワンの号哭/Neru": [
+     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3859},
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
