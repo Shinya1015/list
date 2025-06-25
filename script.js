@@ -607,7 +607,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2799},
   ],
  "you/癒月": [
-    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9421},
+    { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9420},
     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5657 },
     { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 4338 },
     { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 4874 },
