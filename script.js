@@ -227,6 +227,7 @@ const songStreamLinks = {
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
    "ETERNAL BLAZE/水樹奈々": [
+      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7259},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11772},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7250},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9313},
@@ -293,7 +294,8 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 6030 },
   ],
  
-  "光あれ/岡野昭仁": [
+   "光あれ/岡野昭仁": [
+      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7625},
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 827},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8009},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6596 },
@@ -2789,6 +2791,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7868},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 460},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 4542},
       { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 3358 },
