@@ -1,7 +1,7 @@
 
 const songStreamLinks = {
    "ウミユリ海底護/n-buna": [
-      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8720},
+      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 8720},
       ],
    "東京テディベア/Neru": [
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3499},
@@ -7749,7 +7749,8 @@ const songStreamLinks = {
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18555 },
       { date: "2024年3月26日", videoId: "", timestamp: 1418 },
   ],
-  "モザイクロール/DECO*27": [
+   "モザイクロール/DECO*27": [
+      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 10404},
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 15997},
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2166},
       { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3138},
@@ -7801,7 +7802,8 @@ const songStreamLinks = {
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2926},
       { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9004},
   ],
-  "妄想感傷代償連盟/DECO*27": [
+   "/DECO*27": [
+      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 9560},
       { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 6814 },
       { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15525 },
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 5551 },
@@ -7841,7 +7843,8 @@ const songStreamLinks = {
   "ストリーミングハート/DECO*27": [
       { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
   ],
-  "弱虫モンブラン/DECO*27": [
+   "弱虫モンブラン/DECO*27": [
+      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9917},
       { date: "2024年5月27日-piano ver.", videoId: "ZRqhVaH-ZcA", timestamp: 2758},
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3508},
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 23492},
@@ -10567,7 +10570,7 @@ const streamerSongList = [
     "恋距離遠愛/DECO*27",
     "乙女解剖/DECO*27",
     "二息步行/DECO*27",
-    "妄想感傷代償連盟/DECO*27",
+    "/DECO*27",
     "夜行性ハイズ/DECO*27",
     "愛言葉/DECO*27",
     "愛言葉Ⅱ/DECO*27",
