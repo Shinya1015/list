@@ -1,7 +1,7 @@
 
 const songStreamLinks = {
    "ウミユリ海底護/n-buna": [
-      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 8720},
+      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
       ],
    "東京テディベア/Neru": [
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3499},
