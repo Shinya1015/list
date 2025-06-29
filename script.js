@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "ウミユリ海底護/n-buna": [
+      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8720},
+      ],
    "東京テディベア/Neru": [
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3499},
       ],
@@ -9288,6 +9291,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "ウミユリ海底護/n-buna",
    "独りんぼエンヴィー/電ポルP",
    "夕立のりぼん/みきとP",
    "ネトゲ廃人シュプレヒコール/さつきがてんこもり",
@@ -11093,7 +11097,6 @@ const streamerSongList = [
     "魔訶不思議アドベンチャー! /高橋洋樹",              // 七龍珠 (Dragon Ball)
     "ウォーアイニー/高橋瞳",
     "青空のナミダ/高橋瞳",
-   
     "僕たちの行方/高橋瞳",
     "光/LOVE PSYCHEDELICO",
     "月光/鬼束ちひろ",
@@ -11242,4 +11245,5 @@ const streamerSongList = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
+    "ウミユリ海底護/n-buna",
 ];
