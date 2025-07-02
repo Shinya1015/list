@@ -9615,6 +9615,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "明日、僕は君に会いに行く/ワカバ",
     "放課後ストライド/Last Note.",                                       //放課後ストライドED
     "気分上々↑↑/mihimaru GT",                                          //派對咖孔明ED
     "ココロオドル/nobodyknows+",                                     //SDガンダムフォース ED2
