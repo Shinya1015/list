@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "Blue Star/八王子P": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
+      ],
    "ウミユリ海底護/n-buna": [
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
       ],
@@ -49,6 +52,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3477},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4903},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 7880},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13406},
@@ -57,6 +61,8 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2755},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9798},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3898},
@@ -147,6 +153,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 836},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3860},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4951},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9952},
@@ -251,11 +258,13 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6931},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 600},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4221},
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5013},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 885},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1541},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4833},
@@ -312,6 +321,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
    "Wonderful Wonder World*/Yun*chi": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6347},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 827},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 2409},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12768},
@@ -340,6 +350,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1878},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12281},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4449},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10482},
@@ -384,6 +395,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3124},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6148},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3714 },
      { date: "2025年3月11日(アカペラ&一番のみ)", videoId: "z5MYa4kPW4o", timestamp: 1243 },
@@ -410,6 +422,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1377},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3296},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 7014},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 4002},
@@ -504,6 +517,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3800},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4176},
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 2405},
      { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 4666},
@@ -1153,6 +1167,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4596},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3168},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4040},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10527},
@@ -2237,6 +2252,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2264},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2304},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2685},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5503},
@@ -2572,6 +2588,7 @@ const songStreamLinks = {
      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
    "Little Wish ～lyrical step～/田村ゆかり": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5422},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6538},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 13039},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9680},
@@ -2655,6 +2672,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5704},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2382},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12144},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 861},
@@ -6120,6 +6138,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2558},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5162},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12361},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 25228},
@@ -7135,6 +7154,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5988},
   ],
   "瞬きもせずに/H△G": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6666},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1185},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 3907},
      { date: "2023年8月19日(アカペラ、一番のみ)", videoId: "_LMnJTamXFo", timestamp: 1366},
@@ -7489,6 +7509,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4278},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3041},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3572},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3165},
@@ -10987,6 +11008,7 @@ const streamerSongList = [
     "バタフライ・グラフィティ/八王子P",
     "whiteout/八王子P",
     "Sweet Devil/八王子P",
+    "Blue Star/八王子P",
     "リテラチュア/上田麗奈",                            // 魔女之旅 (Wandering Witch: The Journey of Elaina)
     "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)", // 偶像大師 灰姑娘女孩劇場 (The Idolmaster Cinderella Girls Theater) - 遊戲/動畫
     "もうそう えくすぷれす/千石撫子(花澤香菜)",          // 〈物語〉系列 第二季 (Monogatari Series Second Season) - 囮物語
