@@ -30,6 +30,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
    "愛♡スクリ～ム！/AiScReam": [
+      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 8239},
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 5060},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3875},
       { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1948},
