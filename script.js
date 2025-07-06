@@ -2530,7 +2530,8 @@ const songStreamLinks = {
      { date: "2024年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 26751},
      { date: "2024年7月12日", videoId: "HnqygtJDc1w", timestamp: 4995},
   ],
-  "知らなきゃ/安月名莉子": [
+   "知らなきゃ/安月名莉子": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 4588},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8333},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3937},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 27374},
