@@ -6038,8 +6038,9 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 2136},
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
-  "イエスタデイ/Official髭男dism": [
-    { date: "2025年2月25日", videoId: "7A2DbCtnoMc", timestamp: 2107 },
+ "イエスタデイ/Official髭男dism": [
+    { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7188},
+    { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2107},
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 32019 },
     { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 1484 },
     { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13576 },
