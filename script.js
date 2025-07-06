@@ -5289,6 +5289,9 @@ const songStreamLinks = {
   "SPLASH FREE/STYLE FIVE": [
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2690},
   ],
+ "Move on now!/STAR☆ANIS",: [
+    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7482},
+    ],
   "ダイヤモンドハッピー/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8344 },
   ],
@@ -9012,6 +9015,9 @@ const songStreamLinks = {
    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 603 },
    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 2497 },
     ], 
+"lucky train!/AIKATSU☆STARS!": [
+   { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
+   ],
 "episode solo/AIKATSU☆STARS!": [
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6886},
    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5727 },
@@ -9681,6 +9687,7 @@ const animeSongs = [
     "STARDOM!/AIKATSU☆STARS!",                         // 偶像活動Stars！ (Aikatsu Stars!)
     "スタートライン!/AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
     "episode solo/AIKATSU☆STARS!",                     // 偶像活動Stars！ (Aikatsu Stars!)
+    "lucky train!/AIKATSU☆STARS!", 
     "Brave Shine/Aimer",                                // Fate/stay night [Unlimited Blade Works]
     "Ref:rain/Aimer",                                   // 愛在雨過天晴時 (Koi wa Ameagari no You ni)
     "残響散歌/Aimer",                                   // 鬼滅之刃 遊郭篇 (Demon Slayer: Entertainment District Arc)
@@ -9816,6 +9823,8 @@ const animeSongs = [
     "輝きのエチュード/STAR☆ANIS",                      // 劇場版 偶像活動！ (Aikatsu! The Movie)
     "笑顔のsuncatcher/STAR☆ANIS",                      // 偶像活動！ (Aikatsu!)
     "ハッピィクレッシェンド/STAR☆ANIS",                // 偶像活動！ (Aikatsu!)
+    "Signalize!/STAR☆ANIS",
+    "Move on now!/STAR☆ANIS",
     "SPLASH FREE/STYLE FIVE",                           // Free! 男子游泳部
     "君の知らない物語/supercell",                       // 化物語 (Bakemonogatari)
     "さぁ/SURFACE",                                     // 守護月天！ (Mamotte Shugogetten!)
@@ -10538,6 +10547,8 @@ const streamerSongList = [
     "STARDOM!/AIKATSU☆STARS!",                         // 偶像活動Stars！ (Aikatsu Stars!)
     "スタートライン!/AIKATSU☆STARS!",               // 偶像活動Stars！ (Aikatsu Stars!)
     "episode solo/AIKATSU☆STARS!",                     // 偶像活動Stars！ (Aikatsu Stars!)
+    "lucky train!/AIKATSU☆STARS!",
+    "Move on now!/STAR☆ANIS",
     "Brave Shine/Aimer",                                // Fate/stay night [Unlimited Blade Works]
     "Ref:rain/Aimer",                                   // 愛在雨過天晴時 (Koi wa Ameagari no You ni)
     "残響散歌/Aimer",                                   // 鬼滅之刃 遊郭篇 (Demon Slayer: Entertainment District Arc)
@@ -10834,6 +10845,7 @@ const streamerSongList = [
     "輝きのエチュード/STAR☆ANIS",                      // 劇場版 偶像活動！ (Aikatsu! The Movie)
     "笑顔のsuncatcher/STAR☆ANIS",                      // 偶像活動！ (Aikatsu!)
     "ハッピィクレッシェンド/STAR☆ANIS",                // 偶像活動！ (Aikatsu!)
+    "Signalize!/STAR☆ANIS",
     "SPLASH FREE/STYLE FIVE",                           // Free! 男子游泳部
     "さよならメモリーズ/supercell",
     "ワールドイズマイン/supercell",
