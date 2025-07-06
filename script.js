@@ -57,6 +57,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3999},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3477},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4903},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 7880},
@@ -433,6 +434,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3771},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1377},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3296},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 7014},
@@ -541,6 +543,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5049},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2641},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3613},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 9536},
@@ -6098,6 +6101,7 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
   "天地ガエシ/NICO Touches the Walls": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 4287},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 12122},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 4045},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2473},
