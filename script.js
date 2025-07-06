@@ -6348,6 +6348,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 6870},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10578},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 7217},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1652},
