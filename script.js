@@ -2826,6 +2826,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
   ],
   "シューティングスター/八王子P": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11746},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9849},
      { date: "2024年6月23日", videoId: "WCUBuAd0RI0", timestamp: 14492},
      { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 11355},
@@ -3084,6 +3085,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11225},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11738},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10808},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 23418},
