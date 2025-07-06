@@ -5289,6 +5289,9 @@ const songStreamLinks = {
   "SPLASH FREE/STYLE FIVE": [
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2690},
   ],
+ "Signalize!/STAR☆ANIS": [
+    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 8187},
+    ],
  "Move on now!/STAR☆ANIS": [
     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7482},
     ],
