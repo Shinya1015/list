@@ -1785,6 +1785,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10228},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4518},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 6712},
      { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1981},
