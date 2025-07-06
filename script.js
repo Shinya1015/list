@@ -180,6 +180,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1954},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9373},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8187},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1782},
@@ -833,6 +834,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2307},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 7578},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3496},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 11656},
