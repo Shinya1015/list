@@ -4650,7 +4650,8 @@ const songStreamLinks = {
      { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 5038},
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1711},
   ],
-  "Rolling star/YUI": [
+   "Rolling star/YUI": [
+      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1654},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1678 },
       { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 397 },
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9654 },
