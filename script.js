@@ -2212,6 +2212,7 @@ const songStreamLinks = {
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1106},
   ],
   "Best Friend/西野カナ": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10507},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 5554},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1720},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 15569},
