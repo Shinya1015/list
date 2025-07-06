@@ -4772,6 +4772,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 10867},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10338},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7585 },
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 4497},
@@ -5346,7 +5347,8 @@ const songStreamLinks = {
       { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 6505},
   ],
   "KIRA☆Power/STAR☆ANIS": [
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7860},
+     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10655},
@@ -7622,6 +7624,7 @@ const songStreamLinks = {
      { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
   "careless breath/EXILE": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 9188},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3040},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7273},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 5232},
