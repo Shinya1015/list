@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "氷の上に立つように/小松未歩": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9931},
+      ],
    "かわいいだけじゃだめですか？/CUTIE STREET": [
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3396},
       ],
@@ -1679,6 +1682,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9610},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6118},
      { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1682},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 7452},
@@ -9686,6 +9690,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "氷の上に立つように/小松未歩",
     "明日、僕は君に会いに行く/ワカバ",
     "放課後ストライド/Last Note.",                                       //放課後ストライドED
     "気分上々↑↑/mihimaru GT",                                          //派對咖孔明ED
