@@ -11333,4 +11333,5 @@ const streamerSongList = [
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
     "ウミユリ海底護/n-buna",
+    "かわいいだけじゃだめですか？/CUTIE STREET",
 ];
