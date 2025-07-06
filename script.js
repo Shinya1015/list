@@ -46,6 +46,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4694},
       ],
    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)": [
+      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6277},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2442},
       ],
    "ポケッターリ モンスターリ/可名": [
@@ -3895,6 +3896,7 @@ const songStreamLinks = {
        { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 16192 },
   ],
   "ミュージックミュージック/とあ": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5957},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2168},
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 7427},
   ],
@@ -6138,6 +6140,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5594},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12945},
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
   ],
@@ -6573,6 +6576,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5338},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 858},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2960},
