@@ -7439,6 +7439,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7913},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 7507},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10288},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 7075},
