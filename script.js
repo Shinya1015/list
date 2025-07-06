@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "かわいいだけじゃだめですか？/CUTIE STREET": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3396},
+      ],
    "Blue Star/八王子P": [
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
@@ -237,6 +240,7 @@ const songStreamLinks = {
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
    "ETERNAL BLAZE/水樹奈々": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 2036},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7259},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11772},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7250},
@@ -287,7 +291,8 @@ const songStreamLinks = {
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5366 },
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 15991 }, 
   ],
-  "弱虫な炎/DIRTY OLD MEN": [
+   "弱虫な炎/DIRTY OLD MEN": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1109},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 6758 },
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3285},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13849 },
@@ -338,7 +343,8 @@ const songStreamLinks = {
   "サイハテホーム/サクラメリーメン": [
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13614 },
   ],
-  "栄光への一秒/MAGIC OF LiFE": [
+   "栄光への一秒/MAGIC OF LiFE": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1294},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12521},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 717 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 931 },
@@ -366,6 +372,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
   "星屑のインターリュード/fhana": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1618},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12446},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 4904},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5489},
@@ -857,6 +864,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
   "輝きは君の中に/鈴木結女": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3043},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4236},
      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 1105},
@@ -1457,6 +1465,7 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 8437},
   ],
   "ウォーアイニー/高橋瞳": [
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 2365},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12513},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 2981},
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 3113},
@@ -5351,6 +5360,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 898},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10655},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3798 },
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6880},
@@ -7164,6 +7174,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2025年7月6日(冒頭アカペラ)", videoId: "0BtVZt9Fl0k", timestamp: 2781},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3610},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2055},
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 4373 },
