@@ -352,6 +352,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2848},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1878},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12281},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4449},
@@ -1835,6 +1836,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2573},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11694},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 7686},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 10280},
