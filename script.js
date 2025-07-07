@@ -261,6 +261,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
    "Reset/平原綾香": [
+      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6854},
       { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2501},
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3336 },
   ],
@@ -535,6 +536,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6235},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3800},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4176},
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 2405},
@@ -680,6 +682,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7860},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 9541},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9762},
     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 566},
@@ -1394,6 +1397,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7194},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 12068},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6596},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1801},
@@ -2365,6 +2369,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7546},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4977},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1265},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4015 },
@@ -2411,6 +2416,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8163},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 1798},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 4039},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 730},
@@ -4667,6 +4673,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8498},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2600 },
      { date: "2025年6月2日-アコギ ver.", videoId: "BcJxg8xYz10", timestamp: 5842},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 12964},
@@ -5658,6 +5665,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5488},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1987},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1080},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 4976},
@@ -5748,6 +5756,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5842},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 7717},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4159 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5861},
