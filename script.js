@@ -286,6 +286,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1966},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5941},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 2163},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3449},
@@ -2136,6 +2137,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2652},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1059},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 6684},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 1410},
@@ -2198,7 +2200,8 @@ const songStreamLinks = {
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4262},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
-  "Style. /西野カナ": [
+   "Style. /西野カナ": [
+      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 970},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2341 },
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3790 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 5044 },
@@ -4833,6 +4836,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1342},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1910},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2122 },
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6933},
@@ -7143,6 +7147,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2294},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 682},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 5251},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7728},
@@ -9371,6 +9376,7 @@ const songStreamLinks = {
 { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 13240 },
  ],
  "Hand in Hand/kz(livetune)": [ 
+    { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1602},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
