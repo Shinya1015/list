@@ -162,6 +162,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4025},
     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 836},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3860},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4951},
@@ -2280,6 +2281,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5168},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2264},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2304},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2685},
@@ -7568,6 +7570,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3570},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4278},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3041},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3572},
@@ -8955,6 +8958,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [ 
+     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4325},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3361},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1183},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 6082},
