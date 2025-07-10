@@ -10700,7 +10700,7 @@ const streamerSongList = [
     "ピーターパン・シンドローム/buzzG",
     "星の唄/buzzG",
     "GALLOWS BELL/buzzG",
-    "Symphony/buzzG"
+    "Symphony/buzzG",
     "ギリギリchop/B'z",
     "サインはB/B小町 アイ (CV:高橋李依)",               // 【我推的孩子】 (Oshi no Ko) - 插入曲
     "STAR☆T☆RAIN/B小町",                             // 【我推的孩子】 (Oshi no Ko) - 插入曲
