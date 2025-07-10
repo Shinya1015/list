@@ -3312,6 +3312,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15832},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4954},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10068},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15839},
@@ -3745,6 +3746,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16086},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6540 },
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12836},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 5841},
@@ -3840,6 +3842,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18056},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 4554},
      { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 5473},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 3878},
@@ -4027,6 +4030,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15608},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 930},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 3434},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2213},
@@ -4454,6 +4458,7 @@ const songStreamLinks = {
      { date: "2023年9月16日(一番のみ)", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14966},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 957},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5249},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 8045},
@@ -5077,6 +5082,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15175},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 5272},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2342 },
       { date: "2025年6月2日-piano ver.", videoId: "BcJxg8xYz10", timestamp: 4637},
@@ -5793,6 +5799,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16674},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5842},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 7717},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4159 },
@@ -5845,6 +5852,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 17031},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 8052},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2022},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7275},
@@ -5883,6 +5891,7 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 1800},
   ],
   "すずめ/RADWIMPS": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16392},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2654},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7991},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 2899},
