@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "雨のちSweet*Drops/OSTER project": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10924},
+      ],
    "ラブポーション/INOSON": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10358},
       ],
@@ -9351,22 +9354,23 @@ const songStreamLinks = {
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14922 },
   ],
 "too Cute!/emon(Tes.)": [ // 中間順序不變
-  { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 4022 },
-  { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 2647 },
-  { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2851 },
-  { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3452 },
-  { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12130 },
+   { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 4022 },
+   { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 2647 },
+   { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2851 },
+   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3452 },
+   { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12130 },
   ],
-"Cosmic star/emon(Tes.)": [ // 中間順序不變
-  { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 3270 },
-  { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 6336 },
-  { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
+"Cosmic star/emon(Tes.)": [
+   { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 3270 },
+   { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 6336 },
+   { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
   ],
-"Shake it!/emon(Tes.)": [ // 中間順序不變
-  { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 16523 },
-  { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 1334 },
-  { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1079 },
-  { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
+"Shake it!/emon(Tes.)": [
+   { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10640},
+   { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 16523 },
+   { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 1334 },
+   { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1079 },
+   { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
   ],
   "Dear/19's Sound Factory": [
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 8017},
@@ -11419,4 +11423,5 @@ const streamerSongList = [
     "氷の上に立つように/小松未歩",
     "レッツゴー/秋山澪(日笠陽子)",
     "ラブポーション/INOSON",
+    "雨のちSweet*Drops/OSTER project",
 ];
