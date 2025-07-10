@@ -2,6 +2,8 @@
 const songStreamLinks = {
    "雨のちSweet*Drops/OSTER project": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10924},
+      { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 5358},
+      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 11242},
       ],
    "ラブポーション/INOSON": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10358},
