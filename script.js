@@ -4210,9 +4210,10 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2004},
   ],
   "Starduster/ジミーサムP": [
-    { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 6714 },
-    { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 10925 },
-    { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12064},
+     { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 6714 },
+     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 10925 },
+     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
   ],
  "No Logic/ジミーサムP": [
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 7723},
