@@ -754,6 +754,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21131},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 8545},
     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2846},
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 6657},
@@ -2393,6 +2394,8 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20856},
   ],
   "パプリカ/米津玄師": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21507},
+     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7581},
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7012},
      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 6373},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 31809},
@@ -4129,7 +4132,8 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 3955},
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
-  "ボクノート/スキマスイッチ": [
+    "ボクノート/スキマスイッチ": [
+       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22539},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2580 },
        { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7071 },
        { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 14985 },
@@ -4404,6 +4408,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
   "たばこ/コレサワ": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22070},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5073},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 10653},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 1767},
@@ -5644,6 +5649,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
    "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22936},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8120},
       { date: "2025年5月13日-piano ver.", videoId: "zPR8pqQgpCE", timestamp: 1484},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10061},
@@ -6329,7 +6335,6 @@ const songStreamLinks = {
   ],
   "ライラック/Mrs. GREEN APPLE": [
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14637},
-     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5346},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5346},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 5513},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4167},
@@ -7309,6 +7314,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
   "キセキ/GReeeeN": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21744},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8485},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 7678},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 10238},
@@ -8953,6 +8959,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20832},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8450},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3634},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1148 },
