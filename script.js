@@ -531,6 +531,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 19457},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1405},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3058 },
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 3996 },
@@ -709,6 +710,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18777},
     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7860},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 9541},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9762},
