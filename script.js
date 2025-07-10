@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "ラブポーション/INOSON": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10358},
+      ],
    "Symphony/buzzG": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
@@ -1341,6 +1344,7 @@ const songStreamLinks = {
        { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
   ],
   "コンプレックス・イマージュ/彩音": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9771},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 4475},
      { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 3408},
      { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 2013},
@@ -3707,6 +3711,7 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 16670},
   ],
   "一輪の花/ふみP": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10145},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5747},
   ],
   "ヒャダインのカカカタ カタオモイ-/ヒャダイン": [
@@ -11413,4 +11418,5 @@ const streamerSongList = [
     "かわいいだけじゃだめですか？/CUTIE STREET",
     "氷の上に立つように/小松未歩",
     "レッツゴー/秋山澪(日笠陽子)",
+    "ラブポーション/INOSON",
 ];
