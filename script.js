@@ -4339,9 +4339,6 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 7027},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
-  "うさぎのかぞえかた/さつきがてんこもり": [
-      { },
-  ],
   "青いベンチ/サスケ": [
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3784},
      { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 6434},
@@ -10678,7 +10675,7 @@ const streamerSongList = [
     "夏のかけら/Aqua Timez",
     "等身大のラブソング/Aqua Timez",
     "つぼみ/Aqua Timez",
- 　 "シャボン玉Days/Aqua Timez",
+    "シャボン玉Days/Aqua Timez",
     "リライト/ASIAN KUNG-FU GENERATION",                // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
     "遥か彼方/ASIAN KUNG-FU GENERATION",                // 火影忍者 (Naruto)
     "Stairway Generation/Base Ball Bear",               // 銀魂 (Gintama)
