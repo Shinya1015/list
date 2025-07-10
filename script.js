@@ -9330,6 +9330,7 @@ const songStreamLinks = {
   { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ], 
 "トリノコシティ/40mP": [
+   { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 7171},
    { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 2827},
    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15327 },
    { date: "2024年8月25日-piano ver.", videoId: "GYV3z44H4ew", timestamp: 8941 },
