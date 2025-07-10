@@ -1,5 +1,11 @@
 
 const songStreamLinks = {
+   "Symphony/buzzG": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
+      ],
+   "GALLOWS BELL/buzzG": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6621},
+      ],
    "レッツゴー/秋山澪(日笠陽子)": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5366},
       ],
@@ -1325,7 +1331,8 @@ const songStreamLinks = {
   "プレパレード/逢坂大河(釘宮理恵)&櫛枝実乃梨(堀江由衣)&川嶋亜美(喜多村英梨)": [
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 7695 },
   ],
-  "God Knows.../涼宮ハルヒ(CV:平野綾)": [
+   "God Knows.../涼宮ハルヒ(CV:平野綾)": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6323},
       { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 2197 },
       { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 1715 },
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 12383 },
@@ -4816,6 +4823,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5628},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 10867},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10338},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7585 },
@@ -5209,6 +5217,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6063},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1247},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10890},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2842},
@@ -10672,6 +10681,8 @@ const streamerSongList = [
     "鯨/Buzy",
     "ピーターパン・シンドローム/buzzG",
     "星の唄/buzzG",
+    "GALLOWS BELL/buzzG",
+    "Symphony/buzzG"
     "ギリギリchop/B'z",
     "サインはB/B小町 アイ (CV:高橋李依)",               // 【我推的孩子】 (Oshi no Ko) - 插入曲
     "STAR☆T☆RAIN/B小町",                             // 【我推的孩子】 (Oshi no Ko) - 插入曲
