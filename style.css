@@ -377,7 +377,6 @@ button:active {
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #twitcasting-link { right: 110px; }
-    #custom-link { display: none; }
     #notion-link { display: block !important; bottom: 10px; right: 225px; }
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
@@ -431,7 +430,6 @@ button:active {
      #youtube-link { right: 10px; }
      #twitter-link { right: 60px; }
      #twitcasting-link { display: none; }
-     #custom-link { display: none; }
      #notion-link { display: block !important; bottom: 10px; right: 155px; }
      #amazon-link { left: 10px; }
      #booth-link { left: 60px; }
