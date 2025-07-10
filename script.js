@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "初音ミクの暴走/cosMo@暴走P": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11341},
+      ],
    "雨のちSweet*Drops/OSTER project": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10924},
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 5358},
@@ -11426,4 +11429,5 @@ const streamerSongList = [
     "レッツゴー/秋山澪(日笠陽子)",
     "ラブポーション/INOSON",
     "雨のちSweet*Drops/OSTER project",
+    "初音ミクの暴走/cosMo@暴走P",
 ];
