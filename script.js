@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "レッツゴー/秋山澪(日笠陽子)": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5366},
+      ],
    "氷の上に立つように/小松未歩": [
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9931},
       ],
@@ -11396,4 +11399,5 @@ const streamerSongList = [
     "ウミユリ海底護/n-buna",
     "かわいいだけじゃだめですか？/CUTIE STREET",
     "氷の上に立つように/小松未歩",
+    "レッツゴー/秋山澪(日笠陽子)",
 ];
