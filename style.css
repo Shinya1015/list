@@ -154,9 +154,10 @@ button:active { transform: scale(0.98); }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
     #twitcasting-link { right: 160px; }
-    #notion-link { right: 210px; }
+    
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
+    #notion-link { left: 110px; right: auto; } /* <-- 修改後 */
 }
 
 /* --- Small Screens (Phones) --- */
@@ -181,10 +182,11 @@ button:active { transform: scale(0.98); }
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
-    #notion-link { right: 155px; } /* Repositioned Notion link */
-    #twitcasting-link { display: none; } /* Kept hidden to save space */
+    #twitcasting-link { display: none; }
+    
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
+    #notion-link { left: 110px; right: auto; } /* <-- 修改後 */
 }
 
 /* --- Modal Styles --- */
