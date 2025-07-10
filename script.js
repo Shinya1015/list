@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "Sweetiex2/DixieFlatline": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12417},
+      ],
    "初音ミクの暴走/cosMo@暴走P": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11341},
       ],
@@ -11432,4 +11435,5 @@ const streamerSongList = [
     "ラブポーション/INOSON",
     "雨のちSweet*Drops/OSTER project",
     "初音ミクの暴走/cosMo@暴走P",
+    "Sweetiex2/DixieFlatline",
 ];
