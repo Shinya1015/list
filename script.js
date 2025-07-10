@@ -449,7 +449,7 @@ const songStreamLinks = {
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5063 },
   ],
   "らしさ/SUPER BEAVER": [
-    { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },,
+    { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1871},
@@ -7956,7 +7956,7 @@ const songStreamLinks = {
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2926},
       { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9004},
   ],
-   "/DECO*27": [
+   "妄想感傷代償連盟/DECO*27": [
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 9560},
       { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 6814 },
       { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15525 },
@@ -10749,7 +10749,7 @@ const streamerSongList = [
     "恋距離遠愛/DECO*27",
     "乙女解剖/DECO*27",
     "二息步行/DECO*27",
-    "/DECO*27",
+    "妄想感傷代償連盟/DECO*27",
     "夜行性ハイズ/DECO*27",
     "愛言葉/DECO*27",
     "愛言葉Ⅱ/DECO*27",
