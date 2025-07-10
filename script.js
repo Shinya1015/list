@@ -5002,6 +5002,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18489},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 1506},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5514},
       { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 885},
