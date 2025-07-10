@@ -1310,6 +1310,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4855},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4257 },
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 10040 },
      { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 3490 },
@@ -2849,6 +2850,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4136},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7868},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 460},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 4542},
@@ -4141,6 +4143,7 @@ const songStreamLinks = {
       
   ],
   "Ah Yeah!!/スキマスイッチ": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2013},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4196},
      { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 4706},
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 4778},
@@ -5495,6 +5498,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
  "Take Your Way/SEKAI NO OWARI": [
+    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4450},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 7120},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 1539 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9801 },
@@ -6530,13 +6534,14 @@ const songStreamLinks = {
       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 9444},
   ],
   "二人三脚/misono": [
-       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9504},
-       { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 1987},
-       { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 5175},
-       { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 8495},
-       { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 8221},
-       { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 9673},
-       { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 3790},
+     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 9504},
+     { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 1987},
+     { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 5175},
+     { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 8495},
+     { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 8221},
+     { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 9673},
+     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 6181},
@@ -7980,7 +7985,8 @@ const songStreamLinks = {
       { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7366 },
       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 1741 },
   ],
-  "そして僕にできるコト/day after tomorrow": [
+   "そして僕にできるコト/day after tomorrow": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2692},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8364},
       { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 3043},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 4083},
@@ -7999,6 +8005,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 1157 },
   ],
    "Starry Heavens/day after tomorrow": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2343},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11174},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 26947},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8656},
@@ -8308,6 +8315,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1598},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6044},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9229},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 1603 },
@@ -8691,6 +8699,7 @@ const songStreamLinks = {
         { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
      ],
     "ココロのちず/BOYSTYLE": [
+       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1299},
        { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1224},
        { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 5824},
        { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8429 },
