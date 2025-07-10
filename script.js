@@ -8459,6 +8459,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20280},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6039},
     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 868},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
@@ -8944,6 +8945,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20552},
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7090},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1955},
       { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4587},
