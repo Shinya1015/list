@@ -53,6 +53,7 @@ const songStreamLinks = {
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3293},
       ],
    "MOTTO!!!/Junky": [
+      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11803},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
    "愛♡スクリ～ム！/AiScReam": [
