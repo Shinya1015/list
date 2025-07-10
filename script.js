@@ -7338,6 +7338,7 @@ const songStreamLinks = {
      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 14893},
   ],
   "Alchemy/Girls Dead Monster": [
+     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9492},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14231},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 6593},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 9508},
