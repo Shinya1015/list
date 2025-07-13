@@ -2345,6 +2345,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21930},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5168},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2264},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2304},
@@ -7393,6 +7394,7 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6346},
   ],
   "あいうえおんがく/GReeeeN": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22283},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 9996},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 4258},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 6857},
