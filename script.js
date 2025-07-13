@@ -225,6 +225,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7815},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 4807},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9601},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8410},
@@ -6347,6 +6348,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7241},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14637},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5346},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 5513},
