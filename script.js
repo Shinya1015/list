@@ -286,6 +286,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11816},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4185},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8164},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5143 },
@@ -843,6 +844,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10944},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5081},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 11030},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5783},
@@ -5458,6 +5460,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12145},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 898},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10655},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3798 },
@@ -5576,6 +5579,7 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12894},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9386},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4141 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6409},
@@ -5705,6 +5709,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 6433},
   ],
   "銀色の空/redballoon": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11521},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 6863},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 7078},
      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 3917},
@@ -7271,6 +7276,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 9523},
   ],
   "かさなる影/Hearts Grow": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11193},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5259},
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 4938},
