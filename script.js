@@ -169,6 +169,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 5963},
   ],
    "ハヤテのごとく!/KOTOKO": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16748},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2629},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 2695},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13612 },
@@ -1627,6 +1628,7 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7417 },
   ],
   "太陽の楽園 ～Promised Land～/神戸みゆき": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17061},
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3493},
   ],
   "Cagayake! GIRLS/桜高軽音部": [
