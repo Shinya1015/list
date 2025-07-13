@@ -30,6 +30,7 @@ const songStreamLinks = {
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9931},
       ],
    "かわいいだけじゃだめですか？/CUTIE STREET": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 20887},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3396},
       ],
    "Blue Star/八王子P": [
@@ -8563,6 +8564,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21171},
     { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 6449},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 3573},
     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 3664},
@@ -9207,6 +9209,7 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 20444},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6886},
    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5727 },
     ], 
