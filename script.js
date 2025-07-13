@@ -245,6 +245,7 @@ const songStreamLinks = {
       { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6938},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1478},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1267},
      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 3838 },
@@ -3632,6 +3633,7 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4704},
   ],
   "ミュージック・アワー/ポルノグラフィティ": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6629},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1380},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8080},
      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 1338},
@@ -3702,7 +3704,8 @@ const songStreamLinks = {
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 8968},
       { date: "2024年8月25日", videoId: "9HthO5jsvYw", timestamp: 3240},   
   ],
-  "アゲハ蝶/ポルノグラフィティ": [
+   "アゲハ蝶/ポルノグラフィティ": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6333},
       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 14386},
       { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1073},
       { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 13730},
@@ -7583,6 +7586,7 @@ const songStreamLinks = {
      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14047},
   ],
   "夏空/Galileo Galilei": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 5196},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2296},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2715},
      { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 1563},
