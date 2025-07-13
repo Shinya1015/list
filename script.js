@@ -112,6 +112,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4608},
       ],
    "フィクション/sumika": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8234},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2517},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2261},
       { date: "2025年8月4日(冒頭アカペラ)", videoId: "JbRbXDESJOs", timestamp: 2885},
@@ -5153,6 +5154,7 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
   　"Get Wild/TM NETWORK": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8485},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2795},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8882},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 10826},
@@ -9126,7 +9128,8 @@ const songStreamLinks = {
 "創聖のアクエリオン/AKINO": [ 
      { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 4102 },
     ], 
-"残響散歌/Aimer": [ 
+ "残響散歌/Aimer": [ 
+    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8722},
     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 1510 },
     { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 2420 },
     { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 8546 },
