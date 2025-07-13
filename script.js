@@ -4395,6 +4395,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13541},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5441},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3328},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 3244},
@@ -5195,6 +5196,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
    "One day/The ROOTLESS": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13251},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4390 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 1812},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 33927},
@@ -6460,6 +6462,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13780},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 6870},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10578},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 7217},
