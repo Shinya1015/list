@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "Now or Never/ナノ": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
+      ],
    "Sweetiex2/DixieFlatline": [
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12417},
       ],
@@ -10037,6 +10040,7 @@ const animeSongs = [
     "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)", // 少女終末旅行 (Girls' Last Tour)
     "風になる/つじあやの",                              // 貓的報恩 (The Cat Returns) - 電影
     "No pain, No game/ナノ",                            // BTOOOM! 驚爆遊戲
+    "Now or Never/ナノ",                                //Phi Brain 神之謎題
     "悪魔の子/ヒグチアイ",                              // 進擊的巨人 The Final Season Part 2
     "ヒャダインのカカカタ カタオモイ-/ヒャダイン",      // 日常 (Nichijou)
     "一輪の花/ふみP",                                  // BLEACH 死神
@@ -11137,6 +11141,7 @@ const streamerSongList = [
     "Panorama/なぎ",
     "Overdose/なとり",
     "No pain, No game/ナノ",                            // BTOOOM! 驚爆遊戲
+    "Now or Never/ナノ",
     "右肩の蝶/のりぴー",
     "clock lock works/ハチ",
     "砂の惑星/ハチ",                                    // VOCALOID歌曲 (Magical Mirai 2017主題曲) - 非動畫合作曲
