@@ -663,6 +663,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/ORANGE RANGE": [
+    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4878},
     { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1745},
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3716},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2369},
@@ -4175,6 +4176,7 @@ const songStreamLinks = {
        { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7083 },
   ],
    "ゴールデンタイムラバー/スキマスイッチ": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4505},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2532},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5920 },
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 5984 },
@@ -6203,6 +6205,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4226},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1452},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2246},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 9225},
@@ -7052,6 +7055,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
   "シルエット/KANA-BOON": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3589},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2082},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 1628},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6686},
@@ -7677,7 +7681,8 @@ const songStreamLinks = {
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 16537},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 8454},
   ],
-  "GO!!!/FLOW": [
+   "GO!!!/FLOW": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3904},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3473 },
       { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2161 },
       { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 1003},
