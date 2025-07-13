@@ -6325,7 +6325,8 @@ const songStreamLinks = {
       { date: "2024年8月14日", videoId: "iTnqYhtm6OQ", timestamp: 5275},
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
-  "夢幻/MY FIRST STORY x HYDE": [
+   "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9167},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8824},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10899},
       { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 1359},
@@ -6634,6 +6635,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2513},
   ],
   "絆ノ奇跡/MAN WITH A MISSION × milet": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8922},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 1148},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 2684},
      { date: "2024年10月12日", videoId: "de4cSPVlTCE", timestamp: 2650},
