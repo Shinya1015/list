@@ -3861,6 +3861,7 @@ const songStreamLinks = {
       { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 1255},
   ],
   "No pain, No game/ナノ": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10520},
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 5841},
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
