@@ -1905,6 +1905,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9963},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2573},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11694},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 7686},
