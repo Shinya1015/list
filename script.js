@@ -330,6 +330,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 13849 },
   ],
   "アドバンス・アドベンチャー/GARDEN": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 2496},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12795 },
   ],
   "True My Heart/佐倉紗織": [
@@ -617,6 +618,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3017},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1155},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 805},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 16808},
@@ -628,6 +630,7 @@ const songStreamLinks = {
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
    "ニブンノイチ/BACK-ON": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 2756},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 620},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2031},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 2308 },
@@ -6895,6 +6898,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 2776},
   ],
   "ボクラの冒険/Kids Alive": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3325},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1204},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 864},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8615},
