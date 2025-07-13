@@ -371,6 +371,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2030 },
   ],
   "アイコトバ/サクラメリーメン": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 845},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 11506},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 1349 },
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13795 },
