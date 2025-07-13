@@ -97,6 +97,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14365},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2755},
@@ -4331,6 +4332,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3821},
   ],
   "ミカヅキ/さユり": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15236},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 9206},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4853},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 8143},
@@ -6720,6 +6722,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14107},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5338},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 858},
@@ -6898,6 +6901,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 1351},
   ],
   "OVERLAP/Kimeru": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14582},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4959},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 1558},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 9697},
@@ -8376,6 +8380,7 @@ const songStreamLinks = {
       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
   ],
  "鯨/Buzy": [
+    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14906},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 5714},
     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1500 },
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 4380 },
