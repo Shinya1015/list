@@ -1594,6 +1594,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
  "ひまわりの約束/秦基博": [
+    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21542},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1782},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 3038},
     { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 1050},
