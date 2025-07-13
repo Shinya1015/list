@@ -3070,6 +3070,7 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 3902},
   ],
    "SMILY/大塚愛": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9697},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7475},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12265},
       { date: "2024年2月16日", videoId: "uGJVaBlFHlU", timestamp: 10520},
