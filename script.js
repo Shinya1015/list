@@ -87,6 +87,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17736},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3999},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3477},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4903},
@@ -1016,6 +1017,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18012},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 5811},
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 2576},
@@ -2726,6 +2728,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 11635},
   ],
   "Super Driver/平野綾": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17390},
      { date: "2024年3月30日", videoId: "TDLZNM8llAE", timestamp: 2105},
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 5703},
   ],
@@ -7934,6 +7937,7 @@ const songStreamLinks = {
       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
    "夜鷹の夢/Do As Infinity": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18379},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13732},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5367 },
       { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6785 },
