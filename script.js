@@ -3163,6 +3163,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23114},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11225},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11738},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10808},
@@ -8756,6 +8757,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23422},
        { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2260},
        { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 3631},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 8206 },
