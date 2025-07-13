@@ -695,6 +695,7 @@ const songStreamLinks = {
     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4911 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18725},
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 2306},
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6339},
   ],
@@ -5153,6 +5154,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19473},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10023},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12015}, 
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6637},
@@ -6294,6 +6296,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19150},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2558},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5162},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12361},
@@ -7007,6 +7010,7 @@ const songStreamLinks = {
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19964},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 2631 },
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 6625 },
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 8336 },
