@@ -399,12 +399,14 @@ const songStreamLinks = {
   "light prayer/School Food Punishment": [
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
-  "futuristic imagination/School Food Punishment": [
+   "futuristic imagination/School Food Punishment": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16184},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10242},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8894 },
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16441},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2848},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1878},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12281},
@@ -4021,6 +4023,7 @@ const songStreamLinks = {
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7749},
   ],
   "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15583},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3040},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 11138},
      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 1331},
@@ -7057,6 +7060,7 @@ const songStreamLinks = {
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 4674},
   ],
   "スターマーカー/KANA-BOON": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15883},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 7449},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 6121},
      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 690},
