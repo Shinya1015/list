@@ -4727,6 +4727,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22519},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4773},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6810 },
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 2027},
@@ -9100,6 +9101,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [ 
+     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22780},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4325},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3361},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 1183},
