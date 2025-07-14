@@ -21,6 +21,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5738},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6621},
       ],
    "レッツゴー/秋山澪(日笠陽子)": [
@@ -130,6 +131,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
    "サタデー・ナイト・クエスチョン/中島愛": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5113},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5303},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11436},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2233},
@@ -204,6 +206,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
   "Blood teller/Faylan": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
   ],
   "瞬間センチメンタル/SCANDAL": [
@@ -255,6 +258,7 @@ const songStreamLinks = {
       { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2996},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6938},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1478},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1267},
@@ -908,6 +912,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4107},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2307},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 7578},
      { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3496},
@@ -7513,6 +7518,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4671},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 8205},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 750},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4481},
@@ -7704,6 +7710,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 3775},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3570},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4278},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3041},
@@ -8751,6 +8758,7 @@ const songStreamLinks = {
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5592 },
   ],
  "GO/BUMP OF CHICKEN": [
+    { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 3264},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 4334},
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1826 },
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 4796 },
