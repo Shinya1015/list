@@ -168,6 +168,7 @@ const songStreamLinks = {
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6976 },
     ],
    "Magical Babyrinth/DA PUMP": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 1673},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5509},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7615},
       { date: "2025年4月16日(アカペラ)", videoId: "7A2DbCtnoMc", timestamp: 5760 },
