@@ -960,7 +960,8 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4126},
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
- "それでも明日はやってくる/鈴木結女": [   
+ "それでも明日はやってくる/鈴木結女": [  
+    { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11516},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 9924},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8780},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9348},
@@ -8044,6 +8045,7 @@ const songStreamLinks = {
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
   ],
    "夜行性ハイズ/DECO*27": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11804},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4531},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11576},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 10669},
