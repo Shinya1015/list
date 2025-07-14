@@ -5490,6 +5490,7 @@ const songStreamLinks = {
      { date: "2024年9月24日", videoId: "yiPEGApmGdI", timestamp: 5446},
   ],
   "オリジナルスター☆彡/STAR☆ANIS": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4368},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6670},
      { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 2006},
      { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 8002},
