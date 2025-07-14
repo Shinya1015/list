@@ -1666,6 +1666,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 3883},
   ],
   "ZERO!!/栗林みな実": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 972},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3264},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5666},
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 4862},
