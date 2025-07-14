@@ -2087,7 +2087,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 8436},
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5786},
   ],
-   "brave heart/宮崎歩": [ 
+    "brave heart/宮崎歩": [
+       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 7249},
        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1816 },
        { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6478},
        { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10628},
@@ -2709,6 +2710,7 @@ const songStreamLinks = {
       { date: "2023年10月18日-piano ver.", videoId: "ZfwNBpcQsuc", timestamp: 12882},
   ],
   "Fantastic future/田村ゆかり": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 6630},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4755},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 4851},
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 11542},
@@ -3549,6 +3551,7 @@ const songStreamLinks = {
      { date: "2024年11月3日(一番のみ)", videoId: "1WJ9n2-K7S4", timestamp: 7702},
   ],
   "I will find a star/ゆよゆっぺ": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 6964},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13269},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 10278},
   ],
@@ -8234,6 +8237,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2957 },
   ],
    "CLICK/ClariS": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 6284},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 5261},
       { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 615},
       { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 1347},
