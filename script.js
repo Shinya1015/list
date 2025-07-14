@@ -1445,6 +1445,7 @@ const songStreamLinks = {
      { date: "2023年12月21日", videoId: "fWV5gEtemxc", timestamp: 6379},
   ],
   "ダンシング☆サムライ/崎山つばさ": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 1955},
      { date: "2023年1月16日", videoId: "lb9LTP381-c", timestamp: 963},
   ],
   "私とワルツを/鬼束ちひろ": [
@@ -1981,6 +1982,7 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5956},
   ],
   "Soar/流星P": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 2851},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 13917},
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9982},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
@@ -2693,6 +2695,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7527},
   ],
   "You & Me/田村ゆかり feat. motsu from m.o.v.e": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 3461},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4490},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 5094},
      { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 1276},
@@ -3220,6 +3223,7 @@ const songStreamLinks = {
       { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13947},
   ],
   "Sweet Devil/八王子P": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 2219},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5235},
   ],
   "whiteout/八王子P": [
@@ -8001,7 +8005,8 @@ const songStreamLinks = {
       { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 4227},
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
     ],
-  "心壊サミット/DECO*27": [
+   "心壊サミット/DECO*27": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 3232},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
       { date: "2025年4月1日(冒頭アカペラ)", videoId: "3qhlFZL3j_w", timestamp: 5717},
   ],
