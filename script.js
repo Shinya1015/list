@@ -275,6 +275,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 10210},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2928},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3404 },
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
@@ -3250,6 +3251,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4752},
   ],
   "言ノ葉カルマ/れるりり": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 7561},
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7741},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2474},
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 9414},
@@ -4607,6 +4609,7 @@ const songStreamLinks = {
      { date: "2023年1月26日", videoId: "lb9LTP381-c", timestamp: 11753},
   ],
   "メンタルチェンソー/かいりきベア": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 8506},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 7896},
      { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 1390},
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 7075},
@@ -5376,6 +5379,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9760},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 5866},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2959},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12817},
@@ -8083,7 +8087,8 @@ const songStreamLinks = {
   "ヒバナ/DECO*27": [
       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 8774},
   ],
-  "セカイ/DECO*27": [
+   "セカイ/DECO*27": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 8735},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13800},
       { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 4733},
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 5989 },
@@ -8991,7 +8996,8 @@ const songStreamLinks = {
        { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 6773 },
        { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 5211 },
      ],
-  "決意の朝に/Aqua Timez": [
+    "決意の朝に/Aqua Timez": [
+       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9359},
        { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 12735 },
        { date: "2024年1月26日", videoId: "Uc6T8f5YsS4", timestamp: 5925 },
        { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 7291 },
@@ -9039,6 +9045,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9089},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20552},
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7090},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1955},
