@@ -6330,6 +6330,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5768},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5594},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12945},
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
