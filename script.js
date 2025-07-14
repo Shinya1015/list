@@ -2799,6 +2799,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6393},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5704},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2382},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12144},
@@ -9356,6 +9357,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7103},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 2952},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 5245 },
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2916},
