@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "うに/立秋": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4960},
+      ],
    "二次元ドリームフィーバー/PolyphonicBranch": [
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
       ],
@@ -5457,6 +5460,7 @@ const songStreamLinks = {
     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7482},
     ],
   "ダイヤモンドハッピー/STAR☆ANIS": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4679},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8344 },
   ],
   "ハッピィクレッシェンド/STAR☆ANIS": [
@@ -11575,4 +11579,5 @@ const streamerSongList = [
     "初音ミクの暴走/cosMo@暴走P",
     "Sweetiex2/DixieFlatline",
     "二次元ドリームフィーバー/PolyphonicBranch",
+    "うに/立秋",
 ];
