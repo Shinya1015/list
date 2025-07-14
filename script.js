@@ -314,6 +314,7 @@ const songStreamLinks = {
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 947},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5013},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 885},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1541},
@@ -1074,6 +1075,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2226},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14527},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5970},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3075 },
@@ -3650,6 +3652,7 @@ const songStreamLinks = {
       { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 609},
   ],
   "メリッサ/ポルノグラフィティ": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1832},
      { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 5889},
      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 8000},
      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 4253},
@@ -4294,6 +4297,7 @@ const songStreamLinks = {
     { date: "2023年1月6日-piano ver.", videoId: "lb9LTP381-c", timestamp: 12213 },
   ],
   "嘘/シド": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1559},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1162},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 1442},
      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 4937},
@@ -8488,6 +8492,7 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2075 },
   ],
  "月虹/BUMP OF CHICKEN": [
+    { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2624},
     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5417 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10172 },
@@ -8909,6 +8914,7 @@ const songStreamLinks = {
        { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4863 },
      ],
     "遥か彼方/ASIAN KUNG-FU GENERATION": [
+       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1281},
        { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1388},
        { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 1890},
        { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 909 },
