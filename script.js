@@ -3450,6 +3450,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 12115},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4171},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 3528},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 25595},
@@ -4740,6 +4741,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2032 },
   ],
   "secret base～君がくれたもの～/ZONE": [
+     { date: "2025年7月13日-piano ver.", videoId: "tVopSO35ZzY", timestamp: 12376},
      { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 6887},
      { date: "2024年7月19日-piano ver.", videoId: "axfOi0qwNKQ", timestamp: 2510},
      { date: "2023年9月5日-piano ver.", videoId: "SQDAP7N--Vk", timestamp: 2265},
