@@ -4999,6 +4999,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 4059},
   ],
   "アドベンチャー/YOASOBI": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 474},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6866},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 5242},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 27721},
