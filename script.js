@@ -3718,6 +3718,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
    "サウダージ/ポルノグラフィティ": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7415},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9794},
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1584},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 1755},
