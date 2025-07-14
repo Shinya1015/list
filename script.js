@@ -494,6 +494,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4069},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3771},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1377},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 3296},
