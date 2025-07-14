@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "二次元ドリームフィーバー/PolyphonicBranch": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
+      ],
    "Now or Never/ナノ": [
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
       ],
@@ -11543,4 +11546,5 @@ const streamerSongList = [
     "雨のちSweet*Drops/OSTER project",
     "初音ミクの暴走/cosMo@暴走P",
     "Sweetiex2/DixieFlatline",
+    "二次元ドリームフィーバー/PolyphonicBranch",
 ];
