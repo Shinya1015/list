@@ -2089,7 +2089,6 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5786},
   ],
     "brave heart/宮崎歩": [
-       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 7249},
        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1816 },
        { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6478},
        { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10628},
@@ -2100,6 +2099,7 @@ const songStreamLinks = {
        { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4497},
        ],
   "brave heart/林原めぐみ": [
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 7249},
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5629},
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 4906},
       { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 7959},
