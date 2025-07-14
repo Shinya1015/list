@@ -186,7 +186,8 @@ const songStreamLinks = {
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13612 },
       { date: "2025年4月3日(一番のみ)", videoId: "jciPyoWRUt4", timestamp: 4134 },
   ],
-  "Zzz/佐咲紗花": [
+   "Zzz/佐咲紗花": [
+      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 8143},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12712},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
@@ -7369,6 +7370,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7899},
      { date: "2025年7月6日(冒頭アカペラ)", videoId: "0BtVZt9Fl0k", timestamp: 2781},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3610},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2055},
