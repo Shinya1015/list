@@ -470,6 +470,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5428},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3124},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6148},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3714 },
