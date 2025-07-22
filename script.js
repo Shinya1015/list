@@ -1761,7 +1761,8 @@ const songStreamLinks = {
   "涙そうそう/夏川りみ": [
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
-  "TRY AGAIN/倉木麻衣": [
+ "TRY AGAIN/倉木麻衣": [
+    { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6198 },
     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 4569 },
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 13716 },
     { date: "2024年6月8日", videoId: "_eKnVeWHjnY", timestamp: 5093 },
@@ -2445,6 +2446,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20856},
   ],
   "パプリカ/米津玄師": [
+     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5296 },
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21507},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7581},
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7012},
@@ -3465,6 +3467,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6792 },
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 12115},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4171},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 3528},
@@ -3670,7 +3673,8 @@ const songStreamLinks = {
      { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7018},
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 9985},
   ],
-  "㋰責任集合体/マサラダ": [
+   "㋰責任集合体/マサラダ": [
+      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 7159 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10146},
       { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 8479},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 27277},
@@ -4422,6 +4426,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "青いベンチ/サスケ": [
+     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6531 },
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3784},
      { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 6434},
      { date: "2024年9月27日-piano ver.", videoId: "cfKcAgPPpi4", timestamp: 16633},
@@ -4969,6 +4974,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5950 },
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1342},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1910},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2122 },
@@ -6208,6 +6214,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 4762 },
     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7188},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2107},
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 32019 },
@@ -9073,6 +9080,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5533 },
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9089},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20552},
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7090},
@@ -9395,6 +9403,7 @@ const songStreamLinks = {
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14115 },
   ], 
 "みむかｩわナイストライ/初音ミク": [
+   { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 7432 },
    { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5668 },
    { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 6580 },
    { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 6576 },
