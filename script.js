@@ -57,6 +57,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
    "rain stops, good-bye/におP": [
+      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8402 },
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4775},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 5488},
       ],
@@ -4644,7 +4645,8 @@ const songStreamLinks = {
      { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3824},
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9248},
   ],
-  "ダーリンダンス/かいりきベア": [
+   "ダーリンダンス/かいりきベア": [
+      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 7770 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 6101},
       { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 3816},
       { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 8478},
@@ -7967,6 +7969,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8018 },
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2134},
     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 7536},
     { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 3897 },
