@@ -44,6 +44,7 @@ const songStreamLinks = {
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
    "ウミユリ海底護/n-buna": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9675},
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
       ],
    "東京テディベア/Neru": [
@@ -1465,6 +1466,7 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 5648 },
   ],
   "眩暈/鬼束ちひろ": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 7468},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 13858},
      { date: "2024年12月8日", videoId: "etea1sjScWw", timestamp: 2780},
      { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 2266},
@@ -1515,7 +1517,8 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 5008},
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 10005},
   ],
-  "月光/鬼束ちひろ": [
+ "月光/鬼束ちひろ": [
+    { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 7851},
     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 13266 },
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 5046 },
     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 3125 },
@@ -1740,6 +1743,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
   ],
    "ニア/夏代孝明": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9391},
       { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8861},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 7068},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9251},
@@ -3323,6 +3327,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10256},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 9698},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 5942},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 975 },
@@ -6541,6 +6546,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10609},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13780},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 6870},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10578},
@@ -7898,6 +7904,7 @@ const songStreamLinks = {
      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5689},
   ],
   "平行線/Eve × suis": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 8420},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 10058},
      { date: "2025年2月5日", videoId: "76sEx59ZSf8", timestamp: 4987},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4472},
@@ -9094,6 +9101,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9959},
       { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5533 },
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9089},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20552},
