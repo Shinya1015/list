@@ -57,6 +57,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
    "rain stops, good-bye/におP": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3453},
       { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8402 },
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4775},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 5488},
@@ -612,6 +613,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1509},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5049},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2641},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3613},
@@ -4109,6 +4111,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5093},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15608},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 930},
      { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 3434},
@@ -4481,6 +4484,7 @@ const songStreamLinks = {
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 4515},
   ],
   "夜もすがら君想ふ/西沢さんP": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 2863},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6615},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11161},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2760},
@@ -4524,7 +4528,8 @@ const songStreamLinks = {
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 14968},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 5739},
   ],
-  "インタビュア/クワガタP": [
+   "インタビュア/クワガタP": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 2533},
       { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7111 },
       { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 3836 },
       { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8380 },
@@ -4957,6 +4962,7 @@ const songStreamLinks = {
 
   ],
   "群青/YOASOBI": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1164},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 1872},
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 6450},
      { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 2824},
@@ -8381,6 +8387,7 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 6250 },
   ],
   "病名恋ワズライ/HoneyWorks": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 2137},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3696 },
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 6350 },
   ],
@@ -9093,6 +9100,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3191},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20832},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8450},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3634},
@@ -9482,11 +9490,12 @@ const songStreamLinks = {
     { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 8159 },
     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 3069 },
    ],
-  "からくりピエロ/40mP": [ // 中間順序不變
+  "からくりピエロ/40mP": [
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10472 },
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 2870 }, // 注意: 日期 '1月924' 可能有誤
  ],
-"シリョクケンサ/40mP": [ // 中間順序不變
+ "シリョクケンサ/40mP": [
+    { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3913},
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18149 },
     { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 10255 },
     { date: "2021年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 4502 },
