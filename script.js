@@ -3079,6 +3079,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5367},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9853},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 1622 },
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 7697},
@@ -3240,6 +3241,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5235},
   ],
   "whiteout/八王子P": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 6803},
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 9615},
   ],
   "バタフライ・グラフィティ/八王子P": [
@@ -5150,6 +5152,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 6286},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9528}, 
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10972},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8204},
@@ -7314,6 +7317,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5305},
   ],
   "366日/HY": [
+     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5759},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 19846},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 10850},
      { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 12055},
