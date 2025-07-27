@@ -1538,6 +1538,7 @@ const songStreamLinks = {
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3060 },
   ],
   "青空のナミダ/高橋瞳": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 4812},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 1313},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3881},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 9983},
@@ -1586,6 +1587,7 @@ const songStreamLinks = {
       { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8024 },
   ],
   "微笑みの爆弾/馬渡松子": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 5185},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3597},
      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 1594},
      { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 1883},
@@ -4375,6 +4377,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3844},
   ],
   "花の塔/さユり": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 5492},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8358},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 11914},
      { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 2756},
@@ -5334,6 +5337,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4636 },
   ],
   "HOT LIMIT/T.M.Revolution": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 1951},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 9674},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 6564},
      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 1478},
@@ -6485,6 +6489,7 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 10323},
      ],
   "青と夏/Mrs. GREEN APPLE": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 2210},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5669},
      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 6146},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 3461},
@@ -7813,6 +7818,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4999},
   ],
   "渇いた叫び/FIELD OF VIEW": [
+     { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 1665},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3344},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10378},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4192},
@@ -8709,7 +8715,8 @@ const songStreamLinks = {
     { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 2764 },
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
-  "カルマ/BUMP OF CHICKEN": [
+ "カルマ/BUMP OF CHICKEN": [
+    { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 4545},
     { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 1236 },
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9277 },
     { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 2085 },
@@ -8935,7 +8942,8 @@ const songStreamLinks = {
        { date: "2024年4月22日", videoId: "D8WXlT7yiN0", timestamp: 7630 },
        { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8830 },
      ],
- "鐘を鳴らして/BONNIE PINK": [
+    "鐘を鳴らして/BONNIE PINK": [
+       { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 4265},
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1017 },
        { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1871 },
        { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 11584 },
