@@ -2455,6 +2455,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20856},
   ],
   "パプリカ/米津玄師": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6960},
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5296 },
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21507},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7581},
