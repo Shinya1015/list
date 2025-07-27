@@ -3602,6 +3602,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7058},
   ],
   "夏色/ゆず": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6674},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 4030},
      { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 2112},
      { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 2912},
