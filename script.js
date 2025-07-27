@@ -5543,6 +5543,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年7月24日", videoId: "syJnL38D7-Q", timestamp: 1470},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12145},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 898},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10655},
