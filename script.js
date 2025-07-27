@@ -1041,6 +1041,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 9633},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18012},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 5811},
@@ -1339,6 +1340,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 15532 },
   ],
    "Wind Climbing ～風にあそばれて～/奥井亜紀": [
+      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 9996},
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 2298},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10009},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 10062},
@@ -5727,6 +5729,7 @@ const songStreamLinks = {
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16223},
   ],
   "ホウキ雲/RYTHEM": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10239},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4953},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 8604},
      { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 1179},
@@ -6771,6 +6774,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1338},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11495},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 9883},
