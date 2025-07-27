@@ -502,6 +502,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10986},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4069},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3771},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1377},
@@ -3184,6 +3185,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13098},
   ],
   "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10673},
      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 3758},
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5180},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 1730},
@@ -3644,7 +3646,8 @@ const songStreamLinks = {
    "honey & clover club/ゆうゆ": [
       { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 3824},
       ],
-  "走れ！/ももいろクローバー": [
+　"走れ！/ももいろクローバー": [
+    { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 11206},
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 1394 },
     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 870 },
     { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 1039 },
