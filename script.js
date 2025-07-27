@@ -6816,6 +6816,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8524},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14107},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5338},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5168},
