@@ -6454,6 +6454,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6358},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7241},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14637},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5346},
@@ -7122,6 +7123,7 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9981},
   ],
   "KING/Kanaria": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6200},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10784},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 816},
      { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 2725},
