@@ -4819,6 +4819,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 7606},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8498},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2600 },
      { date: "2025年6月2日-アコギ ver.", videoId: "BcJxg8xYz10", timestamp: 5842},
