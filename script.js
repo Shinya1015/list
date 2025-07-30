@@ -2473,6 +2473,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 4588},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7546},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4977},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1265},
@@ -6631,6 +6632,7 @@ const songStreamLinks = {
      { date: "2023年8月19日(前半アカペラ)", videoId: "_LMnJTamXFo", timestamp: 8350},
   ],
   "HANABI/Mr.Children": [
+     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 4944},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 6479},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 7018},
      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 6395},
