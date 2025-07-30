@@ -8622,6 +8622,7 @@ const songStreamLinks = {
     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
   ],
 　"天体観測/BUMP OF CHICKEN": [
+    { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5499},
     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8211},
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 3395 },
     { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 2309 },
