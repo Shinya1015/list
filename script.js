@@ -502,6 +502,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7238},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10986},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4069},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3771},
@@ -2351,6 +2352,7 @@ const songStreamLinks = {
      { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 6758},
   ],
   "No.1/mona(CV：夏川椎菜)": [
+     { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7453},
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2240},
   ],
  "灰色と青/米津玄師": [
@@ -8101,7 +8103,8 @@ const songStreamLinks = {
       { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 4026},
       { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 464},
   ],
-  "愛言葉Ⅳ/DECO*27": [
+   "愛言葉Ⅳ/DECO*27": [
+      { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 8106},
       { date: "2024年6月3日", videoId: "u2Vmz9VgaXs", timestamp: 2520 },
       { date: "2023年8月1日", videoId: "UC7QboicDS4", timestamp: 3307 },
       { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 8589 },
@@ -8344,6 +8347,7 @@ const songStreamLinks = {
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 18824},
   ],
   "誇り高きアイドル/HoneyWorks": [
+     { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7753},
      { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 1247},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 25623 },
      { date: "2024年8月1日", videoId: "m5fH02KVk4w", timestamp: 4739 },
@@ -11658,3 +11662,4 @@ const streamerSongList = [
     "二次元ドリームフィーバー/PolyphonicBranch",
     "うに/立秋",
 ];
+
