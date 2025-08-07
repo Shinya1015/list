@@ -54,6 +54,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1048 },
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7364},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
@@ -1785,6 +1786,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 2256 },
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9610},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6118},
      { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1682},
@@ -1837,6 +1839,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 3075 },
     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6397},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6609},
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 13152 },
@@ -3495,6 +3498,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 770 },
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6792 },
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 12115},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4171},
@@ -9536,6 +9540,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1358 },
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7684},
     { date: "2025年3月29日", videoId: "r4WSqrEyefI", timestamp: 7466 },
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7466 },
@@ -9623,6 +9628,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
   ],
    "ハイドアンド・シーク/19's Sound Factory": [ 
+      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1661 },
       { date: "2025年6月9日-piano ver.", videoId: "ZMroZEg-V_A", timestamp: 8362},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9530 },
       { date: "2024年11月10日-piano ver.", videoId: "q18m9BbYltI", timestamp: 3800 },
@@ -11675,5 +11681,6 @@ const streamerSongList = [
     "二次元ドリームフィーバー/PolyphonicBranch",
     "うに/立秋",
 ];
+
 
 
