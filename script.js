@@ -1,5 +1,9 @@
 
 const songStreamLinks = {
+   
+   "ハッピーラッキーチャッピー/ano": [
+      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1895 },
+      ],
    "うに/立秋": [
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4960},
       ],
@@ -4841,6 +4845,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1537 },
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 7606},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8498},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 2600 },
@@ -7153,6 +7158,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "VwPRwa329Gs", timestamp: 6346 },
   ],
   "酔いどれ知らず/Kanaria": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1331 },
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10623},
      { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 7185},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 8459},
@@ -10015,6 +10021,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
 ];
 const animeSongs = [
+    "ハッピーラッキーチャッピー/ano",                                     //タコピーの原罪OP
     "氷の上に立つように/小松未歩",
     "明日、僕は君に会いに行く/ワカバ",
     "放課後ストライド/Last Note.",                                       //放課後ストライドED
@@ -11689,7 +11696,9 @@ const streamerSongList = [
     "Sweetiex2/DixieFlatline",
     "二次元ドリームフィーバー/PolyphonicBranch",
     "うに/立秋",
+    "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
