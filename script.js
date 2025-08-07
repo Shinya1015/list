@@ -4034,6 +4034,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 822 },
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2902},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1291},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 993},
@@ -4915,6 +4916,7 @@ const songStreamLinks = {
      { date: "2023年2月13日-piano ver.", videoId: "WDaTU01Humc", timestamp: 5638},
   ],
   "HELLO ～Paradise Kiss～/YUI": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1119 },
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3507},
      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 11006},
      { date: "2024年5月1日", videoId: "DFsko7-t5_Y", timestamp: 3073},
@@ -5064,6 +5066,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 4059},
   ],
   "アドベンチャー/YOASOBI": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2589 },
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 474},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6866},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 5242},
@@ -5136,6 +5139,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2806 },
       { date: "2025年7月9日-piano ver.", videoId: "g5x5fT1jbF4", timestamp: 18489},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 1506},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5514},
@@ -6293,6 +6297,7 @@ const songStreamLinks = {
     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 3727 },
   ],
   "HELLO/Official髭男dism": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 510 },
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 818},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 6006},
      { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 946},
@@ -6487,6 +6492,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2180 },
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 3251 },
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6358},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7241},
@@ -7065,6 +7071,7 @@ const songStreamLinks = {
      { date: "2023年7月15日(メン限)", videoId: "Z_8YWy3fyNo", timestamp: 19660},
   ],
   "おはよう。/Keno": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1397 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2107},
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6066},
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 8449},
@@ -7583,6 +7590,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 4938},
   ],
   "君の思い描いた夢 集Xル HEAVEN/GARNET CROW": [
+     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 3158 },
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9663},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 2812},
      { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 3474},
@@ -8865,7 +8873,8 @@ const songStreamLinks = {
        { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 34802 },
        { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 1836 },  
   ],
-  "Hello,world!/BUMP OF CHICKEN": [
+ "Hello,world!/BUMP OF CHICKEN": [
+    { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1741 },
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 12751 },
     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4574 },
     { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 5058 },
@@ -11681,6 +11690,7 @@ const streamerSongList = [
     "二次元ドリームフィーバー/PolyphonicBranch",
     "うに/立秋",
 ];
+
 
 
 
