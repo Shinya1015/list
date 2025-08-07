@@ -2984,6 +2984,7 @@ const songStreamLinks = {
       { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4041 },
   ],
   "GLAMOROUS SKY/中島美嘉": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 2467 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 5804},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 5675},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 11678},
@@ -3761,6 +3762,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
    "サウダージ/ポルノグラフィティ": [
+      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4540 },
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7415},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9794},
       { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1584},
@@ -3860,6 +3862,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 2803 },
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16086},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6540 },
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12836},
@@ -5194,6 +5197,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5155 },
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 6286},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9528}, 
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10972},
@@ -5227,6 +5231,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5852 },
       { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2032},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15175},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 5272},
@@ -6235,6 +6240,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20294},
   ],
   "ホワイトノイズ/Official髭男dism": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3433 },
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4660 },
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8910},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 1039},
@@ -6471,6 +6477,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3113 },
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9167},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8824},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 10899},
@@ -8600,6 +8607,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4841 },
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6614},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 765},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 17508 },
@@ -11698,6 +11706,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
