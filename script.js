@@ -1529,6 +1529,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 10005},
   ],
  "月光/鬼束ちひろ": [
+    { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 7500},
     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 7851},
     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 13266 },
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 5046 },
@@ -11706,6 +11707,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
