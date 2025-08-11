@@ -103,6 +103,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2369},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17736},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3999},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3477},
@@ -173,8 +174,9 @@ const songStreamLinks = {
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
     "リクライム/ROOKiEZ is PUNK'D": [
+       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 5304},
        { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12060},
-        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3608},
+       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3608},
     ],
 "Wake up my music/りさ・えいみ": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6976 },
@@ -653,6 +655,7 @@ const songStreamLinks = {
      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},   
   ],
   "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1865},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13651},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2340},
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5501},
@@ -2412,6 +2415,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 940},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6426 },
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 4078},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21930},
@@ -2744,6 +2748,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
   "Ready Go!/田村直美": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2728},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2741},
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 4724},
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 17201},
@@ -5560,7 +5565,8 @@ const songStreamLinks = {
   "ハッピィクレッシェンド/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8655},
   ],
-  "笑顔のsuncatcher/STAR☆ANIS": [
+   "笑顔のsuncatcher/STAR☆ANIS": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 4850},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7365 },
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
   ],
@@ -5594,7 +5600,8 @@ const songStreamLinks = {
      { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 8002},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 15500},
   ],
-  "SHINING LINE*/STAR☆ANIS": [
+   "SHINING LINE*/STAR☆ANIS": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 3080},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 9538},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7099},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 1389},
@@ -6436,12 +6443,14 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1229},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5768},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5594},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 12945},
      { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 9390 },
   ],
    "こだまことだま/nano.RIPE": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1512},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13245},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
@@ -7406,7 +7415,8 @@ const songStreamLinks = {
      { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 7335},
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 17933},
   ],
-  "I'll be the one/HΛL": [
+   "I'll be the one/HΛL": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 458},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6218},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6942},
       { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 2603},
@@ -9418,9 +9428,11 @@ const songStreamLinks = {
    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 2497 },
     ], 
 "lucky train!/AIKATSU☆STARS!": [
+   { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 4025},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 3718},
    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 20444},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6886},
    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5727 },
@@ -11744,6 +11756,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
