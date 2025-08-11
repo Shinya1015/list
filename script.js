@@ -1896,6 +1896,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 2608},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10228},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4518},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 6712},
@@ -4986,6 +4987,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3866},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5628},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 10867},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10338},
@@ -5395,6 +5397,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 705},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6063},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1247},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10890},
@@ -5709,6 +5712,7 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3285},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2666 },
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12894},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9386},
@@ -6478,6 +6482,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 1036},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3113 },
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9167},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8824},
@@ -6912,7 +6917,8 @@ const songStreamLinks = {
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 1718},
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 2569},
   ],
-  "紅蓮華/LiSA": [
+   "紅蓮華/LiSA": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 2218},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8595},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 11988},
       { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 1794},
@@ -11707,6 +11713,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
