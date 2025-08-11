@@ -223,8 +223,9 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
   "Blood teller/Faylan": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
-    { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
+     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
   ],
   "瞬間センチメンタル/SCANDAL": [
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4851 },
@@ -8570,6 +8571,7 @@ const songStreamLinks = {
       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
   ],
  "鯨/Buzy": [
+    { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9728},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14906},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 5714},
     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1500 },
@@ -11726,6 +11728,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
