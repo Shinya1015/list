@@ -114,6 +114,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11247},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14365},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
@@ -242,6 +243,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14612},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8000},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1954},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9373},
@@ -314,6 +316,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12692},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11816},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4185},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 8164},
@@ -429,6 +432,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
    "futuristic imagination/School Food Punishment": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 13057},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16184},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10242},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8894 },
@@ -1287,6 +1291,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14868},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4596},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3168},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4040},
@@ -3034,6 +3039,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 11289},
   ],
   "PSI-missing/川田まみ": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15731},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3768},
      { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 972},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 7306},
@@ -5276,6 +5282,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12381},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19473},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10023},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12015}, 
@@ -6364,6 +6371,7 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
   "天地ガエシ/NICO Touches the Walls": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10932},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 4287},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 12122},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 4045},
@@ -6785,6 +6793,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
+     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15256},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 6181},
      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4555},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14129},
@@ -8095,6 +8104,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14317},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8857},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11483},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8474},
@@ -8745,6 +8755,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11850},
     { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 3176},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21171},
     { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 6449},
@@ -11728,6 +11739,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
