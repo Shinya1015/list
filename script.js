@@ -425,6 +425,7 @@ const songStreamLinks = {
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13614 },
   ],
    "栄光への一秒/MAGIC OF LiFE": [
+      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 5544},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1294},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 12521},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 717 },
@@ -543,6 +544,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7355},
      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 3124},
      { date: "2025年6月24日-piano ver.", videoId: "YPWm-DAeW3o", timestamp: 8966},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4325},
@@ -633,6 +635,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6837},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1509},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5049},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2641},
@@ -1266,6 +1269,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 1664},
   ],
   "カラカラ/結束バンド": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7979},
      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 2596},
      { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 2799},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 8886},
@@ -4241,6 +4245,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7049},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2310},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3263},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 16945},
@@ -4843,6 +4848,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7713},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22519},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4773},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6810 },
@@ -7503,6 +7509,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6527},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7899},
      { date: "2025年7月6日(冒頭アカペラ)", videoId: "0BtVZt9Fl0k", timestamp: 2781},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3610},
@@ -11756,6 +11763,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
