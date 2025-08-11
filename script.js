@@ -298,7 +298,8 @@ const songStreamLinks = {
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3404 },
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
   ],
-  "Dear My Friend~まだ見ぬ未来へ~/ELISA": [
+   "Dear My Friend~まだ見ぬ未来へ~/ELISA": 
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16036},[
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7239 },
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7977 },
   ],
@@ -2329,6 +2330,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
    "Style. /西野カナ": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16533},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 970},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2341 },
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3790 },
@@ -6479,7 +6481,8 @@ const songStreamLinks = {
      { date: "2024年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26993},
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
-  "STYX HELIX/MYTH & ROID ": [
+   "STYX HELIX/MYTH & ROID ": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16931},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5102},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 24518},
       { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 3650},
@@ -6987,7 +6990,8 @@ const songStreamLinks = {
      { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 3141},
      { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 2537},
   ],
-  "時を刻む唄/Lia": [
+   "時を刻む唄/Lia": [
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 17629},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 10672},
       { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 7885},
       { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 15535},
@@ -7015,6 +7019,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15554},         
   ],
     "小さなてのひら/Lia": [
+       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 17269},
        { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4505},
        { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8030},
        { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 6316},
@@ -11739,6 +11744,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
