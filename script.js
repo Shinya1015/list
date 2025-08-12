@@ -544,7 +544,6 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
-     { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7355},
      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 3124},
      { date: "2025年6月24日-piano ver.", videoId: "YPWm-DAeW3o", timestamp: 8966},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4325},
@@ -11763,6 +11762,7 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
 ];
+
 
 
 
