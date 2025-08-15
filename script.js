@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "ARiA/とくP": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
+      ],
    "大丈夫サンライズ/豆柴の大群": [
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4085},
       ],
@@ -13,6 +16,7 @@ const songStreamLinks = {
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
       ],
    "Now or Never/ナノ": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4452},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
       ],
    "Sweetiex2/DixieFlatline": [
@@ -11412,6 +11416,7 @@ const streamerSongList = [
     "ミュージックミュージック/とあ",
     "SPiCa/とくP",
     "ホシノウタ/とくP",
+    "ARiA/とくP",
     "Hello/ナオト・インティライミ",
     "いつかきっと/ナオト・インティライミ",
     "タカラモノ～この声がなくなるまで～/ナオト・インティライミ",
@@ -11773,6 +11778,7 @@ const streamerSongList = [
     "ハッピーラッキーチャッピー/ano",
     "大丈夫サンライズ/豆柴の大群",
 ];
+
 
 
 
