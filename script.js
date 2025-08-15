@@ -3944,6 +3944,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11917 }, 
   ],
   "17才/ハルカトミユキ": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6322},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9817},
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 5722},
      { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 2428},
@@ -6144,7 +6145,8 @@ const songStreamLinks = {
   "衝動/pigstar": [
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
-  "君＝花/pigstar": [
+   "君＝花/pigstar": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 7585},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4524},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 8895},
       { date: "2023年11月14日-piano ver.", videoId: "8m4YNCr-kDo", timestamp: 7261},
@@ -6780,6 +6782,7 @@ const songStreamLinks = {
      { date: "2029年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
   ],
   "ヒカリへ/miwa": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 7195},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 6883},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4458},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 9566},
@@ -8893,6 +8896,7 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 14545 },
   ],
  "アカシア/BUMP OF CHICKEN": [
+    { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6815},
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1693},
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15629 },
     { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 3362 },
@@ -11781,6 +11785,7 @@ const streamerSongList = [
     "ハッピーラッキーチャッピー/ano",
     "大丈夫サンライズ/豆柴の大群",
 ];
+
 
 
 
