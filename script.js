@@ -5239,6 +5239,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5435},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5155 },
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 6286},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9528}, 
@@ -6459,6 +6460,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6042},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1229},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5768},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5594},
@@ -9452,6 +9454,7 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5143},
    { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 3718},
    { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 20444},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6886},
@@ -11778,6 +11781,7 @@ const streamerSongList = [
     "ハッピーラッキーチャッピー/ano",
     "大丈夫サンライズ/豆柴の大群",
 ];
+
 
 
 
