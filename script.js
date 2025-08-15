@@ -1,6 +1,8 @@
 
 const songStreamLinks = {
-   
+   "大丈夫サンライズ/豆柴の大群": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4085},
+      ],
    "ハッピーラッキーチャッピー/ano": [
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1895 },
       ],
@@ -115,6 +117,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3301},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11247},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14365},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2908},
@@ -356,6 +359,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1638},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6286},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1966},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5941},
@@ -457,6 +461,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
   "星屑のインターリュード/fhana": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1206},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4524},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1618},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12446},
@@ -2511,6 +2516,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3580},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 4588},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7546},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 4977},
@@ -2996,6 +3002,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 872},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4993},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 1188},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4136},
@@ -8350,7 +8357,8 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 7444},
   ],
 
-  "EQUALロマンス/CoCo": [
+   "EQUALロマンス/CoCo": [
+      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2296},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4319},
       { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 8206},
       { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 2683 },
@@ -8911,6 +8919,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2883},
        { date: "2025年7月12日(livetune cover)", videoId: "2vtqKMxeUGI", timestamp: 2041},
        { date: "2025年7月7日(livetune cover)", videoId: "migDa3o9sNo", timestamp: 11776},
        { date: "2025年5月22日(livetune cover)", videoId: "0UwDTQZqS-A", timestamp: 4775},
@@ -9000,6 +9009,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2583},
         { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3165},
         { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4331 },
         { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 8090},
@@ -11761,7 +11771,9 @@ const streamerSongList = [
     "二次元ドリームフィーバー/PolyphonicBranch",
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
+    "大丈夫サンライズ/豆柴の大群",
 ];
+
 
 
 
