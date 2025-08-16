@@ -1,5 +1,8 @@
 
 const songStreamLinks = {
+   "Caffeine/DUSTCELL": [
+      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
+      ],
    "ARiA/とくP": [
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
       ],
@@ -783,6 +786,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2228},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18777},
     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7860},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 9541},
@@ -2507,6 +2511,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20856},
   ],
   "パプリカ/米津玄師": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1394},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6960},
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5296 },
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21507},
@@ -3999,6 +4004,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1110},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18056},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 4554},
      { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 5473},
@@ -4859,6 +4865,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1734},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7713},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22519},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4773},
@@ -9343,6 +9350,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 717},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 1180 },
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22780},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4325},
@@ -11784,7 +11792,9 @@ const streamerSongList = [
     "うに/立秋",
     "ハッピーラッキーチャッピー/ano",
     "大丈夫サンライズ/豆柴の大群",
+    "Caffeine/DUSTCELL",
 ];
+
 
 
 
