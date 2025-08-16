@@ -135,6 +135,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 1410},
       ], 
    "When they cry/片霧烈火": [
+      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 3408},
       { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2666},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 5762},
       ],
@@ -517,6 +518,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
+    { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4756},
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1871},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 10331},
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12051 },
@@ -686,6 +688,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4402},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3017},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1155},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 805},
@@ -7842,6 +7845,7 @@ const songStreamLinks = {
      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14047},
   ],
   "夏空/Galileo Galilei": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4048},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 5196},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2296},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 2715},
@@ -11795,6 +11799,7 @@ const streamerSongList = [
     "大丈夫サンライズ/豆柴の大群",
     "Caffeine/DUSTCELL",
 ];
+
 
 
 
