@@ -7072,6 +7072,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7987},
   ],
   "My Soul,Your Beats!/Lia": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2993},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 2149},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 3427},
      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 10280},
@@ -11794,6 +11795,7 @@ const streamerSongList = [
     "大丈夫サンライズ/豆柴の大群",
     "Caffeine/DUSTCELL",
 ];
+
 
 
 
