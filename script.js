@@ -3669,6 +3669,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5423},
   ],
   "Blackjack/ゆちゃP": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6909},
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 1040},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 13568},
   ],
@@ -7107,6 +7108,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 5008},
   ],
   "なりすましゲンガー/KulfiQ": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 7088},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7570},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5902},
   ],
@@ -11805,6 +11807,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
