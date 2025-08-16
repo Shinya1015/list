@@ -1,5 +1,7 @@
-
 const songStreamLinks = {
+   "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク": [
+      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
+      ],
    "Caffeine/DUSTCELL": [
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
       ],
@@ -355,6 +357,7 @@ const songStreamLinks = {
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5693},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 947},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5013},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 885},
@@ -7606,6 +7609,7 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6346},
   ],
   "あいうえおんがく/GReeeeN": [
+     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5421},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22283},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 9996},
      { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 4258},
@@ -9769,12 +9773,13 @@ const songStreamLinks = {
   { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
   { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
- "グッドナイトエクスプレス/鏡音リン・レン": [ // 中間順序不變
-  { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
+ "グッドナイトエクスプレス/鏡音リン・レン": [
+    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
     ],
- "Ur-Style/DATEKEN feat.鏡音リン": [ // 中間順序不變
-   { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
-   { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
+ "Ur-Style/DATEKEN feat.鏡音リン": [
+    { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6083},
+    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
+    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
     ],
  "ぼくらの16bit戦争/Sasakure. UK": [ // 中間順序不變
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
@@ -11798,7 +11803,9 @@ const streamerSongList = [
     "ハッピーラッキーチャッピー/ano",
     "大丈夫サンライズ/豆柴の大群",
     "Caffeine/DUSTCELL",
+    "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
