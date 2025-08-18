@@ -286,6 +286,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
    "Sunshine/MONKEY MAJIK": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2333},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8632},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9672},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3027},
@@ -294,6 +295,7 @@ const songStreamLinks = {
       { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2050},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2996},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6938},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 1478},
@@ -11809,6 +11811,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
