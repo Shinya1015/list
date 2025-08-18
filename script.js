@@ -223,6 +223,7 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
   "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11402},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5238},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12770},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5508 },
@@ -231,6 +232,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11656},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8158},
     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4025},
     { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 836},
@@ -429,6 +431,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
    "Wonderful Wonder World*/Yun*chi": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 12685},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 12171},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6347},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 827},
@@ -3288,6 +3291,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10803},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23114},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11225},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11738},
@@ -6505,6 +6509,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11084},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19150},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2558},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 5162},
@@ -11830,6 +11835,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
