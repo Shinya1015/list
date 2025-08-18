@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "Good Morning World!/BURNOUT SYNDROMES": [
+      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3740},
+      ],
    "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク": [
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
@@ -4390,6 +4393,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 6275},
   ],
   　"はじまりの日/スガシカオ": [
+      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3336},
       { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 7266},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 7265},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 3111},
@@ -8734,6 +8738,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3042},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4841 },
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6614},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 765},
@@ -10165,8 +10170,10 @@ const lowPitchSongs = [
     "いつも何度でも/木村弓",
     "たばこ/コレサワ",
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
+    "Good Morning World!/BURNOUT SYNDROMES",
 ];
 const animeSongs = [
+    "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
     "ハッピーラッキーチャッピー/ano",                                     //タコピーの原罪OP
     "氷の上に立つように/小松未歩",
     "明日、僕は君に会いに行く/ワカバ",
@@ -11847,7 +11854,9 @@ const streamerSongList = [
     "大丈夫サンライズ/豆柴の大群",
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
+    "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
