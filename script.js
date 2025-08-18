@@ -3,6 +3,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3489},
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
       ],
    "ARiA/とくP": [
@@ -114,6 +115,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6831},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2369},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17736},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3999},
@@ -462,6 +464,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 5898},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16441},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2848},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 1878},
@@ -918,6 +921,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6250},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8798},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10944},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5081},
@@ -2010,6 +2014,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4900},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9963},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2573},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11694},
@@ -4945,6 +4950,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4313},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 10522},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4965},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 6080},
@@ -7520,6 +7526,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 9523},
   ],
   "かさなる影/Hearts Grow": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6495},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11193},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 5259},
@@ -7732,6 +7739,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4624},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4956 },
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4671},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 8205},
@@ -11814,6 +11822,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
