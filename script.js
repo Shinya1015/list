@@ -258,6 +258,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2978},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14612},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8000},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1954},
@@ -272,6 +273,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2593},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7540},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7815},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 4807},
@@ -7925,6 +7927,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3200},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7750},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 3775},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3570},
@@ -11811,6 +11814,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
