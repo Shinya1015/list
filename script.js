@@ -524,6 +524,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4460},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5428},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3124},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6148},
@@ -8815,6 +8816,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4055},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20280},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6039},
     { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 868},
@@ -11856,6 +11858,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
