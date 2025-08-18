@@ -2878,6 +2878,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 938},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6393},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5704},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2382},
@@ -4790,6 +4791,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5463},
   ],
   "花は桜 君は美し/いきものがかり": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 1303},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2054},
      { date: "2025年3月31日-piano ver.", videoId: "fWeibuWPkzs", timestamp: 18155},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 28014},
@@ -11807,6 +11809,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
