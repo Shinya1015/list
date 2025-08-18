@@ -111,6 +111,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2442},
       ],
    "ポケッターリ モンスターリ/可名": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7523},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5060},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
@@ -2781,6 +2782,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
   "Ready Go!/田村直美": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7126},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2728},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2741},
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 4724},
@@ -4559,6 +4561,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10490},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13541},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5441},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3328},
@@ -4865,7 +4868,8 @@ const songStreamLinks = {
      { date: "2024年3月9日", videoId: "gzdAB2Oc7Q4", timestamp: 4717},
      { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 6551},
   ],
-  "未来コネクション/ЯeaL": [
+   "未来コネクション/ЯeaL": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7757},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 3711},
       { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 5461},
       { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 1442},
@@ -6558,6 +6562,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9155},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 1036},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3113 },
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9167},
@@ -7135,6 +7140,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 1351},
   ],
   "OVERLAP/Kimeru": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8496},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9371},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14582},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4959},
@@ -7812,6 +7818,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 3244},
   ],
   "Mysterious/Naifu": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9548},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7879},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 4342},
      { date: "2024年7月23日", videoId: "S2-xZzQ9TCE", timestamp: 3002},
@@ -8682,6 +8689,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8767},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1598},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6044},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9229},
@@ -11822,6 +11830,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
