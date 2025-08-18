@@ -129,6 +129,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14041},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3301},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11247},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14365},
@@ -1447,6 +1448,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13004},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4855},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4257 },
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 10040 },
@@ -2683,6 +2685,7 @@ const songStreamLinks = {
     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14690},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4249},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1389},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6439},
@@ -3568,6 +3571,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14979},
      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 770 },
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6792 },
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 12115},
@@ -4709,6 +4713,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14244},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8049 },
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 5469},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 11742},
@@ -8839,6 +8844,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13657},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11850},
     { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 3176},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21171},
@@ -9065,6 +9071,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13291},
         { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2583},
         { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3165},
         { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4331 },
@@ -11835,6 +11842,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
