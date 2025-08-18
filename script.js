@@ -351,6 +351,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
    "Reset/平原綾香": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15656},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6854},
       { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2501},
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3336 },
@@ -1543,6 +1544,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15328},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7194},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 12068},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 6596},
@@ -2808,6 +2810,7 @@ const songStreamLinks = {
      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
    "Little Wish ～lyrical step～/田村ゆかり": [
+      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 16502},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6119},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5422},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6538},
@@ -4149,7 +4152,8 @@ const songStreamLinks = {
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 14005},
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 12582},
   ],
-  "SPiCa/とくP": [
+    "SPiCa/とくP": [
+       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15959},
        { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4141 },
        { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2277 },
        { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 1050 },
@@ -11842,6 +11846,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
