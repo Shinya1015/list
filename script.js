@@ -4116,6 +4116,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2427},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 822 },
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2902},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 1291},
@@ -7193,6 +7194,7 @@ const songStreamLinks = {
      { date: "2023年7月15日(メン限)", videoId: "Z_8YWy3fyNo", timestamp: 19660},
   ],
   "おはよう。/Keno": [
+     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2702},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1397 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2107},
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6066},
@@ -11846,6 +11848,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
 ];
+
 
 
 
