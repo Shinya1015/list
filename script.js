@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "天までとどけっ!/T-Pistonz+KMC": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
+      ],
    "Twinkle Days/19's Sound Factory": [
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7936},
       { date: "2025年8月19日", videoId: "3qhlFZL3j_w", timestamp: 12748},
@@ -226,7 +229,8 @@ const songStreamLinks = {
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12712},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
-  "マジで感謝!/T-Pistonz+KMC": [
+ "マジで感謝!/T-Pistonz+KMC": [
+    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12751},
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6287 },
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
@@ -4500,6 +4504,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
   ],
   "世界はそれを愛と呼ぶんだぜ/サンボマスター": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12401},
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3844},
   ],
   "花の塔/さユり": [
@@ -4581,7 +4586,8 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 11933},
      { date: "2022年9月13日-アコギ ver.", videoId: "yuLgBmm19Ts", timestamp: 3763},
   ],
-  "TSUNAMI/サザンオールスターズ": [
+ "TSUNAMI/サザンオールスターズ": [
+    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12039},
     { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 5110 },
     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 16695 },
     { date: "2024年6月19日", videoId: "9C3JjBeHfow", timestamp: 4134 },
@@ -10185,6 +10191,7 @@ const lowPitchSongs = [
     "夢のような/佐伯ユウス",                                          // 男聲，創作歌手
     "君に贈る歌/小池徹平",                                            // 男聲 (演員/歌手)
     "マジで感謝!/T-Pistonz+KMC",                                      // 男聲團體，Rap/流行
+    "天までとどけっ!/T-Pistonz+KMC",
     "Butter-Fly/和田光司",                                            // 男聲
     "ひまわりの約束/秦基博",                                          // 男聲，創作歌手
     "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)",       // 女聲優 + 男聲優 合唱，包含男聲
@@ -10573,6 +10580,7 @@ const animeSongs = [
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
     "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
+    "天までとどけっ!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Magical Babyrinth/DA PUMP",                       // 入間同學入魔了！ (Welcome to Demon School! Iruma-kun)
@@ -11844,6 +11852,7 @@ const streamerSongList = [
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
     "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
+    "天までとどけっ!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
     "ハヤテのごとく!/KOTOKO",                           // 旋風管家！ (Hayate the Combat Butler)
     "Wake up my music/りさ・えいみ", 
@@ -11885,6 +11894,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
