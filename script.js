@@ -2218,6 +2218,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 3291},
   ],
   "タイプ:ワイルド/松本梨香": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 3913},
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 3978},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 9150},
      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 2079},
@@ -11869,6 +11870,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
