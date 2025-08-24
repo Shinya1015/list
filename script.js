@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "Twinkle Days/19's Sound Factory": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7936},
       { date: "2025年8月19日", videoId: "3qhlFZL3j_w", timestamp: 12748},
       ],
    "Good Morning World!/BURNOUT SYNDROMES": [
@@ -11050,6 +11051,7 @@ const streamerSongList = [
     "Story/19's Sound Factory",
     "Dear/19's Sound Factory",
     "ハイドアンド・シーク/19's Sound Factory",
+    "Twinkle Days/19's Sound Factory",
     "アウト オブ エデン/K's Sound Project",
     "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
     "ジェミニ/鏡音リン・レン",
@@ -11876,8 +11878,8 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
-    "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
