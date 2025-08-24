@@ -490,7 +490,8 @@ const songStreamLinks = {
   "Re: Re:/ASIAN KUNG-FU GENERATION": [
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
-  "星屑のインターリュード/fhana": [
+   "星屑のインターリュード/fhana": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1145},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1206},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4524},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1618},
@@ -710,7 +711,8 @@ const songStreamLinks = {
      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2237},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
-  "一斉の声/喜多修平": [
+   "一斉の声/喜多修平": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1915},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4402},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3017},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 1155},
@@ -2378,7 +2380,8 @@ const songStreamLinks = {
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4262},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
-   "Style. /西野カナ": [
+    "Style. /西野カナ": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1587},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16533},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 970},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 2341 },
@@ -11862,6 +11865,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
