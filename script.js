@@ -6305,6 +6305,7 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8184},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10213},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4840 },
@@ -6576,6 +6577,7 @@ const songStreamLinks = {
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
    "STYX HELIX/MYTH & ROID ": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9803},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16931},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5102},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 24518},
@@ -9338,6 +9340,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9534},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6764 },
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9959},
       { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5533 },
@@ -9350,6 +9353,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3191},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20832},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8450},
@@ -9551,7 +9555,8 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 6886},
    { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 5727 },
     ], 
-"スタートライン!/AIKATSU☆STARS!": [ 
+ "スタートライン!/AIKATSU☆STARS!": [ 
+    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 8270},
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 2108 },
     { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3863 },
     { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 1520 },
@@ -11879,6 +11884,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
