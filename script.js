@@ -1,4 +1,7 @@
 const songStreamLinks = {
+  "Twinkle Days/19's Sound Factory": [
+      { date: "2025年8月19日", videoId: "3qhlFZL3j_w", timestamp: 12748},
+      ],
    "Good Morning World!/BURNOUT SYNDROMES": [
       { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3740},
       ],
@@ -11857,7 +11860,9 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
+    "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
