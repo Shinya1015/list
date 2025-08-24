@@ -1,5 +1,5 @@
 const songStreamLinks = {
-  "Twinkle Days/19's Sound Factory": [
+   "Twinkle Days/19's Sound Factory": [
       { date: "2025年8月19日", videoId: "3qhlFZL3j_w", timestamp: 12748},
       ],
    "Good Morning World!/BURNOUT SYNDROMES": [
@@ -2799,7 +2799,8 @@ const songStreamLinks = {
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 12607},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
-  "Ready Go!/田村直美": [
+   "Ready Go!/田村直美": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2847},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7126},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2728},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2741},
@@ -6453,7 +6454,8 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 936},
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
-  "天地ガエシ/NICO Touches the Walls": [
+   "天地ガエシ/NICO Touches the Walls": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 3609},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10932},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 4287},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 12122},
@@ -7195,7 +7197,8 @@ const songStreamLinks = {
      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7925},
      { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 2776},
   ],
-  "ボクラの冒険/Kids Alive": [
+   "ボクラの冒険/Kids Alive": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2256},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3325},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1204},
      { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 864},
@@ -7355,7 +7358,8 @@ const songStreamLinks = {
      { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 7606},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
-  "シルエット/KANA-BOON": [
+   "シルエット/KANA-BOON": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2534},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2110 },
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3589},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 2082},
@@ -11865,6 +11869,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
