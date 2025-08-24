@@ -4881,6 +4881,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
   ],
   "Together/あきよしふみえ": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 4136},
      { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 780},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6648},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 5753},
@@ -11870,6 +11871,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
