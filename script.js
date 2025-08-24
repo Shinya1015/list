@@ -779,6 +779,7 @@ const songStreamLinks = {
     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4911 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 6082},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18725},
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 2306},
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6339},
@@ -2465,6 +2466,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7300},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 940},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6426 },
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 4078},
@@ -5689,6 +5691,7 @@ const songStreamLinks = {
       { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 6505},
   ],
   "KIRA☆Power/STAR☆ANIS": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5239},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7860},
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
@@ -6521,6 +6524,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 6724},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6042},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1229},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5768},
@@ -7476,7 +7480,8 @@ const songStreamLinks = {
      { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1379},
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 3138},
   ],
-  "月光花/Janne Da Arc": [
+   "月光花/Janne Da Arc": [
+      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7630},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5205 },
       { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 9352 },
       { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 1590 },
@@ -7860,6 +7865,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7007},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9061},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7913},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 7507},
@@ -9529,6 +9535,7 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2782 },
     ], 
 "Brave Shine/Aimer": [ 
+   { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5605},
    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 603 },
    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 2497 },
     ], 
@@ -11871,6 +11878,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "Twinkle Days/19's Sound Factory",
 ];
+
 
 
 
