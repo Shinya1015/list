@@ -4451,6 +4451,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2004},
   ],
   "Starduster/ジミーサムP": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4143},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12064},
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 6714 },
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 10925 },
@@ -5667,6 +5668,7 @@ const songStreamLinks = {
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
   ],
   "輝きのエチュード/STAR☆ANIS": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4537},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4858},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4953},
   ],
@@ -9124,6 +9126,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4892},
         { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13291},
         { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2583},
         { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 3165},
@@ -9360,6 +9363,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3893},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9534},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6764 },
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9959},
@@ -11908,6 +11912,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
