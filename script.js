@@ -716,7 +716,8 @@ const songStreamLinks = {
      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2237},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
-   "一斉の声/喜多修平": [
+  "一斉の声/喜多修平": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 402},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1915},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4402},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3017},
@@ -1861,6 +1862,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 729},
      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 2256 },
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9610},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6118},
@@ -11894,6 +11896,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
