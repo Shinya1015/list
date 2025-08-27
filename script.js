@@ -974,6 +974,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5998},
   ],
  "虹/福山雅治": [
+    { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2422},
     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 2001},
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
     { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1991 },
@@ -986,7 +987,6 @@ const songStreamLinks = {
     { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 7134 },
   ],
  "虹/Aqua Timez": [
-    { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2422},
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 2160 },
     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10402 },
     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 8797 },
@@ -11912,6 +11912,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
