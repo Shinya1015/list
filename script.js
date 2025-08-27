@@ -1,4 +1,8 @@
 const songStreamLinks = {
+   "ほんの少しのさよなら/電ポルP": [
+      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3487},
+      { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 6215},
+      ],
    "天までとどけっ!/T-Pistonz+KMC": [
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
@@ -533,6 +537,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3104},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4460},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5428},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3124},
@@ -980,7 +985,8 @@ const songStreamLinks = {
     { date: "2023年3月18日", videoId: "lFt9YfoL-GM", timestamp: 2967 },
     { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 7134 },
   ],
-  "虹/Aqua Timez": [
+ "虹/Aqua Timez": [
+    { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2422},
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 2160 },
     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10402 },
     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 8797 },
@@ -1968,6 +1974,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1015},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 2608},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10228},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 4518},
@@ -4104,6 +4111,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
+     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1738},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2160},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1219},
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 2342},
@@ -5398,6 +5406,7 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
   　"Get Wild/TM NETWORK": [
+      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2026},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8485},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2795},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8882},
@@ -9083,6 +9092,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1311},
        { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23422},
        { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2260},
        { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 3631},
@@ -9266,6 +9276,7 @@ const songStreamLinks = {
        { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 6739 },
      ],
     "シャボン玉Days/Aqua Timez": [
+       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2688},
        { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3829},
        { date: "2024年3月10日", videoId: "OJPIEaziIPU", timestamp: 6602 },
      ],
@@ -11774,6 +11785,7 @@ const streamerSongList = [
     "サイノウサンプラー/電ポルP",
     "曖昧劣情Lover/電ポルP",
     "独りんぼエンヴィー/電ポルP",
+    "ほんの少しのさよなら/電ポルP",
     "FOR REAL/徳山秀典",                                // 最遊記 (Saiyuki)
     "Treasure/碧陽学園生徒会",                          // 學生會的一存 (Student Council's Discretion)
     "虹/Aqua Timez",
@@ -11896,6 +11908,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
