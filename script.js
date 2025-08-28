@@ -11247,8 +11247,7 @@ const streamerSongList = [
     "モノクロアクト/doriko",
     "ロミオとシンデレラ/doriko",
     "歌に形はないけれど/doriko",
-    "Get Over/dream",
-    "ホログラム/NICO Touches the Walls",                        
+    "Get Over/dream",                      
     "ハッピーシンセサイザ/Easy Pop",
     "名前のない怪物/EGOIST",                          
     "路地裏猫の正体/西沢さんP",
@@ -11929,6 +11928,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
