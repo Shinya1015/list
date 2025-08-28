@@ -10237,6 +10237,7 @@ const lowPitchSongs = [
     "たばこ/コレサワ",
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
     "Good Morning World!/BURNOUT SYNDROMES",
+    "Get Over/dream",                                                 //男 棋靈王
 ];
 const animeSongs = [
     "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
@@ -10639,6 +10640,7 @@ const animeSongs = [
     "星間飛行/ランカ・リー(CV:中島愛)",                // 超時空要塞F (Macross Frontier)
     "オツキミリサイタル/じん",                        //メカクシティアクターズ 陽炎計畫 插入歌
    "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
+    "Get Over/dream",                            //棋靈王op
 ];
     
 
@@ -11927,6 +11929,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
