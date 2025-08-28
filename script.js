@@ -6508,6 +6508,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10859},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4226},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1452},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2246},
@@ -11930,6 +11931,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
