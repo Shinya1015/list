@@ -146,6 +146,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7649},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14041},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3301},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11247},
@@ -540,8 +541,9 @@ const songStreamLinks = {
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 10014 },
   ],
   "Forever.../savage genius": [
-    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2898 },
-    { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6902},
+     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2898 },
+     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
   ],
   "departure!/小野正利": [
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2518 },
@@ -2158,6 +2160,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
    "Story/19's Sound Factory": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7260},
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
       { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9611},
   ],
@@ -5338,6 +5341,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8096},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5435},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5155 },
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 6286},
@@ -7659,6 +7663,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5988},
   ],
   "瞬きもせずに/H△G": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 9489},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6666},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1185},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 3907},
@@ -8365,6 +8370,7 @@ const songStreamLinks = {
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
   ],
    "夜行性ハイズ/DECO*27": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8439},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11804},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4531},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11576},
@@ -9595,11 +9601,13 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2782 },
     ], 
 "Brave Shine/Aimer": [ 
+   { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6071},
    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5605},
    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 603 },
    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 2497 },
     ], 
 "lucky train!/AIKATSU☆STARS!": [
+   { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 9127},
    { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 4025},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
@@ -11945,6 +11953,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
