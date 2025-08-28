@@ -223,6 +223,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 5963},
   ],
    "ハヤテのごとく!/KOTOKO": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5191},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16748},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2629},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 2695},
@@ -398,6 +399,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 3713},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1638},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6286},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1966},
@@ -8221,7 +8223,9 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 7985},
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 2624},
   ],
-  "Get Over/dream": [
+   "Get Over/dream": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4402},
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4051},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6522},
       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5301},
       { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 8911},
@@ -11236,7 +11240,7 @@ const streamerSongList = [
     "モノクロアクト/doriko",
     "ロミオとシンデレラ/doriko",
     "歌に形はないけれど/doriko",
-    "Get Over/dream",                        
+    "ホログラム/NICO Touches the Walls",                        
     "ハッピーシンセサイザ/Easy Pop",
     "名前のない怪物/EGOIST",                          
     "路地裏猫の正体/西沢さんP",
@@ -11917,6 +11921,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
