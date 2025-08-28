@@ -3019,6 +3019,7 @@ const songStreamLinks = {
      { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 2933},
   ],
   "ブリキノダンス/日向電工": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 7851},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1802},
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14451},
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 1344},
@@ -3393,7 +3394,8 @@ const songStreamLinks = {
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9015},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7079},
   ],
-  "I see.../乃木坂46": [
+   "I see.../乃木坂46": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6956},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10527},
       { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 2666},
       { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 8881},
@@ -11925,6 +11927,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
