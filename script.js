@@ -8229,7 +8229,6 @@ const songStreamLinks = {
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 2624},
   ],
    "Get Over/dream": [
-      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4402},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4051},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6522},
       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5301},
@@ -11928,6 +11927,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
