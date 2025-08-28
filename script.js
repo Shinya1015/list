@@ -17,6 +17,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2917},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3489},
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
       ],
@@ -357,6 +358,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 863},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12692},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11816},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 4185},
@@ -3066,6 +3068,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2572},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 872},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4993},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 1188},
@@ -5716,6 +5719,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 1136},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 1913 },
       { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1470},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12145},
@@ -6224,6 +6228,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 6963},
   ],
   "衝動/pigstar": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2328},
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
    "君＝花/pigstar": [
@@ -11912,6 +11917,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
