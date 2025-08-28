@@ -47,6 +47,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11341},
       ],
    "雨のちSweet*Drops/OSTER project": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6270},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10924},
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 5358},
       { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 11242},
@@ -8579,7 +8580,8 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 7521 },
      { date: "2022年9月4日-piano ver.", videoId: "8SZ3TT-QA3M", timestamp: 4731 },
   ] ,
-  "金曜日のおはよう/HoneyWorks": [
+   "金曜日のおはよう/HoneyWorks": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6656},
       { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 5545},
       { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 3175},
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 18592},
@@ -11923,6 +11925,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
