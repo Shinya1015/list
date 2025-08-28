@@ -713,6 +713,7 @@ const songStreamLinks = {
      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},   
   ],
   "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10859},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1865},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13651},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 2340},
@@ -5396,6 +5397,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10368},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12381},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19473},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10023},
@@ -11931,6 +11933,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
