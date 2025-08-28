@@ -329,12 +329,14 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5826},
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
   ],
   "party night/真田アサミ・沢城みゆき・氷上 恭子": [
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5504},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 10210},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2928},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3404 },
@@ -11921,6 +11923,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
