@@ -73,6 +73,7 @@ const songStreamLinks = {
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3396},
       ],
    "Blue Star/八王子P": [
+      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8612},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
    "ウミユリ海底護/n-buna": [
@@ -7788,6 +7789,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8155},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 8549},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1008},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 9324},
@@ -11928,6 +11930,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
