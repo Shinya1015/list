@@ -264,6 +264,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
   "Blood teller/Faylan": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5571},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
@@ -283,6 +284,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1874},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2978},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14612},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8000},
@@ -438,6 +440,7 @@ const songStreamLinks = {
   ],
  
    "光あれ/岡野昭仁": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1595},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7625},
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 827},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8009},
@@ -957,6 +960,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3104},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6250},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8798},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10944},
@@ -1016,6 +1020,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2477},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8529},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4107},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2307},
@@ -2490,6 +2495,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3902},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7300},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 940},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6426 },
@@ -4703,6 +4709,7 @@ const songStreamLinks = {
       { date: "2023年1月18日-piano ver.", videoId: "ME1ONTBCpho", timestamp: 7352 },
   ],
   "君のそばで～ヒカリのテーマ～/グリン": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 4937},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 3066},
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 1155},
      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 1580},
@@ -5455,6 +5462,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
    "One day/The ROOTLESS": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3350},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13251},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4390 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 1812},
@@ -7028,6 +7036,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3639},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8524},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14107},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5338},
@@ -8022,6 +8031,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2178},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3200},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7750},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 3775},
@@ -8277,6 +8287,7 @@ const songStreamLinks = {
       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
    "夜鷹の夢/Do As Infinity": [
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5205},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18379},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13732},
       { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 5367 },
@@ -11934,6 +11945,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
