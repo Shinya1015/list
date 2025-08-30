@@ -170,6 +170,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4608},
       ],
    "フィクション/sumika": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3192},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8234},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2517},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 2261},
@@ -253,6 +254,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3436},
     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11656},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8158},
     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 4025},
@@ -434,7 +436,8 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 9675 },
      { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8700 },
   ],
-  "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ": [
+   "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 956},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 9157 },
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 1274 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 6030 },
@@ -810,6 +813,7 @@ const songStreamLinks = {
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6339},
   ],
   "ヒトミノチカラ/観月ありさ": [
+     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 2033},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8920},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7240},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 11594},
@@ -2206,6 +2210,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2162},
   ],
   "Northern lights/林原めぐみ": [
+     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3733},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4418},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5396},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 9032},
@@ -5699,6 +5704,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4953},
   ],
   "prism spiral/STAR☆ANIS": [
+     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 1758},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7148},
      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 1230},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2904},
@@ -5850,6 +5856,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
  "Take Your Way/SEKAI NO OWARI": [
+    { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 1447},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 1613},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4450},
     { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 7120},
@@ -6920,7 +6927,8 @@ const songStreamLinks = {
      { date: "2023年2月24日-piano ver.", videoId: "xYVoR21Dfwk", timestamp: 2252},
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 13173},
   ],
-  "Chasing hearts/miwa": [
+   "Chasing hearts/miwa": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 2873},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1837},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7523},
       { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2259},
@@ -8520,6 +8528,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 630},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4224},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1496},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 6087},
@@ -11953,6 +11962,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
