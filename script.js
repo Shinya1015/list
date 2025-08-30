@@ -133,6 +133,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4331},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6831},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2369},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17736},
@@ -493,6 +494,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
    "futuristic imagination/School Food Punishment": [
+      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4012},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 13057},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16184},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 10242},
@@ -6130,6 +6132,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4677},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 3670},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16674},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5842},
@@ -11962,6 +11965,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
