@@ -390,14 +390,14 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
-      { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 1412},
+      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1412},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6931},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 600},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4221},
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
-     { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 1087},
+     { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1087},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5693},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 947},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5013},
@@ -1377,7 +1377,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
-     { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 2390},
+     { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2390},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14868},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4596},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3168},
@@ -2979,7 +2979,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
-     { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 3153},
+     { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3153},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1116},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 1325},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7003},
@@ -3485,7 +3485,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
-     { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 680},
+     { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 680},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10256},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 9698},
      { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 5942},
@@ -4584,7 +4584,7 @@ const songStreamLinks = {
      { date: "2023年11月19日-piano ver.", videoId: "CeX2ME0QtAI", timestamp: 5099},
   ],
   "それは小さな光のような/さユり": [
-     { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 3406},
+     { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3406},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 7081},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 5676},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 6854},
@@ -9181,7 +9181,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
-        { date: "2025年8月28日", videoId: "LUtkJtVAe_I", timestamp: 2743},
+        { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2743},
         { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4892},
         { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13291},
         { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2583},
@@ -11972,6 +11972,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
