@@ -1,4 +1,5 @@
 const songStreamLinks = {
+   
    "ほんの少しのさよなら/電ポルP": [
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3487},
       { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 6215},
@@ -758,6 +759,7 @@ const songStreamLinks = {
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
    "ニブンノイチ/BACK-ON": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1165},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 2756},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 620},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2031},
@@ -2955,6 +2957,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 831},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 938},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6393},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5704},
@@ -5110,6 +5113,7 @@ const songStreamLinks = {
      { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 11133},
   ],
   "again/YUI": [
+     { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1684},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 3278},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 9728},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 3529},
@@ -5140,6 +5144,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2056},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3866},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5628},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 10867},
@@ -6663,6 +6668,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2346},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9155},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 1036},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3113 },
@@ -11972,6 +11978,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
