@@ -1813,6 +1813,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 6830},
   ],
   "YUME日和/島谷ひとみ": [
+     { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6952},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2092},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 748},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 30774},
@@ -7812,6 +7813,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
+     { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6652},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9461},
      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 7252},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 5220},
@@ -7865,6 +7867,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 7232},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4624},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4956 },
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4671},
