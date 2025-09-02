@@ -9763,7 +9763,7 @@ const songStreamLinks = {
    { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 6576 },
    { date: "2025年1月27日(一番のみ)", videoId: "7vLhr2nDBCY", timestamp: 1380 },
   ],  
-"ヒカレルサテライト/初音ミク": [
+"ヒカレルサテライト/tilt-six feat.初音ミク": [
   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11426 },
   ], 
 "ハジメテノオト/初音ミク": [
@@ -11165,7 +11165,7 @@ const streamerSongList = [
     "Rabbit/一億円P feat. 初音ミク",
     "深海少女/初音ミク",
     "ハジメテノオト/初音ミク",
-    "ヒカレルサテライト/初音ミク",
+    "ヒカレルサテライト/tilt-six feat.初音ミク",
     "みむかｩわナイストライ/初音ミク",
     "夏色☆キャンバス/初音ミク",
     "Scene/ジミーサムP",
@@ -11972,6 +11972,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
 ];
+
 
 
 
