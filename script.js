@@ -1,5 +1,7 @@
 const songStreamLinks = {
-   
+   "エレクトロトレイン/nana feat.初音ミク": [
+      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3579},
+      ],
    "ほんの少しのさよなら/電ポルP": [
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3487},
       { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 6215},
@@ -7505,6 +7507,7 @@ const songStreamLinks = {
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 6312},
   ],
   "スイートマジック/Junky": [
+     { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2760},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15183},
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 5291},
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 3785},
@@ -9770,7 +9773,8 @@ const songStreamLinks = {
    { date: "2025年1月27日(一番のみ)", videoId: "7vLhr2nDBCY", timestamp: 1380 },
   ],  
 "ヒカレルサテライト/tilt-six feat.初音ミク": [
-  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11426 },
+   { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3061},
+   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11426 },
   ], 
 "ハジメテノオト/初音ミク": [
   { date: "2021年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 14715 },
@@ -11977,6 +11981,7 @@ const streamerSongList = [
     "Caffeine/DUSTCELL",
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
+    "エレクトロトレイン/nana feat.初音ミク",
 ];
 
 
