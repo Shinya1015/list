@@ -20,6 +20,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3533},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2917},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3489},
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
@@ -479,6 +480,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2030 },
   ],
   "アイコトバ/サクラメリーメン": [
+     { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3774},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 845},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 11506},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 1349 },
@@ -3103,6 +3105,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 4626},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2572},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 872},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4993},
@@ -4186,6 +4189,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 5636},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2427},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 822 },
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2902},
