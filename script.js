@@ -151,6 +151,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 7406},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7649},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14041},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3301},
@@ -9166,6 +9167,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 6074},
        { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1311},
        { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23422},
        { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2260},
