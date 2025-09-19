@@ -1,6 +1,6 @@
 const songStreamLinks = {
-  "PURENESS/SHAZNA": [
-     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
+   "PURENESS/SHAZNA": [
+      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
@@ -758,7 +758,8 @@ const songStreamLinks = {
      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2237},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
-  "一斉の声/喜多修平": [
+   "一斉の声/喜多修平": [
+     { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 778},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 402},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1915},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4402},
