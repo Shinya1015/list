@@ -1,4 +1,7 @@
 const songStreamLinks = {
+  "PURENESS/SHAZNA": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
+      ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
       ],
@@ -10713,6 +10716,7 @@ const animeSongs = [
    "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
     "Get Over/dream",                            //棋靈王op
     "勝って泣こうぜッ!/T-Pistonz+KMC",
+    "PURENESS/SHAZNA",
 ];
     
 
@@ -12001,6 +12005,7 @@ const streamerSongList = [
     "Good Morning World!/BURNOUT SYNDROMES",
     "エレクトロトレイン/nana feat.初音ミク",
     "勝って泣こうぜッ!/T-Pistonz+KMC",
+    "PURENESS/SHAZNA",
 ];
 
 
