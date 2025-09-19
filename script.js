@@ -252,7 +252,8 @@ const songStreamLinks = {
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 12712},
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11446 },
   ],
- "マジで感謝!/T-Pistonz+KMC": [
+  "マジで感謝!/T-Pistonz+KMC": [
+    { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 5656},
     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12751},
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6287 },
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
@@ -279,7 +280,8 @@ const songStreamLinks = {
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 11119 },
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
-  "Blood teller/Faylan": [
+   "Blood teller/Faylan": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 6088},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5571},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
@@ -1069,7 +1071,8 @@ const songStreamLinks = {
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12785},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
-  "輝きは君の中に/鈴木結女": [
+   "輝きは君の中に/鈴木結女": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 5277},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3043},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4236},
@@ -1752,7 +1755,8 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1690},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
- "ひまわりの約束/秦基博": [
+  "ひまわりの約束/秦基博": [
+    { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 3101},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21542},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1782},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 3038},
@@ -2524,7 +2528,8 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
 
   ],
-  "打上花火/米津玄師": [
+   "打上花火/米津玄師": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 4679},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3902},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7300},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 940},
@@ -8182,7 +8187,8 @@ const songStreamLinks = {
      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 6742 },
      { date: "2023年7月24日", videoId: "GcVGN6jUbAo", timestamp: 2718 },
   ],
-  "careless breath/EXILE": [
+   "careless breath/EXILE": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 4961},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 9188},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3040},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 7273},
