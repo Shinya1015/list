@@ -216,6 +216,7 @@ const songStreamLinks = {
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
     "リクライム/ROOKiEZ is PUNK'D": [
+       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
        { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 5304},
        { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12060},
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 3608},
@@ -309,6 +310,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 712},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2593},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7540},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 7815},
@@ -1037,6 +1039,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1251},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2477},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8529},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 4107},
@@ -8071,6 +8074,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 913},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2178},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3200},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7750},
