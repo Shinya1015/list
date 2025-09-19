@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "勝って泣こうぜッ!/T-Pistonz+KMC": [
+      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
+      ],
    "エレクトロトレイン/nana feat.初音ミク": [
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3579},
       ],
@@ -10305,6 +10308,7 @@ const lowPitchSongs = [
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
     "Good Morning World!/BURNOUT SYNDROMES",
     "Get Over/dream",                                                 //男 棋靈王
+    "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
     "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
@@ -10708,6 +10712,7 @@ const animeSongs = [
     "オツキミリサイタル/じん",                        //メカクシティアクターズ 陽炎計畫 插入歌
    "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
     "Get Over/dream",                            //棋靈王op
+    "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
     
 
@@ -11995,6 +12000,7 @@ const streamerSongList = [
     "ストロボラスト/椎名もた(ぽわぽわP) feat.初音ミク",
     "Good Morning World!/BURNOUT SYNDROMES",
     "エレクトロトレイン/nana feat.初音ミク",
+    "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 
 
