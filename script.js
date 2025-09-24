@@ -298,6 +298,7 @@ const songStreamLinks = {
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 3174 },
   ],
   "夢のような/佐伯ユウス": [
+     { date: "2025年9月22日(一番のみ)", videoId: "rBdvmkz8txA", timestamp: 5512},
      { date: "2025年5月10日(一番のみ)", videoId: "Fxvnbk3viFA", timestamp: 10541},
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
@@ -1097,6 +1098,7 @@ const songStreamLinks = {
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
  "それでも明日はやってくる/鈴木結女": [  
+    { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5192},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11516},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 9924},
     { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 8780},
@@ -1915,6 +1917,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3794},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1563},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 729},
      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 2256 },
@@ -2022,6 +2025,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3521},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1015},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 2608},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 10228},
@@ -2892,6 +2896,7 @@ const songStreamLinks = {
      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
    "Little Wish ～lyrical step～/田村ゆかり": [
+      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 2633},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 16502},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6119},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 5422},
@@ -2980,6 +2985,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 1737 },
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 831},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 938},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6393},
@@ -5387,6 +5393,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 4205},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8096},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5435},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5155 },
@@ -7649,6 +7656,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3092},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2294},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 682},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 5251},
