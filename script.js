@@ -779,6 +779,7 @@ const songStreamLinks = {
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
    "ニブンノイチ/BACK-ON": [
+      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 1903},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1165},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 2756},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 620},
@@ -7479,7 +7480,8 @@ const songStreamLinks = {
      { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 7606},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
-   "シルエット/KANA-BOON": [
+  "シルエット/KANA-BOON": [
+     { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 2332},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2534},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2110 },
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 3589},
