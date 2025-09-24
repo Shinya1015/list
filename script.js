@@ -3,6 +3,7 @@ const songStreamLinks = {
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
+      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9972},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
       ],
    "エレクトロトレイン/nana feat.初音ミク": [
@@ -47,6 +48,7 @@ const songStreamLinks = {
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
       ],
    "Now or Never/ナノ": [
+      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9660},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4452},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
       ],
@@ -1613,6 +1615,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8967},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15328},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7194},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 12068},
@@ -2682,6 +2685,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5648},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8163},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 1798},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 4039},
@@ -9000,6 +9004,8 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9660},
+    { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8557},
     { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 2565},
     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13657},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 11850},
@@ -9481,6 +9487,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 10358},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3191},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20832},
@@ -9771,6 +9778,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9342},
     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7103},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 2952},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 5245 },
