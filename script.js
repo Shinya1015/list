@@ -4,7 +4,7 @@ const songStreamLinks = {
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9972},
-      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
+      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2193},
       ],
    "エレクトロトレイン/nana feat.初音ミク": [
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3579},
