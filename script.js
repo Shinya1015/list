@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "PURENESS/SHAZNA": [
+      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6816},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
