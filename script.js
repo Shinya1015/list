@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)": [
+      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 4146},
+      ],
    "PURENESS/SHAZNA": [
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6816},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
@@ -142,6 +145,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2442},
       ],
    "ポケッターリ モンスターリ/可名": [
+      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3682},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7523},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5060},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
@@ -2301,6 +2305,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 3291},
   ],
   "タイプ:ワイルド/松本梨香": [
+     { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3907},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 3913},
      { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 3978},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 9150},
@@ -10765,10 +10770,11 @@ const animeSongs = [
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR 片尾曲
     "星間飛行/ランカ・リー(CV:中島愛)",                // 超時空要塞F (Macross Frontier)
     "オツキミリサイタル/じん",                        //メカクシティアクターズ 陽炎計畫 插入歌
-   "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
+    "ぼなぺてぃーと♡S/フレンド・A",                  //ブレンド・S op
     "Get Over/dream",                            //棋靈王op
     "勝って泣こうぜッ!/T-Pistonz+KMC",
     "PURENESS/SHAZNA",
+    "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)", //寶可夢
 ];
     
 
@@ -12058,6 +12064,7 @@ const streamerSongList = [
     "エレクトロトレイン/nana feat.初音ミク",
     "勝って泣こうぜッ!/T-Pistonz+KMC",
     "PURENESS/SHAZNA",
+    "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)",
 ];
 
 
