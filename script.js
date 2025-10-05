@@ -431,6 +431,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1042},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 3713},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1638},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6286},
