@@ -147,6 +147,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 2552},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4331},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6831},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2369},
@@ -2890,7 +2891,8 @@ const songStreamLinks = {
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 12607},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
-   "Ready Go!/田村直美": [
+　　"Ready Go!/田村直美": [
+     { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3342},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2847},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7126},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 2728},
