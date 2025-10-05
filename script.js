@@ -1627,6 +1627,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6557},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8967},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15328},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7194},
@@ -3542,6 +3543,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6949},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 680},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10256},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 9698},
