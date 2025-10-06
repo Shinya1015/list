@@ -1,4 +1,8 @@
 const songStreamLinks = {
+   "SPIRIT/PAMELAH": [
+      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3178 },
+      { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 6952},
+      ],
    "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)": [
       { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 4146},
       ],
@@ -10781,6 +10785,7 @@ const animeSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
     "PURENESS/SHAZNA",
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)", //寶可夢
+    "SPIRIT/PAMELAH",                              //靈異教師神眉
 ];
     
 
@@ -12071,6 +12076,7 @@ const streamerSongList = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
     "PURENESS/SHAZNA",
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)",
+    "SPIRIT/PAMELAH",
 ];
 
 
