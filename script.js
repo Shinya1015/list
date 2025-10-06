@@ -9002,6 +9002,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 5296 },
     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4055},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20280},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6039},
