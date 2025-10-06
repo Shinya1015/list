@@ -362,6 +362,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
+     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 2842 },
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5826},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
   ],
@@ -385,6 +386,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
    "ETERNAL BLAZE/水樹奈々": [
+      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 2236 },
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 2036},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7259},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11772},
