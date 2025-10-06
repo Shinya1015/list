@@ -6025,7 +6025,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 3897},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4733},
   ],
-  "ハルモニア/RYTHEM": [
+   "ハルモニア/RYTHEM": [
+      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 1927 },
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1212},
       { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 896},
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 7529},
@@ -7652,6 +7653,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 17933},
   ],
    "I'll be the one/HΛL": [
+      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 1623 },
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 458},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6218},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 6942},
