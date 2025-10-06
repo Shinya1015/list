@@ -4247,6 +4247,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3871 },
      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 5636},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2427},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 822 },
@@ -5376,6 +5377,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3467 },
       { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2806 },
       { date: "2025年7月9日-piano ver.", videoId: "g5x5fT1jbF4", timestamp: 18489},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 1506},
@@ -8137,6 +8139,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4575 },
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 913},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2178},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3200},
@@ -9180,6 +9183,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4177 },
        { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2883},
        { date: "2025年7月12日(livetune cover)", videoId: "2vtqKMxeUGI", timestamp: 2041},
        { date: "2025年7月7日(livetune cover)", videoId: "migDa3o9sNo", timestamp: 11776},
