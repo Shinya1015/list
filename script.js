@@ -610,6 +610,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
+    { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4295},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4756},
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1871},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 10331},
@@ -5456,6 +5457,7 @@ const songStreamLinks = {
      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 4782},
   ],
   "シュガーソングとビターステップ/UNISON SQUARE GARDEN": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4687},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 8701},
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 5875},
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 7101},
@@ -8784,6 +8786,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4530 },
   ],
   "カヌレ/CHiCO with HoneyWorks": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4959},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3340 },
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 4207 },
      { date: "2023年12月29日", videoId: "UjQZcBoVP5M", timestamp: 2309 },
