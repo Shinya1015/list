@@ -509,6 +509,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2030 },
   ],
   "アイコトバ/サクラメリーメン": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1545},
      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3774},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 845},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 11506},
@@ -10388,6 +10389,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "アイコトバ/サクラメリーメン",                                         //世界第一初恋
     "ライラック/Mrs. GREEN APPLE",                                       //忘却バッテリー
     "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
     "ハッピーラッキーチャッピー/ano",                                     //タコピーの原罪OP
