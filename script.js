@@ -5097,6 +5097,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1711},
   ],
    "Rolling star/YUI": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2829},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1654},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1678 },
       { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 397 },
@@ -6618,6 +6619,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2225},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10859},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4226},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1452},
