@@ -206,6 +206,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 13854},
       ],
    "flyaway/BACK-ON": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 5299},
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
    "サタデー・ナイト・クエスチョン/中島愛": [
@@ -333,6 +334,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7246},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 712},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2593},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 7540},
@@ -3620,6 +3622,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6989},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15832},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4954},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 10068},
@@ -4525,6 +4528,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4662},
   ],
   "めいど・うぃず・どらごんず/スーパーちょろゴンず": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6597},
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 6276},
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 17521},
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 6275},
@@ -5688,6 +5692,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 6626},
   ],
   "さぁ/SURFACE": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6356},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7741},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3270},
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 4860},
@@ -8588,6 +8593,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 1157 },
   ],
    "Starry Heavens/day after tomorrow": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 5427},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2343},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11174},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 26947},
