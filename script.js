@@ -318,6 +318,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7435},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1874},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2978},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14612},
@@ -1125,6 +1126,7 @@ const songStreamLinks = {
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
  "それでも明日はやってくる/鈴木結女": [  
+    { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10025},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5192},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11516},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 9924},
@@ -2716,6 +2718,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10662},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6131},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5648},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8163},
@@ -4332,6 +4335,7 @@ const songStreamLinks = {
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7749},
   ],
   "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 9668},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15583},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3040},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 11138},
@@ -7957,6 +7961,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10373},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 7232},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4624},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4956 },
