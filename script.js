@@ -400,6 +400,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3075},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 863},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12692},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11816},
@@ -5835,6 +5836,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3337},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 1136},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 1913 },
       { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1470},
