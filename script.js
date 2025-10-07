@@ -10386,7 +10386,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
-    "ライラック/Mrs. GREEN APPLE",
+    "ライラック/Mrs. GREEN APPLE",                                       //忘却バッテリー
     "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
     "ハッピーラッキーチャッピー/ano",                                     //タコピーの原罪OP
     "氷の上に立つように/小松未歩",
