@@ -11,6 +11,7 @@ const songStreamLinks = {
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3941},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9972},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2193},
       ],
@@ -4349,6 +4350,7 @@ const songStreamLinks = {
      { date: "2023年11月27日", videoId: "5yeMXL3dho0", timestamp: 3144},
   ],
   "快眠！安眠！スヤリスト生活/スヤリス姫(水瀬いのり)": [
+     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3627},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 9079},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 4860},
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 766},
