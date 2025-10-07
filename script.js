@@ -3162,6 +3162,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1878},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 4626},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2572},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 872},
