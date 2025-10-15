@@ -897,6 +897,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4209},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2228},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18777},
     { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 7860},
@@ -3443,6 +3444,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3613},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5390},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10803},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23114},
@@ -8036,6 +8038,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 8705},
   ],
   "君という光/GARNET CROW": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3233},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 8983},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8213},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 11216},
