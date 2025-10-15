@@ -5529,6 +5529,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1572},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10368},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12381},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19473},
