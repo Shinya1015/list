@@ -8957,6 +8957,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2747},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3042},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4841 },
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 6614},
