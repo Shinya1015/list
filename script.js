@@ -420,6 +420,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
    "Reset/平原綾香": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6941},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15656},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6854},
       { date: "2025年5月13日", videoId: "zPR8pqQgpCE", timestamp: 2501},
@@ -2685,6 +2686,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6624},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4234},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3580},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 4588},
@@ -4685,6 +4687,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3821},
   ],
   "ミカヅキ/さユり": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7303},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15236},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 9206},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4853},
@@ -8467,6 +8470,9 @@ const songStreamLinks = {
       { date: "2023年10月29日", videoId: "vqBUMEuRee4", timestamp: 3213 },
       { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 3544 },
   ],
+  "ジェミニ/Dixie Flatlinee": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8359},
+  ],
   "Just Be Friends/Dixie Flatline": [
      { date: "2025年6月26日-piano ver", videoId: "fk0sfucYz6Q", timestamp: 2408},
      { date: "2024年5月19日-piano ver.", videoId: "H-bP3zctwiA", timestamp: 8550 },
@@ -9591,6 +9597,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8086},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 10358},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3191},
@@ -9882,6 +9889,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7604},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9342},
     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7103},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 2952},
@@ -12148,4 +12156,5 @@ const streamerSongList = [
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)",
     "SPIRIT/PAMELAH",
     "Stand by me/the brilliant green",
+    "ジェミニ/Dixie Flatlinee",
 ];
