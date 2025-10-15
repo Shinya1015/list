@@ -484,6 +484,7 @@ const songStreamLinks = {
   ],
  
    "光あれ/岡野昭仁": [
+      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1485},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1595},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 7625},
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 827},
@@ -7060,6 +7061,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
+     { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1773},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15256},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 6181},
      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4555},
@@ -8650,6 +8652,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1124},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 630},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4224},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 1496},
