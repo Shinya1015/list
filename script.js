@@ -3986,6 +3986,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
    "サウダージ/ポルノグラフィティ": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1980},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3861},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4540 },
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7415},
@@ -4389,6 +4390,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2580},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2931},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5093},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15608},
@@ -5140,6 +5142,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2277},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4313},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 10522},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 4965},
