@@ -8472,6 +8472,7 @@ const songStreamLinks = {
   ],
   "ジェミニ/Dixie Flatlinee": [
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8359},
+     { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
   "Just Be Friends/Dixie Flatline": [
      { date: "2025年6月26日-piano ver", videoId: "fk0sfucYz6Q", timestamp: 2408},
@@ -10095,9 +10096,6 @@ const songStreamLinks = {
   { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6961 },
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 6221 },
   ],
- "ジェミニ/鏡音リン・レン": [ // 中間順序不變
-  { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
-  ],
  "廃都アトリエスタにて/鏡音リン・レン": [ // 中間順序不變
   { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
   { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
@@ -11326,7 +11324,6 @@ const streamerSongList = [
     "Twinkle Days/19's Sound Factory",
     "アウト オブ エデン/K's Sound Project",
     "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
-    "ジェミニ/鏡音リン・レン",
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
     "Ur-Style/DATEKEN feat.鏡音リン",
