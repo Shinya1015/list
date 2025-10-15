@@ -8538,6 +8538,7 @@ const songStreamLinks = {
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
   ],
    "夜行性ハイズ/DECO*27": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 9062},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8439},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11804},
       { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 4531},
@@ -9678,6 +9679,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8756},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 2174},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 717},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 1180 },
