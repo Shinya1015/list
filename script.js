@@ -8470,7 +8470,7 @@ const songStreamLinks = {
       { date: "2023年10月29日", videoId: "vqBUMEuRee4", timestamp: 3213 },
       { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 3544 },
   ],
-  "ジェミニ/Dixie Flatlinee": [
+  "ジェミニ/Dixie Flatline": [
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8359},
      { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
@@ -12155,5 +12155,5 @@ const streamerSongList = [
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)",
     "SPIRIT/PAMELAH",
     "Stand by me/the brilliant green",
-    "ジェミニ/Dixie Flatlinee",
+    "ジェミニ/Dixie Flatline",
 ];
