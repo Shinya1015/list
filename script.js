@@ -1019,6 +1019,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5660},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 4429},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3104},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6250},
@@ -3438,6 +3439,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5390},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10803},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23114},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11225},
