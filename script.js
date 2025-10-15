@@ -6724,6 +6724,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4482},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11084},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19150},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 2558},
