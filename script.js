@@ -284,6 +284,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3570},
     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3436},
     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11656},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8158},
@@ -1079,6 +1080,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4396},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1251},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2477},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 8529},
@@ -3979,6 +3981,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
    "サウダージ/ポルノグラフィティ": [
+      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3861},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4540 },
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7415},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 9794},
@@ -5544,6 +5547,7 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
   　"Get Wild/TM NETWORK": [
+      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4144},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2026},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8485},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2795},
