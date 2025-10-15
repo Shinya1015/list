@@ -771,6 +771,7 @@ const songStreamLinks = {
      { date: "2024年11月21日(一番のみ)", videoId: "ymTQto-k0EQ", timestamp: 9571},   
   ],
   "おかえり/宮内れんげ(小岩井ことり),一条蛍(村川梨衣),越谷夏海(佐倉綾音),越谷小鞠(阿澄佳奈)": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4884},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10859},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 1865},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13651},
@@ -1796,7 +1797,8 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1690},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
-  "ひまわりの約束/秦基博": [
+ "ひまわりの約束/秦基博": [
+    { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5243},
     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 3101},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 21542},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1782},
@@ -6256,6 +6258,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5676},
      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4677},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 3670},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16674},
