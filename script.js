@@ -4214,6 +4214,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 1252},
   ],
   "ナイテタッテ/ナオト・インティライミ": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3052},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 4384},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1947},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1490},
