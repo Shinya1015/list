@@ -4263,6 +4263,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2176},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3871 },
      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 5636},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2427},
@@ -9308,6 +9309,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2435},
         { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 3709},
         { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2743},
         { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4892},
