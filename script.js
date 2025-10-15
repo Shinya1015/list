@@ -2430,6 +2430,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1352},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1360},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 3577 },
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2652},
