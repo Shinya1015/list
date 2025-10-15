@@ -216,6 +216,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 2233},
       ],
    "おしえて A to Z/田村ゆかり": [
+      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 3061},
       { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4224},
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 3615},
   ],
@@ -1730,6 +1731,7 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 8437},
   ],
   "ウォーアイニー/高橋瞳": [
+     { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2056},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 2365},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 12513},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 2981},
@@ -2350,6 +2352,7 @@ const songStreamLinks = {
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
+     { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2427},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 9536},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 2971},
      { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 3647},
@@ -8985,6 +8988,7 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2075 },
   ],
  "月虹/BUMP OF CHICKEN": [
+    { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2717},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2624},
     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5417 },
