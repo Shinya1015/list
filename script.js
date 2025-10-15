@@ -1955,6 +1955,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 772},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3794},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1563},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 729},
