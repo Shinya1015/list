@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "Stand by me/the brilliant green": [
+      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6358},
+      ],
    "SPIRIT/PAMELAH": [
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3178 },
       { date: "2024年2月4日", videoId: "Jpeut_xMcWY", timestamp: 6952},
@@ -10852,6 +10855,7 @@ const animeSongs = [
     "PURENESS/SHAZNA",
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)", //寶可夢
     "SPIRIT/PAMELAH",                              //靈異教師神眉
+    "Stand by me/the brilliant green",             //偵探學園Q
 ];
     
 
@@ -12143,74 +12147,5 @@ const streamerSongList = [
     "PURENESS/SHAZNA",
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)",
     "SPIRIT/PAMELAH",
+    "Stand by me/the brilliant green",
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
