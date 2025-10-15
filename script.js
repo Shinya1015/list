@@ -7042,6 +7042,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 13173},
   ],
    "Chasing hearts/miwa": [
+      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 1867},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 2873},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1837},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7523},
@@ -9448,7 +9449,8 @@ const songStreamLinks = {
        { date: "2023年7月15日(メン限)", videoId: "Z_8YWy3fyNo", timestamp: 12088 },
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9925 },
      ],       
-"リライト/ASIAN KUNG-FU GENERATION": [
+    "リライト/ASIAN KUNG-FU GENERATION": [
+       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 1577},
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1046 },
        { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 7570 },
        { date: "2024年11月16日", videoId: "toBPQ1vBNqs", timestamp: 2094 },
@@ -9466,7 +9468,7 @@ const songStreamLinks = {
        { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 3829},
        { date: "2024年3月10日", videoId: "OJPIEaziIPU", timestamp: 6602 },
      ],
-"つぼみ/Aqua Timez": [
+    "つぼみ/Aqua Timez": [
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 1824 },
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 7298 },
        { date: "2025年1月24日", videoId: "51B2KoeyR6I", timestamp: 2553 },
@@ -9479,7 +9481,7 @@ const songStreamLinks = {
        { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 19954 },
        { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 5606 },
      ],
- "等身大のラブソング/Aqua Timez": [
+    "等身大のラブソング/Aqua Timez": [
        { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 1200 },
        { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17287 },
        { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 6866 },
