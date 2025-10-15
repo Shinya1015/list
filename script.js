@@ -4229,6 +4229,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
+     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3249},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1849},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1738},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2160},
