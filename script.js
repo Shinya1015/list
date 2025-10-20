@@ -411,6 +411,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2906},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3075},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 863},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12692},
@@ -1109,6 +1110,7 @@ const songStreamLinks = {
       { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4354},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
   ],
   "Lap Tap Love/電ポルP": [
@@ -3073,6 +3075,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2679},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4654},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3153},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1116},
@@ -4403,6 +4406,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 3838},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2580},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2931},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5093},
@@ -9960,6 +9964,7 @@ const songStreamLinks = {
   { date: "2024年5月4日", videoId: "ocR9SezEBfQ", timestamp: 6353 },
   ],   
  "Tómur/におP": [
+    { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4072},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2648},
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
     { date: "2023年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
@@ -10035,6 +10040,7 @@ const songStreamLinks = {
   { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
  ],
 "Step to you/40mP": [
+   { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2294},
    { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 7156},
    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18883 },
    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 6035 },
