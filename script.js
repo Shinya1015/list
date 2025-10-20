@@ -435,6 +435,7 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7787},
       { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1412},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6931},
       { date: "2025年5月19日", videoId: "t9f_8P7y02c", timestamp: 600},
@@ -514,6 +515,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
    "Wonderful Wonder World*/Yun*chi": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 8520},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 12685},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 12171},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 6347},
@@ -4258,6 +4260,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6844},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3249},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1849},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1738},
@@ -6411,6 +6414,7 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
    "君＝花/pigstar": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 8097},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 7585},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 4524},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 8895},
@@ -8211,6 +8215,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7122},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4575 },
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 913},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2178},
@@ -9327,6 +9332,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7378},
        { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1311},
        { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23422},
        { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 2260},
