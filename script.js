@@ -49,6 +49,7 @@ const songStreamLinks = {
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
       ],
    "大丈夫サンライズ/豆柴の大群": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1955},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4085},
       ],
    "ハッピーラッキーチャッピー/ano": [
@@ -174,6 +175,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1392},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 7406},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7649},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14041},
@@ -605,6 +607,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1595},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3104},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4460},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 5428},
@@ -9113,6 +9116,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1007},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8557},
     { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 2565},
     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13657},
