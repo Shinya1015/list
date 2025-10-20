@@ -546,6 +546,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
    "futuristic imagination/School Food Punishment": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5826},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4012},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 13057},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16184},
@@ -952,6 +953,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4891},
     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5833},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21131},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 8545},
@@ -2742,6 +2744,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5202},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10662},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6131},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5648},
@@ -3457,6 +3460,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6083},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3613},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5390},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10803},
@@ -4908,6 +4912,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4591},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14244},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8049 },
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 5469},
@@ -6011,6 +6016,7 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
+     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5503},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3285},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2666 },
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 12894},
