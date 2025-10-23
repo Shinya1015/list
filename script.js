@@ -2953,6 +2953,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
 　　"Ready Go!/田村直美": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9169},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3342},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2847},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 7126},
@@ -9428,6 +9429,7 @@ const songStreamLinks = {
         { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
      ],
     "ココロのちず/BOYSTYLE": [
+       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9504},
        { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1299},
        { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1224},
        { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 5824},
