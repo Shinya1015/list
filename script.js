@@ -289,6 +289,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6988},
     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3570},
     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3436},
     { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11656},
@@ -342,6 +343,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7383},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7246},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 712},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2593},
@@ -1125,7 +1127,8 @@ const songStreamLinks = {
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12785},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
-   "輝きは君の中に/鈴木結女": [
+  "輝きは君の中に/鈴木結女": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6100},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 5277},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3043},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2386},
@@ -2162,6 +2165,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6508},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4900},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 9963},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2573},
@@ -5279,6 +5283,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 8212},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2056},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3866},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5628},
@@ -5904,6 +5909,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7694},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3337},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 1136},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 1913 },
