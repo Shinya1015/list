@@ -505,6 +505,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2509 },
   ],
   "SUNDAY/ザ・ベイビースターズ": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 664},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1271},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 559},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 12435},
@@ -1096,6 +1097,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1081},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4396},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1251},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 2477},
