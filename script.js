@@ -8104,6 +8104,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 3244},
   ],
   "Mysterious/Naifu": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 3597},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9548},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7879},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 4342},
