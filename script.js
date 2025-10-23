@@ -6820,6 +6820,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2621},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2346},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9155},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 1036},
@@ -7407,6 +7408,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 1351},
   ],
   "OVERLAP/Kimeru": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2322},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8496},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9371},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14582},
