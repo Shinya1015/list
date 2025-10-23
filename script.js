@@ -10899,6 +10899,7 @@ const animeSongs = [
     "SPIRIT/PAMELAH",                              //靈異教師神眉
     "Stand by me/the brilliant green",             //偵探學園Q
     "クロノスタシス/BUMP OF CHICKEN",               //名探偵コナン
+    "UNDEAD/YOASOBI",                              //物語系列第外季&第怪季
 ];
     
 
