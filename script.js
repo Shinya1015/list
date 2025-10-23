@@ -53,6 +53,7 @@ const songStreamLinks = {
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4085},
       ],
    "ハッピーラッキーチャッピー/ano": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 8865},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1895 },
       ],
    "うに/立秋": [
