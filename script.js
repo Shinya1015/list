@@ -411,6 +411,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 4513},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2906},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3075},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 863},
@@ -8114,6 +8115,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 5806},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7007},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9061},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7913},
@@ -9147,6 +9149,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 5445},
     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1007},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8557},
     { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 2565},
