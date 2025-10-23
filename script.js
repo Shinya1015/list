@@ -1039,6 +1039,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9789},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5660},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 4429},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3104},
@@ -5165,6 +5166,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1711},
   ],
    "Rolling star/YUI": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 11028},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2829},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1654},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 1678 },
@@ -9625,6 +9627,7 @@ const songStreamLinks = {
        { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
      ],
 "Velonica/Aqua Timez": [
+   { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 10084},
    { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5572},
    { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9061},
    { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 2708},
