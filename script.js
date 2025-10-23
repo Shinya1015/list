@@ -10898,6 +10898,7 @@ const animeSongs = [
     "ハイタッチ!/サトシ(松本梨香)＆ヒカリ(豊口めぐみ)", //寶可夢
     "SPIRIT/PAMELAH",                              //靈異教師神眉
     "Stand by me/the brilliant green",             //偵探學園Q
+    "クロノスタシス/BUMP OF CHICKEN",               //名探偵コナン
 ];
     
 
