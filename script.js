@@ -4775,6 +4775,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2015},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10490},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13541},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 5441},
@@ -5622,6 +5623,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
    "One day/The ROOTLESS": [
+      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1373},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3350},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13251},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 4390 },
@@ -7218,6 +7220,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1749},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3639},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8524},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14107},
