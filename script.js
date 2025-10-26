@@ -5457,6 +5457,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4771},
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3467 },
       { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2806 },
       { date: "2025年7月9日-piano ver.", videoId: "g5x5fT1jbF4", timestamp: 18489},
@@ -6971,6 +6972,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5018},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 5823},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10609},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13780},
