@@ -307,6 +307,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
    "Blood teller/Faylan": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8143},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 6088},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5571},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
