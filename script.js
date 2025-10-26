@@ -29,6 +29,7 @@ const songStreamLinks = {
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
    "Twinkle Days/19's Sound Factory": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9386},
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 7499},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7936},
       { date: "2025年8月19日", videoId: "3qhlFZL3j_w", timestamp: 12748},
@@ -10109,6 +10110,7 @@ const songStreamLinks = {
    { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ], 
 "トリノコシティ/40mP": [
+   { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9154},
    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 7171},
    { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 2827},
    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 15327 },
