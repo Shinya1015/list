@@ -328,6 +328,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2450},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7435},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1874},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2978},
@@ -8245,6 +8246,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2693},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7122},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4575 },
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 913},
