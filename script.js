@@ -4638,6 +4638,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
   ],
  "No Logic/ジミーサムP": [
+    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9713},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 7723},
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 2843 },
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 14255 },
