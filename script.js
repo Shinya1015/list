@@ -4870,6 +4870,7 @@ const songStreamLinks = {
       { date: "2023年1月18日-piano ver.", videoId: "ME1ONTBCpho", timestamp: 7352 },
   ],
   "君のそばで～ヒカリのテーマ～/グリン": [
+     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5340},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 4937},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 3066},
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 1155},
@@ -5901,6 +5902,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 15500},
   ],
    "SHINING LINE*/STAR☆ANIS": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5627},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 3080},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 9538},
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7099},
@@ -8986,6 +8988,7 @@ const songStreamLinks = {
       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
   ],
  "鯨/Buzy": [
+    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5944},
     { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 3576},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 9728},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 14906},
