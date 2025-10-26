@@ -173,6 +173,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13406},
       ],
    "いつかの、いくつかのきみとのせかい/fhana": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 1263},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
