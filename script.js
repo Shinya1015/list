@@ -9666,6 +9666,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8429},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8086},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 10358},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
@@ -10057,6 +10058,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8817},
     { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1358 },
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7684},
     { date: "2025年3月29日", videoId: "r4WSqrEyefI", timestamp: 7466 },
