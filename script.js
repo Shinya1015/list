@@ -86,6 +86,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
+      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 7885},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5738},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6621},
       ],
