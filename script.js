@@ -1,4 +1,13 @@
 const songStreamLinks = {
+  "a heart of difference/DIRTY OLD MEN": [
+      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 4480},
+      ],
+   "I'm Ready/DIRTY OLD MEN": [
+      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 3590},
+      ],
+   "煌めくのに/DIRTY OLD MEN": [
+      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 2925},
+      ],
    "Stand by me/the brilliant green": [
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6358},
       ],
@@ -12167,6 +12176,9 @@ const streamerSongList = [
     "True My Heart/佐倉紗織",
     "アドバンス・アドベンチャー/GARDEN",                // 精靈寶可夢 超世代 (Pokémon Advanced Generation)
     "弱虫な炎/DIRTY OLD MEN",                           // 飆速宅男 (Yowamushi Pedal)
+    "煌めくのに/DIRTY OLD MEN",
+    "I'm Ready/DIRTY OLD MEN",
+    "a heart of difference/DIRTY OLD MEN",
     "果てなき道/HIMEKA",                                // 信蜂 (Tegami Bachi: Letter Bee)
     "ありがとう/SunSet Swish",
     "明日、僕は君に会いに行く/ワカバ",
