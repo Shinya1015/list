@@ -10900,6 +10900,8 @@ const animeSongs = [
     "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ", // 蠟筆小新：功夫小子～拉麵大亂鬥～ (Crayon Shin-chan Movie 26) - 電影
     "アドバンス・アドベンチャー/GARDEN",                // 精靈寶可夢 超世代 (Pokémon Advanced Generation)
     "弱虫な炎/DIRTY OLD MEN",                           // 飆速宅男 (Yowamushi Pedal)
+    "I'm Ready/DIRTY OLD MEN",
+    "a heart of difference/DIRTY OLD MEN",
     "果てなき道/HIMEKA",                                // 信蜂 (Tegami Bachi: Letter Bee)
     "Reset/平原綾香",                                  // 大神 (Ōkami) - 遊戲 (亦有動畫化)
     "サヨナラの空/Qwai",                                // 銀魂' (Gintama')
