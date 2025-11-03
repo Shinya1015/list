@@ -2547,6 +2547,7 @@ const songStreamLinks = {
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1106},
   ],
   "Best Friend/西野カナ": [
+     { date: "2025年10月26日(メン限)", videoId: "7GYIGZyPgn0", timestamp: 1483},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 2761},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 5554},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 1720},
@@ -5154,6 +5155,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2025年10月26日(メン限)", videoId: "7GYIGZyPgn0", timestamp: 1064},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1537 },
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 7606},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8498},
@@ -6311,6 +6313,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年10月26日(メン限)", videoId: "7GYIGZyPgn0", timestamp: 516},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5676},
      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4677},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 3670},
