@@ -1054,6 +1054,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 5971},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9789},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5660},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 4429},
@@ -2280,7 +2281,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 5573},
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
-   "Story/19's Sound Factory": [
+    "Story/19's Sound Factory": [
+      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1547},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7260},
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
       { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9611},
@@ -2623,7 +2625,8 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
 
   ],
-  "打上花火/米津玄師": [
+   "打上花火/米津玄師": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3044},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6452},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 4679},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3902},
@@ -4036,7 +4039,8 @@ const songStreamLinks = {
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 7879},
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
-   "サウダージ/ポルノグラフィティ": [
+    "サウダージ/ポルノグラフィティ": [
+      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 649},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1980},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3861},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4540 },
@@ -5733,7 +5737,8 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 2817},
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
-  "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1058},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 3276},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 705},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6063},
@@ -6060,7 +6065,8 @@ const songStreamLinks = {
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 6123},
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
-  "最高到達点/SEKAI NO OWARI": [
+   "最高到達点/SEKAI NO OWARI": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3922},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5503},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3285},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2666 },
@@ -6321,7 +6327,8 @@ const songStreamLinks = {
      { date: "2023年9月11日(一番のみ)", videoId: "PqeDAWM9HVc", timestamp: 8906 },
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
-  "なんでもないや/RADWIMPS": [
+   "なんでもないや/RADWIMPS": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3457},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 516},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5676},
      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4677},
@@ -6712,7 +6719,8 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 936},
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
-  "天地ガエシ/NICO Touches the Walls": [
+   "天地ガエシ/NICO Touches the Walls": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1861},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2959},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 3609},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10932},
