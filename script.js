@@ -1997,6 +1997,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6578},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 772},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3794},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1563},
@@ -2054,6 +2055,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 7315},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2859},
     { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 3142},
     { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 3075 },
@@ -2109,6 +2111,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6885},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1072},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3521},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1015},
@@ -7646,7 +7649,8 @@ const songStreamLinks = {
      { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 7606},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
-  "シルエット/KANA-BOON": [
+   "シルエット/KANA-BOON": [
+     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6274},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 2332},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2534},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2110 },
