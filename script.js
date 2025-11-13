@@ -1,5 +1,5 @@
 const songStreamLinks = {
-  "a heart of difference/DIRTY OLD MEN": [
+   "a heart of difference/DIRTY OLD MEN": [
       { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 4480},
       ],
    "I'm Ready/DIRTY OLD MEN": [
@@ -3233,7 +3233,8 @@ const songStreamLinks = {
   "シューティングスター/天月-あまつき-": [
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
-   "Glory Days/尾崎裕哉": [
+    "Glory Days/尾崎裕哉": [
+      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1033},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1878},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 4626},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2572},
@@ -6053,7 +6054,8 @@ const songStreamLinks = {
   "Dragon Night/SEKAI NO OWARI": [
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
- "Take Your Way/SEKAI NO OWARI": [
+  "Take Your Way/SEKAI NO OWARI": [
+    { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1400},
     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 1447},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 1613},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4450},
