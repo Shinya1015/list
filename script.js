@@ -50,6 +50,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3676},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3533},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2917},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 3489},
@@ -7914,6 +7915,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3979},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3059},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8494},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5773},
@@ -9441,6 +9443,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3236},
         { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1761},
         { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2435},
         { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 3709},
