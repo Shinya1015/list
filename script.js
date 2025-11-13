@@ -462,6 +462,7 @@ const songStreamLinks = {
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1822},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1087},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5693},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 947},
@@ -1473,6 +1474,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2663},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2390},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14868},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 4596},
@@ -6741,6 +6743,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2289},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2155},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2225},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4402},
