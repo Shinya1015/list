@@ -691,6 +691,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5013},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 1586},
      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 3124},
      { date: "2025年6月24日-piano ver.", videoId: "YPWm-DAeW3o", timestamp: 8966},
@@ -782,6 +783,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6301},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6837},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1509},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5049},
@@ -1388,6 +1390,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 7943},
   ],
   "なにが悪い/結束バンド": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5289},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14857},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 17680},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3980},
@@ -4557,6 +4560,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7446},
        { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22539},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2580 },
        { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7071 },
@@ -5909,6 +5913,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2904},
   ],
    "フレンド/STAR☆ANIS": [
+      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5999},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9007},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7695 },
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 14758 },   
@@ -6054,7 +6059,8 @@ const songStreamLinks = {
   "桃源郷エイリアン/serial TV drama": [
      { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 9133},
   ],
-  "Dragon Night/SEKAI NO OWARI": [
+ "Dragon Night/SEKAI NO OWARI": [
+    { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6728},
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
   "Take Your Way/SEKAI NO OWARI": [
@@ -6530,6 +6536,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 1998},
   ],
   "アスノヨゾラ哨戒班/Orangestar": [
+     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5572},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 10142},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 7011},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4553 },
@@ -6661,6 +6668,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7053},
     { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4302 },
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 4762 },
     { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 7188},
@@ -9901,6 +9909,7 @@ const songStreamLinks = {
    { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 2497 },
     ], 
 "lucky train!/AIKATSU☆STARS!": [
+   { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 4349},
    { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 9127},
    { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 4025},
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
