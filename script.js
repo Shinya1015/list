@@ -825,7 +825,8 @@ const songStreamLinks = {
      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 2237},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
-   "一斉の声/喜多修平": [
+  "一斉の声/喜多修平": [
+     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 809},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 778},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 402},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1915},
@@ -2484,6 +2485,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1523},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1352},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1360},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 3577 },
@@ -5541,6 +5543,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 3801},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 4205},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8096},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5435},
@@ -7848,6 +7851,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
+     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1174},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3092},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2294},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 682},
@@ -8776,6 +8780,7 @@ const songStreamLinks = {
   ],
 
    "EQUALロマンス/CoCo": [
+      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1773},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2296},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4319},
       { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 8206},
