@@ -826,7 +826,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
-     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 809},
+     { date: "2025年11月19日(アカペラ)", videoId: "s53rQjpuhsU", timestamp: 809},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 778},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 402},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1915},
@@ -3506,6 +3506,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4095},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6083},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3613},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5390},
@@ -9219,6 +9220,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4410},
     { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 2354},
     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 5445},
     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1007},
