@@ -19,10 +19,12 @@ const songStreamLinks = {
       { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 4146},
       ],
    "PURENESS/SHAZNA": [
+      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5250},
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6816},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
       ],
    "勝って泣こうぜッ!/T-Pistonz+KMC": [
+      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5896},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3941},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9972},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2193},
@@ -429,6 +431,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5623},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 4513},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2906},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3075},
@@ -2736,6 +2739,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4888},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6624},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4234},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 3580},
