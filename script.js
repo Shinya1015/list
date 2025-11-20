@@ -6999,6 +6999,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 7124},
   ],
   "ケセラセラ/Mrs. GREEN APPLE": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 2565},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 5851},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6918},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 13015},
