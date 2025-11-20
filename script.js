@@ -4296,6 +4296,9 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 12077},
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 1083},
   ],
+  "clock work/なぎ": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6214},
+  ],
   "Panorama/なぎ": [
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9040},
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 1751},
@@ -11939,6 +11942,7 @@ const streamerSongList = [
     "いつかきっと/ナオト・インティライミ",
     "タカラモノ～この声がなくなるまで～/ナオト・インティライミ",
     "ナイテタッテ/ナオト・インティライミ",
+    "clock work/なぎ",
     "Panorama/なぎ",
     "Overdose/なとり",
     "No pain, No game/ナノ",                            // BTOOOM! 驚爆遊戲
