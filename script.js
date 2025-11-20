@@ -1486,6 +1486,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1354},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2663},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2390},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14868},
@@ -7915,6 +7916,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1706},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6527},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7899},
      { date: "2025年7月6日(冒頭アカペラ)", videoId: "0BtVZt9Fl0k", timestamp: 2781},
