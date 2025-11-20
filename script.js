@@ -3984,8 +3984,11 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 15489},
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5704},
   ],
+  "サリシノハラ/みきとP": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6598},
+  ],
   "世田谷ナイトサファリ/みきとP": [
-   { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8007 },
+     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8007 },
   ],
   "小夜子/みきとP": [
       { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 4416 },
@@ -11972,6 +11975,7 @@ const streamerSongList = [
     "ロキ/みきとP",
     "夕立のりぼん/みきとP",
     "小夜子/みきとP",
+    "サリシノハラ/みきとP",
     "世田谷ナイトサファリ/みきとP",
     "うそつき/めざめP",
     "走れ！/ももいろクローバー",
