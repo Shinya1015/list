@@ -1,5 +1,6 @@
 const songStreamLinks = {
-   "You Only Live Once/羽多野涉": [
+   "You Only Live Once/YURI!!! on ICE feat. w.hatano": [
+      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 2285},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 19691},
       ],
    "a heart of difference/DIRTY OLD MEN": [
@@ -12301,5 +12302,5 @@ const streamerSongList = [
     "SPIRIT/PAMELAH",
     "Stand by me/the brilliant green",
     "ジェミニ/Dixie Flatline",
-    "You Only Live Once/羽多野涉",
+    "You Only Live Once/YURI!!! on ICE feat. w.hatano",
 ];
