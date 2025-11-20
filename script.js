@@ -6076,7 +6076,8 @@ const songStreamLinks = {
     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6728},
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
-  "Take Your Way/SEKAI NO OWARI": [
+ "Take Your Way/SEKAI NO OWARI": [
+    { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1979},
     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1400},
     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 1447},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 1613},
