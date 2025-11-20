@@ -3986,6 +3986,8 @@ const songStreamLinks = {
   ],
   "サリシノハラ/みきとP": [
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6598},
+     { date: "2024年5月31日-piano ver.", videoId: "hWIjbIBRDuU", timestamp: 13408},
+     { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 956},
   ],
   "世田谷ナイトサファリ/みきとP": [
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8007 },
