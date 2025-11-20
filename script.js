@@ -6177,6 +6177,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4733},
   ],
    "ハルモニア/RYTHEM": [
+      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 4136},
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 1927 },
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1212},
       { date: "2024年11月30日", videoId: "pdL7n0VHGOg", timestamp: 896},
@@ -6266,6 +6267,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3847},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5488},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1987},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1080},
