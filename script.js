@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "You Only Live Once/羽多野涉": [
+      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 19691},
+      ],
    "a heart of difference/DIRTY OLD MEN": [
       { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 4480},
       ],
@@ -12293,4 +12296,5 @@ const streamerSongList = [
     "SPIRIT/PAMELAH",
     "Stand by me/the brilliant green",
     "ジェミニ/Dixie Flatline",
+    "You Only Live Once/羽多野涉",
 ];
