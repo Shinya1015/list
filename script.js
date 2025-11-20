@@ -309,6 +309,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 4430},
     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6988},
     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3570},
     { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3436},
@@ -4316,6 +4317,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 5556},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6844},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3249},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 1849},
@@ -4469,6 +4471,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 5329},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 10023},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 3838},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2580},
@@ -4820,6 +4823,7 @@ const songStreamLinks = {
      { date: "2022年9月13日-アコギ ver.", videoId: "yuLgBmm19Ts", timestamp: 3763},
   ],
  "TSUNAMI/サザンオールスターズ": [
+    { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 4982},
     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12039},
     { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 5110 },
     { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 16695 },
