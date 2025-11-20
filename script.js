@@ -6897,6 +6897,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3562},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2621},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2346},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9155},
