@@ -460,6 +460,7 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
+      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 818},
       { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1456},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7787},
       { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1412},
@@ -9611,6 +9612,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9925 },
      ],       
     "リライト/ASIAN KUNG-FU GENERATION": [
+       { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1079},
        { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 1577},
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1046 },
        { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 7570 },
