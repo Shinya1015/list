@@ -5707,6 +5707,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
    "One day/The ROOTLESS": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7861},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1373},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3350},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13251},
@@ -7329,6 +7330,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8147},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1749},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3639},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8524},
