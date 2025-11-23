@@ -487,6 +487,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5407},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1042},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 3713},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 1638},
@@ -700,6 +701,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1841},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5013},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 1586},
      { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 3124},
@@ -1400,6 +1402,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 7943},
   ],
   "なにが悪い/結束バンド": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2692},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5289},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14857},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 17680},
@@ -6892,6 +6895,7 @@ const songStreamLinks = {
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
    "STYX HELIX/MYTH & ROID ": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2373},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9803},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16931},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 5102},
@@ -7960,6 +7964,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2093},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3979},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3059},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8494},
@@ -9102,6 +9107,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5089},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8767},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1598},
       { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6044},
