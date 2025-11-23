@@ -2716,6 +2716,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15164},
   ],
   "ピースサイン/米津玄師": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1051},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2378 },
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4873},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 21234},
@@ -3714,6 +3715,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 463},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6989},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15832},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4954},
@@ -6697,6 +6699,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 716},
     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7053},
     { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4302 },
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 4762 },
@@ -6943,6 +6946,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1333},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 952},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1862},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2180 },
