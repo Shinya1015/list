@@ -272,6 +272,7 @@ const songStreamLinks = {
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6976 },
     ],
    "Magical Babyrinth/DA PUMP": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6464},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 1673},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5509},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 7615},
@@ -366,6 +367,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6257},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7383},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7246},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 712},
@@ -589,6 +591,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7307},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 5898},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16441},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 2848},
@@ -1070,6 +1073,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7619},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 5971},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9789},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 5660},
@@ -5248,6 +5252,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7019},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4474},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2277},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4313},
@@ -5305,6 +5310,7 @@ const songStreamLinks = {
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4665},
   ],
   "CHE.R.RY/YUI": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5741},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 708},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 633},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 2250},
@@ -9197,6 +9203,7 @@ const songStreamLinks = {
     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
   ],
 　"天体観測/BUMP OF CHICKEN": [
+    { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5976},
     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5499},
     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8211},
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 3395 },
@@ -9838,6 +9845,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6721},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2073},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8756},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 2174},
