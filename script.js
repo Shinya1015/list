@@ -452,6 +452,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
    "Reset/平原綾香": [
+      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5675},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6941},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15656},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6854},
@@ -2811,6 +2812,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5370},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5202},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10662},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6131},
@@ -3663,6 +3665,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5018},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6949},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 680},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10256},
@@ -4600,6 +4603,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 6298},
        { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7446},
        { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22539},
        { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 2580 },
@@ -10211,8 +10215,9 @@ const songStreamLinks = {
   { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 2152 },
  ],
 "フタリボシ/40mP": [
-  { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 14801 },
-  { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
+   { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5964},
+   { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 14801 },
+   { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
  ],
 "Step to you/40mP": [
    { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2294},
