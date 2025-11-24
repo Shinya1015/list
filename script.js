@@ -549,6 +549,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
    "Wonderful Wonder World*/Yun*chi": [
+      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 714},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 8520},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 12685},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 12171},
@@ -3116,6 +3117,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1407},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 1737 },
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 831},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 938},
@@ -5941,6 +5943,7 @@ const songStreamLinks = {
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
   ],
   "輝きのエチュード/STAR☆ANIS": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1748},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4537},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4858},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4953},
@@ -8844,6 +8847,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 404},
       { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1124},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 630},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 4224},
@@ -10297,19 +10301,20 @@ const songStreamLinks = {
 "どうぶつ占い/すこっぷ": [ // 中間順序不變
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20623 },
     ],
-"Packaged/kz(livetune)": [ // 中間順序不變
+"Packaged/kz(livetune)": [ 
  { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 14691 },
  { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7045 },
  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 8749 },
  { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 13013 },
 { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 13240 },
  ],
- "Hand in Hand/kz(livetune)": [ 
-    { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1602},
-    { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
-    { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
-    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
-    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
+"Hand in Hand/kz(livetune)": [ 
+   { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1038},
+   { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1602},
+   { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
+   { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
+   { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
+   { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
   ],
  "天ノ弱/164": [ 
     { date: "2025年6月2日-piano ver.", videoId: "BcJxg8xYz10", timestamp: 3333},
