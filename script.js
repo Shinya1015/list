@@ -474,6 +474,7 @@ const songStreamLinks = {
       { date: "2025年4月11日", videoId: "wNMS4XNQuh4", timestamp: 17636 },
   ],
   "ありがとう/SunSet Swish": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 2437},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1822},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 1087},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5693},
@@ -841,6 +842,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 2100},
      { date: "2025年11月19日(アカペラ)", videoId: "s53rQjpuhsU", timestamp: 809},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 778},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 402},
@@ -2023,6 +2025,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 3923},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6578},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 772},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3794},
@@ -9512,6 +9515,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4220},
         { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3236},
         { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1761},
         { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2435},
