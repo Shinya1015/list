@@ -41,6 +41,7 @@ const songStreamLinks = {
       { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 6215},
       ],
    "天までとどけっ!/T-Pistonz+KMC": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8336},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
    "Twinkle Days/19's Sound Factory": [
@@ -442,6 +443,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7646},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5623},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 4513},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2906},
@@ -1271,6 +1273,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8608},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 9633},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18012},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7823 },
@@ -2955,6 +2958,7 @@ const songStreamLinks = {
      { date: "2024年7月12日", videoId: "HnqygtJDc1w", timestamp: 4995},
   ],
    "知らなきゃ/安月名莉子": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8061},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 4588},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8333},
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3937},
@@ -3671,6 +3675,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8911},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5018},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6949},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 680},
@@ -4967,6 +4972,7 @@ const songStreamLinks = {
      { date: "2023年9月16日(一番のみ)", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
+     { date: "2025年11月29日-piano ver.", videoId: "lk4Lg0W0OnM", timestamp: 9713},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14966},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 957},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 5249},
@@ -5634,6 +5640,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10416},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5852 },
       { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2032},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15175},
@@ -6402,7 +6409,8 @@ const songStreamLinks = {
      { date: "2023年9月11日(一番のみ)", videoId: "PqeDAWM9HVc", timestamp: 8906 },
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
-   "なんでもないや/RADWIMPS": [
+  "なんでもないや/RADWIMPS": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9318},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3457},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 516},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5676},
@@ -9748,7 +9756,8 @@ const songStreamLinks = {
        { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 2670 },
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 8372 },
      ],
-"千の夜をこえて/Aqua Timez": [
+    "千の夜をこえて/Aqua Timez": [
+       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9957},
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4405 },
        { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 697 },
        { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10080 },
@@ -9796,6 +9805,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10703},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8429},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8086},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 10358},
