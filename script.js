@@ -80,6 +80,7 @@ const songStreamLinks = {
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
       ],
    "Now or Never/ナノ": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 5011},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9660},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4452},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
@@ -327,12 +328,13 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
    "Blood teller/Faylan": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 5278},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8143},
-     { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 6088},
-     { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5571},
-     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
-     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
-     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
+      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 6088},
+      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5571},
+      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 10067},
+      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5361},
+      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4222 },
   ],
   "瞬間センチメンタル/SCANDAL": [
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 4851 },
@@ -3013,6 +3015,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
 　　"Ready Go!/田村直美": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4672},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9169},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3342},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2847},
@@ -4501,6 +4504,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7433},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 5329},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 10023},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 3838},
