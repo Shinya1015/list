@@ -195,6 +195,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4439},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1392},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 7406},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7649},
@@ -367,6 +368,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 1381},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6257},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7383},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7246},
@@ -1142,6 +1144,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 2367},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1081},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4396},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1251},
@@ -6268,6 +6271,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 6433},
   ],
   "銀色の空/redballoon": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 3252},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11521},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 6863},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 7078},
@@ -6806,6 +6810,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 750},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2289},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2155},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2225},
@@ -7342,6 +7347,7 @@ const songStreamLinks = {
      { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 3890},
   ],
   "あの日タイムマシン/LONG SHOT PARTY": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4156},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8147},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1749},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3639},
@@ -7572,6 +7578,7 @@ const songStreamLinks = {
      { date: "2023年7月15日(メン限)", videoId: "Z_8YWy3fyNo", timestamp: 19660},
   ],
   "おはよう。/Keno": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 2622},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 2702},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1397 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2107},
@@ -7843,6 +7850,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 3138},
   ],
    "月光花/Janne Da Arc": [
+      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 3819},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7630},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5205 },
       { date: "2024年9月7日", videoId: "DyI_hQCIhXw", timestamp: 9352 },
@@ -8230,6 +8238,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 3244},
   ],
   "Mysterious/Naifu": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 1071},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 3597},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 9548},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 7879},
@@ -8408,6 +8417,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4999},
   ],
   "渇いた叫び/FIELD OF VIEW": [
+     { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 2929},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1665},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3344},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 10378},
@@ -9558,6 +9568,7 @@ const songStreamLinks = {
         { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 1461 },
      ],
     "ココロのちず/BOYSTYLE": [
+       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 3497},
        { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9504},
        { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1299},
        { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1224},
