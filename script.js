@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "贅沢な匙/Van de Shop": [
+      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
+      ],
    "You Only Live Once/YURI!!! on ICE feat. w.hatano": [
       { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 2285},
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 19691},
@@ -2516,6 +2519,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1281},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1523},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1352},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1360},
@@ -3278,7 +3282,8 @@ const songStreamLinks = {
   "シューティングスター/天月-あまつき-": [
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
-    "Glory Days/尾崎裕哉": [
+   "Glory Days/尾崎裕哉": [
+      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 929},
       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1033},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1878},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 4626},
@@ -10367,6 +10372,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "贅沢な匙/Van de Shop",
    "ウミユリ海底護/n-buna",
    "独りんぼエンヴィー/電ポルP",
    "夕立のりぼん/みきとP",
@@ -10674,6 +10680,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "贅沢な匙/Van de Shop",                             //擁有超常技能的異世界流浪美食家 第一季
     "アイコトバ/サクラメリーメン",                                         //世界第一初恋
     "ライラック/Mrs. GREEN APPLE",                                       //忘却バッテリー
     "Good Morning World!/BURNOUT SYNDROMES",                            //新石紀OP1
@@ -12384,4 +12391,5 @@ const streamerSongList = [
     "Stand by me/the brilliant green",
     "ジェミニ/Dixie Flatline",
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
+    "贅沢な匙/Van de Shop",
 ];
