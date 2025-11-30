@@ -265,6 +265,7 @@ const songStreamLinks = {
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9630},
     ],
     "Errand/Faylan": [
+       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 2407},
        { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4684},
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
@@ -4073,6 +4074,7 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4704},
   ],
   "ミュージック・アワー/ポルノグラフィティ": [
+     { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 2711},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6629},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1380},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 8080},
@@ -4345,6 +4347,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 1252},
   ],
   "ナイテタッテ/ナオト・インティライミ": [
+     { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 2194},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3052},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 4384},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1947},
@@ -4398,6 +4401,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1918},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2176},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3871 },
      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 5636},
