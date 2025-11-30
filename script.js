@@ -184,6 +184,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 6319},
       { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 2552},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4331},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6831},
@@ -241,6 +242,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
    "サタデー・ナイト・クエスチョン/中島愛": [
+      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 6045},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5113},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5303},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 11436},
@@ -7473,6 +7475,7 @@ const songStreamLinks = {
      { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 2537},
   ],
    "時を刻む唄/Lia": [
+      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 5669},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 17629},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 10672},
       { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 7885},
@@ -8425,6 +8428,7 @@ const songStreamLinks = {
      { date: "2024年2月3日", videoId: "dL-gXH0JT9c", timestamp: 1414},
   ],
   "Answer/FLOW": [
+     { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 5310},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 4714},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 3341},
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 2832},
