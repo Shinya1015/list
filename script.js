@@ -63,6 +63,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5706},
       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3676},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3533},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2917},
@@ -722,6 +723,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4667},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1841},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5013},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 1586},
@@ -911,6 +913,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/ORANGE RANGE": [
+    { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 6893},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6655},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4878},
     { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 1745},
@@ -3754,6 +3757,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4426},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 463},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6989},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 15832},
@@ -6953,6 +6957,7 @@ const songStreamLinks = {
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
    "STYX HELIX/MYTH & ROID ": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5396},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2373},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9803},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16931},
@@ -8801,6 +8806,7 @@ const songStreamLinks = {
       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 8774},
   ],
    "セカイ/DECO*27": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 6562},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 8735},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13800},
       { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 4733},
@@ -10043,6 +10049,7 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5997},
    { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 4286},
    { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5143},
    { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 3718},
