@@ -1313,6 +1313,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 10661},
   ],
   "MAGIC/愛内里菜": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8052},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6974},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6405},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 10236},
@@ -2834,6 +2835,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 7173},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5370},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5202},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10662},
