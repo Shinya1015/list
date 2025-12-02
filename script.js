@@ -4216,6 +4216,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4136},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 2803 },
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16086},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6540 },
@@ -5970,8 +5971,9 @@ const songStreamLinks = {
     { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7482},
     ],
   "ダイヤモンドハッピー/STAR☆ANIS": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3412},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4679},
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8344 },
+     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8344 },
   ],
   "ハッピィクレッシェンド/STAR☆ANIS": [
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8655},
@@ -6652,6 +6654,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 6342},
   ],
   "Surges/Orangestar": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3923},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 3355},
      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 12675},
      { date: "2024年6月1日", videoId: "58pNHTg_Mgw", timestamp: 1907},
@@ -8605,6 +8608,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3062},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3528},
      { date: "2025年5月20日(ひより/しゃいる，冒頭アカペラ)", videoId: "kMWrZ4ZtsZ8", timestamp: 1960},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 6029},
