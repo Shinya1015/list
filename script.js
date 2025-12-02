@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "かたち/安月名莉子": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1972},
+      ],
    "贅沢な匙/Van de Shop": [
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
       ],
@@ -8190,6 +8193,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1652},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10373},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 7232},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4624},
@@ -8395,6 +8399,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
   "ちいさな日々/flumpool": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1364},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2693},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7122},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4575 },
@@ -9465,6 +9470,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1013},
        { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 852},
        { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 4177 },
        { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2883},
@@ -10693,6 +10699,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "かたち/安月名莉子",                                  //來自深淵
     "贅沢な匙/Van de Shop",                             //擁有超常技能的異世界流浪美食家 第一季
     "アイコトバ/サクラメリーメン",                                         //世界第一初恋
     "ライラック/Mrs. GREEN APPLE",                                       //忘却バッテリー
@@ -12405,4 +12412,5 @@ const streamerSongList = [
     "ジェミニ/Dixie Flatline",
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
     "贅沢な匙/Van de Shop",
+    "かたち/安月名莉子",
 ];
