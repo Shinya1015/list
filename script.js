@@ -1,6 +1,7 @@
 const songStreamLinks = {
    "かたち/安月名莉子": [
-      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1972},
+      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 10637},
+      { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
@@ -3692,6 +3693,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9541},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8911},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5018},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6949},
@@ -3898,6 +3900,7 @@ const songStreamLinks = {
      { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 2241},
   ],
   "ただ君に晴れ/ヨルシカ": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9022},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2059},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 4312},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 486},
@@ -4322,6 +4325,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9312},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1110},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18056},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 4554},
