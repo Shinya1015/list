@@ -6721,6 +6721,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20294},
   ],
   "ホワイトノイズ/Official髭男dism": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8318},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 3096},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3433 },
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4660 },
