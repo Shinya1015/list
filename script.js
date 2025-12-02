@@ -4111,6 +4111,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2409},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4579},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 649},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1980},
@@ -6894,6 +6895,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2771},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 2228},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 6724},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6042},
@@ -7003,6 +7005,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2083},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1333},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 952},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1862},
