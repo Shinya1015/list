@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "かたち/安月名莉子": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1987},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 10637},
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
@@ -1737,6 +1738,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 2669},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6557},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8967},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15328},
@@ -3248,6 +3250,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5836},
   ],
  "テルーの唄/手嶌葵": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 3010},
     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 1670},
     { date: "2025年4月16日", videoId: "7A2DbCtnoMc", timestamp: 7429 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17560 },
@@ -3397,6 +3400,7 @@ const songStreamLinks = {
      { date: "2024年4月23日", videoId: "RsW_0ey6VL0", timestamp: 13527},
   ],
   "キラキラ/小田和正": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 2346},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 1177},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 8623},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 5794},
@@ -4642,6 +4646,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 488},
        { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 6298},
        { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7446},
        { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22539},
@@ -5668,6 +5673,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1660},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10416},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5852 },
       { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2032},
@@ -6348,6 +6354,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1290},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3847},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5488},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1987},
@@ -9345,6 +9352,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 938},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 9112},
     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4410},
     { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 2354},
