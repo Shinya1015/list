@@ -207,6 +207,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10265},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4439},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1392},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 7406},
@@ -953,6 +954,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2799},
   ],
  "you/癒月": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9967},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9420},
     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5657 },
     { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 4338 },
@@ -1068,6 +1070,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18288 },
   ],
    "心拍数# 0822/蝶々P": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9163},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1409 },
       { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4887 },
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 15376},
@@ -1679,6 +1682,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7906},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3338},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 1287 },
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1702},
@@ -3703,6 +3707,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10842},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9541},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8911},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5018},
@@ -6416,6 +6421,7 @@ const songStreamLinks = {
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
   ],
    "愛にできることはまだあるかい/RADWIMPS": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 8255},
       { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7761},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 20650},
       { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 14269},
@@ -6455,6 +6461,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 8699},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9318},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3457},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 516},
@@ -6940,6 +6947,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10491},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 681},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4482},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11084},
@@ -7540,6 +7548,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15554},         
   ],
     "小さなてのひら/Lia": [
+       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9538},
        { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 17269},
        { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4505},
        { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 8030},
