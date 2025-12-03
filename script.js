@@ -1566,6 +1566,7 @@ const songStreamLinks = {
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
  "変わらないもの/奥華子": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4529},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1973 },
     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6048 },
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17899 },
@@ -3178,6 +3179,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/平原綾香 with 久石譲": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4239},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2679},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4654},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3153},
@@ -8655,6 +8657,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 3397},
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8018 },
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2134},
     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 7536},
@@ -9842,6 +9845,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5196},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3893},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9534},
       { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6764 },
@@ -9856,6 +9860,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4943},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10703},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8429},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8086},
