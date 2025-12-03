@@ -2657,6 +2657,7 @@ const songStreamLinks = {
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2240},
   ],
  "灰色と青/米津玄師": [
+    { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6951},
     { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2489},
     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2459},
     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 23976 },
@@ -2686,7 +2687,8 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
 
   ],
-   "打上花火/米津玄師": [
+  "打上花火/米津玄師": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7426},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3044},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6452},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 4679},
@@ -2787,6 +2789,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6593},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4888},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6624},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4234},
@@ -2935,6 +2938,7 @@ const songStreamLinks = {
     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6308},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14690},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4249},
      { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 1389},
@@ -3857,6 +3861,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5467},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14979},
      { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 770 },
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6792 },
@@ -4259,6 +4264,7 @@ const songStreamLinks = {
      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 6902},
   ],
    "ハロ/ハワユ/ナノウ": [
+      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5922},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 5540 },
       { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 9353 },
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 8672 },
