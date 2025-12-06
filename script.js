@@ -863,6 +863,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 8932},
 ],
   "一斉の声/喜多修平": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 852},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 2100},
      { date: "2025年11月19日(アカペラ)", videoId: "s53rQjpuhsU", timestamp: 809},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 778},
@@ -5374,6 +5375,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 10400},
   ],
   "Good-bye days/YUI": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1209},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 9459},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13018},
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4665},
@@ -9611,6 +9613,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1664},
         { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4220},
         { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3236},
         { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1761},
