@@ -326,6 +326,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1981},
     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 4430},
     { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6988},
     { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3570},
@@ -629,6 +630,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
 　　"星屑のインターリュード/fhana": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3349},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 806},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 687},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1145},
@@ -976,6 +978,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年12月6日-piano ver.", videoId: "dpzKvPL4-sU", timestamp: 4280},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4209},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2228},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18777},
@@ -1133,6 +1136,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5998},
   ],
  "虹/福山雅治": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3063},
     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2422},
     { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 2001},
     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 5443 },
@@ -3553,6 +3557,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13098},
   ],
   "O-Ku-Ri-Mo-No Sunday!/久川凪(CV:立花日菜)、久川颯(CV:長江里加)": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3825},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10673},
      { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 3758},
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 5180},
@@ -4860,6 +4865,7 @@ const songStreamLinks = {
      { date: "2023年11月19日-piano ver.", videoId: "CeX2ME0QtAI", timestamp: 5099},
   ],
   "それは小さな光のような/さユり": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 2332},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3406},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 7081},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 5676},
@@ -9076,6 +9082,7 @@ const songStreamLinks = {
     { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 3420 },
   ],
  "可愛くなりたい/CHiCO with HoneyWorks": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 2634},
     { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 4181},
     { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 2040 },
     { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 1963 },
