@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "かたち/安月名莉子": [
+      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1987},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 10637},
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
@@ -822,6 +823,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6564},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6301},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6837},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1509},
@@ -1295,6 +1297,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5605},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8608},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 9633},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18012},
@@ -2361,6 +2364,7 @@ const songStreamLinks = {
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8888},
   ],
   "白金ディスコ/阿良々木月火(井口裕香)": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5952},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2376},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 5100},
      { date: "2024年7月29日", videoId: "ucx9Ft5VpXY", timestamp: 1427},
@@ -4632,6 +4636,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6259},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7049},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 2310},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3263},
@@ -7125,6 +7130,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 7124},
   ],
   "ケセラセラ/Mrs. GREEN APPLE": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 4920},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 2565},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 5851},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6918},
