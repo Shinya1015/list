@@ -1578,6 +1578,7 @@ const songStreamLinks = {
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
  "変わらないもの/奥華子": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9795},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4529},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1973 },
     { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 6048 },
@@ -5703,6 +5704,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9530},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1660},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10416},
       { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 5852 },
@@ -6478,6 +6480,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 10158},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 8699},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9318},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3457},
@@ -6538,6 +6541,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 10520},
      { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 1498},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 17031},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 8052},
