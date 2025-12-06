@@ -6721,7 +6721,7 @@ const songStreamLinks = {
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8610},
-     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
+     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10388},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8184},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10213},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 4840 },
