@@ -1027,6 +1027,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9208},
     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4891},
     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5833},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21131},
@@ -2029,6 +2030,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
   ],
    "ニア/夏代孝明": [
+      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 7725},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9391},
       { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8861},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 7068},
@@ -5008,6 +5010,7 @@ const songStreamLinks = {
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 5739},
   ],
    "インタビュア/クワガタP": [
+      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8040},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 2533},
       { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7111 },
       { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 3836 },
@@ -6713,6 +6716,7 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
+     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8610},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10120},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8184},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 10213},
@@ -9892,6 +9896,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8334},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4943},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 10703},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8429},
@@ -10194,6 +10199,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8903},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7604},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9342},
     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7103},
