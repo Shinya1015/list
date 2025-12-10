@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "かたち/安月名莉子": [
+      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1987},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 10637},
@@ -1077,6 +1078,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18288 },
   ],
    "心拍数# 0822/蝶々P": [
+      { date: "2025年12月10日-piano ver.", videoId: "J25GN_AA3ns", timestamp: 2127},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9163},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1409 },
       { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 4887 },
@@ -1676,7 +1678,8 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 12383 },
   ],
   "虎視眈々/梅とら": [
-       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3715},
+   　{ date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
   ],
   "コンプレックス・イマージュ/彩音": [
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9771},
@@ -5034,6 +5037,7 @@ const songStreamLinks = {
      { date: "2023年9月16日(一番のみ)", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3975},
      { date: "2025年11月29日-piano ver.", videoId: "lk4Lg0W0OnM", timestamp: 9713},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14966},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 957},
@@ -5954,6 +5958,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 2515},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9760},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 5866},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2959},
@@ -6650,6 +6655,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 1586},
   ],
   "回る空うさぎ/Orangestar": [
+     { date: "2025年12月10日-piano ver.", videoId: "J25GN_AA3ns", timestamp: 1870},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 3497},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12160},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 6046},
@@ -10098,6 +10104,7 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2782 },
     ], 
 "Brave Shine/Aimer": [ 
+   { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4236},
    { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6071},
    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5605},
    { date: "2025年1月31日", videoId: "JVVQ-hIEz_M", timestamp: 603 },
@@ -10203,6 +10210,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3383},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8903},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7604},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9342},
