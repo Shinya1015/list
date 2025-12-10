@@ -513,6 +513,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 5260},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5407},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1042},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 3713},
@@ -1109,6 +1110,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6904},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7619},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 5971},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9789},
@@ -1229,6 +1231,7 @@ const songStreamLinks = {
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
  "それでも明日はやってくる/鈴木結女": [  
+    { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6621},
     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10025},
     { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 5192},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11516},
@@ -2069,6 +2072,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6075},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 3923},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6578},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 772},
@@ -5668,6 +5672,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru ": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6359},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3326},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 3801},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 4205},
@@ -5743,6 +5748,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 7173},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1572},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 10368},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 12381},
@@ -6368,6 +6374,7 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4928},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 8075},
      { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 8364},
      { date: "2024年10月12日", videoId: "de4cSPVlTCE", timestamp: 3713},
@@ -7744,6 +7751,7 @@ const songStreamLinks = {
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
+     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4532},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19964},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 2631 },
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 6625 },
