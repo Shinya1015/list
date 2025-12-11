@@ -7,6 +7,7 @@ const songStreamLinks = {
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
+      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4793},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
       ],
    "You Only Live Once/YURI!!! on ICE feat. w.hatano": [
@@ -145,6 +146,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3859},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1048 },
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7364},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
@@ -2363,7 +2365,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 5573},
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
-    "Story/19's Sound Factory": [
+   "Story/19's Sound Factory": [
+      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4182},      
       { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1547},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7260},
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 17389},
@@ -3730,6 +3733,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 6481},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10842},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9541},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8911},
@@ -4311,6 +4315,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11917 }, 
   ],
   "17才/ハルカトミユキ": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3543},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6322},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9817},
      { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 5722},
@@ -4538,6 +4543,7 @@ const songStreamLinks = {
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7749},
   ],
   "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 5190},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 9668},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15583},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3040},
@@ -4791,6 +4797,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
   ],
  "No Logic/ジミーサムP": [
+    { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4450},
     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9713},
     { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 7723},
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 2843 },
