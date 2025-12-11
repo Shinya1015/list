@@ -209,6 +209,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 850},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10265},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4439},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1392},
@@ -2812,6 +2813,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2369},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6593},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4888},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6624},
@@ -4072,6 +4074,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5704},
   ],
   "サリシノハラ/みきとP": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2693},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6598},
      { date: "2024年5月31日-piano ver.", videoId: "hWIjbIBRDuU", timestamp: 13408},
      { date: "2023年6月15日", videoId: "U1OmYV5zuVM", timestamp: 956},
@@ -4574,6 +4577,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3015},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7433},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 5329},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 10023},
@@ -5091,6 +5095,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1512},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4591},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14244},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8049 },
@@ -5887,7 +5892,8 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 2817},
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
-   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+  "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1836},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1058},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 3276},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 705},
@@ -8241,6 +8247,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3239},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8155},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 8549},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1008},
@@ -9408,6 +9415,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1131},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 938},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 9112},
     { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4410},
