@@ -2715,6 +2715,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 7176},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7426},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3044},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6452},
@@ -9914,6 +9915,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 6898},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5196},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3893},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 9534},
