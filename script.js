@@ -24,6 +24,7 @@ const songStreamLinks = {
       { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 2925},
       ],
    "Stand by me/the brilliant green": [
+      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 6448},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6358},
       ],
    "SPIRIT/PAMELAH": [
@@ -736,6 +737,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5565},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4667},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1841},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5013},
@@ -1432,6 +1434,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
+     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5306},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8660},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21605},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 1046},
@@ -5213,6 +5216,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5463},
   ],
   "花は桜 君は美し/いきものがかり": [
+     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 6097},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 1303},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2054},
      { date: "2025年3月31日-piano ver.", videoId: "fWeibuWPkzs", timestamp: 18155},
@@ -7406,6 +7410,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2513},
   ],
   "絆ノ奇跡/MAN WITH A MISSION × milet": [
+     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5809},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8922},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 1148},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 2684},
@@ -8350,6 +8355,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 8705},
   ],
   "君という光/GARNET CROW": [
+     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 7184},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3233},
      { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 8983},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8213},
@@ -8934,6 +8940,7 @@ const songStreamLinks = {
       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 1741 },
   ],
    "そして僕にできるコト/day after tomorrow": [
+      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5021},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2692},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8364},
       { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 3043},
@@ -10310,6 +10317,7 @@ const songStreamLinks = {
   { date: "2024年5月4日", videoId: "ocR9SezEBfQ", timestamp: 6353 },
   ],   
  "Tómur/におP": [
+    { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 7559},
     { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4072},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2648},
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
@@ -10388,6 +10396,7 @@ const songStreamLinks = {
    { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
  ],
 "Step to you/40mP": [
+   { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 6728},
    { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2294},
    { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 7156},
    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18883 },
