@@ -1,6 +1,6 @@
 const songStreamLinks = {
    "アイロニ/すこっぷ": [
-   　 { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 10221s},
+   　 { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 10221},
       ],
    "かたち/安月名莉子": [
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
