@@ -1,7 +1,5 @@
 const songStreamLinks = {
-   "アイロニ/すこっぷ": [
-   　 { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 10221},
-      ],
+
    "かたち/安月名莉子": [
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
@@ -4697,6 +4695,9 @@ const songStreamLinks = {
      { date: "2023年8月27日", videoId: "o7tc0nxGmmw", timestamp: 7965},
      { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 5815},
   ],
+  "アイロニ/すこっぷ": [
+   　{ date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 10221},
+      ],
   "東京レトロ/すこっぷ": [
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9330},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1809},
@@ -12149,6 +12150,7 @@ const streamerSongList = [
     "ゴールデンタイムラバー/スキマスイッチ",            // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "ボクノート/スキマスイッチ",
     "世界寿命と最後の一日/スズム",
+    "アイロニ/すこっぷ",
     "東京レトロ/すこっぷ",
     "秒針を噛む/ずっと真夜中でいいのに。",
     "残機/ずっと真夜中でいいのに。",
@@ -12544,5 +12546,4 @@ const streamerSongList = [
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
     "贅沢な匙/Van de Shop",
     "かたち/安月名莉子",
-    "アイロニ/すこっぷ",
 ];
