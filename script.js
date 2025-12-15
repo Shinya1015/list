@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "アイロニ/すこっぷ": [
+   　 { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 10221s},
+      ],
    "かたち/安月名莉子": [
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
@@ -12541,4 +12544,5 @@ const streamerSongList = [
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
     "贅沢な匙/Van de Shop",
     "かたち/安月名莉子",
+    "アイロニ/すこっぷ",
 ];
