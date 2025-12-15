@@ -10526,7 +10526,7 @@ const songStreamLinks = {
    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
   ],
  "天ノ弱/164": [ 
-    { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 7198},
+    { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 7198},
     { date: "2025年6月2日-piano ver.", videoId: "BcJxg8xYz10", timestamp: 3333},
     { date: "2024年12月28日-piano ver.", videoId: "sIYJQCrhT2s", timestamp: 1010 },
     { date: "2024年5月27日-アコギ ver.", videoId: "ZRqhVaH-ZcA", timestamp: 2432 },
