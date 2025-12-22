@@ -1,6 +1,7 @@
 const songStreamLinks = {
 
    "かたち/安月名莉子": [
+      { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 1342},
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1987},
@@ -70,6 +71,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 939},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5706},
       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3676},
       { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3533},
@@ -521,6 +523,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 4128},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 5260},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5407},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 1042},
@@ -641,6 +644,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
 　　"星屑のインターリュード/fhana": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 3369},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3349},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 806},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 687},
@@ -740,6 +744,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 634},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5565},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4667},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1841},
@@ -1376,6 +1381,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 1681},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6102 },
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2226},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14527},
@@ -3616,6 +3622,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 2367},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4095},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6083},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 3613},
@@ -7401,6 +7408,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 3814},
      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1773},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15256},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 6181},
@@ -9033,6 +9041,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 2867},
       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 404},
       { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1124},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 630},
