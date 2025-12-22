@@ -628,6 +628,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 5673},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7307},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 5898},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16441},
@@ -720,6 +721,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 5249},
      { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7238},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10986},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 4069},
@@ -2094,6 +2096,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 4573},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6075},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 3923},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6578},
@@ -2210,6 +2213,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年12月18日", videoId: "QLNAqEA7a8", timestamp: 4854},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6885},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1072},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3521},
