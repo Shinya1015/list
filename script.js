@@ -71,6 +71,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1318},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 939},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5706},
       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3676},
@@ -4392,7 +4393,8 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 5342},
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 6155},
   ],
-  "右肩の蝶/のりぴー": [
+   "右肩の蝶/のりぴー": [
+      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1607},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4236},
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9178},
       { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 1255},
@@ -8302,6 +8304,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 859},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3239},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8155},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 8549},
