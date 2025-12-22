@@ -1608,6 +1608,7 @@ const songStreamLinks = {
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
  "変わらないもの/奥華子": [
+    { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 9476},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9795},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4529},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 1973 },
@@ -2671,6 +2672,7 @@ const songStreamLinks = {
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1106},
   ],
   "Best Friend/西野カナ": [
+     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 7672},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 1483},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 2761},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 5554},
@@ -3881,6 +3883,7 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
+     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8691},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8350 },
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 4971},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 3017},
@@ -4732,6 +4735,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8321},
        { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 488},
        { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 6298},
        { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7446},
@@ -6613,6 +6617,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 9017},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 2772},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1931},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 10520},
@@ -8201,6 +8206,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
   "キセキ/GReeeeN": [
+     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8013},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 21744},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8485},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 7678},
