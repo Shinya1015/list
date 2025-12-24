@@ -747,6 +747,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 884},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 634},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5565},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4667},
@@ -1608,6 +1609,7 @@ const songStreamLinks = {
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
  "変わらないもの/奥華子": [
+    { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 3731},
     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 9476},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9795},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4529},
@@ -2292,6 +2294,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1112},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 4350},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6508},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 4900},
@@ -3241,6 +3244,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/平原綾香 with 久石譲": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1703},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4239},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 2679},
      { date: "2025年9月19日", videoId: "7B4G8LXv1m4", timestamp: 4654},
@@ -3510,6 +3514,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1940},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5367},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9853},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 1622 },
@@ -7339,6 +7344,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1399},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 9659},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8188},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7485},
@@ -8704,6 +8710,7 @@ const songStreamLinks = {
      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5689},
   ],
   "平行線/Eve × suis": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4490},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 8420},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 10058},
      { date: "2025年2月5日", videoId: "76sEx59ZSf8", timestamp: 4987},
@@ -9999,6 +10006,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2812},
       { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 962},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8334},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4943},
@@ -10457,6 +10465,7 @@ const songStreamLinks = {
    { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ], 
 "トリノコシティ/40mP": [
+   { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2437},
    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9154},
    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 7171},
    { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 2827},
