@@ -1,6 +1,7 @@
 const songStreamLinks = {
 
    "かたち/安月名莉子": [
+      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8243},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1342},
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5252},
@@ -1385,6 +1386,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 6880},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3266},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1681},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 6102 },
@@ -2848,6 +2850,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 5158},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2369},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6593},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4888},
@@ -2902,6 +2905,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4796},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 7173},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5370},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5202},
@@ -3635,6 +3639,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7977},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 2367},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4095},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6083},
@@ -8795,6 +8800,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7616},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 3397},
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8018 },
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2134},
@@ -8989,7 +8995,8 @@ const songStreamLinks = {
   "キミ以上、ボク未満。/DECO*27": [
       { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 3856},
   ],
-  "Snow Song Show/DECO*27": [
+   "Snow Song Show/DECO*27": [
+      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8559},
       { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 3129 },
       { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7366 },
       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 1741 },
@@ -10411,6 +10418,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7191},
     { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6492},
     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8817},
     { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1358 },
