@@ -1,5 +1,7 @@
 const songStreamLinks = {
-
+   "fragile/武田レイナ": [
+      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
+      ],
    "かたち/安月名莉子": [
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8243},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1342},
@@ -846,6 +848,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4036},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6564},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6301},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6837},
@@ -2352,6 +2355,7 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5823},
   ],
   "マーシャル・マキシマイザー/柊マグネタイト": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4329},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 7990},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9282},
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 7560},
@@ -5202,6 +5206,7 @@ const songStreamLinks = {
      { date: "2023年1月26日", videoId: "lb9LTP381-c", timestamp: 11753},
   ],
   "メンタルチェンソー/かいりきベア": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4505},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 8506},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 7896},
      { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 1390},
@@ -7157,6 +7162,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1984},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2083},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1333},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 952},
@@ -7242,6 +7248,7 @@ const songStreamLinks = {
      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 11650},
   ],
   　"インフェルノ/Mrs. GREEN APPLE": [
+      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4864},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6670},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8450},
       { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 1320},
@@ -7490,6 +7497,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1755},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1338},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 11495},
@@ -7923,7 +7931,8 @@ const songStreamLinks = {
      { date: "2023年5月22日", videoId: "2NSO1oOoe2A", timestamp: 7606},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
-   "シルエット/KANA-BOON": [
+  "シルエット/KANA-BOON": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 2367},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 5371},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6274},
      { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 2332},
@@ -9022,6 +9031,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 1157 },
   ],
    "Starry Heavens/day after tomorrow": [
+      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 3542},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 5427},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2343},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11174},
@@ -10319,6 +10329,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 2867},
     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3383},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8903},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7604},
@@ -10590,6 +10601,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "fragile/武田レイナ",
    "贅沢な匙/Van de Shop",
    "ウミユリ海底護/n-buna",
    "独りんぼエンヴィー/電ポルP",
@@ -12613,4 +12625,5 @@ const streamerSongList = [
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
     "贅沢な匙/Van de Shop",
     "かたち/安月名莉子",
+    "fragile/武田レイナ",
 ];
