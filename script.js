@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "daze/じん ft. メイリア from GARNiDELiA": [
+      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8403},
+      ],
    "fragile/武田レイナ": [
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
@@ -2226,6 +2229,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6665},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4854},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6885},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1072},
@@ -6176,6 +6180,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7363},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7694},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3337},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 1136},
@@ -7623,6 +7628,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6756},
   ],
   "oath sign/LiSA": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7004},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 3609},
      { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 7901},
      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 5979},
@@ -8316,6 +8322,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
+     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7800},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6652},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9461},
      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 7252},
@@ -10913,6 +10920,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "daze/じん ft. メイリア from GARNiDELiA", 
     "かたち/安月名莉子",                                  //來自深淵
     "贅沢な匙/Van de Shop",                             //擁有超常技能的異世界流浪美食家 第一季
     "アイコトバ/サクラメリーメン",                                         //世界第一初恋
@@ -12631,4 +12639,5 @@ const streamerSongList = [
     "贅沢な匙/Van de Shop",
     "かたち/安月名莉子",
     "fragile/武田レイナ",
+    "daze/じん ft. メイリア from GARNiDELiA",
 ];
