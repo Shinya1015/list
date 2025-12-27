@@ -2097,6 +2097,9 @@ const songStreamLinks = {
   "涙そうそう/夏川りみ": [
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
+ "渡月橋～君 想ふ～/倉木麻衣": [
+    { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6322},
+  ],
  "TRY AGAIN/倉木麻衣": [
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6198 },
     { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 4569 },
@@ -11197,6 +11200,7 @@ const animeSongs = [
     "どこまでも～How Far I'll Go～/屋比久知奈",        // 海洋奇緣 (Moana) - 電影 (日語版)
     "太陽曰く燃えよカオス/後ろから這いより隊G",         // 襲來！美少女邪神 (Nyaruko: Crawling with Love)
     "恋は渾沌の隷也/後ろから這いより隊G",               // 襲來！美少女邪神W (Nyaruko: Crawling with Love W)
+    "渡月橋～君 想ふ～/倉木麻衣",
     "always/倉木麻衣",                                  // 名偵探柯南 (Detective Conan) - 電影『往天國的倒數計時』主題曲 / ED
     "Secret of my heart/倉木麻衣",                      // 名偵探柯南 (Detective Conan)
     "Time after time～花舞う街で～/倉木麻衣",          // 名偵探柯南 (Detective Conan) - 電影『迷宮的十字路』主題曲
@@ -12422,6 +12426,7 @@ const streamerSongList = [
     "Soar/流星P",
     "magnet/湊 貴大(流星P)",
     "アイデンティティ/秋山黄色",
+    "渡月橋～君 想ふ～/倉木麻衣",
     "always/倉木麻衣",                                  // 名偵探柯南 (Detective Conan) - 電影『往天國的倒數計時』主題曲 / ED
     "Secret of my heart/倉木麻衣",                      // 名偵探柯南 (Detective Conan)
     "Time after time～花舞う街で～/倉木麻衣",          // 名偵探柯南 (Detective Conan) - 電影『迷宮的十字路』主題曲
