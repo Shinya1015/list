@@ -12681,4 +12681,5 @@ const streamerSongList = [
     "fragile/武田レイナ",
     "daze/じん ft. メイリア from GARNiDELiA",
     "ロビンソン/スピッツ",
+    "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
 ];
