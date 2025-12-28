@@ -1726,6 +1726,7 @@ const songStreamLinks = {
    　{ date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5355},
   ],
   "コンプレックス・イマージュ/彩音": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5519},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9771},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 4475},
      { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 3408},
@@ -4231,6 +4232,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4128},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1641},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2409},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4579},
@@ -4591,6 +4593,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 7427},
   ],
   "フォニイ/ツミキ": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5284},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 3751},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 12225},
      { date: "2024年9月10日-piano ver.", videoId: "9PoJ2QbvWmA", timestamp: 6671},
@@ -5546,6 +5549,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4975},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8775},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 4676},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 8212},
@@ -6194,6 +6198,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3694},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7363},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7694},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 3337},
@@ -7929,6 +7934,7 @@ const songStreamLinks = {
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 4674},
   ],
   "スターマーカー/KANA-BOON": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4692},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15883},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 7449},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 6121},
