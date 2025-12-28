@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "トウキョウト・ロック・シティ/えこ。feat.初音ミク": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
+      ],
    "ロビンソン/スピッツ": [
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3286},
       ],
