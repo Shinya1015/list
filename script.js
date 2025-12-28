@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "ロビンソン/スピッツ": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3286},
+      ],
    "daze/じん ft. メイリア from GARNiDELiA": [
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8403},
       ],
@@ -6,6 +9,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "かたち/安月名莉子": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1513},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8243},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1342},
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3124},
@@ -1236,6 +1240,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
   "輝きは君の中に/鈴木結女": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1056},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 6100},
      { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 5277},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 3043},
@@ -2101,6 +2106,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋～君 想ふ～/倉木麻衣": [
+    { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 2386},
     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6322},
   ],
  "TRY AGAIN/倉木麻衣": [
@@ -5587,6 +5593,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1735},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 5826},
       { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5950 },
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1342},
@@ -7010,6 +7017,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 793},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 750},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2289},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2155},
@@ -8353,6 +8361,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 2681},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 859},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3239},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8155},
@@ -12648,4 +12657,5 @@ const streamerSongList = [
     "かたち/安月名莉子",
     "fragile/武田レイナ",
     "daze/じん ft. メイリア from GARNiDELiA",
+    "ロビンソン/スピッツ",
 ];
