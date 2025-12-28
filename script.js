@@ -132,6 +132,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10237},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 7885},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5738},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6621},
@@ -715,6 +716,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
+    { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8547},
     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4295},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4756},
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1871},
@@ -1013,6 +1015,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6207},
     { date: "2025年12月6日-piano ver.", videoId: "dpzKvPL4-sU", timestamp: 4280},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4209},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2228},
@@ -3213,6 +3216,7 @@ const songStreamLinks = {
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
   "Override/市瀬るぽ": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 9059},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11410},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 7999},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10106},
@@ -3411,6 +3415,7 @@ const songStreamLinks = {
       { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4041 },
   ],
   "GLAMOROUS SKY/中島美嘉": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6656},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 2467 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 5804},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 5675},
@@ -4176,6 +4181,7 @@ const songStreamLinks = {
      { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 6152},
   ],
   "ブラッククリスマス/まふまふ": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 9520},
      { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2183},
      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 11542},
      { date: "2023年12月17日", videoId: "qKZUJRfb61U", timestamp: 7018},
@@ -5720,6 +5726,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5897},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4771},
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3467 },
       { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2806 },
@@ -6432,6 +6439,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
    "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6946},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22936},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8120},
       { date: "2025年5月13日-piano ver.", videoId: "zPR8pqQgpCE", timestamp: 1484},
@@ -7190,6 +7198,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8179},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1984},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2083},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1333},
@@ -7525,6 +7534,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1755},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1338},
@@ -8343,6 +8353,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
+     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7876},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7800},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6652},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9461},
@@ -8994,6 +9005,7 @@ const songStreamLinks = {
       { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 12595},
   ],
    "乙女解剖/DECO*27": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10951},
       { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3590},
       { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 7477},
       { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 9405 },
@@ -9395,6 +9407,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7560},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5089},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8767},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 1598},
@@ -10323,8 +10336,9 @@ const songStreamLinks = {
     { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 5404 },
   ],         
 "踊/Ado": [
-    { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 4811 },
-    { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3860 },
+   { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 9874},
+   { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 4811 },
+   { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3860 },
   ],         
 "新時代/Ado": [
     { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 2909 },
