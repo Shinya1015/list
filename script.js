@@ -1612,6 +1612,7 @@ const songStreamLinks = {
      { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 5459},
   ],
   "Happiness/嵐": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18940},
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2050},
   ],
   "ガーネット/奥華子": [
@@ -4686,6 +4687,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18708},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3024},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3015},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7433},
