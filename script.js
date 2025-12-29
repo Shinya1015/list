@@ -6,6 +6,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3164},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3286},
       ],
    "daze/じん ft. メイリア from GARNiDELiA": [
@@ -87,6 +88,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5463},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1318},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 939},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5706},
@@ -188,6 +190,7 @@ const songStreamLinks = {
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3293},
       ],
    "MOTTO!!!/Junky": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 2864},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11803},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
@@ -3440,6 +3443,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 7886},
   ],
   "空色デイズ/中川翔子": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5696},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1947},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 2267},
      { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 4728},
@@ -5590,6 +5594,7 @@ const songStreamLinks = {
 
   ],
   "群青/YOASOBI": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3969},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 1164},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 1872},
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 6450},
@@ -7400,6 +7405,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3582},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1399},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 9659},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8188},
@@ -9683,6 +9689,7 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 14545 },
   ],
  "アカシア/BUMP OF CHICKEN": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 2224},
     { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 2287},
     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6815},
     { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 1693},
