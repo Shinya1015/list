@@ -5894,6 +5894,7 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
   　"Get Wild/TM NETWORK": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6063},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4144},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2026},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8485},
@@ -6059,6 +6060,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 6626},
   ],
   "さぁ/SURFACE": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6374},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6356},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7741},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3270},
@@ -8054,6 +8056,7 @@ const songStreamLinks = {
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 6312},
   ],
   "スイートマジック/Junky": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6748},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2760},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15183},
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 5291},
@@ -8323,6 +8326,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10347},
   ],
   "# あくあ色ぱれっと/湊あくあ": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 7024},
      { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 1563},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6020},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 6480},
@@ -10324,7 +10328,8 @@ const songStreamLinks = {
     { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 1945 },
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 16327 },
     ], 
-"Blooming♡Blooming/AIKATSU☆STARS!": [ 
+ "Blooming♡Blooming/AIKATSU☆STARS!": [ 
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 7583},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8961},
     { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 936 },
     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1484 },
