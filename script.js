@@ -725,6 +725,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17785},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8547},
     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4295},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4756},
@@ -2412,6 +2413,7 @@ const songStreamLinks = {
      { date: "2023年6月29日(冒頭アカペラ)", videoId: "2KydWEbyldU", timestamp: 7584},
   ],
   "story/前島麻由": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18322},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1588},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3691},
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 590},
@@ -2653,7 +2655,8 @@ const songStreamLinks = {
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 10057 },
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
-  "プラチナ/坂本真綾": [
+ "プラチナ/坂本真綾": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16474},
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 6912 },
     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 942 },
     { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 1307 },
@@ -2750,6 +2753,7 @@ const songStreamLinks = {
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2240},
   ],
  "灰色と青/米津玄師": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16764},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6951},
     { date: "2025年7月30日", videoId: "1qjF5aZjpSQ", timestamp: 2489},
     { date: "2025年6月17日", videoId: "dOchrd8Pxwo", timestamp: 2459},
@@ -4641,6 +4645,7 @@ const songStreamLinks = {
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 7749},
   ],
   "動く、動く/チト(CV:水瀬いのり)、ユーリ(CV:久保ユリカ)": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15668},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 5190},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 9668},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 15583},
@@ -6001,6 +6006,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4636 },
   ],
   "HOT LIMIT/T.M.Revolution": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17269},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1951},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 9674},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 6564},
@@ -8359,6 +8365,7 @@ const songStreamLinks = {
      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 14893},
   ],
   "Alchemy/Girls Dead Monster": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17504},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9492},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14231},
      { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 6593},
