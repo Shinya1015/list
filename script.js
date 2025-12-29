@@ -1580,6 +1580,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4552},
   ],
   "丸の内サディスティック/椎名林檎": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 14815},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8778},
      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 1631 },
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 35784 },
@@ -6791,6 +6792,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 8180},
   ],
   "Good Time/Owl city & Carly Rae Jepsen": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 14575},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 9374},
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 34238},
   ],
@@ -10085,6 +10087,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15096},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 6898},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5196},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3893},
@@ -10101,6 +10104,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15370},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2812},
       { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 962},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8334},
