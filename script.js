@@ -1350,6 +1350,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 8439},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5605},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8608},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 9633},
@@ -10289,6 +10290,7 @@ const songStreamLinks = {
     { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2782 },
     ], 
 "Brave Shine/Aimer": [ 
+   { date: "2025年12月29日-piano ver.", videoId: "0QSIV-jYBWQ", timestamp: 8828},
    { date: "2025年12月10日-piano ver.", videoId: "J25GN_AA3ns", timestamp: 4236},
    { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6071},
    { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5605},
@@ -10346,7 +10348,8 @@ const songStreamLinks = {
     { date: "2023年9月24日", videoId: "yiPEGApmGdI", timestamp: 5004 },
     { date: "2023年8月30日", videoId: "sy_-z0MkfKk", timestamp: 5892 },
   ],            
-"START DASH SENSATION/AIKATSU STARS!": [
+ "START DASH SENSATION/AIKATSU STARS!": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 7866},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6660 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2026 },
     { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 1809 },
