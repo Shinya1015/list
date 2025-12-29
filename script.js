@@ -845,6 +845,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(一番のみ)", videoId: "WULCzP9OiTw", timestamp: 7938 },
   ],
   "Drawing days/SPLAY": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 9846},
      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 1483},
      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1415},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 2905},
@@ -2779,6 +2780,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12096},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 7176},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7426},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3044},
@@ -2937,6 +2939,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 11733},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4796},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 7173},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5370},
@@ -4301,6 +4304,7 @@ const songStreamLinks = {
      { date: "2024年8月25日", videoId: "9HthO5jsvYw", timestamp: 3240},   
   ],
    "アゲハ蝶/ポルノグラフィティ": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 11314},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6333},
       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 14386},
       { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1073},
@@ -4314,6 +4318,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20668},
   ],
   "SKY'S the limit/ぼくのりりっくのぼうよみ": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12487},
      { date: "2025年5月23日", videoId: "EBzrew6Ym1U", timestamp: 2388},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 3531},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 13095},
@@ -5050,6 +5055,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13388},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2015},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10490},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 13541},
@@ -6901,6 +6907,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 5485},
   ],
   "ミックスナッツ/Official髭男dism": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 10488},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 1225},
      { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 4012},
      { date: "2024年8月3日", videoId: "rwjMiF7Wh8k", timestamp: 1142},
@@ -7181,6 +7188,7 @@ const songStreamLinks = {
       { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5971},
   ],
    "夢幻/MY FIRST STORY x HYDE": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 11034},
       { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3562},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2621},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 2346},
@@ -7323,6 +7331,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13653},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5018},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 5823},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 10609},
@@ -9319,6 +9328,7 @@ const songStreamLinks = {
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 6350 },
   ],
   "桜ロック/CHERRYBLOSSOM": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 10183},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7061 },
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 4101 },
      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 1639 },
@@ -9791,6 +9801,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12890},
        { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7378},
        { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 1311},
        { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 23422},
