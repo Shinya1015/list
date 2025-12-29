@@ -1970,6 +1970,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
  "ひまわりの約束/秦基博": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 19244},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8795},
     { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2597},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 5243},
@@ -2125,6 +2126,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋～君 想ふ～/倉木麻衣": [
+    { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 21736},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 2386},
     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6322},
   ],
@@ -2890,6 +2892,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 20037},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 5158},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2369},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6593},
@@ -5037,6 +5040,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "青いベンチ/サスケ": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 20336},
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6531 },
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3784},
      { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 6434},
@@ -7306,6 +7310,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 7124},
   ],
   "ケセラセラ/Mrs. GREEN APPLE": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 19559},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 4920},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 2565},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 5851},
@@ -8392,6 +8397,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 22008},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7876},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7800},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6652},
