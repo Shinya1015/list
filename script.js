@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "桃源恋歌/GARNIDELIA": [
+      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1955},
+      ],
    "トウキョウト・ロック・シティ/えこ。feat.初音ミク": [
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
@@ -1469,6 +1472,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1039},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5306},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8660},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21605},
@@ -8083,6 +8087,7 @@ const songStreamLinks = {
      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
   ],
   "そばかす/JUDY AND MARY": [
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1594},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11145},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 3183},
      { date: "2024年6月2日", videoId: "UMOogvpsWV4", timestamp: 1342},
@@ -9149,9 +9154,10 @@ const songStreamLinks = {
       { date: "2025年3月12日(一番のみ)", videoId: "IFngoVs50Uo", timestamp: 6023},
   ],
   "ヒトリゴト/ClariS": [
-      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 9817 },
-      { date: "2023年10月14日", videoId: "8R2Kn-EBKdY", timestamp: 1930 },
-      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
+     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1269},
+     { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 9817 },
+     { date: "2023年10月14日", videoId: "8R2Kn-EBKdY", timestamp: 1930 },
+     { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
   ],
    "コネクト/ClariS": [
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3591},
@@ -12682,4 +12688,5 @@ const streamerSongList = [
     "daze/じん ft. メイリア from GARNiDELiA",
     "ロビンソン/スピッツ",
     "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
+    "桃源恋歌/GARNIDELIA",
 ];
