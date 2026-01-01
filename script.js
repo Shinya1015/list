@@ -2541,6 +2541,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 8458},
   ],
   "OK!/松本梨香": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 3198},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 2194},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6904},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 10218},
@@ -5438,6 +5439,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 2020},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 1064},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1537 },
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 7606},
@@ -7066,6 +7068,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 4988},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 793},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 750},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2289},
@@ -7235,6 +7238,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 1505},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8179},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1984},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2083},
@@ -7706,6 +7710,7 @@ const songStreamLinks = {
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 6780},
   ],
   "crossing field/LiSA": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 2357},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 2802},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 850},
      { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1749},
@@ -8917,6 +8922,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1408},
   ],
   "モノクロアクト/doriko": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 4709},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11024},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
@@ -10274,7 +10280,8 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 1691 },
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 5713 },
     ], 
-"聖少女領域/ALI PROJECT": [ 
+  "聖少女領域/ALI PROJECT": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 3435},
      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 4005 },
      { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 4553 },
      { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 3313 },
