@@ -7,6 +7,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9537},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3164},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3286},
       ],
@@ -3767,6 +3768,7 @@ const songStreamLinks = {
       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 6650},
   ],
   "あんたにあっかんべ/一二三": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 8403},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 12446},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9475},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1005},
@@ -4266,6 +4268,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9240},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4128},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1641},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2409},
@@ -6035,6 +6038,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9867},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1836},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1058},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 3276},
