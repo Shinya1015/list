@@ -7023,6 +7023,7 @@ const songStreamLinks = {
      { date: "2023年3月4日(一番のみ)", videoId: "STcegm8gGbQ", timestamp: 10288},
   ],
   "Cry Baby/Official髭男dism": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 5258},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 1213},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 4322},
      { date: "2024年10月12日", videoId: "de4cSPVlTCE", timestamp: 1177},
@@ -8723,6 +8724,7 @@ const songStreamLinks = {
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4999},
   ],
   "渇いた叫び/FIELD OF VIEW": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 5654},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 2929},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1665},
      { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 3344},
