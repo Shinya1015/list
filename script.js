@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "桃源恋歌/GARNIDELIA": [
+      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6258},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1955},
       ],
    "トウキョウト・ロック・シティ/えこ。feat.初音ミク": [
@@ -16,6 +17,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "かたち/安月名莉子": [
+      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6507},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1513},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8243},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1342},
@@ -9495,6 +9497,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 7140},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2747},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3042},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 4841 },
