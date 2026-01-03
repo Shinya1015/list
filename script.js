@@ -1034,6 +1034,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 11753},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6207},
     { date: "2025年12月6日-piano ver.", videoId: "dpzKvPL4-sU", timestamp: 4280},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4209},
@@ -1082,6 +1083,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12035},
     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 2409},
     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 2445},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9208},
@@ -4824,6 +4826,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 14381},
        { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8321},
        { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 488},
        { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 6298},
@@ -5876,6 +5879,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12403},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 10773},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 1717},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 9530},
@@ -7168,6 +7172,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 10215},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10491},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 681},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 4482},
@@ -9604,6 +9609,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9928},
     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 5296 },
     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4055},
     { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 20280},
