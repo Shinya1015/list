@@ -4432,6 +4432,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11917 }, 
   ],
   "17才/ハルカトミユキ": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 4483},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3543},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6322},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 9817},
@@ -5020,6 +5021,7 @@ const songStreamLinks = {
      { date: "2023年11月19日-piano ver.", videoId: "CeX2ME0QtAI", timestamp: 5099},
   ],
   "それは小さな光のような/さユり": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 5950},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 2332},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 3406},
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 7081},
@@ -5388,6 +5390,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1210},
   ],
   "Together/あきよしふみえ": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 4178},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 4136},
      { date: "2025年2月5日", videoId: "-2b4rj6lnxs", timestamp: 780},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6648},
@@ -5899,6 +5902,7 @@ const songStreamLinks = {
       { date: "2024年1月14日", videoId: "sWLVxcFKmP0", timestamp: 2546},
   ],
   "Adrenaline!!!/TrySail": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 4799},
      { date: "2024年1月22日", videoId: "Y8c_tShXSFE", timestamp: 3064},
   ],
   "BOY MEETS GIRL/TRF": [
@@ -6617,6 +6621,7 @@ const songStreamLinks = {
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
   ],
    "愛にできることはまだあるかい/RADWIMPS": [
+      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 6291},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 8255},
       { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 7761},
       { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 20650},
