@@ -18,6 +18,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8403},
       ],
    "fragile/武田レイナ": [
+      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 3777},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "かたち/安月名莉子": [
@@ -2424,6 +2425,7 @@ const songStreamLinks = {
      { date: "2023年6月29日(冒頭アカペラ)", videoId: "2KydWEbyldU", timestamp: 7584},
   ],
   "story/前島麻由": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2349},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18322},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1588},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3691},
@@ -5052,6 +5054,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "青いベンチ/サスケ": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 3507},
      { date: "2025年12月29日-piano ver.", videoId: "0QSIV-jYBWQ", timestamp: 20336},
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6531 },
      { date: "2024年11月13日", videoId: "3ROhRz-OULM", timestamp: 3784},
@@ -5549,6 +5552,7 @@ const songStreamLinks = {
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4665},
   ],
   "CHE.R.RY/YUI": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2031},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5741},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 708},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 633},
@@ -7977,6 +7981,7 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9981},
   ],
   "KING/Kanaria": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1868},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6200},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10784},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 816},
@@ -8297,6 +8302,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2737},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2093},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3979},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3059},
