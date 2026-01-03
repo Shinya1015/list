@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "敗北の少年/kemu": [
+      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
+      ],
    "桃源恋歌/GARNIDELIA": [
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6258},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1955},
@@ -1526,6 +1529,7 @@ const songStreamLinks = {
      { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 3073},
   ],
   "ギターと孤独と蒼い惑星/結束バンド": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 952},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21365},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 1497},
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2840},
@@ -4237,6 +4241,7 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4704},
   ],
   "ミュージック・アワー/ポルノグラフィティ": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1278},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 2711},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6629},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1380},
@@ -10720,6 +10725,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "敗北の少年/kemu",
    "fragile/武田レイナ",
    "贅沢な匙/Van de Shop",
    "ウミユリ海底護/n-buna",
@@ -12126,6 +12132,7 @@ const streamerSongList = [
     "crack/keeno",
     "glow/keeno",
     "人生リセットボタン/kemu",
+    "敗北の少年/kemu",
     "おはよう。/Keno",                                  // HUNTER×HUNTER 獵人 (1999年版)
     "ボクラの冒険/Kids Alive",                          // 棋魂 (Hikaru no Go)
     "OVERLAP/Kimeru",                                   // 遊☆戲☆王 怪獸之決鬥 (Yu-Gi-Oh! Duel Monsters)
