@@ -1625,6 +1625,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2050},
   ],
   "ガーネット/奥華子": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9150},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 1088},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 7313},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 3498 },
@@ -1768,6 +1769,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 8691},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 4603},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7906},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 3338},
@@ -3127,6 +3129,7 @@ const songStreamLinks = {
       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 6871},
   ],
     "First Love/宇多田ヒカル": [
+       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 8099},
        { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 4572},
        { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5465},
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 8378 },
@@ -9747,7 +9750,8 @@ const songStreamLinks = {
     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9912 },
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
-  "アンサー/BUMP OF CHICKEN": [
+ "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9593},
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 7161 },
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 23714 },
     { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 1160 },
