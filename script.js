@@ -826,6 +826,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 7693},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 4151},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 19457},
      { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 1405},
@@ -1965,6 +1966,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 5714},
   ],
   "お願いマッスル/紗倉ひびき(ファイルーズあい)&街雄鳴造(石川界人)": [
+     { date: "2026年1月1日(一番のみ)", videoId: "0Yq27xK62GY", timestamp: 6785},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10029},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 7193},
      { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 3017},
@@ -8179,6 +8181,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 6056 },
   ],
   "明日への扉/I WiSH": [
+     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 7007},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8720},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 7129},
      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 9131},
