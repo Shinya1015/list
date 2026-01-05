@@ -2153,6 +2153,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋～君 想ふ～/倉木麻衣": [
+    { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 17802},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 21736},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 2386},
     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6322},
@@ -3282,6 +3283,7 @@ const songStreamLinks = {
      { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 1772},
   ],
   "消せない罪/北出菜奈": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 17077},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 2132},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 9386},
      { date: "2024年6月9日", videoId: "H44r3f8RyPw", timestamp: 2816},
@@ -3514,6 +3516,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 11289},
   ],
   "PSI-missing/川田まみ": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16794},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 4006},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15731},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3768},
@@ -7128,6 +7131,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 17482},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 4988},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 793},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 750},
@@ -7413,6 +7417,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 18489},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15477},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13653},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5018},
@@ -8729,6 +8734,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 8033},
   ],
   "Believe/Folder5": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16236},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6120},
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 5299},
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 515},
@@ -9403,6 +9409,7 @@ const songStreamLinks = {
     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 1156 },
   ],
   "プライド革命/CHiCO with HoneyWorks": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16495},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6294 },
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 6368 },
      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 3734 },
