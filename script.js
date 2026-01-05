@@ -6,6 +6,7 @@ const songStreamLinks = {
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
    "桃源恋歌/GARNIDELIA": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7872},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6258},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1955},
       ],
@@ -4097,6 +4098,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
    "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7594},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10333},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3890},
       { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 3595},
@@ -7590,6 +7592,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4196},
   ],
   "ライオン/May'n/中島愛": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 8208},
      { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 11392},
      { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 1324},
      { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 890},
@@ -8432,6 +8435,7 @@ const songStreamLinks = {
      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 14893},
   ],
   "Alchemy/Girls Dead Monster": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 9194},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17504},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 9492},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14231},
@@ -8685,6 +8689,7 @@ const songStreamLinks = {
      { date: "2023年7月15日(メン限)", videoId: "Z_8YWy3fyNo", timestamp: 2424},
   ],
   "only my railgun/fripSide": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 8523},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3955},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 4089},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10288},
@@ -9745,6 +9750,7 @@ const songStreamLinks = {
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
  "カルマ/BUMP OF CHICKEN": [
+    { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7374},
     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 5136},
     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 4545},
     { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 1236 },
