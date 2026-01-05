@@ -233,6 +233,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 1967},
       ],
    "HIGH POWERED/スフィア": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 12317},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 6319},
       { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 2552},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4331},
@@ -853,6 +854,7 @@ const songStreamLinks = {
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 10117},
   ],
   "心絵/ロードオブメジャー": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 12017},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 9039},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5048},
      { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1472 },
@@ -1428,6 +1430,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10926},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 6880},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3266},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 1681},
@@ -2526,6 +2529,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5786},
   ],
     "brave heart/宮崎歩": [
+       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 11509},
        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 1816 },
        { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 6478},
        { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10628},
@@ -6287,6 +6291,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13285},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3694},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7363},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7694},
@@ -6987,6 +6992,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20294},
   ],
   "ホワイトノイズ/Official髭男dism": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14178},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8318},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 3096},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 3433 },
@@ -7031,6 +7037,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13529},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 716},
     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 7053},
     { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 4302 },
@@ -8612,6 +8619,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 12896},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8498},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 5806},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7007},
@@ -9266,6 +9274,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
   ],
    "コネクト/ClariS": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 11215},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3591},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7183},
       { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 4207},
@@ -10080,6 +10089,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9925 },
      ],       
     "リライト/ASIAN KUNG-FU GENERATION": [
+       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 11771},
        { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1079},
        { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 1577},
        { date: "2025年2月16日", videoId: "uGJVaBlFHlU", timestamp: 1046 },
