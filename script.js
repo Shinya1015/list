@@ -1579,6 +1579,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 1664},
   ],
   "カラカラ/結束バンド": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4690},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7979},
      { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 2596},
      { date: "2024年7月4日", videoId: "N4C_Ugo-OqI", timestamp: 2799},
@@ -3232,6 +3233,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 10100},
   ],
   "冒険でしょでしょ？/平野綾": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3333},
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 4437},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 6379},
      { date: "2024年10月16日", videoId: "WklpoIOrRWg", timestamp: 3724},
@@ -4281,6 +4283,7 @@ const songStreamLinks = {
      { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 2252},
   ],
   "ハネウマライダー/ポルノグラフィティ": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4340},
      { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 5327},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 20548},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 7879},
@@ -5069,6 +5072,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "青いベンチ/サスケ": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4033},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 3507},
      { date: "2025年12月29日-piano ver.", videoId: "0QSIV-jYBWQ", timestamp: 20336},
      { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 6531 },
