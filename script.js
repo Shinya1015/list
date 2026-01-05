@@ -2078,6 +2078,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 6830},
   ],
   "YUME日和/島谷ひとみ": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20301},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6952},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2092},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 748},
@@ -3731,6 +3732,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20039},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7977},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 2367},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 4095},
@@ -9922,6 +9924,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19659},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15918},
        { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12890},
        { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 7378},
