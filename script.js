@@ -945,6 +945,7 @@ const songStreamLinks = {
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
    "ニブンノイチ/BACK-ON": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 9763},
       { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 1903},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1165},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 2756},
@@ -6038,7 +6039,8 @@ const songStreamLinks = {
   "The secret garden/葉月ゆら": [
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 2845},
   ],
-  "resonance/T.M.Revolution": [
+   "resonance/T.M.Revolution": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 9475},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 3458 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 9296 },
       { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 2089 },
@@ -9614,6 +9616,7 @@ const songStreamLinks = {
     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
   ],
 　"天体観測/BUMP OF CHICKEN": [
+    { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10645},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5976},
     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5499},
     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8211},
