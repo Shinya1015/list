@@ -2640,6 +2640,7 @@ const songStreamLinks = {
      { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 9434},
   ],
   "Butter-Fly/和田光司": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6462},
      { date: "2025年3月8日", videoId: "1MVPwcDgipM", timestamp: 2943},
      { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 5755},
      { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 2179},
@@ -2882,6 +2883,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15164},
   ],
   "ピースサイン/米津玄師": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5888},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1051},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2378 },
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4873},
@@ -3660,6 +3662,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 8058},
   ],
   "カサブタ/千綿ヒデノリ": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6215},
      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2172},
      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 1560},
      { date: "2024年5月24日", videoId: "SUiLY582aLY", timestamp: 3237},
@@ -5794,6 +5797,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6808},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5897},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4771},
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3467 },
@@ -6945,6 +6949,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 5346},
   ],
   "以心電信/ORANGE RANGE": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5133},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 4879},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3981},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19505},
@@ -8064,6 +8069,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3466},
   ],
   "シルエット/KANA-BOON": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7047},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 2367},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 5371},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6274},
@@ -9541,6 +9547,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5478},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 7140},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2747},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 3042},
