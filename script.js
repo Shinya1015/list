@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "浜崎あゆみ/BLUE BIRD": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
+      ],
    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3103},
       ],
@@ -6471,6 +6474,7 @@ const songStreamLinks = {
      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 1530},
   ],
   "スターライトパレード/SEKAI NO OWARI": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 18829},
      { date: "2025年3月13日", videoId: "CvXtgxWmlyQ", timestamp: 3304},
      { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 1676},
      { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 3612},
@@ -12841,4 +12845,5 @@ const streamerSongList = [
     "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
     "桃源恋歌/GARNIDELIA",
     "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
+   "浜崎あゆみ/BLUE BIRD",
 ];
