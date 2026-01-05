@@ -5017,6 +5017,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3844},
   ],
   "花の塔/さユり": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 15338},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 5492},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8358},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 11914},
@@ -5634,6 +5635,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16003},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4975},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8775},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 4676},
