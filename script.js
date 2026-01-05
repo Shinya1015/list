@@ -7389,6 +7389,7 @@ const songStreamLinks = {
      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 11650},
   ],
   　"インフェルノ/Mrs. GREEN APPLE": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13529},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4864},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6670},
       { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8450},
