@@ -1497,6 +1497,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14469},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1039},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5306},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8660},
@@ -1524,6 +1525,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 7943},
   ],
   "なにが悪い/結束バンド": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14701},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2692},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5289},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 14857},
@@ -7721,7 +7723,8 @@ const songStreamLinks = {
      { date: "2024年1月12日", videoId: "c5lqCzfIh10", timestamp: 4151},
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 5155},
   ],
-  "悲しみをやさしさに/little by little": [
+   "悲しみをやさしさに/little by little": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 15049},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 3193 },
       { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 4572 },
       { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 10082 },
