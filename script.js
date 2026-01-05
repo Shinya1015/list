@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3103},
+      ],
    "敗北の少年/kemu": [
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
@@ -10,6 +13,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1111},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9537},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3164},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3286},
@@ -3043,6 +3047,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 19143 },
   ],
   "KICK BACK/米津玄師": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 2891},
      { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7373},
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 4519},
      { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 5260},
@@ -7270,6 +7275,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1857},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 1505},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8179},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1984},
@@ -7469,6 +7475,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 2418},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3582},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1399},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 9659},
@@ -9760,6 +9767,7 @@ const songStreamLinks = {
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
  "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1484},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9593},
     { date: "2025年1月29日", videoId: "CaqdQWpMC-g", timestamp: 7161 },
     { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 23714 },
@@ -10258,6 +10266,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 773},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3028},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6721},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2073},
@@ -12788,4 +12797,5 @@ const streamerSongList = [
     "ロビンソン/スピッツ",
     "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
     "桃源恋歌/GARNIDELIA",
+    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
 ];
