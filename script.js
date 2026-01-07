@@ -1095,7 +1095,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
-    { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 3140},
+　　{ date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 7237},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12035},
     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 2409},
     { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 2445},
