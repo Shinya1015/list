@@ -103,6 +103,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10074},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5463},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1318},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 939},
@@ -5826,6 +5827,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10357},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6808},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5897},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4771},
@@ -6780,6 +6782,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10609},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 9017},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 2772},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1931},
@@ -9128,6 +9131,7 @@ const songStreamLinks = {
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5050 },
   ],
    "夜行性ハイズ/DECO*27": [
+      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 8431},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 9062},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 8439},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 11804},
@@ -10245,6 +10249,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 9401},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15370},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2812},
       { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 962},
