@@ -1094,6 +1094,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 7237},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 3140},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12035},
     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 2409},
@@ -3486,6 +3487,7 @@ const songStreamLinks = {
       { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 4041 },
   ],
   "GLAMOROUS SKY/中島美嘉": [
+     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 6181},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6656},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 2467 },
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 5804},
@@ -6548,6 +6550,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
    "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 6613},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6946},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22936},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 8120},
@@ -10555,6 +10558,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 8053},
     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 2867},
     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3383},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8903},
