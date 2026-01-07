@@ -3275,6 +3275,9 @@ const songStreamLinks = {
       { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 8941},
       { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 2775},
   ],
+  "alive/市瀬るぽ": [
+     { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 3103},
+  ],
   "Step by step/市瀬るぽ": [
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
@@ -12566,6 +12569,7 @@ const streamerSongList = [
     "innocent starter/水樹奈々",                        // 魔法少女奈葉 (Magical Girl Lyrical Nanoha)
     "エジソン/水曜日のカンパネラ",
     "消せない罪/北出菜奈",                              // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
+    "alive/市瀬るぽ",
     "Override/市瀬るぽ",
     "Step by step/市瀬るぽ",
     "POP STAR/平井堅",
