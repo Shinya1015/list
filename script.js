@@ -1045,6 +1045,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 3140},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 11753},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6207},
     { date: "2025年12月6日-piano ver.", videoId: "dpzKvPL4-sU", timestamp: 4280},
