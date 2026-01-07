@@ -2160,7 +2160,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12581},
    ],
   "涙そうそう/夏川りみ": [
-     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 11504},
+     { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 11504},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋～君 想ふ～/倉木麻衣": [
@@ -5829,7 +5829,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
-      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10357},
+      { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 10357},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6808},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5897},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4771},
