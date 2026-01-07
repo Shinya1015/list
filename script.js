@@ -836,6 +836,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 11154},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 7693},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 4151},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 19457},
@@ -2159,6 +2160,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12581},
    ],
   "涙そうそう/夏川りみ": [
+     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 11504},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋～君 想ふ～/倉木麻衣": [
@@ -7856,6 +7858,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 15554},         
   ],
     "小さなてのひら/Lia": [
+       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 11843},
        { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9538},
        { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 17269},
        { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4505},
