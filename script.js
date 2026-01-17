@@ -11516,7 +11516,7 @@ const animeSongs = [
     "ギー太に首ったけ/平沢唯(豊崎愛生)",                // K-ON！輕音部 (K-On!) - 角色歌曲
     "Dear My Friend~まだ見ぬ未来へ~/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
     "Ring My Bell/blue drops",                          // 天降之物f (Sora no Otoshimono: Forte)
-    "party night/真田アサミ・沢城みゆき・氷上 恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
+    "PARTY☆NIGHT/真田アサミ・沢城みゆき・氷上恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
     "Fast Forward/MONKEY MAJIK",                        // 妖怪少爺 (Nura: Rise of the Yokai Clan)
     "Sunshine/MONKEY MAJIK",
@@ -12804,7 +12804,7 @@ const streamerSongList = [
     "ギー太に首ったけ/平沢唯(豊崎愛生)",                // K-ON！輕音部 (K-On!) - 角色歌曲
     "Dear My Friend~まだ見ぬ未来へ~/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
     "Ring My Bell/blue drops",                          // 天降之物f (Sora no Otoshimono: Forte)
-    "party night/真田アサミ・沢城みゆき・氷上 恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
+    "PARTY☆NIGHT/真田アサミ・沢城みゆき・氷上恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
     "Fast Forward/MONKEY MAJIK",                        // 妖怪少爺 (Nura: Rise of the Yokai Clan)
     "Sunshine/MONKEY MAJIK",
