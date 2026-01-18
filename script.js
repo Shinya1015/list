@@ -4320,7 +4320,7 @@ const songStreamLinks = {
      { date: "2023年11月5日", videoId: "C-a3Y32FgzA", timestamp: 4704},
   ],
   "ミュージック・アワー/ポルノグラフィティ": [
-     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15163},
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 25163},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1278},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 2711},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6629},
