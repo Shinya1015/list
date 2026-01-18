@@ -487,6 +487,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
   ],
   "PARTY☆NIGHT/真田アサミ・沢城みゆき・氷上恭子": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22330},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
@@ -6188,6 +6189,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 6626},
   ],
   "さぁ/SURFACE": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22081},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6374},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 6356},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7741},
@@ -9058,6 +9060,7 @@ const songStreamLinks = {
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 2624},
   ],
    "Get Over/dream": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 21332},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 4051},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6522},
       { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 5301},
@@ -9941,6 +9944,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 21696},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 16419},
        { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 1013},
        { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 852},
