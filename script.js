@@ -164,6 +164,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15655},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10237},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 7885},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5738},
@@ -1105,6 +1106,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18770},
 　　{ date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 7237},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12035},
     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 2409},
@@ -1445,6 +1447,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19567},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10926},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 6880},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3266},
@@ -5550,6 +5553,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1711},
   ],
    "Rolling star/YUI": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19335},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 11028},
       { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 2829},
       { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1654},
@@ -5626,6 +5630,7 @@ const songStreamLinks = {
      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 4665},
   ],
   "CHE.R.RY/YUI": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19084},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2031},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5741},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 708},
@@ -5851,6 +5856,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18469},
       { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 10357},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6808},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 5897},
@@ -6470,7 +6476,8 @@ const songStreamLinks = {
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 6123},
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
-   "最高到達点/SEKAI NO OWARI": [
+  "最高到達点/SEKAI NO OWARI": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19849},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3922},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5503},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 3285},
@@ -7908,6 +7915,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7987},
   ],
   "My Soul,Your Beats!/Lia": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 16161},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2993},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 2149},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 3427},
@@ -8507,6 +8515,7 @@ const songStreamLinks = {
      { date: "2023年2月28日", videoId: "fZtpLFMNs2s", timestamp: 11208},
   ],
   "Crow Song/Girls Dead Monster ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15899},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 1279},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 907},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 4043},
@@ -9257,6 +9266,7 @@ const songStreamLinks = {
       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 1741 },
   ],
    "そして僕にできるコト/day after tomorrow": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18140},
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5021},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2692},
       { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 8364},
