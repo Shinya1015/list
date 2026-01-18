@@ -2271,6 +2271,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3234},
     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 7315},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2859},
     { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 3142},
@@ -10455,6 +10456,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3951},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 773},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3028},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6721},
@@ -10904,6 +10906,7 @@ const songStreamLinks = {
   { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
  "グッドナイトエクスプレス/鏡音リン・レン": [
+    { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3650},
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
     ],
  "Ur-Style/DATEKEN feat.鏡音リン": [
