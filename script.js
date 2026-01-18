@@ -5,6 +5,9 @@ const songStreamLinks = {
    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3103},
       ],
+   "インビジブル/kemu": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6359},
+      ],
    "敗北の少年/kemu": [
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
@@ -12259,6 +12262,7 @@ const streamerSongList = [
     "crack/keeno",
     "glow/keeno",
     "人生リセットボタン/kemu",
+    "インビジブル/kemu",
     "敗北の少年/kemu",
     "おはよう。/Keno",                                  // HUNTER×HUNTER 獵人 (1999年版)
     "ボクラの冒険/Kids Alive",                          // 棋魂 (Hikaru no Go)
