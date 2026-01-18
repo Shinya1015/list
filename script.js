@@ -53,6 +53,7 @@ const songStreamLinks = {
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33677},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4793},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
       ],
@@ -201,6 +202,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34988},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3859},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1048 },
       { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 7364},
@@ -2504,6 +2506,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
    "Story/19's Sound Factory": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33403},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4182},      
       { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1547},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 7260},
@@ -4909,6 +4912,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34312},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 14381},
        { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8321},
        { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 488},
