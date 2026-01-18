@@ -2763,6 +2763,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 5044 },
   ],
   "トリセツ/西野カナ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15301},
      { date: "2025年1月25日", videoId: "ODwLV-exnQU", timestamp: 5181},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 19721},
      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 3693},
@@ -4770,6 +4771,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14802},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18708},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3024},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3015},
@@ -8418,6 +8420,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15038},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2737},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2093},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3979},
