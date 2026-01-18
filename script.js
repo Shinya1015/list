@@ -5118,6 +5118,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
   "青いベンチ/サスケ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9084},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4033},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 3507},
      { date: "2025年12月29日-piano ver.", videoId: "0QSIV-jYBWQ", timestamp: 20336},
