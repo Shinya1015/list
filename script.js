@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "空も飛べるはず/スピッツ": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
+      ],
    "浜崎あゆみ/BLUE BIRD": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
       ],
@@ -20,6 +23,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8401},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1111},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9537},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3164},
@@ -4131,6 +4135,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
    "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6886},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7594},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10333},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 3890},
@@ -5764,6 +5769,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 4059},
   ],
   "アドベンチャー/YOASOBI": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 7851},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2589 },
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 474},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 6866},
@@ -7015,6 +7021,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 5485},
   ],
   "ミックスナッツ/Official髭男dism": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 7521},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 10488},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 1225},
      { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 4012},
@@ -7107,6 +7114,7 @@ const songStreamLinks = {
     { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 3727 },
   ],
   "HELLO/Official髭男dism": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8065},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 510 },
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 818},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 6006},
@@ -7428,6 +7436,7 @@ const songStreamLinks = {
      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 11650},
   ],
   　"インフェルノ/Mrs. GREEN APPLE": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 7252},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13529},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4864},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 6670},
@@ -8548,6 +8557,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6600},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 2681},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 859},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3239},
@@ -12893,4 +12903,5 @@ const streamerSongList = [
     "桃源恋歌/GARNIDELIA",
     "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
    "浜崎あゆみ/BLUE BIRD",
+   "空も飛べるはず/スピッツ",
 ];
