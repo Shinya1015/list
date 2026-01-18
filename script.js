@@ -429,6 +429,7 @@ const songStreamLinks = {
      { date: "2025年4月10日(一番のみ)", videoId: "QUsI2G0TNdQ", timestamp: 11677 },
   ],
   "三原色/PELICAN FANCLUB": [
+     { date: "2026年1月17日(アカペラ)", videoId: "Apxs3ert97M", timestamp: 28936},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 2450},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 7435},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 1874},
@@ -447,6 +448,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 28685},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 1381},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6257},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 7383},
@@ -4662,6 +4664,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 28405},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1918},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 2176},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 3871 },
