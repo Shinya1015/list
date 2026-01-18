@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "ルンがピカッと光ったら/ワルキューレ": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22728},
+      ],
    "空も飛べるはず/スピッツ": [
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
@@ -11210,6 +11213,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
     "daze/じん ft. メイリア from GARNiDELiA", 
     "かたち/安月名莉子",                                  //來自深淵
     "贅沢な匙/Van de Shop",                             //擁有超常技能的異世界流浪美食家 第一季
@@ -12939,4 +12943,5 @@ const streamerSongList = [
     "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
    "浜崎あゆみ/BLUE BIRD",
    "空も飛べるはず/スピッツ",
+   "ルンがピカッと光ったら/ワルキューレ",
 ];
