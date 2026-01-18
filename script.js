@@ -37,6 +37,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12168},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6507},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1513},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 8243},
@@ -2711,6 +2712,7 @@ const songStreamLinks = {
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
  "プラチナ/坂本真綾": [
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14238},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16474},
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 6912 },
     { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 942 },
@@ -4337,6 +4339,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 11867},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9240},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4128},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1641},
@@ -6334,6 +6337,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 13333},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13285},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 3694},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7363},
@@ -7006,6 +7010,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 5346},
   ],
   "以心電信/ORANGE RANGE": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14536},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5133},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 4879},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 3981},
@@ -9719,6 +9724,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12494},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9928},
     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 5296 },
     { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4055},
@@ -9762,6 +9768,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12908},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15074},
     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1131},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 938},
@@ -9835,6 +9842,7 @@ const songStreamLinks = {
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
  "カルマ/BUMP OF CHICKEN": [
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 13547},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7374},
     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 5136},
     { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 4545},
