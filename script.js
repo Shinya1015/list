@@ -5776,7 +5776,7 @@ const songStreamLinks = {
   ],
   "夜に駆ける/YOASOBI": [
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 26336},
-     { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 7494},
+     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 7494},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 7765},
      { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 743},
      { date: "2024年7月21日", videoId: "8srFrHvleKw", timestamp: 3307},
