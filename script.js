@@ -2303,6 +2303,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 10111},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6665},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4854},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 6885},
@@ -3878,6 +3879,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 7408},
   ],
   "花になって/緑黄色社会": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 11636},
      { date: "2024年11月20日", videoId: "xDW2_zghX3I", timestamp: 790},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 1523},
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6946},
@@ -7668,6 +7670,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 2513},
   ],
   "絆ノ奇跡/MAN WITH A MISSION × milet": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 11385},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5809},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8922},
      { date: "2025年3月18日", videoId: "oXcvvDAPpEU", timestamp: 1148},
@@ -8682,6 +8685,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9701},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 12896},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8498},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 5806},
@@ -8746,6 +8750,7 @@ const songStreamLinks = {
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 3991},
   ],
   "LEVEL5 -judgelight-/fripSide": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 11067},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10882},
      { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 2067},
      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 6585},
