@@ -272,6 +272,7 @@ const songStreamLinks = {
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 12898},
       ], 
    "遥か/清竜人": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 35824},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 850},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10265},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4439},
@@ -2969,6 +2970,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 35357},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 20037},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 5158},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2369},
@@ -4636,6 +4638,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 4015},
   ],
   "タカラモノ～この声がなくなるまで～/ナオト・インティライミ": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 36372},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 5556},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 6844},
      { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 3249},
