@@ -2037,6 +2037,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
  "ひまわりの約束/秦基博": [
+    { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 7327},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 19244},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8795},
     { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2597},
@@ -2191,6 +2192,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12581},
    ],
   "涙そうそう/夏川りみ": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 8506},
      { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 11504},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
@@ -4593,6 +4595,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 7775},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9312},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1110},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 18056},
@@ -6804,6 +6807,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
   "なんでもないや/RADWIMPS": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 8110},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 1292},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 10158},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 8699},
