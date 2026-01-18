@@ -81,6 +81,7 @@ const songStreamLinks = {
       { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 4146},
       ],
    "PURENESS/SHAZNA": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33028},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5250},
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 6816},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2558},
@@ -144,6 +145,7 @@ const songStreamLinks = {
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5989},
       ],
    "Now or Never/ナノ": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 32676},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 5011},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 9660},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4452},
@@ -3226,6 +3228,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
 　　"Ready Go!/田村直美": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 32205},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4672},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9169},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 3342},
