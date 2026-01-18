@@ -2209,6 +2209,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 2931},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4573},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6075},
      { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 3923},
@@ -2633,6 +2634,7 @@ const songStreamLinks = {
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1956},
      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2427},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 9536},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 2971},
@@ -3357,6 +3359,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 16662},
   ],
    "innocent starter/水樹奈々": [
+      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 2611},
       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1407},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 1737 },
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 831},
@@ -3923,6 +3926,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 863},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 12389},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 2063},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 6481},
@@ -4089,6 +4093,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1237},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 5417},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5467},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14979},
@@ -5229,6 +5234,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
   "たばこ/コレサワ": [
+     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 489},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 3658},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 22070},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 5073},
@@ -10425,6 +10431,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
     ],      
  "僕が死のうと思ったのは/amazarashi": [
+    { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1526},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6044 },
     { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
     { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 9091 },
