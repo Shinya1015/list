@@ -15,6 +15,7 @@ const songStreamLinks = {
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
    "桃源恋歌/GARNIDELIA": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20643},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7872},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6258},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1955},
@@ -1543,6 +1544,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 7943},
   ],
   "なにが悪い/結束バンド": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20399},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14701},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2692},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5289},
@@ -7478,6 +7480,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20101},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 18489},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15477},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13653},
@@ -8552,6 +8555,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2326},
   ],
   "極楽浄土/GARNiDELiA": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20913},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 22008},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7876},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 7800},
