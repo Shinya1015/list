@@ -706,6 +706,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
 　　"星屑のインターリュード/fhana": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 37040},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 3369},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3349},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 806},
@@ -2706,6 +2707,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 36772},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1281},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1523},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1352},
@@ -2865,6 +2867,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 41476},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12096},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 7176},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 7426},
@@ -5527,6 +5530,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 40630},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1734},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7713},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22519},
@@ -5983,6 +5987,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 39368},
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12403},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 10773},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 1717},
@@ -6047,6 +6052,7 @@ const songStreamLinks = {
       { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4378},
   ],
   　"Get Wild/TM NETWORK": [
+      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 41175},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6063},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 4144},
       { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2026},
@@ -6849,6 +6855,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 38849},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10609},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 9017},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 2772},
@@ -8524,6 +8531,7 @@ const songStreamLinks = {
      { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6346},
   ],
   "あいうえおんがく/GReeeeN": [
+     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 40234},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 5421},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 22283},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 9996},
@@ -10081,6 +10089,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 39754},
         { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1664},
         { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4220},
         { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 3236},
