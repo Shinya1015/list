@@ -113,7 +113,7 @@ button:active { transform: scale(0.98); }
 [id$="-link"] { position: fixed; z-index: 1000; }
 [id$="-link"] img { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
 
-/* 特別針對 FANBOX 取消圓形並加上底色 */
+/* FANBOX 特別設定 */
 #fanbox-link img { border-radius: 4px !important; background-color: white; padding: 2px; box-sizing: border-box; }
 
 [id$="-link"] img:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
@@ -123,69 +123,49 @@ button:active { transform: scale(0.98); }
 #twitter-link { bottom: 8px; right: 60px; }
 #twitter-link img { background-color: black; }
 #custom-link { bottom: 8px; right: 110px; }
-#twitcasting-link { bottom: 8px; right: 160px; }
-#fanbox-link { bottom: 10px; right: 210px; }
+
+/* 左右調換後的結果：FANBOX 在 160px，TwitCasting 在 210px */
+#fanbox-link { bottom: 10px; right: 160px; }
+#twitcasting-link { bottom: 8px; right: 210px; }
+
 #amazon-link { bottom: 10px; left: 10px; }
 #booth-link { bottom: 10px; left: 60px; }
 
-/* --- Medium Screens (Tablets) --- */
+/* --- Tablet Screens (768px) --- */
 @media (max-width: 768px) {
     .container { padding: 20px; width: 90%; margin: 10px auto; }
     #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
-    .song-list-header { padding: 8px 12px; gap: 10px; }
-    .song-list-header h2 { font-size: 1.1em; }
-    .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
-    #notion-header-button { padding: 6px 10px; font-size: 13px; }
-    #close-button { padding: 6px 12px; font-size: 13px; }
-    .search-wrapper { margin-top: 8px; }
-    #search-input { font-size: 13px; padding: 6px 10px; }
-    .list-filter-controls { padding: 6px 12px; }
-    label[for="list-song-type-filter"] { font-size: 13px; }
-    #list-song-type-filter { font-size: 13px; padding: 6px 10px; min-width: 100px; }
-    #songs li { padding: 6px 10px; }
-    #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; }
-    .copy-button { padding: 4px 8px; font-size: 11px; }
-
+    
     #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #fanbox-link {
         display: block !important;
     }
-    [id$="-link"] img { width: 40px; height: 40px; }
+    
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
-    #twitcasting-link { right: 160px; }
+    
+    /* 手機平板版也對調：TwitCasting 移到左側，FANBOX 移到右側原位 */
+    #twitcasting-link { left: 110px; right: auto; }
+    #fanbox-link { right: 160px; left: auto; }
     
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
-    #fanbox-link { left: 110px; right: auto; } 
 }
 
-/* --- Small Screens (Phones) --- */
+/* --- Small Screens (Phones 480px) --- */
 @media (max-width: 480px) {
-    #song-list { width: 95%; max-height: 60vh; margin: 10px auto; }
-    .song-list-header { padding: 8px 10px; gap: 6px; }
-    .song-list-header h2 { font-size: 1em; white-space: normal; }
-    .song-list-header p#song-count { font-size: 0.75em; }
-    #notion-header-button { padding: 5px 8px; font-size: 12px; }
-    #close-button { padding: 5px 10px; font-size: 12px; }
-    .search-wrapper { margin-top: 4px; }
-    #search-input { font-size: 13px; padding: 6px 10px; }
-    #clear-search-button { font-size: 1.2em; padding: 0 6px; }
-    .list-filter-controls { padding: 5px 10px; justify-content: center; }
-    label[for="list-song-type-filter"] { font-size: 12px; }
-    #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
-    #songs li { padding: 5px 8px; }
-    #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; }
-    .copy-button { padding: 3px 7px; font-size: 10px; }
-
+    /* 手機版 TwitCasting 預設隱藏 */
+    #twitcasting-link { display: none !important; }
+    
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
-    #twitcasting-link { display: none; }
     
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
-    #fanbox-link { left: 110px; right: auto; } 
+    
+    /* 手機版 FANBOX 維持在左側第三個位置較美觀 */
+    #fanbox-link { left: 110px; right: auto; }
 }
 
 /* --- Modal Styles --- */
@@ -195,10 +175,8 @@ button:active { transform: scale(0.98); }
 .modal-header h3 { margin: 0; font-size: 1.2em; color: #333; }
 #modal-close-button { background: none; border: none; font-size: 1.8em; font-weight: bold; color: #888; cursor: pointer; padding: 0 5px; line-height: 1; margin: -5px -5px -5px 5px; }
 #modal-close-button:hover { color: #333; }
-.modal-body p { font-size: 0.9em; color: #555; margin-bottom: 10px; }
-#modal-stream-list { list-style-type: decimal; padding: 0; margin: 0; padding-left: 25px; }
+#modal-stream-list { list-style-type: decimal; padding-left: 25px; }
 #modal-stream-list li { padding: 8px 0; border-bottom: 1px dashed #eee; cursor: pointer; font-size: 0.95em; color: #333; transition: background-color 0.2s ease; }
 #modal-stream-list li span.modal-list-date { color: #007bff; }
-#modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
