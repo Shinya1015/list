@@ -160,11 +160,17 @@ button:active { transform: scale(0.98); }
         text-overflow: ellipsis;
         white-space: nowrap;
     }
-    .song-list-header p#song-count { font-size: 0.9em; margin-right: auto; }
     
+    /* 修正：將 margin-right 改為 10px，讓 Notion 按鈕往左移 */
+    .song-list-header p#song-count { 
+        font-size: 0.9em; 
+        margin-right: 10px; 
+    }
+    
+    /* 按鈕放大設定 */
     #notion-header-button, #close-button { 
-        padding: 8px 12px; 
-        font-size: 14px; 
+        padding: 10px 15px; 
+        font-size: 15px; 
         font-weight: bold;
         flex-shrink: 0;
         margin: 0;
@@ -182,18 +188,14 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* --- 重排圖標位置 (間隔 10px = 跳距 60px) --- */
-    
-    /* 上層右側 (bottom: 70px) */
-    #custom-link { right: 5px; bottom: 70px; } /* 第一個 Creatia */
-    #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } /* 第二個 FANBOX */
+    /* 圖標排列 (10px 間隔) */
+    #custom-link { right: 5px; bottom: 70px; } 
+    #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
-    /* 下層右側 (bottom: 8px/10px) */
-    #youtube-link     { right: 5px; bottom: 10px; } /* 第一個 YouTube */
-    #twitter-link     { right: 65px; bottom: 8px; } /* 第二個 Twitter/X */
-    #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } /* 第三個 TwitCasting */
+    #youtube-link     { right: 5px; bottom: 10px; } 
+    #twitter-link     { right: 65px; bottom: 8px; } 
+    #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } 
     
-    /* 下層左側 */
     #amazon-link { left: 5px; bottom: 10px; }
     #booth-link  { left: 65px; bottom: 10px; }
 }
