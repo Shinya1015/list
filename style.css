@@ -120,7 +120,6 @@ button:active { transform: scale(0.98); }
 #twitter-link { bottom: 8px; right: 60px; }
 #twitter-link img { background-color: black; }
 #custom-link { bottom: 8px; right: 110px; }
-/* 對調位置：FANBOX 在 160px，TwitCasting 在 210px */
 #fanbox-link { bottom: 10px; right: 160px; }
 #twitcasting-link { bottom: 8px; right: 210px; }
 #amazon-link { bottom: 10px; left: 10px; }
@@ -144,7 +143,6 @@ button:active { transform: scale(0.98); }
     #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; }
     .copy-button { padding: 4px 8px; font-size: 11px; }
 
-    /* Icon Positions (Tablet) */
     #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #fanbox-link {
         display: block !important;
     }
@@ -152,7 +150,6 @@ button:active { transform: scale(0.98); }
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
-    /* 手機平板版也對調 */
     #fanbox-link { right: 160px; left: auto; }
     #twitcasting-link { right: 210px; left: auto; }
     
@@ -160,8 +157,16 @@ button:active { transform: scale(0.98); }
     #booth-link { left: 60px; }
 }
 
-/* --- Small Screens (Phones) --- */
+/* --- Small Screens (Phones) --- 修改此區塊 */
 @media (max-width: 480px) {
+    /* 白色容器整體往上移動 */
+    .container { 
+        width: 95%; 
+        max-height: 60vh; 
+        margin: 10px auto; 
+        transform: translateY(-50px); /* 數值越負，越往上移 */
+    }
+
     #song-list { width: 95%; max-height: 60vh; margin: 10px auto; }
     .song-list-header { padding: 8px 10px; gap: 6px; }
     .song-list-header h2 { font-size: 1em; white-space: normal; }
@@ -178,15 +183,21 @@ button:active { transform: scale(0.98); }
     #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; }
     .copy-button { padding: 3px 7px; font-size: 10px; }
 
-    /* Icon Positions (Phone) - 確保全部都在右邊，且 TwitCasting 不隱藏 */
-    #youtube-link { right: 10px; }
-    #twitter-link { right: 60px; }
-    #custom-link { right: 110px; }
-    #fanbox-link { right: 160px; left: auto; display: block !important; }
-    #twitcasting-link { right: 210px; left: auto; display: block !important; }
+    /* 手機版圖標整體放大至 52px (原本為40px) */
+    [id$="-link"] img { 
+        width: 52px !important; 
+        height: 52px !important; 
+    }
+
+    /* 重新計算圖標位置，避免因放大而重疊 (間距調整為 65px) */
+    #youtube-link { right: 10px; bottom: 10px; }
+    #twitter-link { right: 75px; bottom: 8px; }
+    #custom-link { right: 140px; bottom: 8px; }
+    #fanbox-link { right: 205px; left: auto; display: block !important; bottom: 10px; }
+    #twitcasting-link { right: 270px; left: auto; display: block !important; bottom: 8px; }
     
-    #amazon-link { left: 10px; }
-    #booth-link { left: 60px; }
+    #amazon-link { left: 10px; bottom: 10px; }
+    #booth-link { left: 75px; bottom: 10px; }
 }
 
 /* --- Modal Styles --- */
@@ -203,5 +214,3 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
-
-
