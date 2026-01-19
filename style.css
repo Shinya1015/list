@@ -122,7 +122,6 @@ button:active { transform: scale(0.98); }
 #custom-link { bottom: 8px; right: 110px; }
 /* 對調位置：FANBOX 在 160px，TwitCasting 在 210px */
 #fanbox-link { bottom: 10px; right: 160px; }
-#fanbox-link img { width: 30px; height: 30px; } /* 縮小為 30px */
 #twitcasting-link { bottom: 8px; right: 210px; }
 #amazon-link { bottom: 10px; left: 10px; }
 #booth-link { bottom: 10px; left: 60px; }
@@ -204,4 +203,5 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
+
 
