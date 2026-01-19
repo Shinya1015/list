@@ -111,10 +111,12 @@ button:active { transform: scale(0.98); }
 @keyframes meteor { 0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; } 70% { opacity: 1; } 100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; } }
 
 [id$="-link"] { position: fixed; z-index: 1000; }
-[id$="-link"] img, #notion-link a { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
-#notion-link a { width: auto; height: auto; font-size: 38px; border-radius: 0; text-decoration: none; }
-[id$="-link"] img:hover, #notion-link a:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
-#notion-link a:hover { text-decoration: none; }
+[id$="-link"] img { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
+
+/* 特別針對 FANBOX 取消圓形並加上底色 */
+#fanbox-link img { border-radius: 4px !important; background-color: white; padding: 2px; box-sizing: border-box; }
+
+[id$="-link"] img:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
 
 /* --- Icon Positions (Desktop) --- */
 #youtube-link { bottom: 10px; right: 10px; }
@@ -122,11 +124,11 @@ button:active { transform: scale(0.98); }
 #twitter-link img { background-color: black; }
 #custom-link { bottom: 8px; right: 110px; }
 #twitcasting-link { bottom: 8px; right: 160px; }
-#notion-link { bottom: 10px; right: 210px; }
+#fanbox-link { bottom: 10px; right: 210px; }
 #amazon-link { bottom: 10px; left: 10px; }
 #booth-link { bottom: 10px; left: 60px; }
 
-/* --- Medium Screens (Tablets, Larger Phones) --- */
+/* --- Medium Screens (Tablets) --- */
 @media (max-width: 768px) {
     .container { padding: 20px; width: 90%; margin: 10px auto; }
     #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
@@ -144,12 +146,10 @@ button:active { transform: scale(0.98); }
     #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; }
     .copy-button { padding: 4px 8px; font-size: 11px; }
 
-    /* Icon Positions (Tablet) */
-    #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #notion-link {
+    #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #fanbox-link {
         display: block !important;
     }
-    [id$="-link"] img, #notion-link a { width: 40px; height: 40px; }
-    #notion-link a { width: auto; height: auto; font-size: 38px; }
+    [id$="-link"] img { width: 40px; height: 40px; }
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
@@ -157,7 +157,7 @@ button:active { transform: scale(0.98); }
     
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
-    #notion-link { left: 110px; right: auto; } /* <-- 修改後 */
+    #fanbox-link { left: 110px; right: auto; } 
 }
 
 /* --- Small Screens (Phones) --- */
@@ -178,7 +178,6 @@ button:active { transform: scale(0.98); }
     #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; }
     .copy-button { padding: 3px 7px; font-size: 10px; }
 
-    /* Icon Positions (Phone) */
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
@@ -186,7 +185,7 @@ button:active { transform: scale(0.98); }
     
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
-    #notion-link { left: 110px; right: auto; } /* <-- 修改後 */
+    #fanbox-link { left: 110px; right: auto; } 
 }
 
 /* --- Modal Styles --- */
