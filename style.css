@@ -161,21 +161,22 @@ button:active { transform: scale(0.98); }
         white-space: nowrap;
     }
     
-    /* 修正：將 margin-right 改為 10px，讓 Notion 按鈕往左移 */
+    /* 修正：Notion 按鈕左移 */
     .song-list-header p#song-count { 
         font-size: 0.9em; 
         margin-right: 10px; 
     }
     
-    /* 按鈕放大設定 */
+    /* 修正按鈕大小：padding 縮小至 6px 10px，字體 13px */
     #notion-header-button, #close-button { 
-        padding: 10px 15px; 
-        font-size: 15px; 
+        padding: 6px 10px; 
+        font-size: 13px; 
         font-weight: bold;
         flex-shrink: 0;
         margin: 0;
     }
 
+    /* 搜尋框強制在第二排 */
     .search-wrapper { 
         flex-basis: 100%; 
         width: 100%; 
@@ -188,10 +189,12 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* 圖標排列 (10px 間隔) */
+    /* --- 圖標重排 (10px 間距) --- */
+    /* 上層 */
     #custom-link { right: 5px; bottom: 70px; } 
     #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
+    /* 下層 */
     #youtube-link     { right: 5px; bottom: 10px; } 
     #twitter-link     { right: 65px; bottom: 8px; } 
     #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } 
