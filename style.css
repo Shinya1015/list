@@ -78,7 +78,7 @@ button:active { transform: scale(0.98); }
 
 .song-list-header { display: flex; flex-wrap: wrap; align-items: center; width: 100%; padding: 10px 15px; background-color: #f8f9fa; z-index: 3; box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-sizing: border-box; gap: 10px; }
 .song-list-header > * { flex-shrink: 0; margin: 0; }
-.song-list-header h2 { order: 1; font-size: 1.3em; color: #343a40; white-space: nowrap; margin-right: 5px; }
+.song-list-header h2 { order: 1; font-size: 1.1em; color: #343a40; white-space: nowrap; margin-right: 5px; }
 .song-list-header p#song-count { order: 2; font-size: 0.9em; color: #6c757d; white-space: nowrap; }
 #notion-header-button { order: 3; margin: 0 0 0 auto; background-color: #5bc0de; color: white; padding: 8px 12px; font-size: 14px; white-space: nowrap; }
 #notion-header-button:hover { background-color: #31b0d5; }
@@ -217,3 +217,4 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
+
