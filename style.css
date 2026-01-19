@@ -111,7 +111,6 @@ button:active { transform: scale(0.98); }
 @keyframes meteor { 0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; } 70% { opacity: 1; } 100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; } }
 
 [id$="-link"] { position: fixed; z-index: 1000; }
-/* 修改為全部圖片圓形 60% */
 [id$="-link"] img { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
 [id$="-link"] img:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
 
@@ -125,79 +124,47 @@ button:active { transform: scale(0.98); }
 #amazon-link { bottom: 10px; left: 10px; }
 #booth-link { bottom: 10px; left: 60px; }
 
-/* --- Medium Screens (Tablets, Larger Phones) --- */
+/* --- Medium Screens (Tablets) --- */
 @media (max-width: 768px) {
     .container { padding: 20px; width: 90%; margin: 10px auto; }
-    #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
-    .song-list-header { padding: 8px 12px; gap: 10px; }
-    .song-list-header h2 { font-size: 1.1em; }
-    .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
-    #notion-header-button { padding: 6px 10px; font-size: 13px; }
-    #close-button { padding: 6px 12px; font-size: 13px; }
-    .search-wrapper { margin-top: 8px; }
-    #search-input { font-size: 13px; padding: 6px 10px; }
-    .list-filter-controls { padding: 6px 12px; }
-    label[for="list-song-type-filter"] { font-size: 13px; }
-    #list-song-type-filter { font-size: 13px; padding: 6px 10px; min-width: 100px; }
-    #songs li { padding: 6px 10px; }
-    #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; }
-    .copy-button { padding: 4px 8px; font-size: 11px; }
-
-    #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #fanbox-link {
-        display: block !important;
-    }
     [id$="-link"] img { width: 40px; height: 40px; }
     #youtube-link { right: 10px; }
     #twitter-link { right: 60px; }
     #custom-link { right: 110px; }
     #fanbox-link { right: 160px; left: auto; }
     #twitcasting-link { right: 210px; left: auto; }
-    
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
 }
 
-/* --- Small Screens (Phones) --- 修改此區塊 */
+/* --- Small Screens (Phones) --- 修正底部圖標重疊 */
 @media (max-width: 480px) {
-    /* 白色容器整體往上移動 */
     .container { 
         width: 95%; 
-        max-height: 60vh; 
+        max-height: 55vh; 
         margin: 10px auto; 
-        transform: translateY(-50px); /* 數值越負，越往上移 */
+        transform: translateY(-80px); 
     }
 
-    #song-list { width: 95%; max-height: 60vh; margin: 10px auto; }
-    .song-list-header { padding: 8px 10px; gap: 6px; }
-    .song-list-header h2 { font-size: 1em; white-space: normal; }
-    .song-list-header p#song-count { font-size: 0.75em; }
-    #notion-header-button { padding: 5px 8px; font-size: 12px; }
-    #close-button { padding: 5px 10px; font-size: 12px; }
-    .search-wrapper { margin-top: 4px; }
-    #search-input { font-size: 13px; padding: 6px 10px; }
-    #clear-search-button { font-size: 1.2em; padding: 0 6px; }
-    .list-filter-controls { padding: 5px 10px; justify-content: center; }
-    label[for="list-song-type-filter"] { font-size: 12px; }
-    #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
-    #songs li { padding: 5px 8px; }
-    #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; }
-    .copy-button { padding: 3px 7px; font-size: 10px; }
-
-    /* 手機版圖標整體放大至 52px (原本為40px) */
+    /* 手機版圖標固定 48px */
     [id$="-link"] img { 
-        width: 52px !important; 
-        height: 52px !important; 
+        width: 48px !important; 
+        height: 48px !important; 
     }
 
-    /* 重新計算圖標位置，避免因放大而重疊 (間距調整為 65px) */
-    #youtube-link { right: 10px; bottom: 10px; }
-    #twitter-link { right: 75px; bottom: 8px; }
-    #custom-link { right: 140px; bottom: 8px; }
-    #fanbox-link { right: 205px; left: auto; display: block !important; bottom: 10px; }
-    #twitcasting-link { right: 270px; left: auto; display: block !important; bottom: 8px; }
+    /* --- 重新計算極致間距 (避免中心重疊) --- */
+    /* 右側 5 個 (總佔用約 200px 寬度) */
+    #youtube-link { right: 5px; bottom: 10px; }
+    #twitter-link { right: 53px; bottom: 8px; }
+    #custom-link { right: 101px; bottom: 8px; }
+    #fanbox-link { right: 149px; left: auto; display: block !important; bottom: 10px; }
+    #twitcasting-link { right: 197px; left: auto; display: block !important; bottom: 8px; }
     
-    #amazon-link { left: 10px; bottom: 10px; }
-    #booth-link { left: 75px; bottom: 10px; }
+    /* 左側 2 個 (總佔用約 100px 寬度) */
+    #amazon-link { left: 5px; bottom: 10px; }
+    #booth-link { left: 53px; bottom: 10px; }
+
+    /* 檢查點：200px (右) + 100px (左) = 300px，在 360px 寬的手機上中間還有 60px 空間，不會重疊 */
 }
 
 /* --- Modal Styles --- */
