@@ -149,7 +149,7 @@ button:active { transform: scale(0.98); }
     /* 調整歌詞清單展開高度為 80vh */
     #song-list { 
         width: 95%; 
-        max-height: 80vh; 
+        max-height: 75vh; 
         margin: 10px auto; 
         transform: translateY(-70px); 
     }
@@ -186,3 +186,4 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
+
