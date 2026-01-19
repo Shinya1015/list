@@ -137,34 +137,36 @@ button:active { transform: scale(0.98); }
     #booth-link { left: 60px; }
 }
 
-/* --- Small Screens (Phones) --- 修正底部圖標重疊 */
+/* --- Small Screens (Phones) --- 修改重點 --- */
 @media (max-width: 480px) {
-    .container { 
+    /* 白色抽選框與清單框同步往上移 */
+    .container, #song-list { 
         width: 95%; 
         max-height: 55vh; 
         margin: 10px auto; 
-        transform: translateY(-80px); 
+        transform: translateY(-70px); 
     }
 
-    /* 手機版圖標固定 48px */
+    /* 圖標放大至 50px */
     [id$="-link"] img { 
-        width: 48px !important; 
-        height: 48px !important; 
+        width: 50px !important; 
+        height: 50px !important; 
     }
 
-    /* --- 重新計算極致間距 (避免中心重疊) --- */
-    /* 右側 5 個 (總佔用約 200px 寬度) */
-    #youtube-link { right: 5px; bottom: 10px; }
-    #twitter-link { right: 53px; bottom: 8px; }
-    #custom-link { right: 101px; bottom: 8px; }
-    #fanbox-link { right: 149px; left: auto; display: block !important; bottom: 10px; }
-    #twitcasting-link { right: 197px; left: auto; display: block !important; bottom: 8px; }
+    /* --- 圖標間距調整 (圖標 50px + 間隔 5px = 每 55px 位移一次) --- */
     
-    /* 左側 2 個 (總佔用約 100px 寬度) */
-    #amazon-link { left: 5px; bottom: 10px; }
-    #booth-link { left: 53px; bottom: 10px; }
-
-    /* 檢查點：200px (右) + 100px (左) = 300px，在 360px 寬的手機上中間還有 60px 空間，不會重疊 */
+    /* 右下排層 (YouTube, Twitter, Custom) */
+    #youtube-link { right: 10px; bottom: 10px; }
+    #twitter-link { right: 65px; bottom: 10px; } /* 10 + 55 */
+    #custom-link { right: 120px; bottom: 10px; } /* 65 + 55 */
+    
+    /* 右上排層 (FANBOX, TwitCasting) */
+    #fanbox-link { right: 10px; bottom: 70px; left: auto; display: block !important; } 
+    #twitcasting-link { right: 65px; bottom: 70px; left: auto; display: block !important; } /* 10 + 55 */
+    
+    /* 左側層 (Amazon, Booth) */
+    #amazon-link { left: 10px; bottom: 10px; }
+    #booth-link { left: 65px; bottom: 10px; } /* 10 + 55 */
 }
 
 /* --- Modal Styles --- */
