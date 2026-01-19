@@ -37,7 +37,6 @@
           <button id="close-button" onclick="closeSongList()">閉じる</button>
       </div>
 
-      <!-- ▼▼▼ 新增的篩選區域 ▼▼▼ -->
       <div class="list-filter-controls">
            <label for="list-song-type-filter">表示タイプ：</label>
            <select id="list-song-type-filter" name="list-song-type" onchange="filterSongs()">
@@ -46,8 +45,6 @@
                <option value="アニソン">アニソン</option>
            </select>
       </div>
-      <!-- ▲▲▲ 篩選區域結束 ▲▲▲ -->
-
       <div class="scrollable-list">
           <ul id="songs">
 
@@ -56,7 +53,7 @@
     </div>
 
     <div id="youtube-link"> <a href="https://www.youtube.com/@Shairu.ch_0801" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/800px-YouTube_icon_%282013-2017%29.png" alt="YouTube" /> </a> </div>
-    <div id="notion-link"> <a href="https://www.notion.so/16bc0662e4368082a3bfc982aa928702?v=16bc0662e436812981a1000c061b7652" target="_blank"> 🎧 </a> </div>
+    <div id="fanbox-link"> <a href="你的_FANBOX_連結網址" target="_blank"> <img src="https://static.wikia.nocookie.net/logopedia/images/1/14/Pixiv_FANBOX_%28Icon%29.svg/revision/latest?cb=20240212012148" alt="FANBOX" /> </a> </div>
     <div id="twitter-link"> <a href="https://x.com/Shairu_Vt" target="_blank"> <img src="https://imgcdn.cna.com.tw/www/WebPhotos/1024/20230724/1600x1600_wmkn_423662835613_0.jpg" alt="Twitter" /> </a> </div>
     <div id="custom-link"> <a href="https://frontier.creatia.cc/fanclubs/2946/posts" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1333332630742339585/GpANfRHz_400x400.jpg" alt="Custom Link"> </a> </div>
     <div id="amazon-link"> <a href="https://www.amazon.co.jp/hz/wishlist/ls/1BERU67AKTPQ1?ref_=wl_share" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0-uzcTXKAG1AyXyn46h3ccHPyLaOFliBXA&s" alt="Amazon" /> </a> </div>
@@ -67,8 +64,6 @@
 
     <script src="script.js"></script>
 
-
- <!-- ▼▼▼ 新增的彈出視窗結構 ▼▼▼ -->
     <div id="modal-overlay" style="display: none;"></div>
     <div id="stream-links-modal" style="display: none;">
         <div class="modal-header">
@@ -78,14 +73,8 @@
         <div class="modal-body">
             <p>この曲は以下のアーカイブで歌われました:</p>
             <ol id="modal-stream-list">
-                <!-- 直播日期列表會由 JS 生成 -->
-            </ol>
+                </ol>
         </div>
     </div>
-    <!-- ▲▲▲ 彈出視窗結構結束 ▲▲▲ -->
-
-    <script src="script.js"></script>
-
-    
 </body>
 </html>
