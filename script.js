@@ -9850,7 +9850,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
-    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12908},
+    { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12939},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15074},
     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1131},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 938},
