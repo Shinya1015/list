@@ -146,38 +146,38 @@ button:active { transform: scale(0.98); }
         transform: translateY(-70px); 
     }
 
-    /* 歌詞清單標題欄 - 修正空白並填滿空間 */
+    /* 第一排強制併排優化 */
     .song-list-header { 
-        padding: 8px 10px; 
-        gap: 8px; 
+        padding: 8px 6px; 
+        gap: 4px; /* 縮小空隙 */
         flex-wrap: wrap; 
         justify-content: flex-start;
     }
 
     .song-list-header h2 { 
-        font-size: 1.05em; /* 標題稍微放大 */
-        margin-right: 4px;
+        font-size: 0.95em; /* 標題微縮，騰出空間給按鈕 */
+        margin-right: 2px;
         flex-shrink: 1;
         overflow: hidden;
         white-space: nowrap;
+        text-overflow: ellipsis;
     }
 
-    /* 將數字後的 margin 改為 auto，強制把按鈕推向最右邊，消除右邊空白 */
+    /* margin-right: auto 負責把按鈕推向最右邊 */
     .song-list-header p#song-count { 
         font-size: 0.85em; 
         margin-right: auto; 
     }
     
-    /* Notion 與 關閉按鈕放大平衡版 */
+    /* 按鈕調整為扁長型，確保寬度不破表 */
     #notion-header-button, #close-button { 
-        padding: 8px 12px; 
-        font-size: 14px; 
+        padding: 8px 10px; /* 寬度減小 */
+        font-size: 13px; /* 字體微縮 */
         font-weight: bold;
         flex-shrink: 0;
         margin: 0;
     }
 
-    /* 搜尋框維持在第二排 */
     .search-wrapper { 
         flex-basis: 100%; 
         width: 100%; 
@@ -190,7 +190,7 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* --- 圖標排列順序 (10px 間隔) --- */
+    /* 圖標排列 10px 間距 */
     #custom-link { right: 5px; bottom: 70px; } 
     #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
