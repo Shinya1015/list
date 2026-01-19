@@ -146,29 +146,26 @@ button:active { transform: scale(0.98); }
         transform: translateY(-70px); 
     }
 
-    /* 調整歌詞清單標題與曲數大小 */
     .song-list-header { 
         padding: 8px 10px; 
-        gap: 5px; 
+        gap: 6px; 
         flex-wrap: wrap; 
         justify-content: flex-start;
     }
     .song-list-header h2 { 
-        font-size: 1.1em; /* 標題變大 */
+        font-size: 1.1em; 
         margin-right: 4px;
         flex-shrink: 1;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
     }
-    .song-list-header p#song-count { 
-        font-size: 0.9em; /* 曲數變大 */
-        margin-right: auto; 
-    }
+    .song-list-header p#song-count { font-size: 0.9em; margin-right: auto; }
     
     #notion-header-button, #close-button { 
-        padding: 4px 6px; 
-        font-size: 11px; 
+        padding: 8px 12px; 
+        font-size: 14px; 
+        font-weight: bold;
         flex-shrink: 0;
         margin: 0;
     }
@@ -176,26 +173,29 @@ button:active { transform: scale(0.98); }
     .search-wrapper { 
         flex-basis: 100%; 
         width: 100%; 
-        margin-top: 8px; 
+        margin-top: 10px; 
         order: 5;
     }
 
-    /* 圖標設定 (50px 尺寸, 3px 間隔) */
     [id$="-link"] img { 
         width: 50px !important; 
         height: 50px !important; 
     }
 
-    /* 右側位置重排 */
-    #fanbox-link { right: 5px; bottom: 70px; left: auto; display: block !important; } 
-    #custom-link { right: 58px; bottom: 70px; } 
-
-    #twitcasting-link { right: 5px; bottom: 8px; left: auto; display: block !important; } 
-    #twitter-link { right: 58px; bottom: 8px; } 
-    #youtube-link { right: 111px; bottom: 10px; } 
+    /* --- 重排圖標位置 (間隔 10px = 跳距 60px) --- */
     
+    /* 上層右側 (bottom: 70px) */
+    #custom-link { right: 5px; bottom: 70px; } /* 第一個 Creatia */
+    #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } /* 第二個 FANBOX */
+
+    /* 下層右側 (bottom: 8px/10px) */
+    #youtube-link     { right: 5px; bottom: 10px; } /* 第一個 YouTube */
+    #twitter-link     { right: 65px; bottom: 8px; } /* 第二個 Twitter/X */
+    #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } /* 第三個 TwitCasting */
+    
+    /* 下層左側 */
     #amazon-link { left: 5px; bottom: 10px; }
-    #booth-link { left: 58px; bottom: 10px; }
+    #booth-link  { left: 65px; bottom: 10px; }
 }
 
 /* --- Modal Styles --- */
