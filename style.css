@@ -146,12 +146,34 @@ button:active { transform: scale(0.98); }
         transform: translateY(-70px); 
     }
 
-    /* 調整歌詞清單展開高度為 80vh */
+    /* 歌詞清單高度還原為 70vh */
     #song-list { 
         width: 95%; 
         max-height: 70vh; 
         margin: 10px auto; 
         transform: translateY(-70px); 
+    }
+
+    /* 修正：歌詞清單頭部一行化 */
+    .song-list-header { 
+        padding: 6px 10px; 
+        gap: 5px; 
+        flex-wrap: nowrap; 
+    }
+    .song-list-header h2 { 
+        font-size: 0.85em; 
+        margin-right: 2px;
+        flex-shrink: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+    .song-list-header p#song-count { font-size: 0.7em; margin-right: auto; }
+    #notion-header-button, #close-button { 
+        padding: 4px 6px; 
+        font-size: 11px; 
+        flex-shrink: 0;
+        margin: 0;
     }
 
     /* 圖標放大至 50px */
@@ -160,16 +182,20 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* 圖標間距調整 */
-    #youtube-link { right: 10px; bottom: 10px; }
-    #twitter-link { right: 65px; bottom: 10px; } 
-    #custom-link { right: 120px; bottom: 10px; } 
+    /* --- 圖標排列邏輯 (間隔 3px = 跳距 53px) --- */
     
+    /* 右側第二層 (上方) */
     #fanbox-link { right: 10px; bottom: 70px; left: auto; display: block !important; } 
-    #twitcasting-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
+    #custom-link { right: 63px; bottom: 70px; } /* Creatia */
+
+    /* 右側第一層 (下方) */
+    #twitcasting-link { right: 10px; bottom: 8px; left: auto; display: block !important; } 
+    #twitter-link { right: 63px; bottom: 8px; } 
+    #youtube-link { right: 116px; bottom: 10px; } 
     
+    /* 左側第一層 (下方) */
     #amazon-link { left: 10px; bottom: 10px; }
-    #booth-link { left: 65px; bottom: 10px; } 
+    #booth-link { left: 63px; bottom: 10px; }
 }
 
 /* --- Modal Styles --- */
@@ -186,5 +212,3 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
-
-
