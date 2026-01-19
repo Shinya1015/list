@@ -139,36 +139,32 @@ button:active { transform: scale(0.98); }
 
 /* --- Small Screens (Phones) --- */
 @media (max-width: 480px) {
-    .container { 
-        width: 95%; 
-        max-height: 55vh; 
-        margin: 10px auto; 
-        transform: translateY(-70px); 
-    }
-
-    #song-list { 
+    .container, #song-list { 
         width: 95%; 
         max-height: 70vh; 
         margin: 10px auto; 
         transform: translateY(-70px); 
     }
 
-    /* 修正：歌詞清單頭部改為 wrap 並讓搜尋框占滿 100% 強制換行 */
+    /* 調整歌詞清單標題與曲數大小 */
     .song-list-header { 
         padding: 8px 10px; 
         gap: 5px; 
-        flex-wrap: wrap; /* 允許換行 */
+        flex-wrap: wrap; 
         justify-content: flex-start;
     }
     .song-list-header h2 { 
-        font-size: 0.85em; 
-        margin-right: 2px;
+        font-size: 1.1em; /* 標題變大 */
+        margin-right: 4px;
         flex-shrink: 1;
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
     }
-    .song-list-header p#song-count { font-size: 0.7em; margin-right: auto; }
+    .song-list-header p#song-count { 
+        font-size: 0.9em; /* 曲數變大 */
+        margin-right: auto; 
+    }
     
     #notion-header-button, #close-button { 
         padding: 4px 6px; 
@@ -177,32 +173,29 @@ button:active { transform: scale(0.98); }
         margin: 0;
     }
 
-    /* 搜尋框強制排在第二列 */
     .search-wrapper { 
         flex-basis: 100%; 
         width: 100%; 
         margin-top: 8px; 
-        order: 5; /* 確保在按鈕之後 */
+        order: 5;
     }
 
-    /* 圖標放大與 3px 間隔 */
+    /* 圖標設定 (50px 尺寸, 3px 間隔) */
     [id$="-link"] img { 
         width: 50px !important; 
         height: 50px !important; 
     }
 
-    /* 右側第二層 (上方) */
-    #fanbox-link { right: 10px; bottom: 70px; left: auto; display: block !important; } 
-    #custom-link { right: 63px; bottom: 70px; } /* Creatia */
+    /* 右側位置重排 */
+    #fanbox-link { right: 5px; bottom: 70px; left: auto; display: block !important; } 
+    #custom-link { right: 58px; bottom: 70px; } 
 
-    /* 右側第一層 (下方) */
-    #twitcasting-link { right: 10px; bottom: 8px; left: auto; display: block !important; } 
-    #twitter-link { right: 63px; bottom: 8px; } 
-    #youtube-link { right: 116px; bottom: 10px; } 
+    #twitcasting-link { right: 5px; bottom: 8px; left: auto; display: block !important; } 
+    #twitter-link { right: 58px; bottom: 8px; } 
+    #youtube-link { right: 111px; bottom: 10px; } 
     
-    /* 左側第一層 (下方) */
-    #amazon-link { left: 10px; bottom: 10px; }
-    #booth-link { left: 63px; bottom: 10px; }
+    #amazon-link { left: 5px; bottom: 10px; }
+    #booth-link { left: 58px; bottom: 10px; }
 }
 
 /* --- Modal Styles --- */
