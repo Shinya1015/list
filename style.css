@@ -1,8 +1,7 @@
-/* --- 基礎版面 --- */
 html, body {
     margin: 0;
     padding: 0;
-    height: 100vh;
+    height: 100%;
     overflow: hidden;
 }
 
@@ -12,103 +11,195 @@ body {
     align-items: center;
     flex-direction: column;
     background: radial-gradient(circle at 50% 50%, #1a1a2e, #16213e, #0f3460);
-    font-family: "Segoe UI", Meiryo, sans-serif;
+    font-family: "Segoe UI", Meiryo, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 100vh;
     position: relative;
-}
-
-/* 星空閃爍特效 */
-body::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image: radial-gradient(2px 2px at 10% 20%, #fff, transparent), radial-gradient(1px 1px at 50% 50%, #fff, transparent), radial-gradient(2px 2px at 80% 80%, #fff, transparent);
-    animation: twinkle 3s infinite alternate;
-    z-index: -1;
-}
-@keyframes twinkle { from { opacity: 0.6; } to { opacity: 1; } }
-
-/* 容器樣式 */
-.container {
-    background: white;
-    padding: 25px 30px;
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-    text-align: center;
-    width: 90%;
-    max-width: 650px;
-}
-
-#select-button { background-color: #00BCD4; color: black; font-size: 22px; padding: 15px 30px; border-radius: 6px; cursor: pointer; border: none; }
-
-/* 歌單彈窗樣式 */
-#song-list {
-    display: none;
-    flex-direction: column;
-    width: 90%;
-    max-width: 700px;
-    background-color: white;
-    border-radius: 10px;
-    max-height: 80vh;
-    position: absolute;
-    z-index: 100;
-    overflow: hidden;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-}
-
-.song-list-header { background: #f8f9fa; padding: 15px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
-.search-wrapper { width: 100%; display: flex; border: 1px solid #ced4da; border-radius: 4px; overflow: hidden; }
-#search-input { flex: 1; border: none; padding: 8px; outline: none; }
-#notion-header-button { background-color: #5bc0de; color: white; border: none; padding: 8px 12px; border-radius: 4px; cursor: pointer; margin-left: auto; }
-#close-button { background-color: #dc3545; color: white; border: none; padding: 8px 12px; border-radius: 4px; cursor: pointer; }
-
-/* 圖標通用樣式 */
-[id$="-link"] { position: fixed; bottom: 10px; z-index: 1000; }
-[id$="-link"] img { width: 40px; height: 40px; border-radius: 60%; display: block; transition: transform 0.2s ease; }
-[id$="-link"] img:hover { transform: scale(1.15); }
-
-/* FANBOX 特別設定：方型、白底 */
-#fanbox-link img {
-    border-radius: 4px !important;
-    background-color: white;
-    padding: 2px;
     box-sizing: border-box;
 }
 
-/* --- 電腦版位置 (PC) --- */
-#youtube-link      { right: 10px; }
-#twitter-link      { right: 60px;  bottom: 8px; }
-#custom-link       { right: 110px; bottom: 8px; }
-#fanbox-link       { right: 160px; }            /* FANBOX 在 160 */
-#twitcasting-link  { right: 210px; bottom: 8px; } /* TwitCasting 在 210 */
+body::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    background-image: radial-gradient(2px 2px at 10% 20%, #fff, transparent), radial-gradient(2px 2px at 15% 30%, #fff, transparent), radial-gradient(2px 2px at 30% 60%, #fff, transparent), radial-gradient(2px 2px at 25% 40%, #fff, transparent), radial-gradient(1px 1px at 70% 10%, #fff, transparent), radial-gradient(1px 1px at 75% 90%, #fff, transparent), radial-gradient(1px 1px at 85% 25%, #fff, transparent), radial-gradient(1px 1px at 35% 55%, #fff, transparent), radial-gradient(1px 1px at 10% 90%, #fff, transparent), radial-gradient(2px 2px at 5% 10%, #fff, transparent), radial-gradient(2px 2px at 80% 70%, #fff, transparent), radial-gradient(1px 1px at 55% 45%, #fff, transparent), radial-gradient(2px 2px at 70% 80%, #fff, transparent), radial-gradient(1px 1px at 95% 10%, #fff, transparent), radial-gradient(2px 2px at 40% 85%, #fff, transparent), radial-gradient(1px 1px at 60% 60%, #fff, transparent), radial-gradient(2px 2px at 80% 40%, #fff, transparent), radial-gradient(2px 2px at 5% 5%, #fff, transparent), radial-gradient(2px 2px at 10% 95%, #fff, transparent), radial-gradient(2px 2px at 95% 5%, #fff, transparent), radial-gradient(2px 2px at 90% 95%, #fff, transparent), radial-gradient(2px 2px at 5% 50%, #fff, transparent), radial-gradient(2px 2px at 90% 50%, #fff, transparent), radial-gradient(1px 1px at 25% 20%, #fff, transparent), radial-gradient(1px 1px at 75% 30%, #fff, transparent), radial-gradient(2px 2px at 20% 80%, #fff, transparent), radial-gradient(1px 1px at 70% 80%, #fff, transparent);
+    animation: twinkle 3s infinite alternate;
+    opacity: 0.8;
+    z-index: -1;
+}
 
-#amazon-link       { left: 10px; }
-#booth-link        { left: 60px; }
+@keyframes twinkle {
+    from { opacity: 0.6; }
+    to { opacity: 1; }
+}
 
-/* --- 響應式：手機與平板 (Mobile/Tablet) --- */
+.container {
+    position: relative;
+    text-align: center;
+    background-color: #ffffff;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 650px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    margin: 10px;
+}
+
+.container h1 { margin-bottom: 10px; color: #333; }
+.select-container { margin-bottom: 10px; }
+label[for="song-type-selector"],
+label[for="list-song-type-filter"] { margin-right: 8px; font-weight: bold; color: #555; font-size: 14px; }
+#song-type-selector,
+#list-song-type-filter { padding: 8px 12px; font-size: 14px; border: 1px solid #ccc; border-radius: 4px; min-width: 120px; cursor: pointer; background-color: white; }
+button { padding: 10px 22px; font-size: 16px; font-weight: 500; cursor: pointer; border: none; border-radius: 6px; margin: 5px; transition: background-color 0.2s ease, transform 0.1s ease; }
+button:active { transform: scale(0.98); }
+#select-button { background-color: #00BCD4; color: #000; font-size: 22px; padding: 15px 30px; width: 200px; border-radius: 5px; z-index: 2; position: relative; }
+#select-button:hover { background-color: #00a9bb; }
+#view-list-button { background-color: #6c757d; color: white; }
+#view-list-button:hover { background-color: #5a6268; }
+
+#song-result { margin-top: 10px; margin-bottom: 5px; font-size: 20px; color: #6A0DAD; font-weight: bold; min-height: 1.5em; line-height: 1.5; display: flex; justify-content: center; align-items: center; flex-wrap: wrap; }
+#song-result span { display: inline-block; vertical-align: middle; }
+
+.stream-link-icon { cursor: pointer; margin-left: 8px; color: #007bff; font-weight: bold; transition: opacity 0.2s ease; font-size: 1.1em; line-height: 1; display: inline-flex; align-items: center; justify-content: center; vertical-align: middle; padding: 5px 8px; }
+.stream-link-icon:hover { opacity: 0.7; }
+#song-result span.copyable-song { cursor: pointer; transition: opacity 0.2s ease-in-out; }
+#song-result span.copyable-song:hover { opacity: 0.8; }
+#song-result span.copied-feedback { cursor: default; opacity: 1; color: green; font-weight: bold; }
+
+#song-list { display: none; flex-direction: column; width: 100%; max-width: 700px; margin: 10px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); height: auto; max-height: calc(80vh - 70px); overflow: hidden; position: relative; padding: 0; box-sizing: border-box; }
+
+.song-list-header { display: flex; flex-wrap: wrap; align-items: center; width: 100%; padding: 10px 15px; background-color: #f8f9fa; z-index: 3; box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-sizing: border-box; gap: 10px; }
+.song-list-header > * { flex-shrink: 0; margin: 0; }
+.song-list-header h2 { order: 1; font-size: 1.3em; color: #343a40; white-space: nowrap; margin-right: 5px; }
+.song-list-header p#song-count { order: 2; font-size: 0.9em; color: #6c757d; white-space: nowrap; }
+#notion-header-button { order: 3; margin: 0 0 0 auto; background-color: #5bc0de; color: white; padding: 8px 12px; font-size: 14px; white-space: nowrap; }
+#notion-header-button:hover { background-color: #31b0d5; }
+#close-button { order: 4; background-color: #dc3545; color: white; padding: 8px 15px; font-size: 14px; }
+#close-button:hover { background-color: #c82333; }
+.search-wrapper { order: 5; width: 100%; flex-basis: 100%; display: flex; align-items: center; border: 1px solid #ced4da; border-radius: 4px; background-color: white; overflow: hidden; margin-top: 5px; transition: border-color 0.15s ease-in-out; }
+.search-wrapper:focus-within { border-color: #86b7fe; box-shadow: none; }
+#search-input { flex-grow: 1; border: none; outline: none; padding: 8px 12px; font-size: 14px; background-color: transparent; min-width: 0px; box-sizing: border-box; margin: 0; }
+#clear-search-button { background: none; border: none; font-size: 1.3em; color: #aaa; cursor: pointer; padding: 0 8px; margin: 0 2px 0 0; line-height: 1; display: none; flex-shrink: 0; }
+#clear-search-button:hover { color: #333; }
+
+.list-filter-controls { padding: 8px 15px; background-color: #f1f3f5; border-bottom: 1px solid #e9ecef; display: flex; align-items: center; gap: 8px; }
+.list-filter-controls label { margin: 0; }
+
+.scrollable-list { flex-grow: 1; overflow-y: auto; padding: 10px; width: 100%; box-sizing: border-box; background-color: #fff; }
+#songs { list-style-type: none; padding: 0; margin: 0; width: 100%; text-align: left; }
+#songs li { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; border-bottom: 1px solid #e9ecef; text-align: left; box-sizing: border-box; }
+#songs li:last-child { border-bottom: none; }
+#songs li span:first-child { margin-right: 8px; flex-grow: 1; word-break: break-word; font-size: 14px; line-height: 1.5; color: #495057; }
+.song-name--has-link { color: #007bff !important; cursor: pointer; }
+.song-name--has-link:hover { text-decoration: underline; }
+
+.button-group { display: flex; align-items: center; flex-shrink: 0; margin-left: auto; }
+.copy-button { padding: 5px 10px; font-size: 12px; line-height: 1.4; border-radius: 4px; background-color: #6c757d; color: white; border: none; cursor: pointer; flex-shrink: 0; transition: background-color 0.2s ease, transform 0.1s ease; }
+.copy-button:hover { background-color: #5a6268; }
+.copy-button:disabled { background-color: #ced4da; color: #6c757d; cursor: default; transform: none; }
+.copy-button:active:not(:disabled) { transform: scale(0.98); }
+
+.meteor { position: absolute; width: 3px; height: 3px; background-color: #fff; border-radius: 50%; animation: meteor linear infinite; z-index: 1; opacity: 0; }
+@keyframes meteor { 0% { transform: translateX(var(--start-x)) translateY(var(--start-y)); opacity: 1; } 70% { opacity: 1; } 100% { transform: translateX(var(--end-x)) translateY(var(--end-y)); opacity: 0; } }
+
+[id$="-link"] { position: fixed; z-index: 1000; }
+/* 修改為全部圖片圓形 60% */
+[id$="-link"] img { transition: transform 0.2s ease, box-shadow 0.2s ease; display: block; width: 40px; height: 40px; border-radius: 60%; }
+[id$="-link"] img:hover { transform: scale(1.15); box-shadow: 0px 5px 12px rgba(0, 0, 0, 0.3); }
+
+/* --- Icon Positions (Desktop) --- */
+#youtube-link { bottom: 10px; right: 10px; }
+#twitter-link { bottom: 8px; right: 60px; }
+#twitter-link img { background-color: black; }
+#custom-link { bottom: 8px; right: 110px; }
+/* 對調位置：FANBOX 在 160px，TwitCasting 在 210px */
+#fanbox-link { bottom: 10px; right: 160px; }
+#twitcasting-link { bottom: 8px; right: 210px; }
+#amazon-link { bottom: 10px; left: 10px; }
+#booth-link { bottom: 10px; left: 60px; }
+
+/* --- Medium Screens (Tablets, Larger Phones) --- */
 @media (max-width: 768px) {
-    /* 強制顯示所有圖標 */
-    #youtube-link, #twitter-link, #custom-link, #fanbox-link, #twitcasting-link, #amazon-link, #booth-link {
+    .container { padding: 20px; width: 90%; margin: 10px auto; }
+    #song-list { width: 90%; max-height: 70vh; margin: 10px auto; }
+    .song-list-header { padding: 8px 12px; gap: 10px; }
+    .song-list-header h2 { font-size: 1.1em; }
+    .song-list-header p#song-count { font-size: 0.8em; margin-left: 3px; }
+    #notion-header-button { padding: 6px 10px; font-size: 13px; }
+    #close-button { padding: 6px 12px; font-size: 13px; }
+    .search-wrapper { margin-top: 8px; }
+    #search-input { font-size: 13px; padding: 6px 10px; }
+    .list-filter-controls { padding: 6px 12px; }
+    label[for="list-song-type-filter"] { font-size: 13px; }
+    #list-song-type-filter { font-size: 13px; padding: 6px 10px; min-width: 100px; }
+    #songs li { padding: 6px 10px; }
+    #songs li span:first-child { font-size: 13px; line-height: 1.4; margin-right: 5px; color: #495057; }
+    .copy-button { padding: 4px 8px; font-size: 11px; }
+
+    /* Icon Positions (Tablet) */
+    #youtube-link, #twitter-link, #custom-link, #twitcasting-link, #amazon-link, #booth-link, #fanbox-link {
         display: block !important;
     }
-
-    /* 手機版圖標稍微縮小防止擁擠 */
-    [id$="-link"] img { width: 35px; height: 35px; }
-
-    /* 確保這 5 個右側圖標絕對固定在右邊，不准跑去左邊 */
-    #youtube-link      { right: 10px;  left: auto; }
-    #twitter-link      { right: 55px;  left: auto; bottom: 8px; }
-    #custom-link       { right: 100px; left: auto; bottom: 8px; }
-    #fanbox-link       { right: 145px; left: auto; }            /* 手機版 FANBOX 位置 */
-    #twitcasting-link  { right: 190px; left: auto; bottom: 8px; } /* 手機版 TwitCasting 位置 */
-
-    /* 左側圖標保持在左邊 */
-    #amazon-link       { left: 10px;  right: auto; }
-    #booth-link        { left: 55px;  right: auto; }
+    [id$="-link"] img { width: 40px; height: 40px; }
+    #youtube-link { right: 10px; }
+    #twitter-link { right: 60px; }
+    #custom-link { right: 110px; }
+    /* 手機平板版也對調 */
+    #fanbox-link { right: 160px; left: auto; }
+    #twitcasting-link { right: 210px; left: auto; }
+    
+    #amazon-link { left: 10px; }
+    #booth-link { left: 60px; }
 }
 
-/* 流星特效 */
-.meteor { position: absolute; width: 3px; height: 3px; background: white; border-radius: 50%; opacity: 0; animation: meteorAnim 4s infinite linear; }
-@keyframes meteorAnim {
-    0% { transform: translate(100vw, 0); opacity: 1; }
-    100% { transform: translate(-100vw, 100vh); opacity: 0; }
+/* --- Small Screens (Phones) --- */
+@media (max-width: 480px) {
+    #song-list { width: 95%; max-height: 60vh; margin: 10px auto; }
+    .song-list-header { padding: 8px 10px; gap: 6px; }
+    .song-list-header h2 { font-size: 1em; white-space: normal; }
+    .song-list-header p#song-count { font-size: 0.75em; }
+    #notion-header-button { padding: 5px 8px; font-size: 12px; }
+    #close-button { padding: 5px 10px; font-size: 12px; }
+    .search-wrapper { margin-top: 4px; }
+    #search-input { font-size: 13px; padding: 6px 10px; }
+    #clear-search-button { font-size: 1.2em; padding: 0 6px; }
+    .list-filter-controls { padding: 5px 10px; justify-content: center; }
+    label[for="list-song-type-filter"] { font-size: 12px; }
+    #list-song-type-filter { font-size: 12px; padding: 5px 8px; min-width: 90px; }
+    #songs li { padding: 5px 8px; }
+    #songs li span:first-child { font-size: 12px; margin-right: 3px; color: #495057; }
+    .copy-button { padding: 3px 7px; font-size: 10px; }
+
+    /* Icon Positions (Phone) - 確保全部都在右邊，且 TwitCasting 不隱藏 */
+    #youtube-link { right: 10px; }
+    #twitter-link { right: 60px; }
+    #custom-link { right: 110px; }
+    #fanbox-link { right: 160px; left: auto; display: block !important; }
+    #twitcasting-link { right: 210px; left: auto; display: block !important; }
+    
+    #amazon-link { left: 10px; }
+    #booth-link { left: 60px; }
 }
+
+/* --- Modal Styles --- */
+#modal-overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background-color: rgba(0, 0, 0, 0.6); z-index: 1010; display: none; }
+#stream-links-modal { position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); background-color: #ffffff; padding: 20px 25px; border-radius: 8px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); z-index: 1011; display: none; min-width: 300px; max-width: 90%; max-height: 70vh; overflow-y: auto; }
+.modal-header { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #e9ecef; padding-bottom: 10px; margin-bottom: 15px; }
+.modal-header h3 { margin: 0; font-size: 1.2em; color: #333; }
+#modal-close-button { background: none; border: none; font-size: 1.8em; font-weight: bold; color: #888; cursor: pointer; padding: 0 5px; line-height: 1; margin: -5px -5px -5px 5px; }
+#modal-close-button:hover { color: #333; }
+.modal-body p { font-size: 0.9em; color: #555; margin-bottom: 10px; }
+#modal-stream-list { list-style-type: decimal; padding: 0; margin: 0; padding-left: 25px; }
+#modal-stream-list li { padding: 8px 0; border-bottom: 1px dashed #eee; cursor: pointer; font-size: 0.95em; color: #333; transition: background-color 0.2s ease; }
+#modal-stream-list li span.modal-list-date { color: #007bff; }
+#modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
+#modal-stream-list li:hover { background-color: #f0f0f0; }
+#modal-stream-list li:last-child { border-bottom: none; }
