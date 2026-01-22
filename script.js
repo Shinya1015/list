@@ -648,6 +648,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(アカペラ)", videoId: "WULCzP9OiTw", timestamp: 8794 },
   ],
    "Wonderful Wonder World*/Yun*chi": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 1139},
       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 714},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 8520},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 12685},
@@ -660,6 +661,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2030 },
   ],
   "アイコトバ/サクラメリーメン": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 860},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1545},
      { date: "2025年9月17日", videoId: "BsY-2IKR_yM", timestamp: 3774},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 845},
@@ -1787,6 +1789,7 @@ const songStreamLinks = {
         { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 12130},
   ],
   "バニラソルト/堀江由衣": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 1985},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
@@ -8423,6 +8426,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 1880},
   ],
   "clover/hiro": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 2425},
      { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1174},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 3092},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 2294},
@@ -9403,6 +9407,7 @@ const songStreamLinks = {
   ],
 
    "EQUALロマンス/CoCo": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 2792},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 1773},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 2296},
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4319},
@@ -9419,6 +9424,7 @@ const songStreamLinks = {
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
    "nexus/ClariS": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 1453},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 2867},
       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 404},
       { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1124},
