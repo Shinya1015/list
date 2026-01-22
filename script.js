@@ -208,6 +208,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9542},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34988},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3859},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1048 },
@@ -534,6 +535,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9197},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 31871},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7646},
       { date: "2025年11月19日", videoId: "s53rQjpuhsU", timestamp: 5623},
@@ -3284,6 +3286,7 @@ const songStreamLinks = {
      { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 4257},
   ],
    "Little Wish ～lyrical step～/田村ゆかり": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 10920},
       { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 2633},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 16502},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 6119},
@@ -4595,6 +4598,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 5832 },
   ],
   "clock lock works/ハチ": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 10565},
      { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 7048},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 4386},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 15699},
@@ -4831,6 +4835,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8937},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24155},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14802},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 18708},
@@ -5561,6 +5566,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 8984},
   ],
   "インドア系ならトラックメイカー/Yunomi & nicamoq": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9894},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 40630},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1734},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7713},
@@ -6733,6 +6739,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8623},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1290},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3847},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 5488},
