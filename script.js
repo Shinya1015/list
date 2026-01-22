@@ -130,6 +130,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
       ],
    "ARiA/とくP": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 6130},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
       ],
    "大丈夫サンライズ/豆柴の大群": [
@@ -544,6 +545,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4698 },
   ],
    "Reset/平原綾香": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 5837},
       { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5675},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6941},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15656},
@@ -2044,6 +2046,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
  "ひまわりの約束/秦基博": [
+    { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 5474},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 7327},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 19244},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8795},
@@ -3803,6 +3806,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 3683},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20039},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7977},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 2367},
@@ -7333,6 +7337,7 @@ const songStreamLinks = {
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
   "月花/nano.RIPE": [
+     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 5122},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 5555},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 10215},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 10491},
