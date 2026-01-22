@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "J-POP/Half-Life": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
+      ],
    "ルンがピカッと光ったら/ワルキューレ": [
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22728},
       ],
@@ -161,6 +164,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 11341},
       ],
    "雨のちSweet*Drops/OSTER project": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 6772},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6270},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10924},
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 5358},
@@ -301,6 +305,7 @@ const songStreamLinks = {
        { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 5044},
       ],
    "春に一番近い街/40mP": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8021},
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4608},
       ],
    "フィクション/sumika": [
@@ -10396,6 +10401,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 7459},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 9401},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15370},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2812},
@@ -10814,6 +10820,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 7745},
     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7191},
     { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6492},
     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8817},
@@ -10856,6 +10863,7 @@ const songStreamLinks = {
   { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 2152 },
  ],
 "フタリボシ/40mP": [
+   { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 6444},
    { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 5964},
    { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 14801 },
    { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 8544 },
@@ -13028,4 +13036,5 @@ const streamerSongList = [
    "浜崎あゆみ/BLUE BIRD",
    "空も飛べるはず/スピッツ",
    "ルンがピカッと光ったら/ワルキューレ",
+   "J-POP/Half-Life",
 ];
