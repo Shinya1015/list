@@ -117,6 +117,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2234},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10074},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5463},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1318},
@@ -584,6 +585,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 17118 }, 
   ],
   "果てなき道/HIMEKA": [
+     { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 3254},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4128},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 5260},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5407},
@@ -681,6 +683,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
    "futuristic imagination/School Food Punishment": [
+      { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2934},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5826},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 4012},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 13057},
@@ -786,6 +789,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 1435},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 5249},
      { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7238},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10986},
@@ -2513,6 +2517,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
    "Story/19's Sound Factory": [
+      { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 1067},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33403},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4182},      
       { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1547},
@@ -3298,6 +3303,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4456},
   ],
   "FEELING AROUND/鈴木みのり": [
+     { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2543},
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 10100},
   ],
   "冒険でしょでしょ？/平野綾": [
@@ -5561,6 +5567,7 @@ const songStreamLinks = {
      { date: "2023年6月24日", videoId: "QpZ2Ytqvr5M", timestamp: 3556},
   ],
   "JOY/YUKI": [
+     { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 1835},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2310},
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 9717},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 4971},
@@ -6340,6 +6347,7 @@ const songStreamLinks = {
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8655},
   ],
    "笑顔のsuncatcher/STAR☆ANIS": [
+      { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 739},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 4850},
       { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 7365 },
       { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 6008 },
@@ -6392,6 +6400,7 @@ const songStreamLinks = {
       { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 6505},
   ],
   "KIRA☆Power/STAR☆ANIS": [
+     { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 378},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 5239},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7860},
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
