@@ -12,7 +12,11 @@ const songStreamLinks = {
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
    "BLUE BIRD/浜崎あゆみ": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5784},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
+      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1320},
+      { date: "2024年7月28日", videoId: "Oa8PmJ6Ju7M", timestamp: 12839},
+      { date: "2024年7月18日", videoId: "bema6w1wMdI", timestamp: 3031},
       ],
    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3103},
