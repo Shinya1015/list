@@ -496,6 +496,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11176 },
   ],
    "Sunshine/MONKEY MAJIK": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 11911},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2333},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 8632},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 9672},
@@ -505,6 +506,7 @@ const songStreamLinks = {
       { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8186 },
   ],
   "Fast Forward/MONKEY MAJIK": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 12228},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 2050},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2996},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 6938},
@@ -661,6 +663,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 2509 },
   ],
   "SUNDAY/ザ・ベイビースターズ": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 13264},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 664},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 1271},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 559},
@@ -1072,6 +1075,7 @@ const songStreamLinks = {
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 6339},
   ],
   "ヒトミノチカラ/観月ありさ": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 12612},
      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 2033},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8920},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 7240},
@@ -2588,6 +2592,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 15397},
   ],
   "Over soul/林原めぐみ": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 11637},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 3512},
      { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 4652},
      { date: "2024年7月12日", videoId: "E1uBXUJjl3U", timestamp: 7733},
@@ -7772,6 +7777,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 12164},
   ],
   "VS/misono": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 12949},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 3814},
      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 1773},
      { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 15256},
