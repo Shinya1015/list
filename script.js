@@ -3281,6 +3281,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7527},
   ],
   "You & Me/田村ゆかり feat. motsu from m.o.v.e": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 4129},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 3461},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 4490},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 5094},
@@ -3698,6 +3699,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 4789},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 11957},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1940},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 5367},
@@ -5650,6 +5652,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2748},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7019},
      { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 4474},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2277},
@@ -6137,6 +6140,7 @@ const songStreamLinks = {
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 5744},
   ],
    "One day/The ROOTLESS": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 4400},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7861},
       { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1373},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 3350},
@@ -10391,6 +10395,7 @@ const songStreamLinks = {
        { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5115 },
      ],
 "Velonica/Aqua Timez": [
+   { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 3795},
    { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 10084},
    { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5572},
    { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 9061},
