@@ -1,6 +1,6 @@
 const songStreamLinks = {
    "NO MORE CRY/D-51": [
-      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5220},
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5520},
       ],
    "J-POP/Half-Life": [
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
