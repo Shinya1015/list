@@ -3,6 +3,7 @@ const songStreamLinks = {
       { date: "2026年1月25日(一番のみ)", videoId: "eWNeF1vIl-I", timestamp: 5520},
       ],
    "J-POP/Half-Life": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9843},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
       ],
    "ルンがピカッと光ったら/ワルキューレ": [
@@ -64,6 +65,7 @@ const songStreamLinks = {
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 10690},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33677},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4793},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 1546},
@@ -770,6 +772,7 @@ const songStreamLinks = {
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 10014 },
   ],
   "Forever.../savage genius": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9479},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6902},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2898 },
      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
@@ -9225,6 +9228,7 @@ const songStreamLinks = {
       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
    "夜鷹の夢/Do As Infinity": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 11141},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5205},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18379},
       { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 13732},
@@ -9750,6 +9754,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9113},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7560},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5089},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 8767},
