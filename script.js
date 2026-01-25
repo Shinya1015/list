@@ -37,6 +37,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 6144},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8401},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1111},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 9537},
@@ -144,6 +145,7 @@ const songStreamLinks = {
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
       ],
    "大丈夫サンライズ/豆柴の大群": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 8510},
       { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1955},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4085},
       ],
@@ -427,6 +429,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
    "Blood teller/Faylan": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 8223},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 5278},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8143},
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 6088},
@@ -5242,6 +5245,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 7941},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13388},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 2015},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 10490},
@@ -10655,6 +10659,7 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 8807},
    { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5997},
    { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 4286},
    { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 5143},
