@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "NO MORE CRY/D-51": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5220},
+      ],
    "J-POP/Half-Life": [
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
       ],
@@ -4962,6 +4965,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5143},
        { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34312},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 14381},
        { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8321},
@@ -13062,4 +13066,5 @@ const streamerSongList = [
    "空も飛べるはず/スピッツ",
    "ルンがピカッと光ったら/ワルキューレ",
    "J-POP/Half-Life",
+   "NO MORE CRY/D-51",
 ];
