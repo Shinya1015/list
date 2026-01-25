@@ -534,6 +534,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
   ],
    "Dear My Friend~まだ見ぬ未来へ~/ELISA": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 14060},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16036},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7239 },
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7977 },
@@ -740,6 +741,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "s0NLHUsn9I0", timestamp: 14385 },
   ],
 　　"星屑のインターリュード/fhana": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 14355},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 37040},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 3369},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3349},
