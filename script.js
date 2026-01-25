@@ -311,6 +311,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 4608},
       ],
    "フィクション/sumika": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2122},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 3192},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 8234},
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 2517},
@@ -501,6 +502,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1439},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 2842 },
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5826},
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2516 },
@@ -510,6 +512,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 8739 },
   ],
   "Ring My Bell/blue drops": [
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1128},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5504},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 10210},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2928},
@@ -9190,6 +9193,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2435},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14317},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8857},
       { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 11483},
@@ -9798,6 +9802,7 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2075 },
   ],
  "月虹/BUMP OF CHICKEN": [
+    { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1755},
     { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2717},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2624},
     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
