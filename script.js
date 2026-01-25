@@ -8,7 +8,7 @@ const songStreamLinks = {
    "空も飛べるはず/スピッツ": [
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
-   "浜崎あゆみ/BLUE BIRD": [
+   "BLUE BIRD/浜崎あゆみ": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
       ],
    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
@@ -13048,7 +13048,7 @@ const streamerSongList = [
     "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
     "桃源恋歌/GARNIDELIA",
     "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
-   "浜崎あゆみ/BLUE BIRD",
+   "BLUE BIRD/浜崎あゆみ",
    "空も飛べるはず/スピッツ",
    "ルンがピカッと光ったら/ワルキューレ",
    "J-POP/Half-Life",
