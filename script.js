@@ -6016,7 +6016,7 @@ const songStreamLinks = {
   "CHANGE THE WORLD/V6": [
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
-  "アンビバレント/Uru ": [
+  "アンビバレント/Uru": [
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11829},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6359},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3326},
@@ -11227,7 +11227,7 @@ const lowPitchSongs = [
     "One day/The ROOTLESS",                                           // 男聲搖滾樂團
     "Get Wild/TM NETWORK",                                            // 男聲 (小室哲哉/宇都宮隆)
     "シュガーソングとビターステップ/UNISON SQUARE GARDEN",              // 男聲，搖滾
-    "アンビバレント/Uru ",                                            // 女聲，以其低沉、氣聲唱法聞名
+    "アンビバレント/Uru",                                            // 女聲，以其低沉、氣聲唱法聞名
     "CHANGE THE WORLD/V6",                                            // 男聲偶像團體
     "WAになっておどろう/V6",                                          // 男聲偶像團體
     "怪獣の花唄/Vaundy",                                              // 男聲，創作歌手，音域多變但包含低音
@@ -12595,7 +12595,7 @@ const streamerSongList = [
     "Adrenaline!!!/TrySail",                            // 情色漫畫老師 (Eromanga Sensei)
     "晩餐歌/tuki.",
     "シュガーソングとビターステップ/UNISON SQUARE GARDEN", // 血界戰線 (Blood Blockade Battlefront)
-    "アンビバレント/Uru ",
+    "アンビバレント/Uru",
     "CHANGE THE WORLD/V6",
     "WAになっておどろう/V6",
     "怪獣の花唄/Vaundy",
