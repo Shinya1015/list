@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "HANAJI/小林ゆう": [
+      { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 799},
+      ],
    "NO MORE CRY/D-51": [
       { date: "2026年1月25日(一番のみ)", videoId: "eWNeF1vIl-I", timestamp: 5520},
       ],
@@ -11356,6 +11359,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "HANAJI/小林ゆう",
     "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
     "daze/じん ft. メイリア from GARNiDELiA", 
     "かたち/安月名莉子",                                  //來自深淵
@@ -13089,4 +13093,5 @@ const streamerSongList = [
    "ルンがピカッと光ったら/ワルキューレ",
    "J-POP/Half-Life",
    "NO MORE CRY/D-51",
+   "HANAJI/小林ゆう",
 ];
