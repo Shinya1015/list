@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "最初のクリスマス/ムスカP": [
+      { date: "2022年12月24日", videoId: "eWNeF1vIl-I", timestamp: 9843},
+      ],
    "HANAJI/小林ゆう": [
       { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 799},
       ],
@@ -13094,4 +13097,5 @@ const streamerSongList = [
    "J-POP/Half-Life",
    "NO MORE CRY/D-51",
    "HANAJI/小林ゆう",
+   "最初のクリスマス/ムスカP",
 ];
