@@ -5861,6 +5861,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1042},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1735},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 5826},
       { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 5950 },
