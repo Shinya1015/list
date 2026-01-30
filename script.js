@@ -362,7 +362,8 @@ const songStreamLinks = {
         { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 8931 },
   ],
     "CONFUSED MEMORIES/円谷憂子": [
-        { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5595 },
+       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 3107},
+       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5595 },
   ],
     "ロックマンのテーマ～風を突き抜けて～/橋本仁": [
         { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 9630},
@@ -730,6 +731,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2746},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 5673},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7307},
       { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 5898},
@@ -828,6 +830,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
   "超最強/超ときめき♡宣伝部": [
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2415},
      { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 1435},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 5249},
      { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7238},
@@ -2835,7 +2838,8 @@ const songStreamLinks = {
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4262},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
-    "Style. /西野カナ": [
+   "Style. /西野カナ": [ 
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 1657},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1587},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16533},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 970},
@@ -3572,6 +3576,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 1289},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 27128},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 929},
       { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 1033},
@@ -6023,6 +6028,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru": [
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2058},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11829},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6359},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3326},
