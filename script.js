@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "GHOST SWEEPER/森口博子": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 7864},
+      ],
    "最初のクリスマス/ムスカP": [
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5950},
       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8457},
@@ -2136,6 +2139,7 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7417 },
   ],
   "太陽の楽園 ～Promised Land～/神戸みゆき": [
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 7550},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 17061},
      { date: "2024年11月5日", videoId: "5VJGBrd8vZ4", timestamp: 3493},
   ],
@@ -11020,6 +11024,7 @@ const songStreamLinks = {
   { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
   ],
  "グッドナイトエクスプレス/鏡音リン・レン": [
+    { date: "2026年1月28日(アカペラ)", videoId: "Xb5rOjJuHHc", timestamp: 7305},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3650},
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
     ],
@@ -11380,6 +11385,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "GHOST SWEEPER/森口博子",
     "HANAJI/小林ゆう",
     "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
     "daze/じん ft. メイリア from GARNiDELiA", 
@@ -13117,4 +13123,5 @@ const streamerSongList = [
    "NO MORE CRY/D-51",
    "HANAJI/小林ゆう",
    "最初のクリスマス/ムスカP",
+   "GHOST SWEEPER/森口博子",
 ];
