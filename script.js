@@ -9396,6 +9396,7 @@ const songStreamLinks = {
       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 8774},
   ],
    "セカイ/DECO*27": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 8234},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 6562},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 8735},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13800},
