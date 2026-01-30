@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "time/SawanoHiroyuki[nZk]:ReoNa": [
+      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1354},
+      ],
    "GHOST SWEEPER/森口博子": [
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 7864},
       ],
@@ -11387,6 +11390,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "time/SawanoHiroyuki[nZk]:ReoNa",
     "GHOST SWEEPER/森口博子",
     "HANAJI/小林ゆう",
     "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
@@ -13126,4 +13130,5 @@ const streamerSongList = [
    "HANAJI/小林ゆう",
    "最初のクリスマス/ムスカP",
    "GHOST SWEEPER/森口博子",
+   "time/SawanoHiroyuki[nZk]:ReoNa",
 ];
