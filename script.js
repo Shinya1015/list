@@ -403,6 +403,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 5963},
   ],
    "ハヤテのごとく!/KOTOKO": [
+      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 2272},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5191},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 16748},
       { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 2629},
@@ -492,6 +493,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 11366 },
   ],
   "ワスレガタキ/石崎ひゅーい": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 4686},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 28685},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 1381},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 6257},
@@ -1069,6 +1071,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/ORANGE RANGE": [
+    { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1963},
     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 6893},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6655},
     { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4878},
@@ -6442,6 +6445,7 @@ const songStreamLinks = {
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 4953},
   ],
   "prism spiral/STAR☆ANIS": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1661},
      { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 1758},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 7148},
      { date: "2025年4月11日", videoId: "TtThqFbrP0s", timestamp: 1230},
@@ -8565,6 +8569,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 4888},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1706},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6527},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 7899},
@@ -10751,6 +10756,7 @@ const songStreamLinks = {
     { date: "2023年8月30日", videoId: "sy_-z0MkfKk", timestamp: 5892 },
   ],            
  "START DASH SENSATION/AIKATSU STARS!": [
+    { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 2604},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 7866},
     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 6660 },
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 2026 },
