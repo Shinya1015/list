@@ -74,7 +74,23 @@ button:active { transform: scale(0.98); }
 #song-result span.copyable-song:hover { opacity: 0.8; }
 #song-result span.copied-feedback { cursor: default; opacity: 1; color: green; font-weight: bold; }
 
-#song-list { display: none; flex-direction: column; width: 100%; max-width: 700px; margin: 10px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); height: auto; max-height: calc(80vh - 70px); overflow: hidden; position: relative; padding: 0; box-sizing: border-box; }
+#song-list { 
+    display: none; 
+    flex-direction: column; 
+    width: 100%; 
+    max-width: 700px; 
+    margin: 10px auto; 
+    background-color: #ffffff; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+    height: auto; 
+    max-height: calc(80vh - 70px); 
+    overflow: hidden; 
+    position: relative; 
+    padding: 0; 
+    box-sizing: border-box; 
+    z-index: 1100; /* 修改處：增加層級，確保展開時覆蓋掉底下的圖標 */
+}
 
 .song-list-header { display: flex; flex-wrap: wrap; align-items: center; width: 100%; padding: 10px 15px; background-color: #f8f9fa; z-index: 3; box-shadow: 0 1px 3px rgba(0,0,0,0.1); box-sizing: border-box; gap: 10px; }
 .song-list-header > * { flex-shrink: 0; margin: 0; }
@@ -149,13 +165,13 @@ button:active { transform: scale(0.98); }
     /* 第一排強制併排優化 */
     .song-list-header { 
         padding: 8px 6px; 
-        gap: 4px; /* 縮小空隙 */
+        gap: 4px; 
         flex-wrap: wrap; 
         justify-content: flex-start;
     }
 
     .song-list-header h2 { 
-        font-size: 0.95em; /* 標題微縮，騰出空間給按鈕 */
+        font-size: 0.95em; 
         margin-right: 2px;
         flex-shrink: 1;
         overflow: hidden;
@@ -163,16 +179,14 @@ button:active { transform: scale(0.98); }
         text-overflow: ellipsis;
     }
 
-    /* margin-right: auto 負責把按鈕推向最右邊 */
     .song-list-header p#song-count { 
         font-size: 0.85em; 
         margin-right: auto; 
     }
     
-    /* 按鈕調整為扁長型，確保寬度不破表 */
     #notion-header-button, #close-button { 
-        padding: 8px 10px; /* 寬度減小 */
-        font-size: 13px; /* 字體微縮 */
+        padding: 8px 10px; 
+        font-size: 13px; 
         font-weight: bold;
         flex-shrink: 0;
         margin: 0;
@@ -190,7 +204,7 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* 圖標排列 10px 間距 */
+    /* 圖標重排 (10px 間距) */
     #custom-link { right: 5px; bottom: 70px; } 
     #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
