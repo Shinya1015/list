@@ -4701,7 +4701,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 1083},
   ],
   "Re;fract/なぎ": [
-     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6953},
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 6953},
   ],
   "clock work/なぎ": [
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6214},
