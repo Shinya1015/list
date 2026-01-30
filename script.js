@@ -1269,6 +1269,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5994},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 30298},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6904},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7619},
@@ -1337,6 +1338,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5169},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 29768},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 2367},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 1081},
@@ -1393,6 +1395,7 @@ const songStreamLinks = {
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
  "それでも明日はやってくる/鈴木結女": [  
+    { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5438},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11495},
     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6621},
     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 10025},
@@ -3870,6 +3873,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5723},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 3683},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20039},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7977},
@@ -6770,6 +6774,7 @@ const songStreamLinks = {
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 6433},
   ],
   "銀色の空/redballoon": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 6574},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 31626},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 3252},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11521},
@@ -8542,6 +8547,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 9523},
   ],
   "かさなる影/Hearts Grow": [
+     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 6237},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 6495},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 11193},
      { date: "2025年5月5日", videoId: "TXQnChB58tM", timestamp: 5564},
@@ -10342,7 +10348,8 @@ const songStreamLinks = {
        { date: "2024年6月20日", videoId: "_hYbSPBR1v4", timestamp: 3589 },
        { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 13287 },
      ],
-"Stairway Generation/Base Ball Bear": [
+    "Stairway Generation/Base Ball Bear": [
+       { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 6800},
        { date: "2024年10月5日", videoId: "Q9readQ6dTE", timestamp: 4150 },
        { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 9845 },
        { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 5724 },
