@@ -1,14 +1,17 @@
 const songStreamLinks = {
    "最初のクリスマス/ムスカP": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5950},
       { date: "2022年12月24日", videoId: "eWNeF1vIl-I", timestamp: 9843},
       ],
    "HANAJI/小林ゆう": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 4238},
       { date: "2024年4月19日", videoId: "4z7Z_1eewZw", timestamp: 799},
       ],
    "NO MORE CRY/D-51": [
       { date: "2026年1月25日(一番のみ)", videoId: "eWNeF1vIl-I", timestamp: 5520},
       ],
    "J-POP/Half-Life": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5216},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9843},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
       ],
@@ -71,6 +74,7 @@ const songStreamLinks = {
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
+      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5520},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 10690},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33677},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4793},
@@ -3292,12 +3296,14 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2493},
   ],
   "ゆずれない願い/田村直美": [
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 3584},
      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 5989},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2887},
      { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 12607},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
 　　"Ready Go!/田村直美": [
+     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 3878},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 32205},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4672},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 9169},
@@ -10129,6 +10135,7 @@ const songStreamLinks = {
        { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 1836 },  
   ],
  "Hello,world!/BUMP OF CHICKEN": [
+    { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 4928},
     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1741 },
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 12751 },
     { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4574 },
