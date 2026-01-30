@@ -1,7 +1,7 @@
 const songStreamLinks = {
    "最初のクリスマス/ムスカP": [
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5950},
-      { date: "2022年12月24日", videoId: "eWNeF1vIl-I", timestamp: 9843},
+      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 8457},
       ],
    "HANAJI/小林ゆう": [
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 4238},
