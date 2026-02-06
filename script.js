@@ -1721,6 +1721,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 10472 },
   ],
   "素晴らしき世界/Rake": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 1961},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1354},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 2663},
      { date: "2025年9月1日", videoId: "LUtkJtVAe_I", timestamp: 2390},
@@ -2945,6 +2946,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2734},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 41476},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12096},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 7176},
@@ -3108,6 +3110,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2421},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 5248},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 11733},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4796},
@@ -6136,6 +6139,7 @@ const songStreamLinks = {
      { date: "2023年10月12日", videoId: "WTTp8sa91f0", timestamp: 6387},
   ],
    "Pray/Wish*": [
+      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 1245},
       { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 4918},
       { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 7173},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 1572},
