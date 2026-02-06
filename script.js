@@ -3727,6 +3727,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 9142},
   ],
   "火炎/女王蜂": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 3992},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4449},
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 13654},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13439},
@@ -5447,6 +5448,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
   "命に嫌われている。/カンザキイオリ": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 3101},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1512},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4591},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14244},
@@ -7335,7 +7337,8 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 936},
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 3734},
   ],
-   "天地ガエシ/NICO Touches the Walls": [
+  "天地ガエシ/NICO Touches the Walls": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 3416},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 1861},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 2959},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 3609},
