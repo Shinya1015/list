@@ -185,6 +185,7 @@ const songStreamLinks = {
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10251},
       ],
    "Sweetiex2/DixieFlatline": [
+      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 5533},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12417},
       ],
    "初音ミクの暴走/cosMo@暴走P": [
@@ -1952,6 +1953,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 4677},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 2669},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6557},
      { date: "2025年9月22日", videoId: "rBdvmkz8txA", timestamp: 8967},
@@ -9316,6 +9318,7 @@ const songStreamLinks = {
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
     ],
    "心壊サミット/DECO*27": [
+      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 5930},
       { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 3232},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 11149},
       { date: "2025年4月1日(冒頭アカペラ)", videoId: "3qhlFZL3j_w", timestamp: 5717},
@@ -10822,6 +10825,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 6138},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 6283},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 8053},
     { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 2867},
