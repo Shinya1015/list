@@ -137,7 +137,7 @@ const songStreamLinks = {
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
    "Twinkle Days/19's Sound Factory": [
-      { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 9073},
+      { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 9073},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9386},
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 7499},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7936},
@@ -150,7 +150,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
-      { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 6086},
+      { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 6086},
       { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2234},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10074},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5463},
@@ -249,7 +249,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
    "rain stops, good-bye/におP": [
-      { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 4097},
+      { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4097},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 5738},
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 2772},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 3453},
@@ -814,7 +814,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
-     { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 8616},
+     { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 8616},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1595},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3104},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4460},
@@ -4834,7 +4834,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 12582},
   ],
     "SPiCa/とくP": [
-       { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 4629},
+       { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4629},
        { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15959},
        { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4141 },
        { date: "2024年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2277 },
@@ -6646,7 +6646,7 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
-     { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 3698},
+     { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 3698},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19849},
      { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 3922},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 5503},
@@ -10994,7 +10994,7 @@ const songStreamLinks = {
    { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ], 
 "トリノコシティ/40mP": [
-   { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 4954},
+   { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4954},
    { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2437},
    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9154},
    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 7171},
@@ -11019,7 +11019,7 @@ const songStreamLinks = {
    { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12130 },
   ],
 "Cosmic star/emon(Tes.)": [
-   { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 3161},
+   { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 3161},
    { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 3270 },
    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 6336 },
    { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
