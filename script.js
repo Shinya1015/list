@@ -37,6 +37,9 @@ const songStreamLinks = {
    "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん": [
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 3103},
       ],
+   "地球最後の告白を/kemu": [
+      { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 6318},
+      ],
    "インビジブル/kemu": [
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6359},
       ],
@@ -12515,6 +12518,7 @@ const streamerSongList = [
     "bitter/keeno",
     "crack/keeno",
     "glow/keeno",
+    "地球最後の告白を/kemu",
     "人生リセットボタン/kemu",
     "インビジブル/kemu",
     "敗北の少年/kemu",
