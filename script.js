@@ -137,6 +137,7 @@ const songStreamLinks = {
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
    "Twinkle Days/19's Sound Factory": [
+      { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 9073},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9386},
       { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 7499},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 7936},
@@ -149,6 +150,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 6086},
       { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2234},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 10074},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5463},
@@ -812,6 +814,7 @@ const songStreamLinks = {
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
+     { date: "2026年2月12日", videoId: "GDrDBtSu4Ug", timestamp: 8616},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 1595},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 3104},
      { date: "2025年8月19日", videoId: "NFDn3pzKuzk", timestamp: 4460},
