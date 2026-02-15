@@ -1143,6 +1143,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4961},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 3140},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 11753},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 6207},
@@ -1510,6 +1511,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 10661},
   ],
   "MAGIC/愛内里菜": [
+     { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4239},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8052},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6974},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6405},
@@ -2277,6 +2279,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4564},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 13760},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 23854},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 17802},
