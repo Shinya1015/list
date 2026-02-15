@@ -17,6 +17,7 @@ const songStreamLinks = {
       { date: "2026年1月25日(一番のみ)", videoId: "eWNeF1vIl-I", timestamp: 5520},
       ],
    "J-POP/Half-Life": [
+      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 2752},
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5216},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9843},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8302},
@@ -83,6 +84,7 @@ const songStreamLinks = {
       { date: "2025年12月2日(一番のみ)", videoId: "vfLoXeZClxw", timestamp: 1972},
       ],
    "贅沢な匙/Van de Shop": [
+      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 2437},
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 5520},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 10690},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33677},
@@ -210,6 +212,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
+      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1907},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15655},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10237},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 7885},
@@ -9228,6 +9231,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1232},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3062},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3528},
      { date: "2025年5月20日(ひより/しゃいる，冒頭アカペラ)", videoId: "kMWrZ4ZtsZ8", timestamp: 1960},
@@ -10737,6 +10741,7 @@ const songStreamLinks = {
    { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 7187},
    ],
 "episode solo/AIKATSU☆STARS!": [
+   { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 3182},
    { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 8807},
    { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5997},
    { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 4286},
