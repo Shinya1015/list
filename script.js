@@ -1194,6 +1194,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 4371},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18770},
 　　{ date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 7237},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 12035},
@@ -6696,6 +6697,7 @@ const songStreamLinks = {
      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 1530},
   ],
   "スターライトパレード/SEKAI NO OWARI": [
+     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 1976},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 2296},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 4056},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 18829},
@@ -7281,6 +7283,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 1213},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 1220},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 1918},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13830},
@@ -7549,6 +7552,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 2489},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 1587},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1857},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 1505},
@@ -10102,6 +10106,7 @@ const songStreamLinks = {
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
  "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 4735},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 1965},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1484},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9593},
@@ -10505,6 +10510,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 2819},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 5877},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15096},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 6898},
@@ -10590,6 +10596,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
     ],      
  "僕が死のうと思ったのは/amazarashi": [
+    { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 3939},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1526},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6044 },
     { date: "2025年3月11日", videoId: "z5MYa4kPW4o", timestamp: 4495 },
