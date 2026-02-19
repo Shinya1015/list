@@ -4927,6 +4927,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 7803},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8937},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24155},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14802},
@@ -7675,6 +7676,7 @@ const songStreamLinks = {
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
   "Magic/Mrs. GREEN APPLE": [
+     { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 7499},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20101},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 18489},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15477},
@@ -10163,6 +10165,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 8110},
        { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 12394},
        { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 21696},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 16419},
@@ -10229,6 +10232,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 8410},
        { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19659},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15918},
        { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12890},
