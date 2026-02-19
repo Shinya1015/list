@@ -71,7 +71,11 @@ const songStreamLinks = {
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 3777},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
+   "Glow at the Velocity of Light/安月名莉子": [
+      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1771},
+      ],
    "かたち/安月名莉子": [
+      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1476},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12168},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6507},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1513},
@@ -10256,6 +10260,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1087},
         { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 39754},
         { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1664},
         { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 4220},
@@ -11446,6 +11451,7 @@ const animeSongs = [
     "HANAJI/小林ゆう",
     "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
     "daze/じん ft. メイリア from GARNiDELiA", 
+    "Glow at the Velocity of Light/安月名莉子",
     "かたち/安月名莉子",                                  //來自深淵
     "贅沢な匙/Van de Shop",                             //擁有超常技能的異世界流浪美食家 第一季
     "アイコトバ/サクラメリーメン",                                         //世界第一初恋
@@ -13168,6 +13174,7 @@ const streamerSongList = [
     "ジェミニ/Dixie Flatline",
     "You Only Live Once/YURI!!! on ICE feat. w.hatano",
     "贅沢な匙/Van de Shop",
+    "Glow at the Velocity of Light/安月名莉子",
     "かたち/安月名莉子",
     "fragile/武田レイナ",
     "daze/じん ft. メイリア from GARNiDELiA",
