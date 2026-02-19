@@ -986,6 +986,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1910},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4036},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6564},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6301},
@@ -8598,8 +8599,9 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6867},
   ],
   "Fire◎Flower/halyosy": [
-    { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
-    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4837 },
+     { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 2804},
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
+     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4837 },
   ],
   "Connecting/halyosy": [
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6903},
@@ -9414,6 +9416,7 @@ const songStreamLinks = {
       { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9004},
   ],
    "妄想感傷代償連盟/DECO*27": [
+      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 2354},
       { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 9560},
       { date: "2024年11月4日", videoId: "Bw1-VTxvez0", timestamp: 6814 },
       { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 15525 },
