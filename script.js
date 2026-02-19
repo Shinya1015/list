@@ -72,7 +72,8 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "Glow at the Velocity of Light/安月名莉子": [
-      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1771},
+      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 7011},
+      { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1476},
@@ -8450,6 +8451,7 @@ const songStreamLinks = {
      { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2588},
   ],
   "トゥインクル/Junky": [
+     { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 3190},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7553},
      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5400},
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 5772},
@@ -10944,6 +10946,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8450 },
   ],
  "ファインダー/livetune": [
+    { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 3882},
     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 2054 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8076 },
   ],
