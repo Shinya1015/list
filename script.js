@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "僕みたいな君 君みたいな僕/DECO*27": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 4139},
+      ],
    "time/SawanoHiroyuki[nZk]:ReoNa": [
       { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1354},
       ],
@@ -72,6 +75,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "Glow at the Velocity of Light/安月名莉子": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 1634},
       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 7011},
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
@@ -3684,6 +3688,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 11289},
   ],
   "PSI-missing/川田まみ": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 3560},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 3050},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16794},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 4006},
@@ -8469,6 +8474,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1558},
   ],
   "ZIGG-ZAGG/Junky": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 3922},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 13898},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 5711},
      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
@@ -9588,6 +9594,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
   ],
    "コネクト/ClariS": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 2572},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 11215},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 3591},
       { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 7183},
@@ -13201,4 +13208,5 @@ const streamerSongList = [
    "最初のクリスマス/ムスカP",
    "GHOST SWEEPER/森口博子",
    "time/SawanoHiroyuki[nZk]:ReoNa",
+   "僕みたいな君 君みたいな僕/DECO*27",
 ];
