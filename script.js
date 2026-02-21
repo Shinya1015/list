@@ -618,9 +618,10 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 3336 },
   ],
   "いーあるふぁんくらぶ/みきとP": [
-    { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 3904 },
-    { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 6217 },
-    { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 7598},
+     { date: "2025年4月2日(しゃいる/氷々樹ノルン)", videoId: "5ktwWXMXY_Q", timestamp: 3904 },
+     { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 6217 },
+     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1114},
@@ -858,6 +859,7 @@ const songStreamLinks = {
     { date: "2025年2月28日", videoId: "LOujQztkHr0", timestamp: 904 },
   ],
   "ダブルラリアット/アゴアニキP": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 4572},
     { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 10502 },
     { date: "2025年3月12日", videoId: "Eb87wNtVhFE", timestamp: 2939 },
   ],
@@ -3967,6 +3969,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6095},
   ],
   "KiLLER LADY/八王子P": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 5115},
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1143},
   ],
   "Carry Me Off/八王子P": [
@@ -6427,6 +6430,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9606},
   ],
   "メルト/supercell": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6650},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2316},
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 4841},
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 7306},
@@ -7360,6 +7364,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 8052},
   ],
   "Bad Apple!!/nomico": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 5381},
      { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 2267},
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 15378},
   ],
@@ -8150,6 +8155,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 6360},
   ],
   "セツナトリップ/Last Note.": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 7331},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 5008},
   ],
   "なりすましゲンガー/KulfiQ": [
@@ -9254,6 +9260,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6965},
      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1232},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3062},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 3528},
@@ -9297,6 +9304,7 @@ const songStreamLinks = {
     { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 5987 },
   ],
   "ロミオとシンデレラ/doriko": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 8150},
      { date: "2024年11月3日", videoId: "1WJ9n2-K7S4", timestamp: 7800},
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 5903},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1408},
@@ -10550,6 +10558,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6323},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 7459},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 9401},
       { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 15370},
