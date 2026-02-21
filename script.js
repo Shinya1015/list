@@ -1,4 +1,13 @@
 const songStreamLinks = {
+   "孤独の果て/光収容": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 12327},
+      ],
+   "マイリスダメー！/ライブP": [
+      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 12068},
+      ],
+   "Bitter-Edge/雷鳴P": [
+      { date: "2026年2月21日(一番のみ)", videoId: "8wnYqLqvJ9Q", timestamp: 11775},
+      ],
    "僕みたいな君 君みたいな僕/DECO*27": [
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 4139},
       ],
@@ -11079,6 +11088,7 @@ const songStreamLinks = {
    { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
   ],
   "Dear/19's Sound Factory": [
+     { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 11456},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 8017},
      { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5928 },
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5196 },
@@ -13218,4 +13228,7 @@ const streamerSongList = [
    "GHOST SWEEPER/森口博子",
    "time/SawanoHiroyuki[nZk]:ReoNa",
    "僕みたいな君 君みたいな僕/DECO*27",
+   "Bitter-Edge/雷鳴P",
+   "マイリスダメー！/ライブP",
+   "孤独の果て/光収容",
 ];
