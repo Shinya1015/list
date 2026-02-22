@@ -4,9 +4,11 @@ const songStreamLinks = {
       ],
    "マイリスダメー！/ライブP": [
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 12068},
+      { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 10164},
       ],
    "Bitter-Edge/雷鳴P": [
       { date: "2026年2月21日(一番のみ)", videoId: "8wnYqLqvJ9Q", timestamp: 11775},
+      { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9833},
       ],
    "僕みたいな君 君みたいな僕/DECO*27": [
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 4139},
