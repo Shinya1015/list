@@ -1070,6 +1070,7 @@ const songStreamLinks = {
      { date: "2024年1月12日(一番のみ)", videoId: "c5lqCzfIh10", timestamp: 4020},
   ],
    "ニブンノイチ/BACK-ON": [
+      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 4785},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 9763},
       { date: "2025年9月24日", videoId: "PNqLE7B-ehw", timestamp: 1903},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1165},
@@ -5209,6 +5210,7 @@ const songStreamLinks = {
     { date: "2023年1月6日-piano ver.", videoId: "lb9LTP381-c", timestamp: 12213 },
   ],
   "嘘/シド": [
+     { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 5101},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 6653},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1559},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1162},
@@ -5445,6 +5447,7 @@ const songStreamLinks = {
      { date: "2023年9月16日(一番のみ)", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
+     { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 4196},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 3975},
      { date: "2025年11月29日-piano ver.", videoId: "lk4Lg0W0OnM", timestamp: 9713},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 14966},
@@ -5923,6 +5926,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 5698},
       { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1042},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 1735},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 5826},
@@ -6728,6 +6732,7 @@ const songStreamLinks = {
      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 1530},
   ],
   "スターライトパレード/SEKAI NO OWARI": [
+     { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 5313},
      { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 1976},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 2296},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 4056},
@@ -8946,6 +8951,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 6055},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9701},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 12896},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 8498},
