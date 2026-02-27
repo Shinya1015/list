@@ -11,6 +11,7 @@ const songStreamLinks = {
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9833},
       ],
    "僕みたいな君 君みたいな僕/DECO*27": [
+      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8341},
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 4139},
       ],
    "time/SawanoHiroyuki[nZk]:ReoNa": [
@@ -903,6 +904,7 @@ const songStreamLinks = {
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
   "すないぱー。/『ユイカ』": [
+     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 6739},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 884},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 634},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5565},
@@ -2306,6 +2308,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8053},
     { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4564},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 13760},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 23854},
@@ -5070,6 +5073,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 9838},
        { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5143},
        { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34312},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 14381},
@@ -5602,6 +5606,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 5463},
   ],
   "花は桜 君は美し/いきものがかり": [
+     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 9159},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 6097},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 1303},
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 2054},
@@ -7778,6 +7783,7 @@ const songStreamLinks = {
      { date: "2023年8月19日(前半アカペラ)", videoId: "_LMnJTamXFo", timestamp: 8350},
   ],
   "HANABI/Mr.Children": [
+     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 9478},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 5354},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 4936},
      { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 4944},
@@ -9507,6 +9513,7 @@ const songStreamLinks = {
       { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
   ],
    "弱虫モンブラン/DECO*27": [
+      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8782},
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9917},
       { date: "2024年5月27日-piano ver.", videoId: "ZRqhVaH-ZcA", timestamp: 2758},
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 3508},
