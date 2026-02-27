@@ -2989,6 +2989,7 @@ const songStreamLinks = {
 
   ],
   "打上花火/米津玄師": [
+     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 5594},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2734},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 41476},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 12096},
@@ -9919,6 +9920,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 2455},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 4500},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5478},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 7140},
@@ -9983,6 +9985,7 @@ const songStreamLinks = {
     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
   ],
 　"天体観測/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4853},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10645},
     { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 5976},
     { date: "2025年7月30日-piano ver.", videoId: "1qjF5aZjpSQ", timestamp: 5499},
@@ -10049,6 +10052,7 @@ const songStreamLinks = {
     { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
  "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 3041},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12939},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15074},
     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 1131},
@@ -10123,6 +10127,7 @@ const songStreamLinks = {
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
  "カルマ/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4379},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 13547},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7374},
     { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 5136},
@@ -10158,6 +10163,7 @@ const songStreamLinks = {
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
  "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 2724},
     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 4735},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 1965},
     { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1484},
@@ -10171,6 +10177,7 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 14545 },
   ],
  "アカシア/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4591},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 2224},
     { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 2287},
     { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 6815},
@@ -10247,6 +10254,7 @@ const songStreamLinks = {
        { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 1836 },  
   ],
  "Hello,world!/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4129},
     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 4928},
     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1741 },
     { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 12751 },
