@@ -10004,6 +10004,7 @@ const songStreamLinks = {
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
  "なないろ/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 2197},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12494},
     { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 9928},
     { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 5296 },
@@ -10205,6 +10206,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 872},
        { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 1069},
        { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 8110},
        { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 12394},
@@ -10261,6 +10263,7 @@ const songStreamLinks = {
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5592 },
   ],
  "GO/BUMP OF CHICKEN": [
+    { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 1835},
     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 3264},
     { date: "2025年5月22日", videoId: "0UwDTQZqS-A", timestamp: 4334},
     { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 1826 },
@@ -10273,6 +10276,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 1475},
        { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 8410},
        { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19659},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 15918},
@@ -10310,6 +10314,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 1196},
         { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1087},
         { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 39754},
         { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1664},
