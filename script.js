@@ -41,6 +41,7 @@ const songStreamLinks = {
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22728},
       ],
    "空も飛べるはず/スピッツ": [
+      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3216},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
    "BLUE BIRD/浜崎あゆみ": [
@@ -3449,6 +3450,7 @@ const songStreamLinks = {
      { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 5703},
   ],
    "POP STAR/平井堅": [
+      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 2248},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 3645 },
       { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 10916},
       { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 17019},
@@ -5073,6 +5075,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 1344},
        { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 9838},
        { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5143},
        { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34312},
@@ -7807,6 +7810,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3624},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 2418},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3582},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1399},
@@ -9107,6 +9111,7 @@ const songStreamLinks = {
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1940},
   ],
   "君に届け/flumpool": [
+     { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 2557},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 2316},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 11221},
      { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 6686},
@@ -10698,6 +10703,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 1789},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3951},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 773},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 3028},
