@@ -194,7 +194,7 @@ button:active { transform: scale(0.98); }
     #custom-link { right: 5px; bottom: 70px; } 
     #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
-    #youtube-link     { right: 5px; bottom: 10px; } 
+    #youtube-link     { right: 5px; bottom: 8px; } 
     #twitter-link     { right: 65px; bottom: 8px; } 
     #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } 
     
@@ -216,3 +216,4 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
+
