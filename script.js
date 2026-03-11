@@ -88,6 +88,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "Glow at the Velocity of Light/安月名莉子": [
+      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4881},
       { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 5678},
       { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 2885},
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 1634},
@@ -95,6 +96,7 @@ const songStreamLinks = {
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 5131},
       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1476},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 12168},
       { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 6507},
@@ -233,6 +235,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10358},
       ],
    "Symphony/buzzG": [
+      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 805},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6978},
       ],
    "GALLOWS BELL/buzzG": [
@@ -950,6 +953,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 21109},
   ],
   "わたしの一番かわいいところ/FRUITS ZIPPER": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4266},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 2463 },
      { date: "2025年2月14日(一番のみ)", videoId: "rxfNlp4K0zc", timestamp: 4741 },
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 9762 },
@@ -969,6 +973,7 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 12077 },
   ],
   "愛包ダンスホール/HIMEHINA": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 3685},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6442},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4825},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 2291},
@@ -5088,6 +5093,7 @@ const songStreamLinks = {
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 1809},
   ],
   "世界寿命と最後の一日/スズム": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 3357},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 3955},
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
@@ -5576,6 +5582,7 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 7075},
   ],
   "ベノム/かいりきベア": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1277},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 5507},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 7610},
      { date: "2024年10月31日", videoId: "pPcpAke_E0Y", timestamp: 2487},
@@ -8088,6 +8095,7 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 2569},
   ],
    "紅蓮華/LiSA": [
+      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 2173},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 3607},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 2218},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 8595},
@@ -8122,6 +8130,7 @@ const songStreamLinks = {
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 6780},
   ],
   "crossing field/LiSA": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 2949},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 2357},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 2802},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 850},
@@ -8371,6 +8380,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "VwPRwa329Gs", timestamp: 6346 },
   ],
   "酔いどれ知らず/Kanaria": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1976},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1331 },
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10623},
      { date: "2025年1月17日", videoId: "n6AnYYTLADM", timestamp: 7185},
@@ -8386,6 +8396,7 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9981},
   ],
   "KING/Kanaria": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1788},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1868},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6200},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10784},
@@ -8555,6 +8566,7 @@ const songStreamLinks = {
      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
   ],
   "そばかす/JUDY AND MARY": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4574},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1594},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11145},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 3183},
@@ -9553,7 +9565,8 @@ const songStreamLinks = {
       { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 8707 },
   ],
   "ストリーミングハート/DECO*27": [
-      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 2456},
+   　{ date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5387},
   ],
    "弱虫モンブラン/DECO*27": [
       { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8782},
@@ -9567,6 +9580,7 @@ const songStreamLinks = {
       { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 3818},
   ],
   "ヴァンパイア/DECO*27": [
+     { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 2719},
       { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 6872},
   ],
   "キミ以上、ボク未満。/DECO*27": [
@@ -10307,6 +10321,7 @@ const songStreamLinks = {
        { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 1836 },  
   ],
  "Hello,world!/BUMP OF CHICKEN": [
+    { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 423},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4129},
     { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 4928},
     { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1741 },
@@ -11007,6 +11022,7 @@ const songStreamLinks = {
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 4557 },
   ], 
 "Scene/ジミーサムP": [
+   { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 988},
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 13574 },
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22433 },
     { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 9248 },
@@ -11218,11 +11234,12 @@ const songStreamLinks = {
  "ぼくらの16bit戦争/Sasakure. UK": [ // 中間順序不變
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
     ],
-"トンデモワンダーズ/Sasakure. UK": [ // 中間順序不變
+"トンデモワンダーズ/Sasakure. UK": [
+   { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1524},
   { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4568 },
   { date: "2023年7月7日", videoId: "pQ8PdIIdNOo", timestamp: 3484 },
     ],
-"どうぶつ占い/すこっぷ": [ // 中間順序不變
+"どうぶつ占い/すこっぷ": [
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 20623 },
     ],
 "Packaged/kz(livetune)": [ 
