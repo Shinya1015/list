@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "神のまにまに/れるり": [
+      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7877},
+      ],
    "孤独の果て/光収容": [
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 12327},
       ],
@@ -45,6 +48,7 @@ const songStreamLinks = {
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
    "BLUE BIRD/浜崎あゆみ": [
+      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 6712},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5784},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
       { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 1320},
@@ -3088,6 +3092,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15164},
   ],
   "ピースサイン/米津玄師": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7366},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5888},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 1051},
      { date: "2025年8月2日", videoId: "YUjR8FVEUxw", timestamp: 2378 },
@@ -4215,6 +4220,7 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3744},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 4322},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8691},
      { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 8350 },
@@ -6153,6 +6159,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru": [
+     { date: "2026年3月20日(アカペラ)", videoId: "q86LzlJ2-Qo", timestamp: 4619},
      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2058},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11829},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6359},
@@ -7329,6 +7336,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 20294},
   ],
   "ホワイトノイズ/Official髭男dism": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7026},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14178},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8318},
      { date: "2025年10月23日", videoId: "1P3ulshCnkY", timestamp: 3096},
@@ -8008,6 +8016,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7672},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1755},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
