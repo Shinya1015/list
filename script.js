@@ -1371,6 +1371,7 @@ const songStreamLinks = {
     { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 7134 },
   ],
  "虹/Aqua Timez": [
+    { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 1775},
     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 2160 },
     { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 10402 },
     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 8797 },
@@ -7373,6 +7374,7 @@ const songStreamLinks = {
      { date: "2023年2月18日(一番のみ)", videoId: "B_UEDzZDuPc", timestamp: 1665},
   ],
  "イエスタデイ/Official髭男dism": [
+    { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 2160},
     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 1213},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 1220},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 1918},
@@ -7740,6 +7742,7 @@ const songStreamLinks = {
      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 11650},
   ],
   　"インフェルノ/Mrs. GREEN APPLE": [
+      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3158},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 7252},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 13529},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4864},
@@ -9300,6 +9303,7 @@ const songStreamLinks = {
      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5689},
   ],
   "平行線/Eve × suis": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 1048},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4490},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 8420},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 10058},
@@ -11003,6 +11007,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3451},
     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 6138},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 6283},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 8053},
