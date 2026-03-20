@@ -13361,4 +13361,5 @@ const streamerSongList = [
    "Bitter-Edge/雷鳴P",
    "マイリスダメー！/ライブP",
    "孤独の果て/光収容",
+   "神のまにまに/れるり",
 ];
