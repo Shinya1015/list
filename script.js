@@ -8017,7 +8017,6 @@ const songStreamLinks = {
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7672},
-     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1755},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
      { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 1338},
