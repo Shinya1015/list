@@ -850,8 +850,9 @@ const songStreamLinks = {
      { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 5678 },
   ],
   "departure!/小野正利": [
-    { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2518 },
-    { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 9675},
+     { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 2518 },
+     { date: "2025年3月12日", videoId: "IFngoVs50Uo", timestamp: 896 },
   ],
   "出航さ！～Sail Out For Someone～/E-girls": [
      { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 8616},
@@ -871,6 +872,7 @@ const songStreamLinks = {
     { date: "2025年3月7日(一番のみ)", videoId: "Iz7eIgdFRJ0", timestamp: 5320 },
   ],
  "X-encounter/黑崎真音": [
+    { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 11597},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17785},
     { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 8547},
     { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4295},
@@ -914,6 +916,7 @@ const songStreamLinks = {
     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 5912 },
   ],
   "もう君だけを離したりはしない/上木彩矢": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 11063},
      { date: "2025年4月3日", videoId: "f50svs6t8pU", timestamp: 8856 },
      { date: "2025年2月2日", videoId: "TKDJFadCUl4", timestamp: 7255 },
   ],
@@ -3910,6 +3913,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 8058},
   ],
   "カサブタ/千綿ヒデノリ": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 11343},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6215},
      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2172},
      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 1560},
@@ -4981,6 +4985,7 @@ const songStreamLinks = {
      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 12765},
   ],
   "だってだってだって/タカノン": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 10766},
      { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 3749},
      { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 4271},
   ],
@@ -8398,6 +8403,7 @@ const songStreamLinks = {
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 10379},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4532},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19964},
      { date: "2025年6月1日", videoId: "xSaHHXR4xq8", timestamp: 2631 },
@@ -10514,7 +10520,8 @@ const songStreamLinks = {
        { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 3534 },
        { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4099 },
      ],
-"まもりたい ~White Wishes~/BoA": [
+    "まもりたい ~White Wishes~/BoA": [
+       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 9988},
        { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4950 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2623 },
        { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 10722 },
