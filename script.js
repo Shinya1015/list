@@ -304,6 +304,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 14134},
       ],
    "愛♡スクリ～ム！/AiScReam": [
+      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 8638},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 8239},
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 5060},
       { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 3875},
@@ -4055,6 +4056,7 @@ const songStreamLinks = {
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 4224},
   ],
   "Deep in Abyss/リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 8139},
      { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6853},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7692},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 3888},
@@ -9788,6 +9790,7 @@ const songStreamLinks = {
      { date: "2022年9月4日-piano ver.", videoId: "8SZ3TT-QA3M", timestamp: 4731 },
   ] ,
    "金曜日のおはよう/HoneyWorks": [
+      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 9547},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6656},
       { date: "2024年11月17日", videoId: "9MJBZaH9o6U", timestamp: 5545},
       { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 3175},
@@ -9841,6 +9844,7 @@ const songStreamLinks = {
     { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 1156 },
   ],
   "プライド革命/CHiCO with HoneyWorks": [
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 8931},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16495},
      { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 6294 },
      { date: "2025年1月2日", videoId: "05w9Vriuj84", timestamp: 6368 },
@@ -9923,14 +9927,15 @@ const songStreamLinks = {
     { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 1445 },
   ],
   "サインはB/B小町 アイ (CV:高橋李依)": [
-    { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6707 },
-    { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 16668 },
-    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 14904 },
-    { date: "2024年1月9日", videoId: "lSdN2PzHKvI", timestamp: 1616 },
-    { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 3584 },
-    { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 3004 },
-    { date: "2023年7月27日", videoId: "nsx7tzK7LdU", timestamp: 2078 },
-    { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 1435 },
+     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 9209},
+     { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 6707 },
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 16668 },
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 14904 },
+     { date: "2024年1月9日", videoId: "lSdN2PzHKvI", timestamp: 1616 },
+     { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 3584 },
+     { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 3004 },
+     { date: "2023年7月27日", videoId: "nsx7tzK7LdU", timestamp: 2078 },
+     { date: "2023年7月26日", videoId: "9xHFTDZtz-s", timestamp: 1435 },
   ],
   "ギリギリchop/B'z": [
        { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 2788},
