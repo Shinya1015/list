@@ -101,6 +101,7 @@ const songStreamLinks = {
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7727},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 4238},
       { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 5131},
       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1476},
@@ -256,6 +257,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5366},
       ],
    "氷の上に立つように/小松未歩": [
+      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 9409},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 9931},
       ],
    "かわいいだけじゃだめですか？/CUTIE STREET": [
@@ -2332,6 +2334,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7406},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 5787},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8053},
     { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4564},
@@ -3255,6 +3258,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6021 },
   ],
  "Lemon/米津玄師": [
+    { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7100},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3295},
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1703 },
     { date: "2024年11月26日", videoId: "Uc6T8f5YsS4", timestamp: 4786 },
@@ -5935,6 +5939,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 8781},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16003},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4975},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 8775},
@@ -8797,6 +8802,7 @@ const songStreamLinks = {
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
   "キセキ/GReeeeN": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 6736},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 6030},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 26734},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8013},
@@ -10396,6 +10402,7 @@ const songStreamLinks = {
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8172 },
   ],
     "Butterfly/BUMP OF CHICKEN": [
+       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 6139},
        { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 1475},
        { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 8410},
        { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19659},
