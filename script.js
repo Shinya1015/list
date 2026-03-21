@@ -4057,7 +4057,6 @@ const songStreamLinks = {
   ],
   "Deep in Abyss/リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)": [
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 8139},
-     { date: "2025年5月23日", videoId: "rSjlfWAKoZM", timestamp: 6853},
      { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 7692},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 3888},
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 12942},
