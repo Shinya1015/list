@@ -2413,6 +2413,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 5233},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3234},
     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 7315},
     { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 2859},
@@ -2948,6 +2949,7 @@ const songStreamLinks = {
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1106},
   ],
   "Best Friend/西野カナ": [
+     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 5718},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 7672},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 1483},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 2761},
