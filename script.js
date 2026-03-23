@@ -3566,7 +3566,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 11979},
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
-  "いのちの名前/平原綾香 with 久石譲": [
+  "いのちの名前/木村弓": [
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3789},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 10188},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1703},
@@ -11646,7 +11646,7 @@ const lowPitchSongs = [
     "遥か/清竜人",
     "消せない罪/北出菜奈",
     "エジソン/水曜日のカンパネラ",
-    "いのちの名前/平原綾香 with 久石譲",
+    "いのちの名前/木村弓",
     "いつも何度でも/木村弓",
     "たばこ/コレサワ",
     "インドア系ならトラックメイカー/Yunomi & nicamoq",
@@ -11909,7 +11909,7 @@ const animeSongs = [
     "シューティングスター/天月-あまつき-",              // 數碼寶貝-APP獸 (Digimon Universe App Monsters)
     "月曜日の憂鬱/天月-あまつき-",                      // 告白實行委員會系列 - 關聯歌曲
     "いつも何度でも/木村弓",                            // 神隱少女 (Spirited Away) - 電影
-    "いのちの名前/平原綾香 with 久石譲",                // 神隱少女 (Spirited Away) - 電影 (關聯歌曲)
+    "いのちの名前/木村弓",                            // 神隱少女 (Spirited Away) - 電影 (關聯歌曲)
     "innocent starter/水樹奈々",                        // 魔法少女奈葉 (Magical Girl Lyrical Nanoha)
     "消せない罪/北出菜奈",                              // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
     "Super Driver/平野綾",                              // 涼宮春日的憂鬱 (The Melancholy of Haruhi Suzumiya)
@@ -13103,7 +13103,7 @@ const streamerSongList = [
     "テルーの唄/手嶌葵",
     "ブリキノダンス/日向電工",
     "いつも何度でも/木村弓",                            // 神隱少女 (Spirited Away) - 電影
-    "いのちの名前/平原綾香 with 久石譲",                     // 神隱少女 (Spirited Away) - 電影 (關聯歌曲)
+    "いのちの名前/木村弓",                           // 神隱少女 (Spirited Away) - 電影 (關聯歌曲)
     "innocent starter/水樹奈々",                        // 魔法少女奈葉 (Magical Girl Lyrical Nanoha)
     "エジソン/水曜日のカンパネラ",
     "消せない罪/北出菜奈",                              // 鋼之鍊金術師 (Fullmetal Alchemist 2003)
