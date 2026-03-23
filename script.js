@@ -974,6 +974,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 829},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 5520},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 11154},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 7693},
@@ -1191,6 +1192,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 1571},
     { date: "2026年3月11日-piano ver.", videoId: "ZMJC2zn0SG4", timestamp: 2324},
     { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4961},
     { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 3140},
@@ -1243,6 +1245,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 1892},
     { date: "2026年3月11日-piano ver.", videoId: "ZMJC2zn0SG4", timestamp: 1985},
     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 4371},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18770},
@@ -2022,6 +2025,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 4807},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 4677},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 2669},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 6557},
@@ -2066,6 +2070,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 10005},
   ],
  "月光/鬼束ちひろ": [
+    { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 2686},
     { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 7500},
     { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 7851},
     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 13266 },
@@ -2332,6 +2337,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 12581},
    ],
   "涙そうそう/夏川りみ": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 1171},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 8506},
      { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 11504},
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
@@ -3024,9 +3030,9 @@ const songStreamLinks = {
     { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 9110 },
     { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 3902 },
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
-
   ],
   "打上花火/米津玄師": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3073},
      { date: "2026年3月14日(蓮希るい/しゃいる)", videoId: "dhO2839Foso", timestamp: 6570},
      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 5594},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2734},
@@ -3561,6 +3567,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/平原綾香 with 久石譲": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3789},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 10188},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1703},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 4239},
@@ -3620,6 +3627,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 922},
   ],
   "いつも何度でも/木村弓": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3527},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 10469},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 17194},
      { date: "2024年10月15日", videoId: "V121F-Q8R2c", timestamp: 3387},
@@ -4234,6 +4242,7 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
+     { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 4110},
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3744},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 4322},
      { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 8691},
@@ -5129,6 +5138,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 2235},
        { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 4609},
        { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 731},
        { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 1344},
@@ -6224,6 +6234,8 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 5175},
+      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 585},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 592},
       { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 7736},
       { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 7176},
