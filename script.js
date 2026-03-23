@@ -1,5 +1,5 @@
 const songStreamLinks = {
-   "神のまにまに/れるり": [
+   "神のまにまに/れるりり": [
       { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7877},
       ],
    "孤独の果て/光収容": [
@@ -13404,5 +13404,5 @@ const streamerSongList = [
    "Bitter-Edge/雷鳴P",
    "マイリスダメー！/ライブP",
    "孤独の果て/光収容",
-   "神のまにまに/れるり",
+   "神のまにまに/れるりり",
 ];
