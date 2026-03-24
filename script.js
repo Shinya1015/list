@@ -1,4 +1,11 @@
 const songStreamLinks = {
+   "虹のかけら/昆夏美": [
+      { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 1334},
+      { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 13114},
+      { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 9891},
+      { date: "2024年3月4日", videoId: "XUOeuAND4ws", timestamp: 1801},
+      { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 7874},
+      ],
    "神のまにまに/れるりり": [
       { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7877},
       ],
@@ -1599,6 +1606,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 411},
      { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 1660},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19567},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10926},
@@ -6189,6 +6197,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru": [
+     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 1080},
      { date: "2026年3月20日(アカペラ)", videoId: "q86LzlJ2-Qo", timestamp: 4619},
      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2058},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11829},
@@ -8051,6 +8060,7 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 3858},
   ],
   "トウキョウ・シャンディ・ランデヴ/MAISONdes": [
+     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 837},
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 7672},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 1755},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 8931},
@@ -11655,6 +11665,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "虹のかけら/昆夏美",
     "time/SawanoHiroyuki[nZk]:ReoNa",
     "GHOST SWEEPER/森口博子",
     "HANAJI/小林ゆう",
@@ -13405,4 +13416,5 @@ const streamerSongList = [
    "マイリスダメー！/ライブP",
    "孤独の果て/光収容",
    "神のまにまに/れるりり",
+   "虹のかけら/昆夏美",
 ];
