@@ -1608,7 +1608,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
-     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 441},
+     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 549},
      { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 1660},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19567},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 10926},
