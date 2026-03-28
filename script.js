@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "Brave Song/多田葵": [
+      { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 4617},
+      ],
    "虹のかけら/昆夏美": [
       { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 1334},
       { date: "2024年6月14日", videoId: "OpDdbQitZ8c", timestamp: 13114},
@@ -11691,6 +11694,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "Brave Song/多田葵",
     "虹のかけら/昆夏美",
     "time/SawanoHiroyuki[nZk]:ReoNa",
     "GHOST SWEEPER/森口博子",
@@ -13443,4 +13447,5 @@ const streamerSongList = [
    "孤独の果て/光収容",
    "神のまにまに/れるりり",
    "虹のかけら/昆夏美",
+   "Brave Song/多田葵",
 ];
