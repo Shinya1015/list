@@ -1757,6 +1757,7 @@ const songStreamLinks = {
      { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 3073},
   ],
   "ギターと孤独と蒼い惑星/結束バンド": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 12881},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 952},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21365},
      { date: "2024年12月23日", videoId: "nrLcuI93OLg", timestamp: 1497},
@@ -1799,6 +1800,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 1664},
   ],
   "カラカラ/結束バンド": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 11746},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 4993},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 5164},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4690},
@@ -1979,6 +1981,7 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 7695 },
   ],
    "God Knows.../涼宮ハルヒ(CV:平野綾)": [
+      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 10546},
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 6323},
       { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 2197 },
       { date: "2023年10月15日", videoId: "8qoJGnSRKH0", timestamp: 1715 },
@@ -2681,6 +2684,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 5975},
   ],
   "恋は渾沌の隷也/後ろから這いより隊G": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 10852},
      { date: "2023年11月16日", videoId: "h27RoddZtRQ", timestamp: 2824},
   ],
   "太陽曰く燃えよカオス/後ろから這いより隊G": [
@@ -3255,6 +3259,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 13195},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 6787},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2421},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 5248},
@@ -3795,6 +3800,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 7886},
   ],
   "空色デイズ/中川翔子": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 10263},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 5696},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 1947},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 2267},
@@ -3998,6 +4004,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 5563},
   ],
   "恋愛サーキュレーション/千石撫子(花澤香菜)": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 11413},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 808},
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 1317},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 12279},
@@ -4009,6 +4016,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 11154},
   ],
   "もうそう えくすぷれす/千石撫子(花澤香菜)": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 11109},
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 12739},
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 1909},
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13098},
@@ -6626,6 +6634,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9606},
   ],
   "メルト/supercell": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9145},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6650},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2316},
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 4841},
@@ -8364,6 +8373,7 @@ const songStreamLinks = {
      { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 7987},
   ],
   "My Soul,Your Beats!/Lia": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 13482},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 3193},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 16161},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 2993},
@@ -9493,6 +9503,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1947},
   ],
  "名前のない怪物/EGOIST": [
+    { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9922},
     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 5101},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 2443},
     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 13109 },
@@ -9577,6 +9588,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9485},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2435},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 14317},
       { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 8857},
