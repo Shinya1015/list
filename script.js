@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "Baby Sweet Berry Love/小倉唯": [
+      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 7490},
+      ],
    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)": [
       { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 4341},
       ],
@@ -993,6 +996,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 21109},
   ],
   "わたしの一番かわいいところ/FRUITS ZIPPER": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 6676},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4266},
      { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 2463 },
      { date: "2025年2月14日(一番のみ)", videoId: "rxfNlp4K0zc", timestamp: 4741 },
@@ -3511,6 +3515,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 4670},
   ],
   "fancy baby doll/田村ゆかり": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 7098},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 7709},
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 11342},
      { date: "2023年10月10日", videoId: "ExAggJRdaj0", timestamp: 4565},
@@ -11774,6 +11779,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "Baby Sweet Berry Love/小倉唯",
     "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
     "Brave Song/多田葵",
     "虹のかけら/昆夏美",
@@ -13530,4 +13536,5 @@ const streamerSongList = [
    "虹のかけら/昆夏美",
    "Brave Song/多田葵",
    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
+   "Baby Sweet Berry Love/小倉唯",
 ];
