@@ -3918,6 +3918,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 2438},
      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 6122},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 7402},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 4789},
@@ -7231,6 +7232,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 1985},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 1097},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 2544},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 3726},
@@ -10854,6 +10856,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 3214},
       { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 2099},
       { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 2819},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 5877},
@@ -10874,6 +10877,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6006},
       { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 1777},
       { date: "2026年3月28日-piano ver.", videoId: "1iQ8OtsPYUA", timestamp: 1172},
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6323},
