@@ -1,5 +1,9 @@
 const songStreamLinks = {
+   "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)": [
+      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 4341},
+      ],
    "Brave Song/多田葵": [
+      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 4705},
       { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 3820},
       { date: "2024年8月4日", videoId: "JbRbXDESJOs", timestamp: 4617},
       ],
@@ -113,6 +117,7 @@ const songStreamLinks = {
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 6531},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7727},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 4238},
       { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 5131},
@@ -981,6 +986,7 @@ const songStreamLinks = {
      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7172 },
   ],
   "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 3997},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 19767},
      { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 13057},
      { date: "2024年3月25日", videoId: "i0CWKhksGlA", timestamp: 4584},
@@ -1050,6 +1056,7 @@ const songStreamLinks = {
      { date: "2024年4月14日", videoId: "p7nFZMXI_nQ", timestamp: 9470},
   ],
   "曲名はまだないです/Aogumo": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 3435},
      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 1910},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 4036},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6564},
@@ -1949,6 +1956,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 5394},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13004},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4855},
      { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 4257 },
@@ -2289,6 +2297,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 6830},
   ],
   "YUME日和/島谷ひとみ": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 5110},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20301},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 6952},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 2092},
@@ -2341,6 +2350,7 @@ const songStreamLinks = {
        { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 7983 },
   ],
    "ニア/夏代孝明": [
+      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 3718},
       { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 7725},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9391},
       { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8861},
@@ -3888,6 +3898,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 6122},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 7402},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 4789},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 11957},
@@ -4092,6 +4103,7 @@ const songStreamLinks = {
       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 6650},
   ],
   "あんたにあっかんべ/一二三": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 1282},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 8403},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 12446},
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 9475},
@@ -6091,6 +6103,7 @@ const songStreamLinks = {
       { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 5447},
   ],
   "夜に駆ける/YOASOBI": [
+     { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 918},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 26336},
      { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 7494},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 7765},
@@ -11747,6 +11760,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
     "Brave Song/多田葵",
     "虹のかけら/昆夏美",
     "time/SawanoHiroyuki[nZk]:ReoNa",
@@ -13501,4 +13515,5 @@ const streamerSongList = [
    "神のまにまに/れるりり",
    "虹のかけら/昆夏美",
    "Brave Song/多田葵",
+   "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
 ];
