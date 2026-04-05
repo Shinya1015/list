@@ -1340,6 +1340,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18288 },
   ],
    "心拍数# 0822/蝶々P": [
+      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 1613},
       { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 3972},
       { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 1344},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 5052},
@@ -4187,6 +4188,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 1206},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 949},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 2557},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 863},
@@ -4361,6 +4363,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 926},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 670},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1237},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 5417},
