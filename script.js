@@ -100,6 +100,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6272},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 6144},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8401},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 1111},
@@ -3858,6 +3859,7 @@ const songStreamLinks = {
      { date: "2023年6月22日", videoId: "__d7n-cufO8", timestamp: 1337},
   ],
   "たしかなこと/小田和正": [
+     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6538},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 11259},
      { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9055},
   ],
@@ -10948,6 +10950,7 @@ const songStreamLinks = {
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
     ],      
  "僕が死のうと思ったのは/amazarashi": [
+    { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6877},
     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 3939},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1526},
     { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 6044 },
