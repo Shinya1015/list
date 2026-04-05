@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "Sweets Parade/花澤香菜": [
+      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 8780},
+      ],
    "Baby Sweet Berry Love/小倉唯": [
       { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 7490},
       ],
@@ -5388,6 +5391,7 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 3844},
   ],
   "花の塔/さユり": [
+     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 8466},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 15338},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 5492},
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 8358},
@@ -11779,6 +11783,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "Sweets Parade/花澤香菜",
     "Baby Sweet Berry Love/小倉唯",
     "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
     "Brave Song/多田葵",
@@ -13537,4 +13542,5 @@ const streamerSongList = [
    "Brave Song/多田葵",
    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
    "Baby Sweet Berry Love/小倉唯",
+   "Sweets Parade/花澤香菜",
 ];
