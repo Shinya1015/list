@@ -2290,7 +2290,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 4720},
   ],
   "明日晴れるかな/桑田佳祐": [
-     
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 11218},
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 8329},
      { date: "2025年6月21日(アカペラ)", videoId: "k6lWuLyQ8a4", timestamp: 6914},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8567},
