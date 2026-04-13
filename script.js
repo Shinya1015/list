@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "春の歌/スピッツ": [
+      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7225},
+      ],
    "Sweets Parade/花澤香菜": [
       { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 8780},
       ],
@@ -100,6 +103,7 @@ const songStreamLinks = {
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 10475},
       ],
    "ロビンソン/スピッツ": [
+      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7491},
       { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6272},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 6144},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8401},
@@ -124,6 +128,7 @@ const songStreamLinks = {
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 5647},
       { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 6531},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7727},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 4238},
@@ -506,6 +511,7 @@ const songStreamLinks = {
      { date: "2023年6月19日", videoId: "_qRFjlJSQpM", timestamp: 2780 },
   ],
  "Destin Histoire/yoshiki*lisa": [
+    { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 5971},
     { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 9379},
     { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 3073},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 1981},
@@ -1710,6 +1716,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 8994},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14469},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1039},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5306},
@@ -2284,6 +2291,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 4720},
   ],
   "明日晴れるかな/桑田佳祐": [
+     
      { date: "2025年10月3日", videoId: "Azwy5cgvQh0", timestamp: 8329},
      { date: "2025年6月21日(アカペラ)", videoId: "k6lWuLyQ8a4", timestamp: 6914},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 8567},
@@ -2395,6 +2403,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10075},
     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7406},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 5787},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 8053},
@@ -2535,6 +2544,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 9813},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 9998},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 10111},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 6665},
@@ -3011,6 +3021,7 @@ const songStreamLinks = {
       { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 5044 },
   ],
   "トリセツ/西野カナ": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 1254},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15301},
      { date: "2025年1月25日", videoId: "ODwLV-exnQU", timestamp: 5181},
      { date: "2024年9月8日", videoId: "5iZjfSbca4s", timestamp: 19721},
@@ -5223,6 +5234,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10472},
        { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 2235},
        { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 4609},
        { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 731},
@@ -5496,6 +5508,7 @@ const songStreamLinks = {
      { date: "2022年9月13日-アコギ ver.", videoId: "yuLgBmm19Ts", timestamp: 3763},
   ],
  "TSUNAMI/サザンオールスターズ": [
+    { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10851},
     { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 4982},
     { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 12039},
     { date: "2024年11月28日", videoId: "w5O3j7kPlBo", timestamp: 5110 },
@@ -7049,6 +7062,7 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7793},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 7812},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4928},
      { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 8075},
@@ -8066,6 +8080,7 @@ const songStreamLinks = {
      { date: "2029年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
   ],
   "ヒカリへ/miwa": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 9492},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 7195},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 6883},
      { date: "2025年5月16日", videoId: "uslrbIZ4sDw", timestamp: 4458},
@@ -9540,6 +9555,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 8319},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6965},
      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1232},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3062},
@@ -11231,7 +11247,8 @@ const songStreamLinks = {
     { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 5985 },
     { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 14166 },
   ],  
-"うさぎのかぞえかた/さつきがてんこもり": [
+　"うさぎのかぞえかた/さつきがてんこもり": [
+    { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 11592},
     { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 10397 },
     { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 7163 },
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17719 },
@@ -11417,6 +11434,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
   ],
    "ハイドアンド・シーク/19's Sound Factory": [ 
+      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 6546},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1661 },
       { date: "2025年6月9日-piano ver.", videoId: "ZMroZEg-V_A", timestamp: 8362},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9530 },
@@ -13565,4 +13583,5 @@ const streamerSongList = [
    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
    "Baby Sweet Berry Love/小倉唯",
    "Sweets Parade/花澤香菜",
+   "春の歌/スピッツ",
 ];
