@@ -9555,7 +9555,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
-     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 8319},
+     { date: "2026年4月13日-piano ver.", videoId: "0EIIi_Pxnlw", timestamp: 8319},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6965},
      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1232},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 3062},
