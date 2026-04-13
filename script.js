@@ -1716,7 +1716,6 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 5037},
   ],
   "忘れてやらない/結束バンド": [
-     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 8994},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 14469},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1039},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 5306},
@@ -3376,6 +3375,7 @@ const songStreamLinks = {
     { date: "2023年11月22日", videoId: "0FB3fUOopFo", timestamp: 1523 },
   ],
   "忘れじの言の葉/安次嶺希和子": [
+     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 8994},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6308},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 14690},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 4249},
