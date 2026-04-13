@@ -11434,7 +11434,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
   ],
    "ハイドアンド・シーク/19's Sound Factory": [ 
-      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 6546},
+      { date: "2026年4月13日-piano ver.", videoId: "0EIIi_Pxnlw", timestamp: 6546},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1661 },
       { date: "2025年6月9日-piano ver.", videoId: "ZMroZEg-V_A", timestamp: 8362},
       { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9530 },
