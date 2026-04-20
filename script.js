@@ -3,6 +3,7 @@ const songStreamLinks = {
       { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 4048},
       ],
    "春の歌/スピッツ": [
+      { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 10648},
       { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7225},
       ],
    "Sweets Parade/花澤香菜": [
@@ -874,6 +875,7 @@ const songStreamLinks = {
       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 13826 },
   ],
   "ピエロ/絵師じゃないKEI": [
+     { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 9948},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 4643},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 6660 },
      { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 8640 },
@@ -3108,6 +3110,7 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
   ],
   "打上花火/米津玄師": [
+     { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 10250},
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3073},
      { date: "2026年3月14日(蓮希るい/しゃいる)", videoId: "dhO2839Foso", timestamp: 6570},
      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 5594},
