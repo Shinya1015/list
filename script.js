@@ -4576,6 +4576,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 5704},
   ],
   "サリシノハラ/みきとP": [
+     { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 8769},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 2693},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 6598},
      { date: "2024年5月31日-piano ver.", videoId: "hWIjbIBRDuU", timestamp: 13408},
@@ -7407,6 +7408,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 1998},
   ],
   "アスノヨゾラ哨戒班/Orangestar": [
+     { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 9391},
      { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 5572},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 10142},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 7011},
@@ -11232,6 +11234,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年4月20日", videoId: "aWSjdUJELrw", timestamp: 9101},
     { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 6239},
     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3451},
     { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 6138},
@@ -11398,6 +11401,7 @@ const songStreamLinks = {
    { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 6346 },
  ], 
 "トリノコシティ/40mP": [
+   { date: "2026年4月20日-piano ver.", videoId: "aWSjdUJELrw", timestamp: 9642},
    { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4954},
    { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 2437},
    { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9154},
