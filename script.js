@@ -9911,7 +9911,7 @@ const songStreamLinks = {
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4741},
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
-   "イショの話/ClariS": [
+   "ナイショの話/ClariS": [
       { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 4568},
       { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 4691},
       { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 8892},
@@ -11866,6 +11866,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "ナイショの話/ClariS",
     "逆さまの蝶/SNoW",
     "Sweets Parade/花澤香菜",
     "Baby Sweet Berry Love/小倉唯",
@@ -13629,4 +13630,5 @@ const streamerSongList = [
    "Sweets Parade/花澤香菜",
    "春の歌/スピッツ",
    "逆さまの蝶/SNoW",
+   "ナイショの話/ClariS",
 ];
