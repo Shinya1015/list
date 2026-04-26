@@ -124,6 +124,7 @@ const songStreamLinks = {
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 5827},
       ],
    "Glow at the Velocity of Light/安月名莉子": [
+      { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 2232},
       { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4881},
       { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 5678},
       { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 2885},
@@ -132,6 +133,7 @@ const songStreamLinks = {
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
    "かたち/安月名莉子": [
+      { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 1635},
       { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 5647},
       { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 6531},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7727},
@@ -1592,6 +1594,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
   "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 4256},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 8439},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 5605},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8608},
@@ -1653,6 +1656,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 7118},
   ],
   "星座になれたら/結束バンド": [
+     { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 3948},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 898},
      { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 549},
      { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 1660},
@@ -9907,6 +9911,12 @@ const songStreamLinks = {
       { date: "2025年4月13日", videoId: "f50svs6t8pU", timestamp: 4741},
       { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 2985},
   ],
+   "イショの話/ClariS": [
+      { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 4568},
+      { date: "2024年9月27日", videoId: "cfKcAgPPpi4", timestamp: 4691},
+      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 8892},
+      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 3032},
+  ], 
    "nexus/ClariS": [
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 1453},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 2867},
@@ -11250,6 +11260,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 3579},
     { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 9101},
     { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 6239},
     { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3451},
