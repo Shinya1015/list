@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "対象a/anNina": [
+      { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 5582},
+      ],
    "逆さまの蝶/SNoW": [
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 4048},
       ],
@@ -2981,6 +2984,7 @@ const songStreamLinks = {
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
  "プラチナ/坂本真綾": [
+    { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 6076},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3790},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14238},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16474},
@@ -3286,6 +3290,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 6680},
      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 13195},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 6787},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 2421},
@@ -4219,6 +4224,7 @@ const songStreamLinks = {
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
   "嘘月/ヨルシカ": [
+     { date: "2026年4月28日(前半アカペラ)", videoId: "J0pagjgp43g", timestamp: 2869},
      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 1206},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 949},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 2557},
@@ -4295,6 +4301,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
    "斜陽/ヨルシカ": [
+      { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 6352},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5315},
       { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 11027},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 3911},
@@ -5254,6 +5261,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4985},
        { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 1168},
        { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10472},
        { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 2235},
@@ -6373,6 +6381,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 3211},
       { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 5175},
       { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 585},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 592},
@@ -6677,6 +6686,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 9606},
   ],
   "メルト/supercell": [
+     { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 3552},
      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9145},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6650},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2316},
@@ -8958,6 +8968,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4868},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15038},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 2737},
      { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2093},
@@ -10876,6 +10887,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 8372 },
      ],
     "千の夜をこえて/Aqua Timez": [
+       { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 3939},
        { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9957},
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4405 },
        { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 697 },
@@ -11132,7 +11144,8 @@ const songStreamLinks = {
     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10178 },
     { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 13735 },
     ], 
-　"Ref:rain/Aimer": [ 
+　"Ref:rain/Aimer": [
+    { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4320},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10751},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 5334},
     { date: "2024年9月28日", videoId: "vaS0RT_DFPU", timestamp: 12154 },
@@ -11866,6 +11879,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "対象a/anNina",
     "ナイショの話/ClariS",
     "逆さまの蝶/SNoW",
     "Sweets Parade/花澤香菜",
@@ -13631,4 +13645,5 @@ const streamerSongList = [
    "春の歌/スピッツ",
    "逆さまの蝶/SNoW",
    "ナイショの話/ClariS",
+   "対象a/anNina",
 ];
