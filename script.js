@@ -2984,7 +2984,7 @@ const songStreamLinks = {
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
  "プラチナ/坂本真綾": [
-    { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 6076},
+    { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 6076},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3790},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14238},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16474},
