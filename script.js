@@ -104,6 +104,7 @@ const songStreamLinks = {
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
    "桃源恋歌/GARNIDELIA": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 14352},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 2253},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 2979},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 20643},
@@ -1049,6 +1050,7 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 12077 },
   ],
   "愛包ダンスホール/HIMEHINA": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 13061},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 3685},
      { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6442},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4825},
@@ -2431,6 +2433,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17484},
     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10075},
     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7406},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 5787},
@@ -4038,6 +4041,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 8058},
   ],
   "カサブタ/千綿ヒデノリ": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12496},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 11343},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 6215},
      { date: "2024年9月20日", videoId: "L_T6dc82wrI", timestamp: 2172},
@@ -6111,6 +6115,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12743},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 8781},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16003},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 4975},
@@ -7814,6 +7819,7 @@ const songStreamLinks = {
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
    "STYX HELIX/MYTH & ROID": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 13578},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5541},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5396},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2373},
@@ -9650,6 +9656,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17871},
     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7616},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 3397},
     { date: "2025年7月22日", videoId: "oqZ05tbnuCw", timestamp: 8018 },
@@ -10763,6 +10770,7 @@ const songStreamLinks = {
        { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4099 },
      ],
     "まもりたい ~White Wishes~/BoA": [
+       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 13328},
        { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 9988},
        { date: "2024年9月14日", videoId: "VSGURAGzV5k", timestamp: 4950 },
        { date: "2024年8月23日", videoId: "zQ5VSScbMa8", timestamp: 2623 },
@@ -11445,11 +11453,12 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3603 },
     { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 6815 },
  ],
-"恋愛裁判/40mP": [ // 中間順序不變
-  { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 2529 },
-  { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3949 },
-  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 13972 },
-  { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 2152 },
+"恋愛裁判/40mP": [
+   { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 14625},
+   { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 2529 },
+   { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3949 },
+   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 13972 },
+   { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 2152 },
  ],
 "フタリボシ/40mP": [
    { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 6444},
