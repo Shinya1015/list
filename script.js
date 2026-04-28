@@ -1,5 +1,7 @@
 const songStreamLinks = {
-   "嘆きノ森": [
+   
+   "嘆きノ森/彩音": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12042},
       { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 4546},
       ],
    "対象a/anNina": [
@@ -227,6 +229,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 7811},
       { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 5533},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 4585},
       { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 6086},
@@ -1191,6 +1194,7 @@ const songStreamLinks = {
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 12781 }, 
   ],
  "*～アスタリスク～/ORANGE RANGE": [
+    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 10082},
     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1963},
     { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 6893},
     { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 6655},
@@ -1528,7 +1532,8 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 4126},
      { date: "2024年2月12日", videoId: "qVdJphvNm3M", timestamp: 1148},
   ],
- "それでも明日はやってくる/鈴木結女": [  
+ "それでも明日はやってくる/鈴木結女": [
+    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 11754},
     { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5438},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11495},
     { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6621},
@@ -1634,6 +1639,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 10661},
   ],
   "MAGIC/愛内里菜": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 7438},
      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 4239},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 8052},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 6974},
@@ -9377,6 +9383,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 8033},
   ],
   "Believe/Folder5": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 9593},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 3362},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16236},
      { date: "2025年3月22日", videoId: "IYNSyBwT5PQ", timestamp: 6120},
@@ -10203,6 +10210,7 @@ const songStreamLinks = {
       { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 2813 },
   ],
  "鯨/Buzy": [
+    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 10354},
     { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5944},
     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 5944},
     { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 3576},
@@ -10820,6 +10828,7 @@ const songStreamLinks = {
        { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 4863 },
      ],
     "遥か彼方/ASIAN KUNG-FU GENERATION": [
+       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 9822},
        { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1281},
        { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 1388},
        { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 1890},
@@ -11896,7 +11905,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
-    "嘆きノ森",
+    "嘆きノ森/彩音",
     "対象a/anNina",
     "ナイショの話/ClariS",
     "逆さまの蝶/SNoW",
@@ -13665,5 +13674,5 @@ const streamerSongList = [
    "逆さまの蝶/SNoW",
    "ナイショの話/ClariS",
    "対象a/anNina",
-   "嘆きノ森",
+   "嘆きノ森/彩音",
 ];
