@@ -310,7 +310,7 @@ const songStreamLinks = {
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 8612},
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
-   "ウミユリ海底護/n-buna": [
+   "ウミユリ海底譚/n-buna": [
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9675},
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
       ],
@@ -11572,7 +11572,7 @@ const lowPitchSongs = [
    "敗北の少年/kemu",
    "fragile/武田レイナ",
    "贅沢な匙/Van de Shop",
-   "ウミユリ海底護/n-buna",
+   "ウミユリ海底譚/n-buna",
    "独りんぼエンヴィー/電ポルP",
    "夕立のりぼん/みきとP",
    "ネトゲ廃人シュプレヒコール/さつきがてんこもり",
@@ -13591,7 +13591,7 @@ const streamerSongList = [
     "君＋謎＋私でJUMP!!/Larval Stage Planning", //バカとテストと召喚獣 op
     "愛♡スクリ～ム！/AiScReam",
     "うまるん体操/妹S",                           //干物妹！うまるちゃんR片尾曲
-    "ウミユリ海底護/n-buna",
+    "ウミユリ海底譚/n-buna",
     "かわいいだけじゃだめですか？/CUTIE STREET",
     "氷の上に立つように/小松未歩",
     "レッツゴー/秋山澪(日笠陽子)",
