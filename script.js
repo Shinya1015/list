@@ -7799,7 +7799,7 @@ const songStreamLinks = {
      { date: "2024年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26993},
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
-   "STYX HELIX/MYTH & ROID ": [
+   "STYX HELIX/MYTH & ROID": [
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5541},
       { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 5396},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 2373},
@@ -12031,7 +12031,7 @@ const animeSongs = [
     "ファンサ/mona(CV:夏川椎菜)",                        // 女主角育成計劃！～被討厭的女主角和秘密的工作～ (Heroines Run the Show) - 插入曲
     "インフェルノ/Mrs. GREEN APPLE",                    // 炎炎消防隊 (Fire Force)
     "夢幻/MY FIRST STORY x HYDE",                       // 鬼滅之刃 柱訓練篇 (Demon Slayer: Hashira Training Arc)
-    "STYX HELIX/MYTH & ROID ",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
+    "STYX HELIX/MYTH & ROID",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
     "リアルワールド/nano.RIPE",                        // 人類衰退之後 (Humanity Has Declined)
     "月花/nano.RIPE",                                   // 打工吧！魔王大人 (The Devil Is a Part-Timer!)
     "なないろびより/Nano.RIPE",                          //んのんびより（悠哉日常大王）》第一季的ED
@@ -13040,7 +13040,7 @@ const streamerSongList = [
     "青と夏/Mrs. GREEN APPLE",
     "ライラック/Mrs. GREEN APPLE",
     "夢幻/MY FIRST STORY x HYDE",                       // 鬼滅之刃 柱訓練篇 (Demon Slayer: Hashira Training Arc)
-    "STYX HELIX/MYTH & ROID ",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
+    "STYX HELIX/MYTH & ROID",                          // Re:從零開始的異世界生活 (Re:ZERO -Starting Life in Another World-)
     "リアルワールド/nano.RIPE",                        // 人類衰退之後 (Humanity Has Declined)
     "月花/nano.RIPE",                                   // 打工吧！魔王大人 (The Devil Is a Part-Timer!)
     "こだまことだま/nano.RIPE",                        // 悠悠哉哉少女日和 Repeat (Non Non Biyori Repeat)
