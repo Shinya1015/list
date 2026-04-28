@@ -315,6 +315,7 @@ const songStreamLinks = {
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
    "ウミユリ海底譚/n-buna": [
+      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 7099},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9675},
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
       { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 3541},
@@ -9266,6 +9267,7 @@ const songStreamLinks = {
      { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 4794},
   ],
   "Mysterious Eyes/GARNET CROW": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 6415},
      { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 1210},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 6055},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9701},
@@ -10133,6 +10135,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 6329 },
   ],
   "Period/CHEMISTRY": [
+     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 6819},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 3390 },
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 7184 },
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 2596 },
