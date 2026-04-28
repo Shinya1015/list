@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "嘆きノ森": [
+      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 4546},
+      ],
    "対象a/anNina": [
       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 5582},
       ],
@@ -11880,6 +11883,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "嘆きノ森",
     "対象a/anNina",
     "ナイショの話/ClariS",
     "逆さまの蝶/SNoW",
@@ -13647,4 +13651,5 @@ const streamerSongList = [
    "逆さまの蝶/SNoW",
    "ナイショの話/ClariS",
    "対象a/anNina",
+   "嘆きノ森",
 ];
