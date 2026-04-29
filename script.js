@@ -11,6 +11,7 @@ const songStreamLinks = {
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 4048},
       ],
    "春の歌/スピッツ": [
+      { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 2715},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 10648},
       { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7225},
       ],
@@ -339,6 +340,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6126},
       ],
    "rain stops, good-bye/におP": [
+      { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 7275},
       { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4097},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 5738},
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 2772},
@@ -3482,6 +3484,7 @@ const songStreamLinks = {
       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 6871},
   ],
     "First Love/宇多田ヒカル": [
+       { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6035},
        { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 8829},
        { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 2996},
        { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 8099},
@@ -3680,6 +3683,7 @@ const songStreamLinks = {
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
   "いのちの名前/木村弓": [
+     { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 5664},
      { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 1515},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 9452},
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3789},
@@ -4371,6 +4375,7 @@ const songStreamLinks = {
       { date: "2023年6月9日", videoId: "un6mrTPgYwE", timestamp: 2947 },
   ],
   "春泥棒/ヨルシカ": [
+     { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 3014},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 2022},
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 4110},
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 3744},
@@ -6956,6 +6961,7 @@ const songStreamLinks = {
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
   "最高到達点/SEKAI NO OWARI": [
+     { date: "2026年4月30日-piano ver.", videoId: "g-dcay3fPiE", timestamp: 3546},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 1812},
      { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 3698},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 19849},
@@ -7025,6 +7031,7 @@ const songStreamLinks = {
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 16223},
   ],
   "ホウキ雲/RYTHEM": [
+     { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6984},
      { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 4634},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 10239},
      { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 4953},
@@ -7121,6 +7128,7 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
+     { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6697},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7793},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 7812},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4928},
@@ -7307,6 +7315,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
   "スパークル/RADWIMPS": [
+     { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 2252},
      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 1985},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 1097},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 2544},
@@ -11522,7 +11531,8 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5196 },
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 11279 },
   ],
-   "ハイドアンド・シーク/19's Sound Factory": [ 
+  "ハイドアンド・シーク/19's Sound Factory": [
+      { date: "2026年4月30日-piano ver.", videoId: "g-dcay3fPiE", timestamp: 6398},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 3578},
       { date: "2026年4月13日-piano ver.", videoId: "0EIIi_Pxnlw", timestamp: 6546},
       { date: "2025年8月4日", videoId: "c-GDaL7_zvk", timestamp: 1661 },
