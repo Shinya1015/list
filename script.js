@@ -85,6 +85,7 @@ const songStreamLinks = {
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
       ],
    "BLUE BIRD/浜崎あゆみ": [
+      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 8446},
       { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 6712},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 5784},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 19303},
@@ -3925,6 +3926,7 @@ const songStreamLinks = {
      { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 9055},
   ],
   "ラブ・ストーリーは突然に/小田和正": [
+     { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 7842},
      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 4670},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 4176},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 12724},
@@ -4581,6 +4583,7 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 4478},
   ],
   "栄光の架橋/ゆず": [
+     { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 9171},
      { date: "2023年2月13日(一番のみ)", videoId: "WDaTU01Humc", timestamp: 5267},
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 2207},
   ],
@@ -7166,6 +7169,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 9595},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8623},
      { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 1290},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 3847},
@@ -10802,6 +10806,7 @@ const songStreamLinks = {
        { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 8830 },
      ],
     "鐘を鳴らして/BONNIE PINK": [
+       { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 8163},
        { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 4265},
        { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1017 },
        { date: "2025年3月19日", videoId: "2SpK91WxwdI", timestamp: 1871 },
