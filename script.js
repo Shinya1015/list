@@ -1,5 +1,8 @@
 const songStreamLinks = {
-   
+   "教室モノクローム/雪音クリス(高垣彩陽)": [
+      { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 10034},
+      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 13717},
+      ],
    "嘆きノ森/彩音": [
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12042},
       { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 4546},
@@ -11943,6 +11946,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "教室モノクローム/雪音クリス(高垣彩陽)",
     "嘆きノ森/彩音",
     "対象a/anNina",
     "ナイショの話/ClariS",
@@ -13713,4 +13717,5 @@ const streamerSongList = [
    "ナイショの話/ClariS",
    "対象a/anNina",
    "嘆きノ森/彩音",
+   "教室モノクローム/雪音クリス(高垣彩陽)",
 ];
