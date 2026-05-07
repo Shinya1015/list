@@ -1529,6 +1529,7 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
   ],
   "Lap Tap Love/電ポルP": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 7915},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12785},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7424},
   ],
@@ -4654,6 +4655,7 @@ const songStreamLinks = {
     { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 4066 },
   ],
   "うそつき/めざめP": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6984},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6112},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 3668},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 15489},
@@ -5139,6 +5141,7 @@ const songStreamLinks = {
        { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 16192 },
   ],
   "ミュージックミュージック/とあ": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 7217},
      { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6130},
      { date: "2025年7月5日", videoId: "bqi8xaRBKJ0", timestamp: 5957},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2168},
@@ -5452,6 +5455,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2004},
   ],
   "Starduster/ジミーサムP": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6130},
      { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 4143},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 12064},
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 6714 },
@@ -5473,6 +5477,7 @@ const songStreamLinks = {
     { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 3682 },
   ],
  "from Y to Y/ジミーサムP": [
+    { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 5705},
     { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 4837},
     { date: "2024年11月19日", videoId: "3vEpak-aJbM", timestamp: 6501 },
     { date: "2024年11月10日", videoId: "q18m9BbYltI", timestamp: 1028 },
@@ -9811,6 +9816,7 @@ const songStreamLinks = {
      { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
   "Just Be Friends/Dixie Flatline": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 5311},
      { date: "2025年6月26日-piano ver", videoId: "fk0sfucYz6Q", timestamp: 2408},
      { date: "2024年5月19日-piano ver.", videoId: "H-bP3zctwiA", timestamp: 8550 },
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 15032 },
@@ -10303,7 +10309,8 @@ const songStreamLinks = {
   "ギリギリchop/B'z": [
        { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 2788},
   ],
-  "星の唄/buzzG": [
+   "星の唄/buzzG": [
+      { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 7616},
       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 1279 },
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11326 },
       { date: "2023年6月2日", videoId: "NSrrSkHUMBY", timestamp: 3295 },
@@ -11523,6 +11530,7 @@ const songStreamLinks = {
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6444},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 7745},
     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7191},
     { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6492},
