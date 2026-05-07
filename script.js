@@ -257,6 +257,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 1960},
       ],
    "ARiA/とくP": [
+      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9056},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 6130},
       { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 4803},
       ],
@@ -9733,6 +9734,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 8704},
     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17871},
     { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 7616},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 3397},
@@ -11645,7 +11647,11 @@ const songStreamLinks = {
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3650},
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
     ],
+ "なまえのないうた/DATEKEN feat.鏡音リン": [
+    { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9601},
+    ],
  "Ur-Style/DATEKEN feat.鏡音リン": [
+    { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9348},
     { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6083},
     { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
     { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
@@ -11723,6 +11729,7 @@ const lowPitchSongs = [
     "うっせぇわ/Ado",
     "唱/Ado",
     "みむかｩわナイストライ/初音ミク", 
+    "なまえのないうた/DATEKEN feat.鏡音リン",
     "Ur-Style/DATEKEN feat.鏡音リン",   
     "グッドナイトエクスプレス/鏡音リン・レン",   
     "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
@@ -12900,6 +12907,7 @@ const streamerSongList = [
     "帰巣本能-少年by the mile-/ナナホシ管弦楽団",
     "廃都アトリエスタにて/鏡音リン・レン",
     "グッドナイトエクスプレス/鏡音リン・レン",
+    "なまえのないうた/DATEKEN feat.鏡音リン",
     "Ur-Style/DATEKEN feat.鏡音リン",
     "ぼくらの16bit戦争/Sasakure. UK",
     "トンデモワンダーズ/Sasakure. UK",
