@@ -6280,6 +6280,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 4059},
   ],
   "アドベンチャー/YOASOBI": [
+     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 10366},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 8029},
      { date: "2026年1月17日-piano ver.", videoId: "Apxs3ert97M", timestamp: 7851},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 2589 },
@@ -11494,6 +11495,7 @@ const songStreamLinks = {
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8076 },
   ],
  "ストロボナイツ/livetune": [
+    { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9986},
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7422 },
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5498 },
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 11973 },
