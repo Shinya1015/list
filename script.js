@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "HEAVEN/はりーP": [
+      { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 4907},
+      ],
    "教室モノクローム/雪音クリス(高垣彩陽)": [
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 7347},
       { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 10034},
@@ -13800,4 +13803,5 @@ const streamerSongList = [
    "対象a/anNina",
    "嘆きノ森/彩音",
    "教室モノクローム/雪音クリス(高垣彩陽)",
+   "HEAVEN/はりーP",
 ];
