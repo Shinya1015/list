@@ -29,6 +29,7 @@ const songStreamLinks = {
       { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 4341},
       ],
    "Brave Song/多田葵": [
+      { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 1950},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 6299},
       { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 4705},
       { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 3820},
@@ -1278,6 +1279,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 3623},
     { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 2974},
     { date: "2026年3月24日-piano ver.", videoId: "IE6KxatbtuU", timestamp: 1571},
     { date: "2026年3月11日-piano ver.", videoId: "ZMJC2zn0SG4", timestamp: 2324},
@@ -2962,6 +2964,7 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "HTOSPTfEJ0I", timestamp: 5683},
   ],
   "ミライチズ/夜のひと笑い": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 4228},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 6731},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 6580},
      { date: "2024年9月9日", videoId: "azYLYvgq4m4", timestamp: 4727},
@@ -5435,6 +5438,9 @@ const songStreamLinks = {
       { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 2181},
       { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 4869},
   ],
+　"想像フォレスト/じん": [
+    { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 4612},
+  ],
   "夜咄ディセイブ/じん": [
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 887},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4265},
@@ -6356,6 +6362,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 3936},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 2234},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 18469},
       { date: "2026年1月7日-piano ver.", videoId: "euB0dBcp2VY", timestamp: 10357},
@@ -8690,6 +8697,7 @@ const songStreamLinks = {
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 2413},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 10379},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4532},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 19964},
@@ -8974,6 +8982,7 @@ const songStreamLinks = {
      { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 12369},
   ],
   "グロウアップ/Hysteric Blue": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 1016},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 5426},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 1789},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3878},
@@ -9162,6 +9171,7 @@ const songStreamLinks = {
      { date: "2023年2月28日", videoId: "fZtpLFMNs2s", timestamp: 11208},
   ],
   "Crow Song/Girls Dead Monster ": [
+     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 1582},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15899},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 1279},
      { date: "2024年10月20日", videoId: "8iQwRuHgTOw", timestamp: 907},
@@ -12028,6 +12038,7 @@ const animeSongs = [
     "GHOST SWEEPER/森口博子",
     "HANAJI/小林ゆう",
     "ルンがピカッと光ったら/ワルキューレ",                  //マクロスΔ（デルタ）
+    "想像フォレスト/じん", 
     "daze/じん ft. メイリア from GARNiDELiA", 
     "Glow at the Velocity of Light/安月名莉子",
     "かたち/安月名莉子",                                  //來自深淵
@@ -13348,6 +13359,7 @@ const streamerSongList = [
     "from Y to Y/ジミーサムP",
     "No Logic/ジミーサムP",
     "Starduster/ジミーサムP",
+    "想像フォレスト/じん",
     "オツキミリサイタル/じん",
     "夜咄ディセイブ/じん",
     "めいど・うぃず・どらごんず/スーパーちょろゴンず",  // 小林家的龍女僕S (Miss Kobayashi's Dragon Maid S)
