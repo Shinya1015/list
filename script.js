@@ -13419,6 +13419,7 @@ const streamerSongList = [
     "No pain, No game/ナノ",                            // BTOOOM! 驚爆遊戲
     "Now or Never/ナノ",
     "右肩の蝶/のりぴー",
+    "リンネ/ハチ",
     "clock lock works/ハチ",
     "砂の惑星/ハチ",                                    // VOCALOID歌曲 (Magical Mirai 2017主題曲) - 非動畫合作曲
     "ワンダーランドと羊の歌/ハチ",
