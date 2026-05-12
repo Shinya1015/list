@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "クローバークラブ/ゆうゆ feat.初音ミク": [
+      { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 3285},
+      ],
    "HEAVEN/はりーP": [
       { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 4907},
       ],
@@ -3662,6 +3665,7 @@ const songStreamLinks = {
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
   "Override/市瀬るぽ": [
+     { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 4787},
      { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 7090},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 9059},
      { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 11410},
@@ -3988,6 +3992,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 9142},
   ],
   "火炎/女王蜂": [
+     { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 4344},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 3992},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 4449},
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 13654},
@@ -4147,6 +4152,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5959},
   ],
    "リテラチュア/上田麗奈": [
+      { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 1774},
       { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5723},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 3683},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 20039},
@@ -7580,6 +7586,7 @@ const songStreamLinks = {
      { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 671},
   ],
   "DAYBREAK FRONTLINE/Orangestar": [
+     { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 5652},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 8610},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 10388},
      { date: "2025年6月25日-piano ver.", videoId: "B2IZbjpzn_M", timestamp: 8184},
@@ -8728,6 +8735,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "VwPRwa329Gs", timestamp: 6346 },
   ],
   "酔いどれ知らず/Kanaria": [
+     { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 3576},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1976},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1331 },
      { date: "2025年3月29日", videoId: "o88xZ-LZCdc", timestamp: 10623},
@@ -9836,7 +9844,8 @@ const songStreamLinks = {
       { date: "2025年4月1日(冒頭アカペラ)", videoId: "3qhlFZL3j_w", timestamp: 5717},
   ],
   "ゴーストルール/DECO*27": [
-      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14791},
+     { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 4017},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 14791},
   ],
   "ペダルハート/DECO*27": [
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18555 },
@@ -11498,7 +11507,10 @@ const songStreamLinks = {
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 2648},
     { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 12342 },
     { date: "2023年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2099 },
-  ],   
+  ],
+"リンネ/ハチ": [
+   { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 3740},
+  ],
 "ワンダーランドと羊の歌/ハチ": [
    { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5143 },
    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 22090 },
@@ -11622,6 +11634,7 @@ const songStreamLinks = {
    { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4640 },
   ],
 "Shake it!/emon(Tes.)": [
+   { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 5018},
    { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 7696},
    { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 10640},
    { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 16523 },
@@ -13812,4 +13825,5 @@ const streamerSongList = [
    "嘆きノ森/彩音",
    "教室モノクローム/雪音クリス(高垣彩陽)",
    "HEAVEN/はりーP",
+   "クローバークラブ/ゆうゆ feat.初音ミク",
 ];
