@@ -11767,6 +11767,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "永遠の明日/DEEN",
    "逆さまの蝶/SNoW",
    "敗北の少年/kemu",
    "fragile/武田レイナ",
