@@ -11100,6 +11100,9 @@ const songStreamLinks = {
    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
+   "星降る海/Aqu3ra": [
+      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 786},
+     ],
    "解けない夏/Aqu3ra": [
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 889},
       { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 3764},
@@ -12081,6 +12084,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "星降る海/Aqu3ra",
    "教室モノクローム/雪音クリス(高垣彩陽)",
     "嘆きノ森/彩音",
     "対象a/anNina",
@@ -13022,6 +13026,7 @@ const streamerSongList = [
     "さよならごっこ/amazarashi",                       // 多羅羅 (Dororo)
     "季節は次々死んでいく/amazarashi",                 // 東京喰種√A (Tokyo Ghoul √A)
     "僕が死のうと思ったのは/amazarashi",
+    "星降る海/Aqu3ra",
     "ロンリーユニバース/Aqu3ra",
     "解けない夏/Aqu3ra",
     "Velonica/Aqua Timez",                              // BLEACH 死神
