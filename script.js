@@ -229,6 +229,7 @@ const songStreamLinks = {
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2193},
       ],
    "エレクトロトレイン/nana feat.初音ミク": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 4991},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3579},
       ],
    "ほんの少しのさよなら/電ポルP": [
@@ -710,6 +711,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 1996},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9197},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 31871},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 7646},
@@ -742,6 +744,7 @@ const songStreamLinks = {
      { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 6803 }, 
   ],
    "明日、僕は君に会いに行く/ワカバ": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 5993},
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 1114},
       { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 818},
       { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1456},
@@ -859,6 +862,7 @@ const songStreamLinks = {
      { date: "2025年3月31日(アカペラ、一番のみ)", videoId: "fWeibuWPkzs", timestamp: 13614 },
   ],
    "栄光への一秒/MAGIC OF LiFE": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 3941},
       { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 4305},
       { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 5544},
       { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 1294},
@@ -1107,6 +1111,7 @@ const songStreamLinks = {
      { date: "2024年12月10日(一番のみ)", videoId: "WULCzP9OiTw", timestamp: 7938 },
   ],
   "Drawing days/SPLAY": [
+     { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 5685},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 9846},
      { date: "2025年2月5日", videoId: "WhPQlZ_r1wc", timestamp: 1483},
      { date: "2025年1月12日", videoId: "g9f63uuHfME", timestamp: 1415},
@@ -2664,6 +2669,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 13872 },
   ],
  "Secret of my heart/倉木麻衣": [
+    { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 3048},
     { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 9736},
     { date: "2025年6月25日", videoId: "B2IZbjpzn_M", timestamp: 1566},
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 8131},
@@ -3868,6 +3874,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 1601},
   ],
    "Glory Days/尾崎裕哉": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 1247},
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 1289},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 27128},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 929},
@@ -8650,6 +8657,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "B3z7BAbZ238", timestamp: 2776},
   ],
   "ボクラの冒険/Kids Alive": [
+     { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 1593},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 27846},
      { date: "2025年10月21日", videoId: "plPum1muuvI", timestamp: 1196},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 2256},
@@ -11115,7 +11123,8 @@ const songStreamLinks = {
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
-   "ロンリーユニバース/Aqu3ra": [
+    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 2714},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 646},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 3338},
       { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6006},
@@ -11187,7 +11196,7 @@ const songStreamLinks = {
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7742 },
       { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4701 },
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11070 },
-    ],      
+     ],      
  "僕が死のうと思ったのは/amazarashi": [
     { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 6877},
     { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 3939},
@@ -11694,11 +11703,12 @@ const songStreamLinks = {
   { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 6961 },
   { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 6221 },
   ],
- "廃都アトリエスタにて/鏡音リン・レン": [ // 中間順序不變
-  { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
-  { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
-  { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
-  ],
+ "廃都アトリエスタにて/鏡音リン・レン": [
+       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 6312},
+       { date: "2024年12月24日", videoId: "5Uj7adIDzZk", timestamp: 2732 },
+       { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 9271 },
+       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
+     ],
  "グッドナイトエクスプレス/鏡音リン・レン": [
     { date: "2026年1月28日(アカペラ)", videoId: "Xb5rOjJuHHc", timestamp: 7305},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3650},
@@ -11708,10 +11718,11 @@ const songStreamLinks = {
     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9601},
     ],
  "Ur-Style/DATEKEN feat.鏡音リン": [
-    { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9348},
-    { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6083},
-    { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
-    { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
+       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 5344},
+       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9348},
+       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6083},
+       { date: "2025年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 7216 },
+       { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9358 },
     ],
  "ぼくらの16bit戦争/Sasakure. UK": [ // 中間順序不變
   { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14627 },
