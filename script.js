@@ -24,6 +24,7 @@ const songStreamLinks = {
    "逆さまの蝶/SNoW": [
       { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 6439},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 4048},
+      { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 17281},
       ],
    "春の歌/スピッツ": [
       { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 2715},
