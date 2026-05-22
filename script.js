@@ -7838,7 +7838,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
-     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 6476},
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 6746},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 1000},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3935},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 28110},
