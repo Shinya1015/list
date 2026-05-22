@@ -2499,6 +2499,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9945},
     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17484},
     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10075},
     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7406},
@@ -2521,6 +2522,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9094},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 2931},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4573},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 6075},
@@ -2641,6 +2643,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9423},
      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 9320},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 9813},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 9998},
@@ -3321,6 +3324,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 8731},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 3977},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 35357},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 20037},
@@ -4757,6 +4761,7 @@ const songStreamLinks = {
       { date: "2024年8月20日", videoId: "QCdAFK77p-U", timestamp: 609},
   ],
   "メリッサ/ポルノグラフィティ": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 7016},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 1538},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 1268},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 1832},
@@ -5435,6 +5440,7 @@ const songStreamLinks = {
        { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 7083 },
   ],
    "ゴールデンタイムラバー/スキマスイッチ": [
+      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 7622},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 4505},
       { date: "2025年5月10日", videoId: "Fxvnbk3viFA", timestamp: 2532},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 5920 },
@@ -6199,6 +6205,7 @@ const songStreamLinks = {
      { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 11133},
   ],
   "again/YUI": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 7289},
      { date: "2026年3月29日", videoId: "wBdKppSpX_E", timestamp: 6099},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 3917},
      { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 1684},
@@ -7831,6 +7838,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 6476},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 1000},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3935},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 28110},
@@ -8308,6 +8316,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 13173},
   ],
    "Chasing hearts/miwa": [
+      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 7987},
       { date: "2025年10月12日", videoId: "o52kEighlGQ", timestamp: 1867},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 2873},
       { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 1837},
