@@ -354,6 +354,7 @@ const songStreamLinks = {
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
    "ウミユリ海底譚/n-buna": [
+      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 9013},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 7099},
       { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 9675},
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 9256},
@@ -4814,6 +4815,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 8724},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 7181},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 8173},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 1240},
