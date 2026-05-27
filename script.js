@@ -3089,11 +3089,11 @@ const songStreamLinks = {
      { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 3081},
   ],
   "プラチナ/monaca(10日P)": [
-     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 3956},
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 10057 },
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
  "プラチナ/坂本真綾": [
+    { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 3956},
     { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 6076},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3790},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14238},
