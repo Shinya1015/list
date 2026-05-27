@@ -571,6 +571,7 @@ const songStreamLinks = {
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
   "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 7344},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11402},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5238},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12770},
@@ -720,6 +721,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 7212 },
   ],
    "ETERNAL BLAZE/水樹奈々": [
+      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 8757},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 8350},
       { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 1660},
       { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 2236 },
@@ -911,6 +913,7 @@ const songStreamLinks = {
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15020 },
   ],
   　"future nova/School Food Punishment": [
+      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 9084},
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 2746},
       { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 5673},
       { date: "2025年11月23日", videoId: "xAQYeKKoVx4", timestamp: 7307},
@@ -1329,6 +1332,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 10763},
   ],
  "ベテルギウス/優里": [
+    { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 9439},
     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 3623},
     { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 2974},
     { date: "2026年3月24日-piano ver.", videoId: "IE6KxatbtuU", timestamp: 1571},
@@ -2518,6 +2522,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 11186},
     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9945},
     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17484},
     { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 10075},
@@ -2541,6 +2546,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 10108},
      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9094},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 2931},
      { date: "2025年12月18日", videoId: "-QLNAqEA7a8", timestamp: 4573},
@@ -2604,6 +2610,7 @@ const songStreamLinks = {
    { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5456 },
   ],
  "Your Best Friend/倉木麻衣": [
+    { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 10400},
     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 5233},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3234},
     { date: "2025年11月12日", videoId: "FXOJJErtKGI", timestamp: 7315},
@@ -2662,6 +2669,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 14406 },
   ],
   "Time after time～花舞う街で～/倉木麻衣": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 9817},
      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9423},
      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 9320},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 9813},
@@ -2984,6 +2992,7 @@ const songStreamLinks = {
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 6990},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1956},
      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2427},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 9536},
@@ -3625,6 +3634,7 @@ const songStreamLinks = {
      { date: "2024年11月21日", videoId: "ymTQto-k0EQ", timestamp: 3861},
   ],
 　　"Ready Go!/田村直美": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 8324},
      { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 3878},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 32205},
      { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 4672},
@@ -11204,6 +11214,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "星降る海/Aqu3ra": [
+      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 7996},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 2205},
       { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 786},
      ],
