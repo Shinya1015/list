@@ -567,7 +567,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 6287 },
     { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 12263 },
   ],
-  "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
+  "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄佳奈)、かえで(日笠陽子)、ここ な(小倉唯)": [
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 11402},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 5238},
      { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 12770},
@@ -12569,7 +12569,7 @@ const animeSongs = [
     "瞬間センチメンタル/SCANDAL",                       // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "Blood teller/Faylan",                              // 未來日記 (Future Diary)
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
-    "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
+    "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "天までとどけっ!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
@@ -13867,7 +13867,7 @@ const streamerSongList = [
     "瞬間センチメンタル/SCANDAL",                       // 鋼之鍊金術師 FULLMETAL ALCHEMIST (Fullmetal Alchemist: Brotherhood)
     "Blood teller/Faylan",                              // 未來日記 (Future Diary)
     "Destin Histoire/yoshiki*lisa",                     // GOSICK
-    "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄 佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
+    "夏色プレゼント/あおい (井口裕香)、ひなた(阿澄佳奈)、かえで(日笠陽子)、ここ な(小倉唯)", // 前進吧！登山少女 第二季 (Encouragement of Climb Season 2)
     "マジで感謝!/T-Pistonz+KMC",                       // 閃電十一人 (Inazuma Eleven)
     "天までとどけっ!/T-Pistonz+KMC",
     "Zzz/佐咲紗花",                                     // 日常 (Nichijou)
