@@ -3983,6 +3983,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 11289},
   ],
   "PSI-missing/川田まみ": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 6585},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 3441},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 3560},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 3050},
@@ -9557,6 +9558,7 @@ const songStreamLinks = {
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 3991},
   ],
   "LEVEL5 -judgelight-/fripSide": [
+     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 6257},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 11067},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 10882},
      { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 2067},
@@ -9915,6 +9917,7 @@ const songStreamLinks = {
       { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 433 },
   ],
    "夜鷹の夢/Do As Infinity": [
+      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 5536},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 11141},
       { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 5205},
       { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18379},
@@ -10479,6 +10482,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 5924},
       { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 2059},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9113},
       { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 7560},
