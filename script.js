@@ -3247,6 +3247,7 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
   ],
   "打上花火/米津玄師": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 9551},
      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 6750},
      { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 10250},
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 3073},
@@ -5314,6 +5315,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 9841},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 4785},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 4603},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 5093},
@@ -7140,6 +7142,7 @@ const songStreamLinks = {
     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9801 },
   ],
   "RPG/SEKAI NO OWARI": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 8867},
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 4966},
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 9620},
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 1117},
@@ -9684,6 +9687,7 @@ const songStreamLinks = {
      { date: "2023年8月30日", videoId: "sy_-z0MkfKk", timestamp: 4131},
   ],
   "星に願いを/flumpool": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 9262},
      { date: "2025年3月27日", videoId: "h5ZiowmdsuE", timestamp: 9449},
      { date: "2024年10月26日", videoId: "JoYHIozHIF0", timestamp: 13896},
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 1217},
@@ -9928,6 +9932,7 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 4111},
   ],
    "TAO/Do As Infinity": [
+      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 8562},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 1913},
       { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9485},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2435},
