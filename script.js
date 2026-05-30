@@ -1,5 +1,5 @@
 const songStreamLinks = {
-   "アナタMAGIC/monobright": [
+   "アナタMAGIC/モノブライト": [
       { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11851},
       ],
    "永遠の明日/DEEN": [
@@ -12236,7 +12236,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
-   "アナタMAGIC/monobright",
+   "アナタMAGIC/モノブライト",
    "星降る海/Aqu3ra",
    "教室モノクローム/雪音クリス(高垣彩陽)",
     "嘆きノ森/彩音",
@@ -14020,5 +14020,5 @@ const streamerSongList = [
    "HEAVEN/はりーP",
    "クローバークラブ/ゆうゆ feat.初音ミク",
    "永遠の明日/DEEN",
-   "アナタMAGIC/monobright",
+   "アナタMAGIC/モノブライト",
 ];
