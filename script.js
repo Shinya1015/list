@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "アナタMAGIC/monobright": [
+      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11851},
+      ],
    "永遠の明日/DEEN": [
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 6303},
       { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 5628},
@@ -216,6 +219,7 @@ const songStreamLinks = {
       { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 2925},
       ],
    "Stand by me/the brilliant green": [
+      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 12419},
       { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 6448},
       { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 6358},
       ],
@@ -1488,6 +1492,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 13589},
      { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 8254},
      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5994},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 30298},
@@ -5185,6 +5190,7 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 11543},
   ],
   "いつかきっと/ナオト・インティライミ": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 12677},
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 982},
   ],
   "Hello/ナオト・インティライミ": [
@@ -9575,6 +9581,7 @@ const songStreamLinks = {
      { date: "2024年1月21日", videoId: "_7ojQ3fqdik", timestamp: 14047},
   ],
   "夏空/Galileo Galilei": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 12997},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 4048},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 5196},
      { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2296},
@@ -10550,6 +10557,7 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
   "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11531},
      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 2455},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 4500},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5478},
@@ -11168,6 +11176,7 @@ const songStreamLinks = {
        { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 5606 },
      ],
     "等身大のラブソング/Aqua Timez": [
+       { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 12122},
        { date: "2025年1月18日", videoId: "8Yq-jzsLy3A", timestamp: 1200 },
        { date: "2024年11月24日", videoId: "YqzVwANwxZ4", timestamp: 17287 },
        { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 6866 },
@@ -12227,6 +12236,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "アナタMAGIC/monobright",
    "星降る海/Aqu3ra",
    "教室モノクローム/雪音クリス(高垣彩陽)",
     "嘆きノ森/彩音",
@@ -14010,4 +14020,5 @@ const streamerSongList = [
    "HEAVEN/はりーP",
    "クローバークラブ/ゆうゆ feat.初音ミク",
    "永遠の明日/DEEN",
+   "アナタMAGIC/monobright",
 ];
