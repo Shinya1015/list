@@ -1,6 +1,6 @@
 const songStreamLinks = {
    "どりーみんチュチュ/emon(Tes.)": [
-      { date: "2026年6月4日", videoId: "8ODIXFmJ_4I", timestamp: 1033},
+      { date: "2026年6月4日(3Dお披露目)", videoId: "8ODIXFmJ_4I", timestamp: 1033},
       { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5778},
       ],
    "アナタMAGIC/モノブライト": [
