@@ -11606,7 +11606,8 @@ const songStreamLinks = {
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 10305 },
     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 6832 },
   ],   
-"1/6 -out of the gravity-/ぼーかりおどP": [    
+ "1/6 -out of the gravity-/ぼーかりおどP": [
+    { date: "2026年6月4日", videoId: "8ODIXFmJ_4I", timestamp: 2426},
     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 6649 },
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 4817 },
     { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7008 },
