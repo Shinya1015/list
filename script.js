@@ -1,4 +1,8 @@
 const songStreamLinks = {
+   "どりーみんチュチュ/emon(Tes.)": [
+      { date: "2026年6月4日", videoId: "8ODIXFmJ_4I", timestamp: 1033},
+      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5778},
+      ],
    "アナタMAGIC/モノブライト": [
       { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11851},
       ],
@@ -9044,6 +9048,7 @@ const songStreamLinks = {
      { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2588},
   ],
   "トゥインクル/Junky": [
+     { date: "2026年6月4日(3Dお披露目)", videoId: "8ODIXFmJ_4I", timestamp: 2891},
      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 3190},
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 7553},
      { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5400},
@@ -14021,4 +14026,5 @@ const streamerSongList = [
    "クローバークラブ/ゆうゆ feat.初音ミク",
    "永遠の明日/DEEN",
    "アナタMAGIC/モノブライト",
+   "どりーみんチュチュ/emon(Tes.)",
 ];
