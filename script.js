@@ -378,6 +378,7 @@ const songStreamLinks = {
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 6487},
       ],
    "ジェンガ/40mP": [
+      { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 5203},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9542},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 34988},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3859},
@@ -7355,6 +7356,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4548},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 5687},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 9595},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 8623},
@@ -9979,6 +9981,7 @@ const songStreamLinks = {
       { date: "2023年6月18日", videoId: "ncHGZFnTMHE", timestamp: 3544 },
   ],
   "ジェミニ/Dixie Flatline": [
+     { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4839},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 8359},
      { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
@@ -11258,6 +11261,7 @@ const songStreamLinks = {
       { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 786},
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4274},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 889},
       { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 3764},
       { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 3214},
