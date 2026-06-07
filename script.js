@@ -7,6 +7,7 @@ const songStreamLinks = {
       { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11851},
       ],
    "永遠の明日/DEEN": [
+      { date: "2026年6月7日(アカペラ)", videoId: "efQqddhINfk", timestamp: 916},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 6303},
       { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 5628},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 6762},
@@ -747,6 +748,7 @@ const songStreamLinks = {
       { date: "2025年4月3日", videoId: "jciPyoWRUt4", timestamp: 6459 },
   ],
  　 "サヨナラの空/Qwai": [
+      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 2993},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 4505},
       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 1996},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 9197},
@@ -847,6 +849,7 @@ const songStreamLinks = {
      { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 8700 },
   ],
    "笑一笑 ～シャオイーシャオ！～/ももいろクローバーZ": [
+      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7649},
       { date: "2025年8月29日", videoId: "6N96AvijjVE", timestamp: 956},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 9157 },
       { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 1274 },
@@ -1313,6 +1316,7 @@ const songStreamLinks = {
     { date: "2024年5月25日", videoId: "kfVBYMjeGwo", timestamp: 4911 },
   ],
   "SIX COLORS BOY/雛形あきこ": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 9339},
      { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 6082},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 18725},
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 2306},
@@ -2782,6 +2786,7 @@ const songStreamLinks = {
       { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 5206 },
   ],
    "アイデンティティ/秋山黄色": [
+      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 3606},
       { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 2741},
       { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 1112},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 4350},
@@ -4873,6 +4878,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7088},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 8724},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 7181},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 8173},
@@ -4965,6 +4971,7 @@ const songStreamLinks = {
      { date: "2023年2月2日", videoId: "QDtExuIhPvg", timestamp: 5973},
   ],
   "またあした/ふわりP": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 8978},
      { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 3602},
      { date: "2024年2月6日", videoId: "alU1RfrvC74", timestamp: 8738},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 7007},
@@ -5086,6 +5093,7 @@ const songStreamLinks = {
       { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 5832 },
   ],
   "clock lock works/ハチ": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 8653},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 10565},
      { date: "2024年11月16日", videoId: "y3fuUYZ_mOA", timestamp: 7048},
      { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 4386},
@@ -6245,6 +6253,7 @@ const songStreamLinks = {
      { date: "2023年2月13日-piano ver.", videoId: "WDaTU01Humc", timestamp: 5638},
   ],
   "HELLO ～Paradise Kiss～/YUI": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7390},
      { date: "2025年8月5日", videoId: "ZzoxG4eDb0g", timestamp: 1119 },
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3507},
      { date: "2024年7月14日", videoId: "bzmb2dnTVtA", timestamp: 11006},
@@ -6371,6 +6380,7 @@ const songStreamLinks = {
      { date: "2022年12月25日(一番のみ)", videoId: "kJZYq-AVZiI", timestamp: 5205},
   ],
    "勇者/YOASOBI": [
+      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7959},
       { date: "2026年3月29日", videoId: "wBdKppSpX_E", timestamp: 2236},
       { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 5698},
       { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 1042},
@@ -7368,6 +7378,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 1359},
      { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4548},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 5687},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 9595},
@@ -9461,6 +9472,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 841},
   ],
    "夏の幻/GARNET CROW": [
+      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 3913},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 2243},
       { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 11807},
       { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 11219},
@@ -11408,6 +11420,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
   "さよならごっこ/amazarashi": [
+     { date: "2026年6月7日(アカペラ)", videoId: "efQqddhINfk", timestamp: 6754},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 5752},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 1789},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3951},
@@ -11642,6 +11655,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 9673},
     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 2556},
     { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 5717},
     { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 3579},
@@ -11798,6 +11812,7 @@ const songStreamLinks = {
     { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 6815 },
  ],
 "恋愛裁判/40mP": [
+   { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 3278},
    { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 14625},
    { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 2529 },
    { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 3949 },
