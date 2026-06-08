@@ -426,6 +426,7 @@ const songStreamLinks = {
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 8221},
       ],
    "風といっしょに/小林幸子": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 8302},
       { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4694},
       ],
    "私、負けない！～ハルカのテーマ～/ハルカ(KAORI)": [
@@ -710,6 +711,7 @@ const songStreamLinks = {
      { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 4657 },
   ],
   "迷Q!?-迷宫-Make★You-/岸本早未": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 9004},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1439},
      { date: "2025年10月6日", videoId: "Ky9G_OT4z8k", timestamp: 2842 },
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 5826},
@@ -1175,6 +1177,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5447},
   ],
   "小さきもの/林明日香": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 7753},
      { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 6235},
      { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 3800},
      { date: "2025年5月24日", videoId: "G0PaWs_h9Kk", timestamp: 4176},
@@ -1549,6 +1552,7 @@ const songStreamLinks = {
      { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 5998},
   ],
  "虹/福山雅治": [
+    { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 9651},
     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 4219},
     { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 3063},
     { date: "2025年8月27日", videoId: "u9i4iqgC7nQ", timestamp: 2422},
@@ -1609,6 +1613,7 @@ const songStreamLinks = {
       { date: "2025年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 9690 },
   ],
   "サイノウサンプラー/電ポルP": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 7413},
      { date: "2025年10月17日", videoId: "X50I8OEF_oM", timestamp: 4354},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 5018},
   ],
@@ -2580,6 +2585,7 @@ const songStreamLinks = {
     { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 2691 },
   ],
   "恋に恋して/倉木麻衣": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 8700},
      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 10108},
      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9094},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 2931},
@@ -3029,6 +3035,7 @@ const songStreamLinks = {
      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 6962},
      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 6990},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1956},
      { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2427},
@@ -3107,6 +3114,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3040},
   ],
   "Good day/足立佳奈": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 6730},
      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 1547},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 3138},
      { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 12748},
@@ -3453,6 +3461,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 9971},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 3146},
      { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 6680},
      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 13195},
@@ -11030,6 +11039,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
      "Aurora/BUMP OF CHICKEN": [
+        { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 9278},
         { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 8042},
         { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 5613},
         { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 1460},
