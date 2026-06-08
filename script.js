@@ -545,6 +545,7 @@ const songStreamLinks = {
        { date: "2025年4月30日", videoId: "x7wxwTR7MYA", timestamp: 6970},
     ],
     "リクライム/ROOKiEZ is PUNK'D": [
+       { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 4830},
        { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 1541},
        { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 5304},
        { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 12060},
@@ -1510,6 +1511,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 8325},
   ],
   "道標/橘慶太": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 4565},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 13589},
      { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 8254},
      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5994},
@@ -6575,6 +6577,7 @@ const songStreamLinks = {
       { date: "2023年6月28日", videoId: "rC7TsMmO3rA", timestamp: 6868},
   ],
   "アンビバレント/Uru": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 5525},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 9606},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 2504},
      { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 1080},
@@ -9256,6 +9259,7 @@ const songStreamLinks = {
      { date: "2023年12月5日", videoId: "YqtL9SP1xP0", timestamp: 6494},
   ],
   "スターティングブルー/halca": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 5805},
      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 4888},
      { date: "2025年11月21日", videoId: "_F5GvJa2pSU", timestamp: 1706},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 6527},
@@ -10032,6 +10036,7 @@ const songStreamLinks = {
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
    "シンデレラ/DECO*27": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 4305},
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7301},
       { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 4227},
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
