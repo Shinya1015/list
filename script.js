@@ -513,6 +513,7 @@ const songStreamLinks = {
       { date: "2025年5月6日", videoId: "5heXo7iMt0I", timestamp: 8334},
       ],
    "サタデー・ナイト・クエスチョン/中島愛": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 4030},
       { date: "2025年11月30日", videoId: "UfDYeDSSRt8", timestamp: 6045},
       { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 5113},
       { date: "2025年6月29日", videoId: "g2EOWSUnMLk", timestamp: 5303},
@@ -615,6 +616,7 @@ const songStreamLinks = {
     { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 4808 },
   ], 
    "Blood teller/Faylan": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2743},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 8223},
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 5278},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 8143},
@@ -2893,6 +2895,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4145},
   ],
    "Story/19's Sound Factory": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 1495},
       { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 1067},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 33403},
       { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4182},      
@@ -5595,6 +5598,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
   ],
  "No Logic/ジミーサムP": [
+    { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 908},
     { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 2540},
     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4450},
     { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9713},
@@ -8004,6 +8008,7 @@ const songStreamLinks = {
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 10844},
   ],
   "なないろびより/Nano.RIPE": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 3729},
      { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 7433},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 2771},
      { date: "2025年10月5日", videoId: "6_AtUWejIlI", timestamp: 2228},
@@ -11319,7 +11324,8 @@ const songStreamLinks = {
       { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 4471},
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
-    "ロンリーユニバース/Aqu3ra": [
+   "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2170},
       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 2714},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 646},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 3338},
@@ -11655,6 +11661,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2439},
     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 9673},
     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 2556},
     { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 5717},
@@ -11773,6 +11780,7 @@ const songStreamLinks = {
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
  "タイムマシン/1640mP": [
+    { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 1787},
     { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3819},
     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6444},
     { date: "2026年1月22日", videoId: "2qDxy1jc4Jc", timestamp: 7745},
@@ -11876,6 +11884,7 @@ const songStreamLinks = {
    { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 2164 },
   ],
   "Dear/19's Sound Factory": [
+     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 1206},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 11456},
      { date: "2025年6月9日", videoId: "ZMroZEg-V_A", timestamp: 8017},
      { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 5928 },
