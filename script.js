@@ -1133,6 +1133,7 @@ const songStreamLinks = {
      { date: "2024年7月25日", videoId: "xP-0w-7tsfM", timestamp: 6090 },
   ],
   "ハナミズキ/一青窈": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7450},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 5936},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 2731},
      { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 829},
@@ -2018,6 +2019,7 @@ const songStreamLinks = {
      { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 2050},
   ],
   "ガーネット/奥華子": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7838},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 5679},
      { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 2196},
      { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 5826},
@@ -2569,6 +2571,7 @@ const songStreamLinks = {
      { date: "2024年6月18日", videoId: "TD0NzoxJvTM", timestamp: 6407},
   ],
  "渡月橋 ～君 想ふ～/倉木麻衣": [
+    { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 8257},
     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 11186},
     { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 9945},
     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17484},
@@ -4615,6 +4618,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5943},
      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 926},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 670},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 1237},
@@ -4906,6 +4910,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7125},
      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7088},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 8724},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 7181},
@@ -5373,6 +5378,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
   "美しい鰭/スピッツ": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 6344},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 9841},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 4785},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 4603},
@@ -6546,6 +6552,7 @@ const songStreamLinks = {
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 3354},
   ],
    "怪獣の花唄/Vaundy": [
+      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5642},
       { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 3794},
       { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 1392},
       { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 3936},
@@ -6637,6 +6644,7 @@ const songStreamLinks = {
      { date: "2024年7月13日", videoId: "MnNXTb03dvo", timestamp: 4782},
   ],
   "シュガーソングとビターステップ/UNISON SQUARE GARDEN": [
+     { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 6580},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 3307},
      { date: "2026年3月1日(前半アカペラ)", videoId: "a3BsP0Vmdm0", timestamp: 7984},
      { date: "2025年10月7日", videoId: "UwKCGbgbsFE", timestamp: 4687},
@@ -11339,6 +11347,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "星降る海/Aqu3ra": [
+      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5257},
       { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 9820},
       { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 7996},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 2205},
