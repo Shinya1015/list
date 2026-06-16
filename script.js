@@ -1,6 +1,6 @@
 const songStreamLinks = {
    "うたうたいのうた/ナノウ feat.初音ミク": [
-      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4048},
+      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4049},
       ],
    "どりーみんチュチュ/emon(Tes.)": [
       { date: "2026年6月4日(3Dお披露目)", videoId: "8ODIXFmJ_4I", timestamp: 1033},
