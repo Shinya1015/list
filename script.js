@@ -2327,6 +2327,7 @@ const songStreamLinks = {
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3060 },
   ],
   "青空のナミダ/高橋瞳": [
+     { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12655},
      { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 8552},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 4812},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 1313},
@@ -9889,7 +9890,6 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 2970},
   ],
   "青空のラプソディ/fhána": [
-     { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12655},
      { date: "2025年12月26日", videoId: "5nUTpI6S7OQ", timestamp: 9542},
      { date: "2024年9月15日", videoId: "Hn3uau1HE0o", timestamp: 2115},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 9950},
