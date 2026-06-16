@@ -1,4 +1,10 @@
 const songStreamLinks = {
+   "一方通行/ゆちゃP feat.初音": [
+      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4798},
+      ],
+   "リスキーゲーム/WhiteFla": [
+      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4450},
+      ],
    "うたうたいのうた/ナノウ feat.初音ミク": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4049},
       ],
@@ -14137,4 +14143,6 @@ const streamerSongList = [
    "アナタMAGIC/モノブライト",
    "どりーみんチュチュ/emon(Tes.)",
    "うたうたいのうた/ナノウ feat.初音ミク",
+   "リスキーゲーム/WhiteFla",
+   "一方通行/ゆちゃP feat.初音",
 ];
