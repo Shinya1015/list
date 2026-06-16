@@ -2,10 +2,10 @@ const songStreamLinks = {
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12984},
       ],
-   "一方通行/ゆちゃP feat.初音": [
+   "一方通行/ゆちゃP feat.初音ミク": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4798},
       ],
-   "リスキーゲーム/WhiteFla": [
+   "リスキーゲーム/WhiteFlame feat.初音ミク": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4450},
       ],
    "うたうたいのうた/ナノウ feat.初音ミク": [
@@ -14163,7 +14163,7 @@ const streamerSongList = [
    "アナタMAGIC/モノブライト",
    "どりーみんチュチュ/emon(Tes.)",
    "うたうたいのうた/ナノウ feat.初音ミク",
-   "リスキーゲーム/WhiteFla",
-   "一方通行/ゆちゃP feat.初音",
+   "リスキーゲーム/WhiteFlame feat.初音ミク",
+   "一方通行/ゆちゃP feat.初音ミク",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
 ];
