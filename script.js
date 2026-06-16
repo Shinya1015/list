@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "うたうたいのうた/ナノウ feat.初音ミク": [
+      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4042},
+      ],
    "どりーみんチュチュ/emon(Tes.)": [
       { date: "2026年6月4日(3Dお披露目)", videoId: "8ODIXFmJ_4I", timestamp: 1033},
       { date: "2024年3月17日", videoId: "btGgcxZOhcA", timestamp: 5778},
@@ -5065,6 +5068,7 @@ const songStreamLinks = {
      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 6902},
   ],
    "ハロ/ハワユ/ナノウ": [
+      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 3616},
       { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 9320},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6809},
       { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 5922},
@@ -14132,4 +14136,5 @@ const streamerSongList = [
    "永遠の明日/DEEN",
    "アナタMAGIC/モノブライト",
    "どりーみんチュチュ/emon(Tes.)",
+   "うたうたいのうた/ナノウ feat.初音ミク",
 ];
