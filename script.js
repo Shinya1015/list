@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "俺が考えた最強の懐かしボカロ曲アコギメドレー": [
+      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 6036},
+      ],
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12984},
       ],
@@ -1739,6 +1742,7 @@ const songStreamLinks = {
     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 7051 },
   ],
   "香水/瑛人": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 4285},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 5913 },
      { date: "2024年3月7日", videoId: "Iz7eIgdFRJ0", timestamp: 6195 },
      { date: "2024年6月7日", videoId: "Yf9RraIqakI", timestamp: 4358 },
@@ -1998,6 +2002,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 4552},
   ],
   "丸の内サディスティック/椎名林檎": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 2322},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 14815},
      { date: "2025年5月28日", videoId: "AewnPlm5X1s", timestamp: 8778},
      { date: "2025年1月27日", videoId: "7vLhr2nDBCY", timestamp: 1631 },
@@ -3564,6 +3569,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6021 },
   ],
  "Lemon/米津玄師": [
+    { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3940},
     { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 7100},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 3295},
     { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 1703 },
@@ -4000,6 +4006,7 @@ const songStreamLinks = {
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
   ],
   "シューティングスター/八王子P": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 9063},
      { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 3520},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 11746},
      { date: "2025年2月22日", videoId: "lspd9aMQIXU", timestamp: 9849},
@@ -4930,6 +4937,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3582},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7125},
      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7088},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 8724},
@@ -5527,6 +5535,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3210},
        { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 4542},
        { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4985},
        { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 1168},
@@ -5594,6 +5603,7 @@ const songStreamLinks = {
       
   ],
   "Ah Yeah!!/スキマスイッチ": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 8743},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 2013},
      { date: "2025年1月3日", videoId: "vWBdypAMpc8", timestamp: 4196},
      { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 4706},
@@ -6686,6 +6696,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 2649},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3558},
       { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 3211},
       { date: "2026年3月24日", videoId: "IE6KxatbtuU", timestamp: 5175},
@@ -6968,6 +6979,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 4444},
   ],
   "君の知らない物語/supercell": [
+     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 4597},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 8441},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 2515},
      { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 9760},
@@ -8927,6 +8939,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7288},
   ],
  "glow/keeno": [
+    { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 5710},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 5663},
     { date: "2024年8月25日", videoId: "GYV3z44H4ew", timestamp: 9241 },
     { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 3119 },
@@ -10933,6 +10946,7 @@ const songStreamLinks = {
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
  "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 8415},
     { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 2622},
     { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 5400},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 2724},
@@ -10985,6 +10999,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 12650 },
   ],
     "ray/BUMP OF CHICKEN": [
+       { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 9338},
        { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 7644},
        { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 1776},
        { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 2821},
@@ -14166,4 +14181,5 @@ const streamerSongList = [
    "リスキーゲーム/WhiteFlame feat.初音ミク",
    "一方通行/ゆちゃP feat.初音ミク",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
+   "俺が考えた最強の懐かしボカロ曲アコギメドレー",
 ];
