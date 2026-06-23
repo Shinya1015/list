@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "キュートなキューたい/CUTIE STREET": [
+      { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2601},
+      ],
    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗": [
       { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 6036},
       ],
@@ -1938,6 +1941,7 @@ const songStreamLinks = {
      { date: "2023年7月1日", videoId: "fyNXvgjbN8I", timestamp: 3073},
   ],
   "ギターと孤独と蒼い惑星/結束バンド": [
+     { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 4992},
      { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 12881},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 952},
      { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 21365},
@@ -4645,6 +4649,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 6185},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5943},
      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 926},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 670},
@@ -5493,6 +5498,7 @@ const songStreamLinks = {
      { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 5628},
   ],
   "秒針を噛む/ずっと真夜中でいいのに。": [
+     { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 5260},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 2105},
      { date: "2025年12月6日", videoId: "dpzKvPL4-sU", timestamp: 6259},
      { date: "2025年8月11日", videoId: "lekXJWAbJ00", timestamp: 7049},
@@ -10577,6 +10583,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 2981},
   ],
  "STAR☆T☆RAIN/B小町": [
+    { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 6492},
     { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 3799},
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 6735},
     { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 5066 },
@@ -11390,6 +11397,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "星降る海/Aqu3ra": [
+      { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2285},
       { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5257},
       { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 9820},
       { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 7996},
@@ -11421,6 +11429,7 @@ const songStreamLinks = {
       { date: "2025年6月5日", videoId: "_v_yYMb_8NY", timestamp: 870 },
       ],
    "ロンリーユニバース/Aqu3ra": [
+      { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 6765},
       { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2170},
       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 2714},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 646},
@@ -11757,6 +11766,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 5824},
     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2439},
     { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 9673},
     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 2556},
@@ -14182,4 +14192,5 @@ const streamerSongList = [
    "一方通行/ゆちゃP feat.初音ミク",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗",
+   "キュートなキューたい/CUTIE STREET",
 ];
