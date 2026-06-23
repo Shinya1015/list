@@ -1,5 +1,9 @@
 const songStreamLinks = {
+   "Yellow/kz(livetune)": [
+      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 6436},
+      ],
    "キュートなキューたい/CUTIE STREET": [
+      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 4201},
       { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2601},
       ],
    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗": [
@@ -2198,6 +2202,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5125},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 7102},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 7530},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 8691},
@@ -3441,6 +3446,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 6116},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 1552},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 9282},
      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 8731},
@@ -4705,6 +4711,7 @@ const songStreamLinks = {
      { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 2241},
   ],
   "ただ君に晴れ/ヨルシカ": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5859},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 3558},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9022},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2059},
@@ -5761,6 +5768,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 3821},
   ],
   "ミカヅキ/さユり": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 7305},
      { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 873},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 1564},
      { date: "2025年10月13日", videoId: "l1cT7lWI6Jo", timestamp: 7303},
@@ -6239,6 +6247,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5396},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24493},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 2020},
      { date: "2025年10月26日(メン限、アカペラ)", videoId: "7GYIGZyPgn0", timestamp: 1064},
@@ -6403,6 +6412,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 3953},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12743},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 8781},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 16003},
@@ -7755,6 +7765,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 1586},
   ],
   "回る空うさぎ/Orangestar": [
+     { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 7110},
      { date: "2025年12月10日-piano ver.", videoId: "J25GN_AA3ns", timestamp: 1870},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 3497},
      { date: "2025年2月28日", videoId: "5NnG1x7SEaU", timestamp: 12160},
@@ -14193,4 +14204,5 @@ const streamerSongList = [
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗",
    "キュートなキューたい/CUTIE STREET",
+   "Yellow/kz(livetune)",
 ];
