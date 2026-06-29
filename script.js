@@ -1,5 +1,7 @@
 const songStreamLinks = {
-   
+   "夢であるように/DEEN": [
+      { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 4450},
+      ],
    "Yellow/kz(livetune)": [
       { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 6436},
       ],
@@ -1457,6 +1459,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
  "ドライフラワー/優里": [
+    { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 3367},
     { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 8242},
     { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 2021},
     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 4229},
@@ -3461,6 +3464,7 @@ const songStreamLinks = {
      { date: "2023年7月12日", videoId: "HnqygtJDc1w", timestamp: 1933},
   ],
   "orion/米津玄師": [
+     { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 1793},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 7171},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 6116},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 1552},
@@ -5211,6 +5215,7 @@ const songStreamLinks = {
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
   "Overdose/なとり": [
+     { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 1577},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 4044},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 7775},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 9312},
@@ -5572,6 +5577,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 3713},
        { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3210},
        { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 4542},
        { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4985},
@@ -6740,6 +6746,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 5858},
   ],
    "晩餐歌/tuki.": [
+      { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 3076},
       { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 8013},
       { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 2649},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3558},
@@ -10164,6 +10171,7 @@ const songStreamLinks = {
      { date: "2024年3月17日", videoId: "DgIAF4mZEQ0", timestamp: 11367 },
   ],
   "Just Be Friends/Dixie Flatline": [
+     { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 2110},
      { date: "2026年5月7日-piano ver", videoId: "51AuJ8RAwlw", timestamp: 5311},
      { date: "2025年6月26日-piano ver", videoId: "fk0sfucYz6Q", timestamp: 2408},
      { date: "2024年5月19日-piano ver.", videoId: "H-bP3zctwiA", timestamp: 8550 },
@@ -14246,4 +14254,5 @@ const streamerSongList = [
    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗",
    "キュートなキューたい/CUTIE STREET",
    "Yellow/kz(livetune)",
+   "夢であるように/DEEN",
 ];
