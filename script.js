@@ -1,8 +1,13 @@
 const songStreamLinks = {
+   "夜の踊り子/サカナクション": [
+      { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 4949},
+      ],
    "-ERROR/niki": [
+      { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 4407},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10378},
       ],
    "夢であるように/DEEN": [
+      { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 1350},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 4986},
       { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 4450},
       ],
@@ -59,6 +64,7 @@ const songStreamLinks = {
       { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 4546},
       ],
    "対象a/anNina": [
+      { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 2988},
       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 5582},
       ],
    "逆さまの蝶/SNoW": [
@@ -1387,6 +1393,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 2799},
   ],
  "you/癒月": [
+    { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 4106},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 9967},
     { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 9420},
     { date: "2024年8月8日", videoId: "kue0DNXTm5g", timestamp: 5657 },
@@ -4775,6 +4782,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
    "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 2664},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6886},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7594},
       { date: "2025年6月24日", videoId: "YPWm-DAeW3o", timestamp: 10333},
@@ -5586,6 +5594,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
     "ボクノート/スキマスイッチ": [
+       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 994},
        { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 5299},
        { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 3713},
        { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3210},
@@ -7820,6 +7829,7 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 1586},
   ],
   "回る空うさぎ/Orangestar": [
+     { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 1684},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 7110},
      { date: "2025年12月10日-piano ver.", videoId: "J25GN_AA3ns", timestamp: 1870},
      { date: "2025年6月26日", videoId: "fk0sfucYz6Q", timestamp: 3497},
@@ -14276,4 +14286,5 @@ const streamerSongList = [
    "Yellow/kz(livetune)",
    "夢であるように/DEEN",
    "-ERROR/niki",
+   "夜の踊り子/サカナクション",
 ];
