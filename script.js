@@ -1,5 +1,6 @@
 const songStreamLinks = {
    "夜の踊り子/サカナクション": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4977},
       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 4949},
       ],
    "-ERROR/niki": [
@@ -15,6 +16,7 @@ const songStreamLinks = {
       { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 6436},
       ],
    "キュートなキューたい/CUTIE STREET": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 5618},
       { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 4201},
       { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2601},
       ],
@@ -776,7 +778,8 @@ const songStreamLinks = {
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 3404 },
      { date: "2025年4月7日", videoId: "7h27-6vwmrk", timestamp: 7874 },
   ],
-   "Dear My Friend~まだ見ぬ未来へ~/ELISA": [
+   "Dear My Friend -まだ見ぬ未来へ-/ELISA": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 6654},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 14060},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16036},
       { date: "2025年5月2日", videoId: "jwJJUax6k9k", timestamp: 7239 },
@@ -1110,8 +1113,9 @@ const songStreamLinks = {
      { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 586 },
   ],
   "最上級にかわいいの！/超ときめき♡宣伝部": [
-    { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 924 },
-    { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 8151},
+     { date: "2025年4月26日", videoId: "OJPIEaziIPU", timestamp: 924 },
+     { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 5102 },
   ],
   "こころのたまご/Buono!": [
     { date: "2025年2月11日", videoId: "-AOwBqIYQ8E", timestamp: 5912 },
@@ -2919,6 +2923,7 @@ const songStreamLinks = {
       { date: "2023年5月25日", videoId: "0D7De4cmwf0", timestamp: 10554},
   ],
   "magnet/湊 貴大(流星P)": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 8610},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 1145},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5956},
   ],
@@ -3225,6 +3230,7 @@ const songStreamLinks = {
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
  "プラチナ/坂本真綾": [
+    { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 936},
     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 3956},
     { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 6076},
     { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3790},
@@ -4459,6 +4465,7 @@ const songStreamLinks = {
      { date: "2023年10月28日", videoId: "PDRTQDh9NGY", timestamp: 2193},
   ],
   "脳漿炸裂ガール/れるりり": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 3770},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 9738},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 4752},
   ],
@@ -4993,6 +5000,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2520},
      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3582},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7125},
      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 7088},
@@ -5221,6 +5229,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 6155},
   ],
    "右肩の蝶/のりぴー": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4651},
       { date: "2025年12月21日", videoId: "SPQOzWgmlRo", timestamp: 1607},
       { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 4236},
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9178},
@@ -5943,6 +5952,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
   "たばこ/コレサワ": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2804},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 4927},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 489},
      { date: "2025年12月13日", videoId: "ooDsIWU43Vc", timestamp: 3658},
@@ -6298,6 +6308,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 6988},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5396},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24493},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 2020},
@@ -7021,6 +7032,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 6626},
   ],
   "さぁ/SURFACE": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4301},
      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 1712},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22081},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 6374},
@@ -9082,6 +9094,7 @@ const songStreamLinks = {
      { date: "2023年6月5日", videoId: "VwPRwa329Gs", timestamp: 6346 },
   ],
   "酔いどれ知らず/Kanaria": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2365},
      { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 3576},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1976},
      { date: "2025年8月8日", videoId: "ysGk079hgY8", timestamp: 1331 },
@@ -9413,6 +9426,7 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 6867},
   ],
   "Fire◎Flower/halyosy": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 3370},
      { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 2804},
      { date: "2024年8月17日", videoId: "vJwXyHWqX1o", timestamp: 1580 },
      { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4837 },
@@ -10098,6 +10112,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 8369},
      { date: "2026年4月13日-piano ver.", videoId: "0EIIi_Pxnlw", timestamp: 8319},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6965},
      { date: "2026年2月15日", videoId: "goIzVRoJr-Y", timestamp: 1232},
@@ -10206,6 +10221,9 @@ const songStreamLinks = {
   "探し物/DIRTY OLD MEN": [
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
+   "チェリーポップ/DECO*27": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 7991},
+    ],
    "シンデレラ/DECO*27": [
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7301},
       { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 4227},
@@ -10543,6 +10561,7 @@ const songStreamLinks = {
      { date: "2022年9月4日-piano ver.", videoId: "8SZ3TT-QA3M", timestamp: 4731 },
   ] ,
    "金曜日のおはよう/HoneyWorks": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4008},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 5027},
       { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 9547},
       { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 6656},
@@ -11444,6 +11463,7 @@ const songStreamLinks = {
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 8372 },
      ],
     "千の夜をこえて/Aqua Timez": [
+       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 10139},
        { date: "2026年4月28日-piano ver.", videoId: "J0pagjgp43g", timestamp: 3939},
        { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 9957},
        { date: "2025年2月25日", videoId: "iDGeTmzQfcI", timestamp: 4405 },
@@ -11481,6 +11501,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "星降る海/Aqu3ra": [
+      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 10436},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10653},
       { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2285},
       { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5257},
@@ -12876,7 +12897,7 @@ const animeSongs = [
     "サヨナラの空/Qwai",                                // 銀魂' (Gintama')
     "ETERNAL BLAZE/水樹奈々",                          // 魔法少女奈葉A's (Magical Girl Lyrical Nanoha A's)
     "ギー太に首ったけ/平沢唯(豊崎愛生)",                // K-ON！輕音部 (K-On!) - 角色歌曲
-    "Dear My Friend~まだ見ぬ未来へ~/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
+    "Dear My Friend -まだ見ぬ未来へ-/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
     "Ring My Bell/blue drops",                          // 天降之物f (Sora no Otoshimono: Forte)
     "PARTY☆NIGHT/真田アサミ・沢城みゆき・氷上恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
@@ -13505,6 +13526,7 @@ const streamerSongList = [
     "faraway/day after tomorrow",
     "Starry Heavens/day after tomorrow",
     "そして僕にできるコト/day after tomorrow",
+    "チェリーポップ/DECO*27",
     "Snow Song Show/DECO*27",
     "キミ以上、ボク未満。/DECO*27",
     "ヴァンパイア/DECO*27",
@@ -14173,7 +14195,7 @@ const streamerSongList = [
     "サヨナラの空/Qwai",                                // 銀魂' (Gintama')
     "ETERNAL BLAZE/水樹奈々",                          // 魔法少女奈葉A's (Magical Girl Lyrical Nanoha A's)
     "ギー太に首ったけ/平沢唯(豊崎愛生)",                // K-ON！輕音部 (K-On!) - 角色歌曲
-    "Dear My Friend~まだ見ぬ未来へ~/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
+    "Dear My Friend -まだ見ぬ未来へ-/ELISA",             // 科學超電磁砲 (A Certain Scientific Railgun)
     "Ring My Bell/blue drops",                          // 天降之物f (Sora no Otoshimono: Forte)
     "PARTY☆NIGHT/真田アサミ・沢城みゆき・氷上恭子",     // Di Gi Charat Nyo! (デ・ジ・キャラットにょ)
     "迷Q!?-迷宫-Make★You-/岸本早未",                  // 偵探學園Q (Tantei Gakuen Q)
