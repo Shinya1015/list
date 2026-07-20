@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "BON VOYAGE!/BON-BON BLANCO": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10591},
+      ],
    "奏/スキマスイッチ": [
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7173},
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 1317},
@@ -82,6 +85,7 @@ const songStreamLinks = {
       { date: "2024年4月5日", videoId: "LQer419n2E0", timestamp: 17281},
       ],
    "春の歌/スピッツ": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 9184},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 11466},
       { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 2715},
       { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 10648},
@@ -4851,6 +4855,7 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 7058},
   ],
   "夏色/ゆず": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10373},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6674},
      { date: "2024年8月31日", videoId: "IM0nCBG3rig", timestamp: 4030},
      { date: "2024年8月22日", videoId: "XntWqbZmmsY", timestamp: 2112},
@@ -6365,6 +6370,7 @@ const songStreamLinks = {
       { date: "2023年6月1日", videoId: "1I55fc-EfIM", timestamp: 4609 },
   ],
   "Laugh away/YUI": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7509},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 8276},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 1575},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 2748},
@@ -7476,6 +7482,7 @@ const songStreamLinks = {
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
    "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10015},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8952},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 4902},
       { date: "2026年1月7日", videoId: "euB0dBcp2VY", timestamp: 6613},
@@ -7556,6 +7563,7 @@ const songStreamLinks = {
      { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 3116},
   ],
   "100万回の「I love you」/Rake": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 8532},
      { date: "2026年6月7日", videoId: "efQqddhINfk", timestamp: 1359},
      { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4548},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 5687},
@@ -7945,6 +7953,7 @@ const songStreamLinks = {
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 5346},
   ],
   "以心電信/ORANGE RANGE": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7862},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 2254},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 14536},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 5133},
@@ -8550,6 +8559,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 11088},
   ],
   "小さな恋のうた/MONGOL800": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 8217},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3624},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 2418},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 3582},
@@ -9930,6 +9940,7 @@ const songStreamLinks = {
      { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 1940},
   ],
   "君に届け/flumpool": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 9525},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 5052},
      { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 5170},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 2557},
@@ -12527,6 +12538,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "BON VOYAGE!/BON-BON BLANCO",
    "奏/スキマスイッチ",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
    "アナタMAGIC/モノブライト",
@@ -14327,4 +14339,5 @@ const streamerSongList = [
    "-ERROR/niki",
    "夜の踊り子/サカナクション",
    "奏/スキマスイッチ",
+   "BON VOYAGE!/BON-BON BLANCO",
 ];
