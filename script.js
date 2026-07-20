@@ -1,4 +1,10 @@
 const songStreamLinks = {
+   "奏/スキマスイッチ": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7173},
+      { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 1317},
+      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 6117},
+      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 11873},
+      ],
    "夜の踊り子/サカナクション": [
       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4977},
       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 4949},
@@ -2303,6 +2309,7 @@ const songStreamLinks = {
      { date: "2023年2月9日", videoId: "WhxfqBXhhaw", timestamp: 4942},
   ],
   "流星群/鬼束ちひろ": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 6521},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 9894},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 5992},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 6816},
@@ -3730,6 +3737,7 @@ const songStreamLinks = {
       { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 6871},
   ],
     "First Love/宇多田ヒカル": [
+       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 1829},
        { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6035},
        { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 8829},
        { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 2996},
@@ -4703,6 +4711,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1157},
   ],
   "花に亡霊/ヨルシカ": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 2934},
      { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 6185},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 5943},
      { date: "2026年4月4日", videoId: "syHvml4ypyI", timestamp: 926},
@@ -6308,6 +6317,7 @@ const songStreamLinks = {
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
   "SUMMER SONG/YUI": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 2494},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 6988},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5396},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24493},
@@ -6508,6 +6518,7 @@ const songStreamLinks = {
 
   ],
   "群青/YOASOBI": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 2174},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 1869},
      { date: "2026年4月21日", videoId: "aWSjdUJELrw", timestamp: 2585},
      { date: "2026年3月29日", videoId: "wBdKppSpX_E", timestamp: 2443},
@@ -8309,6 +8320,7 @@ const songStreamLinks = {
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
   "ライラック/Mrs. GREEN APPLE": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 4587},
      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 7822},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 1878},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 635},
@@ -8363,6 +8375,7 @@ const songStreamLinks = {
      { date: "2024年12月29日", videoId: "ZHEmhckE0Wg", timestamp: 10323},
      ],
   "青と夏/Mrs. GREEN APPLE": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 4902},
      { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 4831},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 2210},
      { date: "2025年7月6日", videoId: "0BtVZt9Fl0k", timestamp: 5669},
@@ -9463,6 +9476,7 @@ const songStreamLinks = {
      { date: "2023年2月5日", videoId: "rm-RCo2r-jA", timestamp: 3978},
   ],
   "愛唄/GReeeeN": [
+     { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 6898},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 11099},
      { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 4868},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 15038},
@@ -11501,6 +11515,7 @@ const songStreamLinks = {
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
    "星降る海/Aqu3ra": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 5756},
       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 10436},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10653},
       { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 2285},
@@ -11511,6 +11526,7 @@ const songStreamLinks = {
       { date: "2026年5月19日", videoId: "JQckDsOcrUI", timestamp: 786},
      ],
    "解けない夏/Aqu3ra": [
+      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 5187},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10925},
       { date: "2026年6月5日", videoId: "8nqq4hiZldQ", timestamp: 4274},
       { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 889},
@@ -12511,6 +12527,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "奏/スキマスイッチ",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
    "アナタMAGIC/モノブライト",
    "星降る海/Aqu3ra",
@@ -14309,4 +14326,5 @@ const streamerSongList = [
    "夢であるように/DEEN",
    "-ERROR/niki",
    "夜の踊り子/サカナクション",
+   "奏/スキマスイッチ",
 ];
