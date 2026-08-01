@@ -192,7 +192,7 @@ button:active { transform: scale(0.98); }
         height: 50px !important; 
     }
 
-    /* 圖標排列 10px 間距 */
+    /* 圖標排列 間距調整 */
     #custom-link { right: 5px; bottom: 70px; } 
     #fanbox-link { right: 65px; bottom: 70px; left: auto; display: block !important; } 
 
@@ -200,9 +200,9 @@ button:active { transform: scale(0.98); }
     #twitter-link     { right: 65px; bottom: 8px; } 
     #twitcasting-link { right: 125px; bottom: 8px; left: auto; display: block !important; } 
     
-    #amazon-link { left: 5px; bottom: 10px; }
-    #booth-link  { left: 65px; bottom: 10px; }
-    #giftee-link { left: 125px; bottom: 10px; }
+    #amazon-link { left: 5px; bottom: 10px; right: auto; }
+    #booth-link  { left: 65px; bottom: 10px; right: auto; }
+    #giftee-link { left: 125px; bottom: 10px; right: auto; display: block !important; }
 }
 
 /* --- Modal Styles --- */
