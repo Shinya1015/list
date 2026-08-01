@@ -123,6 +123,7 @@ button:active { transform: scale(0.98); }
 #twitcasting-link { bottom: 8px; right: 210px; }
 #amazon-link { bottom: 10px; left: 10px; }
 #booth-link { bottom: 10px; left: 60px; }
+#giftee-link { bottom: 10px; left: 110px; }
 
 /* --- Medium Screens (Tablets) --- */
 @media (max-width: 768px) {
@@ -135,6 +136,7 @@ button:active { transform: scale(0.98); }
     #twitcasting-link { right: 210px; left: auto; }
     #amazon-link { left: 10px; }
     #booth-link { left: 60px; }
+    #giftee-link { left: 110px; }
 }
 
 /* --- Small Screens (Phones) --- */
@@ -200,6 +202,7 @@ button:active { transform: scale(0.98); }
     
     #amazon-link { left: 5px; bottom: 10px; }
     #booth-link  { left: 65px; bottom: 10px; }
+    #giftee-link { left: 125px; bottom: 10px; }
 }
 
 /* --- Modal Styles --- */
@@ -216,4 +219,3 @@ button:active { transform: scale(0.98); }
 #modal-stream-list li:hover span.modal-list-date { text-decoration: underline; }
 #modal-stream-list li:hover { background-color: #f0f0f0; }
 #modal-stream-list li:last-child { border-bottom: none; }
-
