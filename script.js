@@ -1,5 +1,5 @@
 const songStreamLinks = {
-   "ひたむきシンデレラ!/CUTIE STR": [
+   "ひたむきシンデレラ！/CUTIE STR": [
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 11818},
       ],
    "BON VOYAGE!/BON-BON BLANCO": [
@@ -14380,5 +14380,5 @@ const streamerSongList = [
    "夜の踊り子/サカナクション",
    "奏/スキマスイッチ",
    "BON VOYAGE!/BON-BON BLANCO",
-   "ひたむきシンデレラ!/CUTIE STR",
+   "ひたむきシンデレラ！/CUTIE STR",
 ];
