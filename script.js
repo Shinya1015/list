@@ -1,4 +1,10 @@
 const songStreamLinks = {
+    "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)": [
+       { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 9343},
+      ],
+   "愛のシュプリーム/Fhán": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 7349},
+      ],
    "鎌倉STYLE/ぼっちぼろまる": [
       { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1616},
       ],
@@ -77,6 +83,7 @@ const songStreamLinks = {
       { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 4907},
       ],
    "教室モノクローム/雪音クリス(高垣彩陽)": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 9023},
       { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 6131},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 7347},
       { date: "2024年10月19日", videoId: "6tHI43nxH-M", timestamp: 10034},
@@ -345,6 +352,7 @@ const songStreamLinks = {
       { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 6551},
       ],
    "Caffeine/DUSTCELL": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 5349},
       { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 9633},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 7811},
       { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 5533},
@@ -1087,6 +1095,7 @@ const songStreamLinks = {
      { date: "2025年3月18日", videoId: "lzCb4RoP80g", timestamp: 10014 },
   ],
   "Forever.../savage genius": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 2795},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9479},
      { date: "2025年8月28日", videoId: "_wQjwnoVELA", timestamp: 6902},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 2898 },
@@ -1695,6 +1704,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5675},
   ],
   "FOR REAL/徳山秀典": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 4144},
      { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 2814},
      { date: "2026年1月30日", videoId: "jAa-CDqkqSw", timestamp: 5169},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 29768},
@@ -2244,6 +2254,7 @@ const songStreamLinks = {
      { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 11519},
   ],
   "オレンジ/逢坂大河(釘宮理恵)・櫛枝実乃梨(堀江由衣)・川嶋亜美(喜多村英梨)": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 4417},
      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 5394},
      { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 13004},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 4855},
@@ -2592,6 +2603,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 3883},
   ],
   "ZERO!!/栗林みな実": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 3533},
      { date: "2026年3月29日", videoId: "wBdKppSpX_E", timestamp: 7032},
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 972},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 3264},
@@ -2629,6 +2641,7 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 4149},
   ],
   "Falco-ファルコ-/島谷ひとみ": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 2199},
      { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 7178},
      { date: "2025年3月20日", videoId: "FrYUQ-tM_fo", timestamp: 11885},
      { date: "2025年3月1日", videoId: "pIngOAni3NE", timestamp: 4713},
@@ -3332,7 +3345,8 @@ const songStreamLinks = {
      { date: "2024年3月29日", videoId: "NET9-AJ6g-U", timestamp: 4262},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 6626},
   ],
-   "Style. /西野カナ": [ 
+   "Style. /西野カナ": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 5662},
       { date: "2026年1月28日", videoId: "Xb5rOjJuHHc", timestamp: 1657},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 1587},
       { date: "2025年8月10日", videoId: "9yzy1xZv1ls", timestamp: 16533},
@@ -3697,6 +3711,7 @@ const songStreamLinks = {
     { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 19143 },
   ],
   "KICK BACK/米津玄師": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 7805},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 2891},
      { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7373},
      { date: "2023年7月8日", videoId: "X1qVIt7xTeo", timestamp: 4519},
@@ -5069,6 +5084,7 @@ const songStreamLinks = {
      { date: "2024年10月18日", videoId: "_EDIe0iK1Jc", timestamp: 543},
   ],
   "サウダージ/ポルノグラフィティ": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 8742},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2520},
      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 3582},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 7125},
@@ -6410,6 +6426,7 @@ const songStreamLinks = {
      { date: "2024年6月29日", videoId: "YzxzaOG_H9I", timestamp: 1711},
   ],
    "Rolling star/YUI": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 4744},
       { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 3354},
       { date: "2026年5月21日", videoId: "afJ3XGeOX3Q", timestamp: 3524},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 3610},
@@ -6646,6 +6663,7 @@ const songStreamLinks = {
       { date: "2024年5月18日", videoId: "vT_Yz97tlnc", timestamp: 5447},
   ],
   "夜に駆ける/YOASOBI": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 8370},
      { date: "2026年4月3日", videoId: "zYZBi33oxII", timestamp: 918},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 26336},
      { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 7494},
@@ -9213,6 +9231,7 @@ const songStreamLinks = {
      { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 9981},
   ],
   "KING/Kanaria": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 8131},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 1788},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1868},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 6200},
@@ -9389,6 +9408,7 @@ const songStreamLinks = {
      { date: "2024年3月9日", videoId: "ocR9SezEBfQ", timestamp: 17958},
   ],
   "そばかす/JUDY AND MARY": [
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 3809},
      { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 4574},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 1594},
      { date: "2025年5月25日", videoId: "6J7JvUra-9w", timestamp: 11145},
@@ -10879,6 +10899,7 @@ const songStreamLinks = {
     { date: "2023年3月11日", videoId: "BLaVRrKYdeI", timestamp: 8687 },
   ],
    "Be Somewhere/Buzy": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 3212},
       { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 5924},
       { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 2059},
       { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 9113},
@@ -11131,6 +11152,7 @@ const songStreamLinks = {
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
  "カルマ/BUMP OF CHICKEN": [
+    { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 5004},
     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 3938},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4379},
     { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 13547},
@@ -11475,6 +11497,7 @@ const songStreamLinks = {
        { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 14061 },
      ],      
     "ドラマチック/Base Ball Bear": [
+       { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 2434},
        { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 4410},
        { date: "2025年6月11日", videoId: "1OhCCiSFoJg", timestamp: 2002},
        { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 2790 },
@@ -12637,6 +12660,8 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)",
+   "愛のシュプリーム/Fhán",
    "鎌倉STYLE/ぼっちぼろまる",
    "プランA/DISH//",
    "BON VOYAGE!/BON-BON BLANCO",
@@ -14444,4 +14469,6 @@ const streamerSongList = [
    "ひたむきシンデレラ！/CUTIE STR",
    "プランA/DISH//",
    "鎌倉STYLE/ぼっちぼろまる",
+   "愛のシュプリーム/Fhán",
+   "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)",
 ];
