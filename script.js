@@ -1,4 +1,10 @@
 const songStreamLinks = {
+   "鎌倉STYLE/ぼっちぼろまる": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1616},
+      ],
+   "プランA/DISH//": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1358},
+      ],
    "ひたむきシンデレラ！/CUTIE STR": [
       { date: "2026年8月3日", videoId: "kMBVfeP3x8E", timestamp: 7324},
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 11818},
@@ -12631,6 +12637,8 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+   "鎌倉STYLE/ぼっちぼろまる",
+   "プランA/DISH//",
    "BON VOYAGE!/BON-BON BLANCO",
    "奏/スキマスイッチ",
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
@@ -14434,4 +14442,6 @@ const streamerSongList = [
    "奏/スキマスイッチ",
    "BON VOYAGE!/BON-BON BLANCO",
    "ひたむきシンデレラ！/CUTIE STR",
+   "プランA/DISH//",
+   "鎌倉STYLE/ぼっちぼろまる",
 ];
