@@ -3182,8 +3182,11 @@ const songStreamLinks = {
      { date: "2023年9月17日", videoId: "cCmvXiUQs94", timestamp: 8696},
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 6746},
   ],
+  "Utauyo!!MIRACLE/放課後ティータイ": [
+      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 10256},
+  ],
   "GO! GO! MANIAC/放課後ティータイム": [
-     { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
+      { date: "2025年3月28日", videoId: "s0NLHUsn9I0", timestamp: 3661},
   ],
   "わたしの恋はホッチキス/放課後ティータイム": [
      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 6962},
@@ -10974,32 +10977,33 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 2075 },
   ],
  "月虹/BUMP OF CHICKEN": [
-    { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 1792},
-    { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1755},
-    { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2717},
-    { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2624},
-    { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
-    { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5417 },
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10172 },
-    { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8756 },
-    { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 1076 },
-    { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 3951 },
-    { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 1167 },
-    { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 2041 },
-    { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 3642 },
-    { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 4583 },
-    { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 7234 },
-    { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 3184 },
-    { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 4978 },
-    { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 916 },
-    { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 3189 },
-    { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 6285 },
-    { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 7281 },
-    { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 2565 },
-    { date: "2023年9月3日", videoId: "gpTW2sw5F5A", timestamp: 2623 },
-    { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 7368 },
-    { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 7086 },
-    { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
+     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 9927},
+     { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 1792},
+     { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 1755},
+     { date: "2025年10月11日", videoId: "TECN8wTjX_w", timestamp: 2717},
+     { date: "2025年7月13日", videoId: "tVopSO35ZzY", timestamp: 2624},
+     { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 1620},
+     { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 5417 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 10172 },
+     { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 8756 },
+     { date: "2025年2月15日", videoId: "i22UZgVbw-k", timestamp: 1076 },
+     { date: "2024年12月10日", videoId: "WULCzP9OiTw", timestamp: 3951 },
+     { date: "2024年10月9日", videoId: "jM1806vMFtU", timestamp: 1167 },
+     { date: "2024年9月11日", videoId: "uh9ryOUdIUs", timestamp: 2041 },
+     { date: "2024年7月3日", videoId: "dNB36GQRy1E", timestamp: 3642 },
+     { date: "2024年4月28日", videoId: "LPxqWJTDXCw", timestamp: 4583 },
+     { date: "2024年4月21日", videoId: "r6SE6igXEpg", timestamp: 7234 },
+     { date: "2024年3月10日", videoId: "ouZeV9bVRC0", timestamp: 3184 },
+     { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 4978 },
+     { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 916 },
+     { date: "2024年1月15日", videoId: "3ZTrM6aLhmk", timestamp: 3189 },
+     { date: "2023年12月1日", videoId: "QXdgMYTcYb4", timestamp: 6285 },
+     { date: "2023年11月19日", videoId: "CeX2ME0QtAI", timestamp: 7281 },
+     { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 2565 },
+     { date: "2023年9月3日", videoId: "gpTW2sw5F5A", timestamp: 2623 },
+     { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 7368 },
+     { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 7086 },
+     { date: "2023年8月16日", videoId: "3O4U8gGiR1Y", timestamp: 2374 },
   ],
 　"天体観測/BUMP OF CHICKEN": [
     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 3034},
@@ -12321,13 +12325,14 @@ const songStreamLinks = {
    { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 13013 },
 { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 13240 },
  ],
-"Hand in Hand/kz(livetune)": [ 
-   { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1038},
-   { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1602},
-   { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
-   { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
-   { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
-   { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
+"Hand in Hand/kz(livetune)": [
+    { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 10649},
+    { date: "2025年11月24日", videoId: "0kXaevGzH44", timestamp: 1038},
+    { date: "2025年7月7日", videoId: "migDa3o9sNo", timestamp: 1602},
+    { date: "2025年5月26日", videoId: "qWOH4XiPvfY", timestamp: 6696},
+    { date: "2025年5月17日", videoId: "6JaK_49t14I", timestamp: 1707},
+    { date: "2025年4月1日", videoId: "wNMS4XNQuh4", timestamp: 8589 },
+    { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 13109 },
   ],
  "天ノ弱/164": [ 
     { date: "2025年12月15日-piano ver.", videoId: "tRY0qPtTLes", timestamp: 7198},
@@ -12956,6 +12961,7 @@ const animeSongs = [
     "ウラオモテ・フォーチュン/佐倉千代(CV:小澤亜李)",   // 月刊少女野崎同學 (Monthly Girls' Nozaki-kun)
     "プラチナ/坂本真綾",                                // 庫洛魔法使 (Cardcaptor Sakura)
     "Butter-Fly/和田光司",                              // 數碼寶貝大冒險 (Digimon Adventure)
+    "Utauyo!!MIRACLE/放課後ティータイ",
     "Don't say ”lazy”/放課後ティータイム",             // K-ON！輕音部 (K-On!)
     "ふわふわ時間/放課後ティータイム",                  // K-ON！輕音部 (K-On!) - 插入曲
     "わたしの恋はホッチキス/放課後ティータイム",        // K-ON！輕音部 (K-On!) - 插入曲
@@ -14186,6 +14192,7 @@ const streamerSongList = [
     "バレンタイン・キッス/国生さゆり",
     "ミライチズ/夜のひと笑い",
     "TOMORROW/岡本真夜",
+    "Utauyo!!MIRACLE/放課後ティータイ",
     "Don't say ”lazy”/放課後ティータイム",             // K-ON！輕音部 (K-On!)
     "ふわふわ時間/放課後ティータイム",                  // K-ON！輕音部 (K-On!) - 插入曲
     "わたしの恋はホッチキス/放課後ティータイム",        // K-ON！輕音部 (K-On!) - 插入曲
