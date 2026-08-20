@@ -3975,7 +3975,6 @@ const songStreamLinks = {
      { date: "2025年2月23日", videoId: "lm0Q74ueg2g", timestamp: 10554},
   ],
  "Override/市瀬るぽ": [
-     { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 6292},
      { date: "2026年5月12日", videoId: "_oQPTAKB_N4", timestamp: 4787},
      { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 7090},
      { date: "2025年12月28日", videoId: "ht2tTwqrjfM", timestamp: 9059},
@@ -5351,7 +5350,8 @@ const songStreamLinks = {
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 5841},
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
   ],
-  "Overdose/なとり": [
+ "Overdose/なとり": [
+     { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 6293},
      { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 1577},
      { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 4044},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 7775},
