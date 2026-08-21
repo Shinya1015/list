@@ -1538,8 +1538,9 @@ const songStreamLinks = {
     { date: "2023年1月23日-piano ver.", videoId: "wfTcM2JgtyE", timestamp: 12710 },
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
- "ドライフラワー/優里": [
-     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 2734},
+"ドライフラワー/優里": [
+    { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4397},
+    { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 2734},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 4107},
     { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 3367},
     { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 8242},
@@ -2176,7 +2177,8 @@ const songStreamLinks = {
     { date: "2024年2月26日", videoId: "pjRxjZz-Cq0", timestamp: 9455 },
     { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 10453 },
   ],
- "変わらないもの/奥華子": [
+"変わらないもの/奥華子": [
+    { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 1973},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 7358},
     { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 10207},
     { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 5338},
@@ -2539,8 +2541,9 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1690},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 13663},
   ],
- "ひまわりの約束/秦基博": [
-     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 3046},
+"ひまわりの約束/秦基博": [
+    { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 6571},
+    { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 3046},
     { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 9051},
     { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 10307},
     { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 2873},
@@ -3458,6 +3461,7 @@ const songStreamLinks = {
     { date: "2023年7月20日", videoId: "n-oxjsShmrw", timestamp: 900 },
   ],
  "打上花火/米津玄師": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4072},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 5178},
      { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 7037},
      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 13981},
@@ -4036,8 +4040,9 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 11979},
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
-  "いのちの名前/木村弓": [
-      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 5994},
+ "いのちの名前/木村弓": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5315},
+     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 5994},
      { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 2726},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 7785},
      { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 5664},
@@ -4705,7 +4710,8 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 9534},
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
-   "斜陽/ヨルシカ": [
+  "斜陽/ヨルシカ": [
+      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 2974},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 2893},
       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 6352},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5315},
@@ -5716,6 +5722,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
    "ボクノート/スキマスイッチ": [
+       { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5880},
        { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 856},
        { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 6502},
        { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 2071},
@@ -5993,7 +6000,8 @@ const songStreamLinks = {
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 7027},
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
-  "青いベンチ/サスケ": [
+ "青いベンチ/サスケ": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 1702},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 4721},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9084},
      { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 4033},
@@ -6068,7 +6076,8 @@ const songStreamLinks = {
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 2760},
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
-  "たばこ/コレサワ": [
+ "たばこ/コレサワ": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 3382},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2804},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 4927},
      { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 489},
@@ -6534,7 +6543,8 @@ const songStreamLinks = {
      { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 13348},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 10400},
   ],
-   "Good-bye days/YUI": [
+"Good-bye days/YUI": [
+    { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5578},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8562},
     { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 10836},
     { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 10459},
@@ -7481,7 +7491,8 @@ const songStreamLinks = {
      { date: "2024年1月30日", videoId: "y1LDAz8x5gE", timestamp: 6123},
      { date: "2023年7月15日", videoId: "Z_8YWy3fyNo", timestamp: 33243},
   ],
-  "最高到達点/SEKAI NO OWARI": [
+ "最高到達点/SEKAI NO OWARI": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4741},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 3203},
      { date: "2026年4月30日-piano ver.", videoId: "g-dcay3fPiE", timestamp: 3546},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 1812},
@@ -7598,7 +7609,8 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 20215},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
-   "ENDLESS STORY/REIRA starring YUNA ITO": [
+  "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4988},
       { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 7381},
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10015},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8952},
@@ -7786,6 +7798,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
  "なんでもないや/RADWIMPS": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 2501},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 4649},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8217},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 10493},
@@ -7854,6 +7867,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
  "スパークル/RADWIMPS": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 871},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 4213},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 6645},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 11955},
@@ -8453,7 +8467,8 @@ const songStreamLinks = {
       { date: "2024年7月10日", videoId: "YM1cJZPZAfg", timestamp: 364},
       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 7186},      
   ],
-  "ライラック/Mrs. GREEN APPLE": [
+ "ライラック/Mrs. GREEN APPLE": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 1387},
      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 4587},
      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 7822},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 1878},
@@ -9655,7 +9670,8 @@ const songStreamLinks = {
      { date: "2023年11月14日", videoId: "8m4YNCr-kDo", timestamp: 2022},
      { date: "2023年9月11日", videoId: "PqeDAWM9HVc", timestamp: 947},
   ],
-  "キセキ/GReeeeN": [
+ "キセキ/GReeeeN": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 6240},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 6736},
      { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 6030},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 26734},
@@ -11062,7 +11078,8 @@ const songStreamLinks = {
     { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 10523},
     { date: "2023年12月25日", videoId: "kJZYq-AVZiI", timestamp: 5300 },
   ],
-  "なないろ/BUMP OF CHICKEN": [
+ "なないろ/BUMP OF CHICKEN": [
+     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 3772},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 9269},
      { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 5923},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 7035},
@@ -11683,7 +11700,8 @@ const songStreamLinks = {
    { date: "2024年9月10日", videoId: "9PoJ2QbvWmA", timestamp: 1375 },
    { date: "2023年7月9日", videoId: "KdXS-tAeEvQ", timestamp: 5659 }
      ],
-   "星降る海/Aqu3ra": [
+  "星降る海/Aqu3ra": [
+      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 583},
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 5756},
       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 10436},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10653},
