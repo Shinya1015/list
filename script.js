@@ -183,7 +183,8 @@ const songStreamLinks = {
    "ルンがピカッと光ったら/ワルキューレ": [
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 22728},
       ],
-   "空も飛べるはず/スピッツ": [
+  "空も飛べるはず/スピッツ": [
+      { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 3663},
       { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 11366},
       { date: "2026年3月1日", videoId: "a3BsP0Vmdm0", timestamp: 3216},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 8774},
@@ -6007,6 +6008,7 @@ const songStreamLinks = {
      { date: "2023年1月6日", videoId: "lb9LTP381-c", timestamp: 1739},
   ],
  "青いベンチ/サスケ": [
+     { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 2043},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 1702},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 4721},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 9084},
@@ -6083,6 +6085,7 @@ const songStreamLinks = {
      { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 9452},
   ],
  "たばこ/コレサワ": [
+     { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 3203},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 3382},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 2804},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 4927},
@@ -7763,7 +7766,8 @@ const songStreamLinks = {
      { date: "2023年10月7日(アカペラ)", videoId: "X-eV7122PC4", timestamp: 3273},
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
   ],
-   "愛にできることはまだあるかい/RADWIMPS": [
+  "愛にできることはまだあるかい/RADWIMPS": [
+      { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 4028},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 11198},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3120},
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 6291},
@@ -11857,6 +11861,7 @@ const songStreamLinks = {
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
  "さよならごっこ/amazarashi": [
+     { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 1731},
      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1884},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 1441},
      { date: "2026年6月7日(アカペラ)", videoId: "efQqddhINfk", timestamp: 6754},
