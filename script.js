@@ -3648,6 +3648,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "IpAN58ylQ3s", timestamp: 2559 },
   ],
   "M八七/米津玄師": [
+      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1596},
       { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 2431},
       { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 4333},
       { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 9971},
@@ -4631,7 +4632,8 @@ const songStreamLinks = {
      { date: "2024年1月26日", videoId: "oP__rF6eTck", timestamp: 10435},
      { date: "2024年1月13日", videoId: "UcAsbSNp--o", timestamp: 5748},
   ],
-  "嘘月/ヨルシカ": [
+ "嘘月/ヨルシカ": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 4936},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 5438},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 13953},
      { date: "2026年4月28日(前半アカペラ)", videoId: "J0pagjgp43g", timestamp: 2869},
@@ -4711,6 +4713,7 @@ const songStreamLinks = {
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 15733},
   ],
   "斜陽/ヨルシカ": [
+      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 8878},
       { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 2974},
       { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 2893},
       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 6352},
@@ -4900,7 +4903,8 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 13200},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 2555},
   ],
-   "だから僕は音楽を辞めた/ヨルシカ": [
+  "だから僕は音楽を辞めた/ヨルシカ": [
+      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 2525},
       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 2664},
       { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 6886},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 7594},
@@ -5294,7 +5298,8 @@ const songStreamLinks = {
       { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 7153 },
       { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 11917 }, 
   ],
-  "17才/ハルカトミユキ": [
+ "17才/ハルカトミユキ": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 5567},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 3296},
      { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 4483},
      { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 3543},
@@ -5722,6 +5727,7 @@ const songStreamLinks = {
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
    "ボクノート/スキマスイッチ": [
+       { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 6225},
        { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5880},
        { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 856},
        { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 6502},
@@ -6197,7 +6203,8 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 24561},
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
-  "命に嫌われている。/カンザキイオリ": [
+ "命に嫌われている。/カンザキイオリ": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 9207},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 981},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 1450},
      { date: "2026年2月6日", videoId: "ny9fP6PVPCw", timestamp: 3101},
@@ -6389,7 +6396,8 @@ const songStreamLinks = {
       { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 9984 },
       { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 2032 },
   ],
-  "secret base～君がくれたもの～/ZONE": [
+ "secret base～君がくれたもの～/ZONE": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 7256},
      { date: "2025年7月13日-piano ver.", videoId: "tVopSO35ZzY", timestamp: 12376},
      { date: "2024年9月1日", videoId: "60HDMkyPOIc", timestamp: 6887},
      { date: "2024年7月19日-piano ver.", videoId: "axfOi0qwNKQ", timestamp: 2510},
@@ -6435,7 +6443,8 @@ const songStreamLinks = {
      { date: "2024年3月4日", videoId: "STcegm8gGbQ", timestamp: 9934},
      { date: "2024年2月19日", videoId: "j3VW0gFc0No", timestamp: 505},
   ],
-  "SUMMER SONG/YUI": [
+ "SUMMER SONG/YUI": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 5325},
      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 2494},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 6988},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5396},
@@ -6724,7 +6733,8 @@ const songStreamLinks = {
      { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 3524},
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 4059},
   ],
-  "アドベンチャー/YOASOBI": [
+ "アドベンチャー/YOASOBI": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 4532},
      { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 10366},
      { date: "2026年3月7日", videoId: "A32B4jzyZbM", timestamp: 8029},
      { date: "2026年1月17日-piano ver.", videoId: "Apxs3ert97M", timestamp: 7851},
@@ -7867,6 +7877,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
  "スパークル/RADWIMPS": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1058},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 871},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 4213},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 6645},
@@ -7922,7 +7933,8 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 31628},
      { date: "2023年2月24日", videoId: "xYVoR21Dfwk", timestamp: 1800},
   ],
-  "すずめ/RADWIMPS": [
+ "すずめ/RADWIMPS": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 4246},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 9755},
      { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 16392},
      { date: "2025年6月22日", videoId: "BXAvS6OVwpM", timestamp: 2654},
@@ -8673,7 +8685,8 @@ const songStreamLinks = {
      { date: "2023年8月21日", videoId: "mLW0Bj2K7HY", timestamp: 3329},
      { date: "2023年8月19日(前半アカペラ)", videoId: "_LMnJTamXFo", timestamp: 8350},
   ],
-  "HANABI/Mr.Children": [
+ "HANABI/Mr.Children": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 6606},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 7317},
      { date: "2026年3月11日-piano ver.", videoId: "ZMJC2zn0SG4", timestamp: 4698},
      { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 9478},
@@ -11843,7 +11856,8 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 7808 },
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
-  "さよならごっこ/amazarashi": [
+ "さよならごっこ/amazarashi": [
+     { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1884},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 1441},
      { date: "2026年6月7日(アカペラ)", videoId: "efQqddhINfk", timestamp: 6754},
      { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 5752},
