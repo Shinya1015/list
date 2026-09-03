@@ -12461,6 +12461,7 @@ const songStreamLinks = {
 
 // --- 歌曲列表 (低音) ---
 const lowPitchSongs = [
+   "青い栞/Galileo Galile",
    "永遠の明日/DEEN",
    "逆さまの蝶/SNoW",
    "敗北の少年/kemu",
