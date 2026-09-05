@@ -1550,6 +1550,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
 "ドライフラワー/優里": [
+    { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 2464},
     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4397},
     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 2734},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 4107},
@@ -5621,8 +5622,9 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 13213},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 1314},
   ],
-  "美しい鰭/スピッツ": [
-      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 4371},
+ "美しい鰭/スピッツ": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 5927},
+     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 4371},
      { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 3359},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 9461},
      { date: "2026年6月16日", videoId: "EKyKMRrHCx8", timestamp: 6344},
@@ -6581,6 +6583,7 @@ const songStreamLinks = {
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 10400},
   ],
 "Good-bye days/YUI": [
+    { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 5586},
     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5578},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8562},
     { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 10836},
@@ -7580,7 +7583,8 @@ const songStreamLinks = {
      { date: "2023年10月8日", videoId: "ZfwNBpcQsuc", timestamp: 730},
      { date: "2023年9月28日", videoId: "Ihtof3AJi8U", timestamp: 1530},
   ],
-  "スターライトパレード/SEKAI NO OWARI": [
+ "スターライトパレード/SEKAI NO OWARI": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 832},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 3820},
      { date: "2026年2月25日", videoId: "cK7O4HEhB3A", timestamp: 5313},
      { date: "2026年2月17日", videoId: "6cpZVRqrEI4", timestamp: 1976},
@@ -7840,6 +7844,7 @@ const songStreamLinks = {
      { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 4157 },
   ],
  "なんでもないや/RADWIMPS": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 4708},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 2501},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 4649},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 8217},
@@ -7909,6 +7914,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
  "スパークル/RADWIMPS": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 1211},
      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1058},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 871},
      { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 4213},
@@ -8645,8 +8651,9 @@ const songStreamLinks = {
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 11984},
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
-  "Magic/Mrs. GREEN APPLE": [
-      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 1832},
+ "Magic/Mrs. GREEN APPLE": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 9061},
+     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 1832},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 9738},
      { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 8284},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 2318},
@@ -8789,7 +8796,8 @@ const songStreamLinks = {
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 12335},
      { date: "2029年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
   ],
-  "ヒカリへ/miwa": [
+ "ヒカリへ/miwa": [
+     { date: "2026年9月4日-piano ver.", videoId: "vZcKRcpcPag", timestamp: 5195},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 10654},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 9492},
      { date: "2025年8月16日", videoId: "hbRBFCBLLUU", timestamp: 7195},
@@ -10279,7 +10287,8 @@ const songStreamLinks = {
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 1700},
      { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 5689},
   ],
-  "平行線/Eve × suis": [
+ "平行線/Eve × suis": [
+     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 6509},
      { date: "2026年3月20日", videoId: "q86LzlJ2-Qo", timestamp: 1048},
      { date: "2025年12月25日", videoId: "SnkXpTjxieM", timestamp: 4490},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 8420},
