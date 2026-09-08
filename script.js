@@ -215,7 +215,8 @@ const songStreamLinks = {
    "敗北の少年/kemu": [
       { date: "2026年1月1日", videoId: "0Yq27xK62GY", timestamp: 1574},
       ],
-   "桃源恋歌/GARNIDELIA": [
+  "桃源恋歌/GARNIDELIA": [
+      { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 9893},
       { date: "2026年5月20日", videoId: "bQfMVS461PM", timestamp: 2705},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 5157},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 14352},
@@ -1870,7 +1871,8 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 11580 },
      { date: "2023年1月5日", videoId: "Hd9_63cEDp4", timestamp: 18743 },
   ],
-  "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+ "staple stable/戦場ヶ原ひたぎ(斎藤千和)": [
+     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 10172},
      { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 6717},
      { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 5773},
      { date: "2026年4月26日", videoId: "ZAeP3IKumoQ", timestamp: 4256},
@@ -5382,7 +5384,8 @@ const songStreamLinks = {
       { date: "2024年1月19日", videoId: "DgLxMHZn5PU", timestamp: 9178},
       { date: "2023年11月24日", videoId: "gai8uaike5I", timestamp: 1255},
   ],
-  "No pain, No game/ナノ": [
+ "No pain, No game/ナノ": [
+     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 10605},
      { date: "2025年7月12日", videoId: "2vtqKMxeUGI", timestamp: 10520},
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 5841},
      { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 4908},
@@ -8454,7 +8457,8 @@ const songStreamLinks = {
      { date: "2024年2月26日", videoId: "S-x_yVQkv6E", timestamp: 26993},
      { date: "2024年1月14日", videoId: "ZuvpreZgpGk", timestamp: 5406},
   ],
-   "STYX HELIX/MYTH & ROID": [
+  "STYX HELIX/MYTH & ROID": [
+      { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 11131},
       { date: "2026年5月4日", videoId: "PtYTahxxkEg", timestamp: 3093},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 13578},
       { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 5541},
@@ -10319,7 +10323,8 @@ const songStreamLinks = {
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1947},
   ],
- "名前のない怪物/EGOIST": [
+"名前のない怪物/EGOIST": [
+    { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 10822},
     { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 10476},
     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9922},
     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 5101},
