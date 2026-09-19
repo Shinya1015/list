@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "夕景イエスタデイ/じん": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 6728},
+      ],
    "チョコレート・トレイン/PENG": [
        { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 6385},
       ],
@@ -14667,4 +14670,5 @@ const streamerSongList = [
     "青い栞/Galileo Galile",
     "机さする/青木遥",
     "チョコレート・トレイン/PENG",
+    "夕景イエスタデイ/じん",
 ];
