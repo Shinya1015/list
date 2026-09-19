@@ -1,4 +1,25 @@
 const songStreamLinks = {
+   "Taste of Paradise/高梨奈緒(喜多村英梨)": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 11488},
+      ],
+   "Your song*/Yun*chi": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 10760},
+      ],
+   "プラチナロマンス/Re:nG": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 9948},
+      ],
+   "すすすす、すき、だあいすき/ジェバンニP": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 9512},
+      ],
+   "ジュブナイル/Dixie Flatline": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 9169},
+      ],
+   "La, La, Love You/yusukeP": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 8419},
+      ],
+   "A Leaf Letter/KEI": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 7281},
+      ],
    "夕景イエスタデイ/じん": [
       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 6728},
       ],
@@ -3356,10 +3377,11 @@ const songStreamLinks = {
      { date: "2023年7月29日", videoId: "2CGsHua_9MI", timestamp: 3081},
   ],
   "プラチナ/monaca(10日P)": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 7587},
      { date: "2022年12月24日", videoId: "tDarh8Mpj6A", timestamp: 10057 },
      { date: "2024年3月23日", videoId: "y6IhWb9jBTY", timestamp: 2658 },
   ],
-"プラチナ/坂本真綾": [
+ "プラチナ/坂本真綾": [
     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 2349},
     { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 936},
     { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 3956},
@@ -4395,6 +4417,7 @@ const songStreamLinks = {
      { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 4474},
   ],
   "プラネタリウム/大塚愛": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 10304},
      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 13041},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 11268},
      { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 1491},
@@ -7750,6 +7773,7 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 12628},
      { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6697},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7793},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 7812},
@@ -8048,8 +8072,9 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 6963},
   ],
   "衝動/pigstar": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 12089},
      { date: "2025年8月27日", videoId: "Uigi0QAEx20", timestamp: 2328},
-    { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
+     { date: "2025年4月10日", videoId: "QUsI2G0TNdQ", timestamp: 9205 },
   ],
    "君＝花/pigstar": [
       { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 6999},
@@ -12408,6 +12433,9 @@ const songStreamLinks = {
    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3714 },
    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10099 },
  ],
+"夜空色シンパシズム/emon(Tes.)": [
+   { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 8054},
+  ],
 "Just!/emon(Tes.)": [
     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 2410},
   ],
@@ -12849,6 +12877,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
+    "Your song*/Yun*chi",
     "机さする/青木遥",
     "青い栞/Galileo Galile",
     "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)",
@@ -14671,4 +14700,12 @@ const streamerSongList = [
     "机さする/青木遥",
     "チョコレート・トレイン/PENG",
     "夕景イエスタデイ/じん",
+    "A Leaf Letter/KEI",
+    "夜空色シンパシズム/emon(Tes.)",
+    "La, La, Love You/yusukeP",
+    "ジュブナイル/Dixie Flatline",
+    "すすすす、すき、だあいすき/ジェバンニP",
+    "プラチナロマンス/Re:nG",
+    "Your song*/Yun*chi",
+    "Taste of Paradise/高梨奈緒(喜多村英梨)",
 ];
