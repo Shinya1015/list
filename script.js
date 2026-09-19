@@ -1,38 +1,42 @@
 const songStreamLinks = {
-    "机さする/青木遥": [
-        { date: "2026年9月10日", videoId: "tZqJECebh7k", timestamp: 1703},
+   "チョコレート・トレイン/PENG": [
+       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 6385},
+      ],
+   "机さする/青木遥": [
+       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 4396},
+       { date: "2026年9月10日", videoId: "tZqJECebh7k", timestamp: 1703},
       ],  
-    "青い栞/Galileo Galile": [
-        { date: "2026年9月2日", videoId: "vlbS_27zsZU", timestamp: 6807},
+   "青い栞/Galileo Galile": [
+       { date: "2026年9月2日", videoId: "vlbS_27zsZU", timestamp: 6807},
       ],  
    "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)": [
        { date: "2026年9月2日", videoId: "vlbS_27zsZU", timestamp: 8583},
        { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 9343},
       ],
    "愛のシュプリーム/Fhán": [
-      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 7349},
+       { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 7349},
       ],
    "鎌倉STYLE/ぼっちぼろまる": [
        { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 8496},
        { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1616},
       ],
    "プランA/DISH//": [
-      { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1358},
+       { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 1358},
       ],
    "ひたむきシンデレラ！/CUTIE STR": [
-      { date: "2026年8月3日", videoId: "kMBVfeP3x8E", timestamp: 7324},
-      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 11818},
+       { date: "2026年8月3日", videoId: "kMBVfeP3x8E", timestamp: 7324},
+       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 11818},
       ],
    "BON VOYAGE!/BON-BON BLANCO": [
-      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10591},
+       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10591},
       ],
    "奏/スキマスイッチ": [
-      { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7173},
-      { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 1317},
-      { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 6117},
-      { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 11873},
+       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 7173},
+       { date: "2024年7月7日", videoId: "NlxRrJXb6Zg", timestamp: 1317},
+       { date: "2024年6月20日", videoId: "FdS9YD66ICU", timestamp: 6117},
+       { date: "2024年5月31日", videoId: "hWIjbIBRDuU", timestamp: 11873},
       ],
-  "夜の踊り子/サカナクション": [
+    "夜の踊り子/サカナクション": [
       { date: "2026年9月10日", videoId: "tZqJECebh7k", timestamp: 8001},
       { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 7461},
       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 4977},
@@ -356,7 +360,8 @@ const songStreamLinks = {
       { date: "2025年11月29日", videoId: "lk4Lg0W0OnM", timestamp: 8336},
       { date: "2025年8月24日", videoId: "c6MOGvx5XFw", timestamp: 13128},
       ],
-   "Twinkle Days/19's Sound Factory": [
+  "Twinkle Days/19's Sound Factory": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 3405},
       { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 1369},
       { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 9073},
       { date: "2025年10月26日", videoId: "oo0M8YWp-SE", timestamp: 9386},
@@ -4577,7 +4582,10 @@ const songStreamLinks = {
       { date: "2023年2月18日", videoId: "B_UEDzZDuPc", timestamp: 6089},
       { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 13947},
   ],
-  "Sweet Devil/八王子P": [
+  "エレクトリック・マジック/八王子P": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 1962},
+  ],
+ "Sweet Devil/八王子P": [
      { date: "2025年7月14日", videoId: "Jp6BLLcEFSk", timestamp: 2219},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5235},
   ],
@@ -4594,7 +4602,8 @@ const songStreamLinks = {
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 5115},
      { date: "2023年1月9日", videoId: "7rBTqV9ZgSg", timestamp: 1143},
   ],
-  "Carry Me Off/八王子P": [
+ "Carry Me Off/八王子P": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 1656},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 9015},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7079},
   ],
@@ -7167,7 +7176,8 @@ const songStreamLinks = {
       { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 3205 },
       { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 4636 },
   ],
-  "HOT LIMIT/T.M.Revolution": [
+ "HOT LIMIT/T.M.Revolution": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 1332},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 24912},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 17269},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 1951},
@@ -9177,7 +9187,8 @@ const songStreamLinks = {
      { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 5412},
      { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 523},
   ],
-  "有頂天ビバーチェ/Last Note.": [
+ "有頂天ビバーチェ/Last Note.": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 5440},
      { date: "2025年12月31日", videoId: "yShZ6X09vSk", timestamp: 1197},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11479},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 2401},
@@ -10343,12 +10354,14 @@ const songStreamLinks = {
      { date: "2023年1月29日", videoId: "qeb8uA2dQTQ", timestamp: 8999},
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 9844},
   ],
-  "KISS ME BABY!!!/ELEGUMI TOKYO": [
+ "KISS ME BABY!!!/ELEGUMI TOKYO": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 2712},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 847},
      { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2187},
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 5191},
   ],
-  "路地裏猫の正体/西沢さんP": [
+ "路地裏猫の正体/西沢さんP": [
+     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 5112},
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1947},
   ],
@@ -10496,7 +10509,8 @@ const songStreamLinks = {
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
    "チェリーポップ/DECO*27": [
-      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 7991},
+       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 3728},
+       { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 7991},
     ],
    "シンデレラ/DECO*27": [
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7301},
@@ -10766,7 +10780,8 @@ const songStreamLinks = {
      { date: "2023年10月14日", videoId: "8R2Kn-EBKdY", timestamp: 1930 },
      { date: "2023年7月13日", videoId: "F1N2Bslyw2g", timestamp: 4697 },
   ],
-   "コネクト/ClariS": [
+  "コネクト/ClariS": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 904},
       { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3494},
       { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 2572},
       { date: "2026年1月4日", videoId: "IGog1Hu2GEw", timestamp: 11215},
@@ -11000,7 +11015,8 @@ const songStreamLinks = {
   "ギリギリchop/B'z": [
        { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 2788},
   ],
-   "星の唄/buzzG": [
+  "星の唄/buzzG": [
+      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 4123},
       { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 7616},
       { date: "2024年10月2日", videoId: "A6GEeHG3qZo", timestamp: 1279 },
       { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 11326 },
@@ -12292,7 +12308,8 @@ const songStreamLinks = {
     { date: "2025年1月10日", videoId: "rNK1As42Lcw", timestamp: 2054 },
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8076 },
   ],
- "ストロボナイツ/livetune": [
+"ストロボナイツ/livetune": [
+    { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 3008},
     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 9986},
     { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 7422 },
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 5498 },
@@ -12388,10 +12405,13 @@ const songStreamLinks = {
    { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 3714 },
    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 10099 },
  ],
-"静電気。/emon(Tes.)": [ // 中間順序不變
-  { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14922 },
+"Just!/emon(Tes.)": [
+    { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 2410},
   ],
-"too Cute!/emon(Tes.)": [ // 中間順序不變
+"静電気。/emon(Tes.)": [
+    { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 14922 },
+  ],
+"too Cute!/emon(Tes.)": [
    { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 4022 },
    { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 2647 },
    { date: "2023年6月3日", videoId: "Bs0jmjvcOhU", timestamp: 2851 },
@@ -13724,6 +13744,7 @@ const streamerSongList = [
     "Step to you/40mP",
     "トリノコシティ/40mP",
     "ジェンガ/40mP",
+    "Just!/emon(Tes.)",
     "静電気。/emon(Tes.)",
     "too Cute!/emon(Tes.)",
     "Cosmic star/emon(Tes.)",
@@ -14268,6 +14289,7 @@ const streamerSongList = [
     "脳漿炸裂ガール/れるりり",                         // VOCALOID歌曲 - 非動畫合作曲 (有關聯小說/電影)
     "あんたにあっかんべ/一二三",
     "I see.../乃木坂46",
+    "エレクトリック・マジック/八王子P",
     "Carry Me Off/八王子P",
     "KiLLER LADY/八王子P",
     "シューティングスター/八王子P",
@@ -14595,53 +14617,54 @@ const streamerSongList = [
     "トウキョウト・ロック・シティ/えこ。feat.初音ミク",
     "桃源恋歌/GARNIDELIA",
     "ハッピー・ジャムジャム/しまじろう/とりっぴい/みみりん/らむりん",
-   "BLUE BIRD/浜崎あゆみ",
-   "空も飛べるはず/スピッツ",
-   "ルンがピカッと光ったら/ワルキューレ",
-   "J-POP/Half-Life",
-   "NO MORE CRY/D-51",
-   "HANAJI/小林ゆう",
-   "最初のクリスマス/ムスカP",
-   "GHOST SWEEPER/森口博子",
-   "time/SawanoHiroyuki[nZk]:ReoNa",
-   "僕みたいな君 君みたいな僕/DECO*27",
-   "Bitter-Edge/雷鳴P",
-   "マイリスダメー！/ライブP",
-   "孤独の果て/光収容",
-   "神のまにまに/れるりり",
-   "虹のかけら/昆夏美",
-   "Brave Song/多田葵",
-   "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
-   "Baby Sweet Berry Love/小倉唯",
-   "Sweets Parade/花澤香菜",
-   "春の歌/スピッツ",
-   "逆さまの蝶/SNoW",
-   "ナイショの話/ClariS",
-   "対象a/anNina",
-   "嘆きノ森/彩音",
-   "教室モノクローム/雪音クリス(高垣彩陽)",
-   "HEAVEN/はりーP",
-   "クローバー♧クラブ -C♧C-/ゆうゆ feat.初音ミク",
-   "永遠の明日/DEEN",
-   "アナタMAGIC/モノブライト",
-   "どりーみんチュチュ/emon(Tes.)",
-   "うたうたいのうた/ナノウ feat.初音ミク",
-   "リスキーゲーム/WhiteFlame feat.初音ミク",
-   "一方通行/ゆちゃP feat.初音ミク",
-   "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
-   "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗",
-   "キュートなキューたい/CUTIE STREET",
-   "Yellow/kz(livetune)",
-   "夢であるように/DEEN",
-   "-ERROR/niki",
-   "夜の踊り子/サカナクション",
-   "奏/スキマスイッチ",
-   "BON VOYAGE!/BON-BON BLANCO",
-   "ひたむきシンデレラ！/CUTIE STR",
-   "プランA/DISH//",
-   "鎌倉STYLE/ぼっちぼろまる",
-   "愛のシュプリーム/Fhán",
-   "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)",
-   "青い栞/Galileo Galile",
-   "机さする/青木遥",
+    "BLUE BIRD/浜崎あゆみ",
+    "空も飛べるはず/スピッツ",
+    "ルンがピカッと光ったら/ワルキューレ",
+    "J-POP/Half-Life",
+    "NO MORE CRY/D-51",
+    "HANAJI/小林ゆう",
+    "最初のクリスマス/ムスカP",
+    "GHOST SWEEPER/森口博子",
+    "time/SawanoHiroyuki[nZk]:ReoNa",
+    "僕みたいな君 君みたいな僕/DECO*27",
+    "Bitter-Edge/雷鳴P",
+    "マイリスダメー！/ライブP",
+    "孤独の果て/光収容",
+    "神のまにまに/れるりり",
+    "虹のかけら/昆夏美",
+    "Brave Song/多田葵",
+    "ハレ晴レユカイ/涼宮ハルヒ(CV.平野綾)、長門有希(CV. 茅原実里)、朝 比奈みくる (CV.後藤邑子)",
+    "Baby Sweet Berry Love/小倉唯",
+    "Sweets Parade/花澤香菜",
+    "春の歌/スピッツ",
+    "逆さまの蝶/SNoW",
+    "ナイショの話/ClariS",
+    "対象a/anNina",
+    "嘆きノ森/彩音",
+    "教室モノクローム/雪音クリス(高垣彩陽)",
+    "HEAVEN/はりーP",
+    "クローバー♧クラブ -C♧C-/ゆうゆ feat.初音ミク",
+    "永遠の明日/DEEN",
+    "アナタMAGIC/モノブライト",
+    "どりーみんチュチュ/emon(Tes.)",
+    "うたうたいのうた/ナノウ feat.初音ミク",
+    "リスキーゲーム/WhiteFlame feat.初音ミク",
+    "一方通行/ゆちゃP feat.初音ミク",
+    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)",
+    "俺が考えた最強の懐かしボカロ曲アコギメドレー/ビッ栗",
+    "キュートなキューたい/CUTIE STREET",
+    "Yellow/kz(livetune)",
+    "夢であるように/DEEN",
+    "-ERROR/niki",
+    "夜の踊り子/サカナクション",
+    "奏/スキマスイッチ",
+    "BON VOYAGE!/BON-BON BLANCO",
+    "ひたむきシンデレラ！/CUTIE STR",
+    "プランA/DISH//",
+    "鎌倉STYLE/ぼっちぼろまる",
+    "愛のシュプリーム/Fhán",
+    "逆光のフリューゲル/ツヴァイウィング:風鳴翼(水樹奈々)・天羽奏(高山みなみ)",
+    "青い栞/Galileo Galile",
+    "机さする/青木遥",
+    "チョコレート・トレイン/PENG",
 ];
