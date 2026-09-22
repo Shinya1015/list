@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "嘘つきの世界/すこっぷ": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 3847},
+      ],
    "Taste of Paradise/高梨奈緒(喜多村英梨)": [
       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 11488},
       ],
@@ -3492,6 +3495,7 @@ const songStreamLinks = {
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 2240},
   ],
  "灰色と青/米津玄師": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 1205},
     { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 2797},
     { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 16764},
     { date: "2025年12月3日", videoId: "FPPVvwD8XE0", timestamp: 6951},
@@ -5948,6 +5952,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 7740 },
   ],
  "No Logic/ジミーサムP": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 5689},
     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 908},
     { date: "2026年3月28日", videoId: "fHRi1cOMIfM", timestamp: 2540},
     { date: "2025年12月11日", videoId: "1QoCFJxSMdI", timestamp: 4450},
@@ -6445,6 +6450,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "w1YikQ8OqAc", timestamp: 3800},
   ],
   "嘘とタイムマシン／アヒル軍曹P": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 6086},
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 10650},
   ],
   "生まれてはじめて/アナと雪の女王": [
@@ -7574,6 +7580,7 @@ const songStreamLinks = {
      { date: "2023年9月22日", videoId: "l8PfwiYSjkk", timestamp: 9133},
   ],
  "Dragon Night/SEKAI NO OWARI": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 3130},
     { date: "2025年11月13日", videoId: "B_SQJnqrs_4", timestamp: 6728},
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 703 },
   ],
@@ -7716,7 +7723,8 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 20215},
      { date: "2022年12月30日", videoId: "4V27c7FjTks", timestamp: 2199},
   ],
-  "ENDLESS STORY/REIRA starring YUNA ITO": [
+   "ENDLESS STORY/REIRA starring YUNA ITO": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 848},
       { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4988},
       { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 7381},
       { date: "2026年7月19日", videoId: "oc6VJr-yPHA", timestamp: 10015},
@@ -9343,6 +9351,7 @@ const songStreamLinks = {
     { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14972 },
   ],
 　"crack/keeno": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 2358},
     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 1295},
     { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 8953},
     { date: "2024年12月28日", videoId: "sIYJQCrhT2s", timestamp: 3408 },
@@ -9354,6 +9363,7 @@ const songStreamLinks = {
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 9681 },
   ],
  "bitter/keeno": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 1981},
     { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 3282},
     { date: "2025年6月21日", videoId: "k6lWuLyQ8a4", timestamp: 4179},
     { date: "2025年6月2日", videoId: "qPex9HTjz8E", timestamp: 2600},
@@ -10867,6 +10877,9 @@ const songStreamLinks = {
       { date: "2024年1月20日", videoId: "ceom2qt-w8k", timestamp: 11367},
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 18824},
   ],
+  "竹取オーバーナイトセンセーション/HoneyWorks": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 3427},
+  ] ,
   "誇り高きアイドル/HoneyWorks": [
      { date: "2025年8月1日", videoId: "_8saemkA7i4", timestamp: 7753},
      { date: "2025年6月4日", videoId: "zst_ZsAev14", timestamp: 1247},
@@ -11385,7 +11398,8 @@ const songStreamLinks = {
     { date: "2023年1月2日", videoId: "VRx4XsQ4PeE", timestamp: 9912 },
     { date: "2022年6月5日", videoId: "VwPRwa329Gs", timestamp: 2484 },
   ],
-"アンサー/BUMP OF CHICKEN": [
+ "アンサー/BUMP OF CHICKEN": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 1594},
     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 7140},
     { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 8415},
     { date: "2026年3月11日", videoId: "ZMJC2zn0SG4", timestamp: 2622},
@@ -12352,7 +12366,10 @@ const songStreamLinks = {
      { date: "2023年10月7日", videoId: "X-eV7122PC4", timestamp: 6930 },
      { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 8880 },
   ],
+ "パラメタ/40mP": [
  "タイムマシン/1640mP": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 6537},
+   ],
     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 1787},
     { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3819},
     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6444},
@@ -12436,7 +12453,8 @@ const songStreamLinks = {
 "夜空色シンパシズム/emon(Tes.)": [
    { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 8054},
   ],
-"Just!/emon(Tes.)": [
+ "Just!/emon(Tes.)": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 2744},
     { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 2410},
   ],
 "静電気。/emon(Tes.)": [
@@ -14708,4 +14726,6 @@ const streamerSongList = [
     "プラチナロマンス/Re:nG",
     "Your song*/Yun*chi",
     "Taste of Paradise/高梨奈緒(喜多村英梨)",
+    "竹取オーバーナイトセンセーション/HoneyWorks",
+    "嘘つきの世界/すこっぷ",
 ];
