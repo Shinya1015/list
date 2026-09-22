@@ -10557,7 +10557,7 @@ const songStreamLinks = {
   "探し物/DIRTY OLD MEN": [
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
-   "愛 think so,/DECO*27"": [
+   "愛 think so,/DECO*27": [
       { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 7368},
     ],
    "チェリーポップ/DECO*27": [
