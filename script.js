@@ -13794,6 +13794,7 @@ const streamerSongList = [
     "Step to you/40mP",
     "トリノコシティ/40mP",
     "ジェンガ/40mP",
+    "パラメタ/40mP",
     "Just!/emon(Tes.)",
     "静電気。/emon(Tes.)",
     "too Cute!/emon(Tes.)",
@@ -14728,4 +14729,5 @@ const streamerSongList = [
     "Taste of Paradise/高梨奈緒(喜多村英梨)",
     "竹取オーバーナイトセンセーション/HoneyWorks",
     "嘘つきの世界/すこっぷ",
+    
 ];
