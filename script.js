@@ -1276,7 +1276,6 @@ const songStreamLinks = {
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 4418},
      { date: "2025年5月20日(ひより/しゃいる)", videoId: "kMWrZ4ZtsZ8", timestamp: 1128},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 1762 },
-     { date: "2024年12月31日", videoId: "", timestamp: 765},
      { date: "2023年6月11日", videoId: "AvZxCxIiDt4", timestamp: 7172 },
   ],
   "もってけ!セーラーふく/泉こなた(平野綾),柊かがみ(加藤英美里),柊つかさ(福原香織),高良みゆき(遠藤綾)": [
@@ -10583,7 +10582,7 @@ const songStreamLinks = {
   ],
   "ペダルハート/DECO*27": [
       { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 18555 },
-      { date: "2024年3月26日", videoId: "", timestamp: 1418 },
+      { date: "2024年3月26日", videoId: "3qhlFZL3j_w", timestamp: 5717 },
   ],
    "モザイクロール/DECO*27": [
       { date: "2025年6月26日-piano ver.", videoId: "fk0sfucYz6Q", timestamp: 10404},
