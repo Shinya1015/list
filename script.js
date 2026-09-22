@@ -12387,8 +12387,6 @@ const songStreamLinks = {
     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 6537},
    ],
  "タイムマシン/1640mP": 
-    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 6537},
-   ],
     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 1787},
     { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 3819},
     { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 6444},
