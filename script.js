@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "WAVE/niki": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 8832},
+      ],
    "嘘つきの世界/すこっぷ": [
       { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 3847},
       ],
@@ -92,6 +95,9 @@ const songStreamLinks = {
       ],
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12984},
+      ],
+   "The secret garden/初音ミク": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9111},
       ],
    "一方通行/ゆちゃP feat.初音ミク": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4798},
@@ -1899,6 +1905,7 @@ const songStreamLinks = {
     { date: "2023年5月31日", videoId: "zkJiWqzDKwI", timestamp: 7051 },
   ],
   "香水/瑛人": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9413},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 1754},
      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 4285},
      { date: "2025年3月23日", videoId: "r4WSqrEyefI", timestamp: 5913 },
@@ -4236,6 +4243,9 @@ const songStreamLinks = {
      { date: "2024年4月27日", videoId: "zT1_FG5IFzA", timestamp: 7410},
      { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8783},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
+  ],
+  "Keep Only One Love/八王子P": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 7708},
   ],
   "シューティングスター/八王子P": [
      { date: "2026年6月17日", videoId: "o2n3RRnbJ1I", timestamp: 9063},
@@ -9092,6 +9102,7 @@ const songStreamLinks = {
      { date: "2024年1月17日", videoId: "uq6bkRYAZvI", timestamp: 2569},
   ],
    "紅蓮華/LiSA": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9702},
       { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 4526},
       { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 6903},
       { date: "2026年3月11日", videoId: "hH-wienJ7gk", timestamp: 2173},
@@ -10546,6 +10557,9 @@ const songStreamLinks = {
   "探し物/DIRTY OLD MEN": [
       { date: "2023年2月19日(アカペラ)", videoId: "j3VW0gFc0No", timestamp: 9044},
   ],
+   "愛 think so,/DECO*27"": [
+      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 7368},
+    ],
    "チェリーポップ/DECO*27": [
        { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 3728},
        { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 7991},
@@ -12003,7 +12017,8 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "ol7TKxv46b0", timestamp: 7808 },
      { date: "2023年8月19日", videoId: "WfQLN1cpwPY", timestamp: 11938 },
     ],      
- "さよならごっこ/amazarashi": [
+  "さよならごっこ/amazarashi": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9992},
      { date: "2026年9月10日", videoId: "tZqJECebh7k", timestamp: 9406},
      { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 1731},
      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1884},
@@ -12231,7 +12246,8 @@ const songStreamLinks = {
     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 3073 },
     { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 5761 },
   ], 
-"風待ちハローワールド/add9(ヘリP)": [  
+ "風待ちハローワールド/add9(ヘリP)": [
+    { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 8450},
     { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 8748 },
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 10305 },
     { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 6832 },
@@ -12311,12 +12327,13 @@ const songStreamLinks = {
    { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 11426 },
   ], 
 "ハジメテノオト/初音ミク": [
-  { date: "2021年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 14715 },
+   { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 6791},
+   { date: "2021年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 14715 },
   ], 
 "深海少女/初音ミク": [
-  { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 926 },
-  { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 12695 },
-  { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 4810 },
+   { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 926 },
+   { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 12695 },
+   { date: "2023年3月2日", videoId: "RCe0Wzqw7d8", timestamp: 4810 },
   ],   
  "Rabbit/一億円P feat. 初音ミク": [
     { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 1746 },
@@ -13923,6 +13940,7 @@ const streamerSongList = [
     "faraway/day after tomorrow",
     "Starry Heavens/day after tomorrow",
     "そして僕にできるコト/day after tomorrow",
+    "愛 think so,/DECO*27",
     "チェリーポップ/DECO*27",
     "Snow Song Show/DECO*27",
     "キミ以上、ボク未満。/DECO*27",
@@ -14340,6 +14358,7 @@ const streamerSongList = [
     "脳漿炸裂ガール/れるりり",                         // VOCALOID歌曲 - 非動畫合作曲 (有關聯小說/電影)
     "あんたにあっかんべ/一二三",
     "I see.../乃木坂46",
+    "Keep Only One Love/八王子P",
     "エレクトリック・マジック/八王子P",
     "Carry Me Off/八王子P",
     "KiLLER LADY/八王子P",
@@ -14729,5 +14748,5 @@ const streamerSongList = [
     "Taste of Paradise/高梨奈緒(喜多村英梨)",
     "竹取オーバーナイトセンセーション/HoneyWorks",
     "嘘つきの世界/すこっぷ",
-    
+    "WAVE/niki",
 ];
