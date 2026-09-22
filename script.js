@@ -4691,7 +4691,7 @@ const songStreamLinks = {
      { date: "2023年11月17日", videoId: "h27RoddZtRQ", timestamp: 5594},
      { date: "2023年8月19日", videoId: "_LMnJTamXFo", timestamp: 10808},
      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 6511},
-     { date: "2023年5月28", videoId: "KpbetdQYukA", timestamp: 4818},
+     { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 4818},
      { date: "2023年4月15日", videoId: "FaSdCukc29U", timestamp: 5277},
      { date: "2023年3月5日", videoId: "QU3auA-t1BI", timestamp: 2536},
      { date: "2023年2月13日", videoId: "WDaTU01Humc", timestamp: 4412},
@@ -8879,7 +8879,7 @@ const songStreamLinks = {
      { date: "2024年11月22日", videoId: "3b0GZDNe2AM", timestamp: 7040},
      { date: "2024年5月12日", videoId: "M_OMw1TfyTk", timestamp: 8141},
      { date: "2024年4月30日", videoId: "otN41_GJrkU", timestamp: 12335},
-     { date: "2029年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
+     { date: "2023年9月15日", videoId: "Fp7HsSpqZLQ", timestamp: 927},
   ],
  "ヒカリへ/miwa": [
      { date: "2026年9月4日-piano ver.", videoId: "vZcKRcpcPag", timestamp: 5195},
