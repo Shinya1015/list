@@ -96,9 +96,6 @@ const songStreamLinks = {
    "Someone Else/種島ぽぷら(阿澄佳奈)・伊波まひる(藤田咲)・轟八千代(喜多村英梨)": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12984},
       ],
-   "The secret garden/初音ミク": [
-      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9111},
-      ],
    "一方通行/ゆちゃP feat.初音ミク": [
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4798},
       ],
@@ -7196,6 +7193,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 3538},
   ],
   "The secret garden/葉月ゆら": [
+     { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 9111},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 2845},
   ],
    "resonance/T.M.Revolution": [
