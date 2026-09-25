@@ -1,4 +1,7 @@
 const songStreamLinks = {
+   "全力少年/スキマスイッチ": [
+      { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 4312},
+      ],
    "WAVE/niki": [
       { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 8832},
       ],
@@ -32,7 +35,8 @@ const songStreamLinks = {
    "チョコレート・トレイン/PENG": [
        { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 6385},
       ],
-   "机さする/青木遥": [
+    "机さする/青木遥": [
+       { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 2153},
        { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 4396},
        { date: "2026年9月10日", videoId: "tZqJECebh7k", timestamp: 1703},
       ],  
@@ -77,6 +81,7 @@ const songStreamLinks = {
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 10378},
       ],
    "夢であるように/DEEN": [
+      { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 2407},
       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 1350},
       { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 4986},
       { date: "2026年6月29日", videoId: "wyjRjwPdse8", timestamp: 4450},
@@ -1592,7 +1597,8 @@ const songStreamLinks = {
     { date: "2023年1月23日-piano ver.", videoId: "wfTcM2JgtyE", timestamp: 12710 },
     { date: "2023年1月16日", videoId: "czmPQXUWDsA", timestamp: 6381 },
   ],
-"ドライフラワー/優里": [
+ "ドライフラワー/優里": [
+    { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 1428},
     { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 2464},
     { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 4397},
     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 2734},
@@ -2367,6 +2373,7 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 7064},
   ],
   "燈/崎山蒼志": [
+     { date: "2026年9月25日-piano ver.", videoId: "albtjY2c_Qo", timestamp: 6453},
      { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 7083},
      { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 5125},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 7102},
@@ -2487,7 +2494,8 @@ const songStreamLinks = {
      { date: "2023年1月30日", videoId: "AsWB22GQh10", timestamp: 5008},
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 10005},
   ],
-"月光/鬼束ちひろ": [
+ "月光/鬼束ちひろ": [
+    { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 2733},
     { date: "2026年9月2日", videoId: "vlbS_27zsZU", timestamp: 8125},
     { date: "2026年7月6日", videoId: "dpwmFCMBiIU", timestamp: 6198},
     { date: "2026年5月1日", videoId: "y8V-HHrPFgc", timestamp: 6110},
@@ -5820,7 +5828,8 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 3955},
      { date: "2023年8月7日", videoId: "UM-edp2dfSA", timestamp: 3282},
   ],
-   "ボクノート/スキマスイッチ": [
+    "ボクノート/スキマスイッチ": [
+       { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 3709},
        { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 6225},
        { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5880},
        { date: "2026年8月18日", videoId: "Is5TGhhwheA", timestamp: 856},
@@ -6249,6 +6258,7 @@ const songStreamLinks = {
      { date: "2023年9月16日", videoId: "P241jvYLjrw", timestamp: 7463},
   ],
   "青のすみか/キタニタツヤ": [
+     { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 6077},
      { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 7821},
      { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 11614},
      { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 5435},
@@ -7991,7 +8001,8 @@ const songStreamLinks = {
      { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 12528},
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 1767},
   ],
- "スパークル/RADWIMPS": [
+  "スパークル/RADWIMPS": [
+     { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 1721},
      { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 1211},
      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 1058},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 871},
@@ -8733,7 +8744,8 @@ const songStreamLinks = {
       { date: "2023年8月26日", videoId: "hxoExJa7Dr4", timestamp: 11984},
       { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 2122},
   ],
- "Magic/Mrs. GREEN APPLE": [
+  "Magic/Mrs. GREEN APPLE": [
+     { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 3055},
      { date: "2026年9月4日", videoId: "vZcKRcpcPag", timestamp: 9061},
      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 1832},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 9738},
@@ -11148,7 +11160,8 @@ const songStreamLinks = {
       { date: "2023年4月21日", videoId: "1Cg7dRu59BM", timestamp: 10580 },
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 16433 },
   ],
- "車輪の唄/BUMP OF CHICKEN": [
+  "車輪の唄/BUMP OF CHICKEN": [
+     { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 5345},
      { date: "2026年9月2日", videoId: "vlbS_27zsZU", timestamp: 5067},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 4981},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 11531},
@@ -11291,7 +11304,8 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 772 },
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 8911 },
   ],
-"クロノスタシス/BUMP OF CHICKEN": [
+ "クロノスタシス/BUMP OF CHICKEN": [
+    { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 4608},
     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 6785},
     { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 7296},
     { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 1306},
@@ -11589,7 +11603,8 @@ const songStreamLinks = {
        { date: "2023年2月19日", videoId: "j3VW0gFc0No", timestamp: 5873 },
        { date: "2023年2月12日", videoId: "lLpuBcr1Bb0", timestamp: 11560 },
      ],
-     "Aurora/BUMP OF CHICKEN": [
+   "Aurora/BUMP OF CHICKEN": [
+      { date: "2026年9月25日", videoId: "albtjY2c_Qo", timestamp: 5026},
       { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 912},
       { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 7787},
       { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 2161},
@@ -14746,4 +14761,5 @@ const streamerSongList = [
     "竹取オーバーナイトセンセーション/HoneyWorks",
     "嘘つきの世界/すこっぷ",
     "WAVE/niki",
+    "全力少年/スキマスイッチ",
 ];
