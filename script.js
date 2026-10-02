@@ -509,6 +509,7 @@ const songStreamLinks = {
       { date: "2025年7月2日", videoId: "XAJyCcCliWg", timestamp: 7801},
       ],
    "ウミユリ海底譚/n-buna": [
+      { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 2965},
       { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 3439},
       { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 4136},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 9013},
@@ -4255,6 +4256,9 @@ const songStreamLinks = {
      { date: "2024年2月18日", videoId: "mQHTFswNQtQ", timestamp: 8783},
      { date: "2024年2月10日", videoId: "6lS5Tv3kbRo", timestamp: 7479},
   ],
+  "Weekender Girl/八王子P": [
+     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 1444},
+  ],
   "Keep Only One Love/八王子P": [
      { date: "2026年9月22日", videoId: "LXtjsPfKwk4", timestamp: 7708},
   ],
@@ -5621,6 +5625,7 @@ const songStreamLinks = {
      { date: "2023年1月14日", videoId: "ZuvpreZgpGk", timestamp: 12582},
   ],
     "SPiCa/とくP": [
+       { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 1068},
        { date: "2026年2月12日(メン限)", videoId: "GDrDBtSu4Ug", timestamp: 4629},
        { date: "2025年8月17日", videoId: "hlKDzFXngLc", timestamp: 15959},
        { date: "2024年5月27日", videoId: "ZRqhVaH-ZcA", timestamp: 4141 },
@@ -10692,7 +10697,8 @@ const songStreamLinks = {
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 2351},
       { date: "2023年1月24日", videoId: "YI2mn04MU_s", timestamp: 3443},
   ],
-  "恋距離遠愛/DECO*27": [
+   "恋距離遠愛/DECO*27": [
+      { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 698},
       { date: "2025年4月29日", videoId: "VZ8-0GdE7Ho", timestamp: 10824},
       { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 14533},
   ],
@@ -12286,6 +12292,7 @@ const songStreamLinks = {
     { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 5962 },
   ],  
 　"フラジール/ぬゆり": [
+    { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 1887},
     { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 3824},
     { date: "2026年6月19日", videoId: "mS_gAg4euIc", timestamp: 5824},
     { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 2439},
@@ -14383,6 +14390,7 @@ const streamerSongList = [
     "脳漿炸裂ガール/れるりり",                         // VOCALOID歌曲 - 非動畫合作曲 (有關聯小說/電影)
     "あんたにあっかんべ/一二三",
     "I see.../乃木坂46",
+    "Weekender Girl/八王子P",
     "Keep Only One Love/八王子P",
     "エレクトリック・マジック/八王子P",
     "Carry Me Off/八王子P",
