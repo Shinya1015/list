@@ -7388,6 +7388,7 @@ const songStreamLinks = {
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 7306},
   ],
   "ブラック★ロックシューター/supercell": [
+     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 3769},
      { date: "2026年3月28日", videoId: "1iQ8OtsPYUA", timestamp: 1773},
      { date: "2023年7月2日", videoId: "_cA-TVTj4Ro", timestamp: 5345},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2982},
@@ -11403,6 +11404,8 @@ const songStreamLinks = {
     { date: "2023年2月1日", videoId: "fYJk2qEevJY", timestamp: 467 },
   ],
  "カルマ/BUMP OF CHICKEN": [
+    { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 3248},
+    { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 3248},
     { date: "2026年8月11日", videoId: "j4Bi2r_IiaI", timestamp: 5004},
     { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 3938},
     { date: "2026年2月27日", videoId: "QHHuUWEMRgQ", timestamp: 4379},
