@@ -2527,6 +2527,7 @@ const songStreamLinks = {
     { date: "2024年12月31日", videoId: "1VI45dHw-pg", timestamp: 3060 },
   ],
   "青空のナミダ/高橋瞳": [
+     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 4448},
      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12655},
      { date: "2026年5月15日", videoId: "6FyHaNFEhc4", timestamp: 8552},
      { date: "2025年7月27日", videoId: "syJnL38D7-Q", timestamp: 4812},
@@ -4242,6 +4243,7 @@ const songStreamLinks = {
     { date: "2023年1月23日", videoId: "wfTcM2JgtyE", timestamp: 1023 },
   ],
   "かいしんのいちげき!/天月-あまつき-": [
+     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 4128},
      { date: "2024年11月30日", videoId: "ob4S823WNLY", timestamp: 1688},
      { date: "2023年8月20日", videoId: "qeFbHHe1zKE", timestamp: 4006},
      { date: "2023年2月14日", videoId: "miWn1J9dZQ8", timestamp: 1435},
@@ -6744,6 +6746,7 @@ const songStreamLinks = {
      { date: "2023年1月11日", videoId: "6sX01H3vJOk", timestamp: 3831},
   ],
    "UNDEAD/YOASOBI": [
+      { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 4751},
       { date: "2026年6月22日", videoId: "_elIeuUgXa0", timestamp: 3953},
       { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 12743},
       { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 8781},
@@ -7262,6 +7265,7 @@ const songStreamLinks = {
      { date: "2024年1月11日", videoId: "6sX01H3vJOk", timestamp: 8324},
   ],
   "HEART OF SWORD ～夜明け前～/T.M.Revolution": [
+     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 5720},
      { date: "2026年8月6日", videoId: "0sphmZNr7L4", timestamp: 2152},
      { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 1169},
      { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 9905},
@@ -7497,6 +7501,7 @@ const songStreamLinks = {
      { date: "2025年4月27日", videoId: "cHrzKWf3mcw", timestamp: 8030 },
   ],
    "サムライハート/SPYAIR": [
+      { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 5979},
       { date: "2026年6月24日", videoId: "J2AGqzpm_Ws", timestamp: 2463},
       { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 2578},
       { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 1227},
@@ -10440,7 +10445,8 @@ const songStreamLinks = {
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7959},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 1947},
   ],
-"名前のない怪物/EGOIST": [
+ "名前のない怪物/EGOIST": [
+    { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 5388},
     { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 10822},
     { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 10476},
     { date: "2026年4月4日", videoId: "Hlyf5wVtCBk", timestamp: 9922},
