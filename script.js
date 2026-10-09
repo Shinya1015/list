@@ -1,5 +1,5 @@
 const songStreamLinks = {
-   "スターライト/amazara": [
+   "スターライト/amazarashi": [
       { date: "2026年10月7日", videoId: "P12LehWy_bw", timestamp: 4654},
       ],
    "サイハテ/小林オニキス": [
@@ -14838,5 +14838,5 @@ const streamerSongList = [
     "全力少年/スキマスイッチ",
     "カウントダウンラブ/I'm a Cutie Finder",
     "サイハテ/小林オニキス",
-    "スターライト/amazara",
+    "スターライト/amazarashi",
 ];
