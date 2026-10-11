@@ -1,4 +1,28 @@
 const songStreamLinks = {
+   "サディスティック・ラブ/Junky": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 11411},
+      ],
+   "Beautiful Sniper/yksb": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 11090},
+      ],
+   "プラスチックボイス/tilt-six": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 10785},
+      ],
+   "エレクトロサチュレイタ/tilt-six": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 10437},
+      ],
+   "再教育/Neru": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 10155},
+      ],
+   "サヨナラ・グッバイ/のぼる↑": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 7920},
+      ],
+   "ヘたくそユートピア政策/ギ ガ、おればななP feat. IA": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 7519},
+      ],
+   "R-18/cosMo@暴走P": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 6518},
+      ],
    "ジュリエッタとロミヲ/Emon (Tes.)": [
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 5552},
       ],
@@ -55,6 +79,7 @@ const songStreamLinks = {
       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 8419},
       ],
    "A Leaf Letter/KEI": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 6959},
       { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 7281},
       ],
    "夕景イエスタデイ/じん": [
@@ -14871,4 +14896,12 @@ const streamerSongList = [
     "Spice!/流星P",
     "フラッシュバックサウンド/クワガタP",
     "ジュリエッタとロミヲ/Emon (Tes.)",
+    "R-18/cosMo@暴走P",
+    "ヘたくそユートピア政策/ギ ガ、おればななP feat. IA",
+    "サヨナラ・グッバイ/のぼる↑",
+    "再教育/Neru",
+    "エレクトロサチュレイタ/tilt-six",
+    "プラスチックボイス/tilt-six",
+    "Beautiful Sniper/yksb",
+    "サディスティック・ラブ/Junky",
 ];
