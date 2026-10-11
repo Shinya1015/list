@@ -1,6 +1,9 @@
 const songStreamLinks = {
+   "ジュリエッタとロミヲ/Emon (Tes.)": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 5552},
+      ],
    "フラッシュバックサウンド/クワガタP": [
-      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 5251},
       ],
    "Spice!/流星P": [
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
@@ -6085,6 +6088,7 @@ const songStreamLinks = {
      { date: "2023年10月2日", videoId: "WTTp8sa91f0", timestamp: 7823},
   ],
   "Step and Go!/シグナルP": [
+     { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 6237},
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 4711},
   ],
   "世界はそれを愛と呼ぶんだぜ/サンボマスター": [
@@ -14866,4 +14870,5 @@ const streamerSongList = [
     "Daybreak/samfree",
     "Spice!/流星P",
     "フラッシュバックサウンド/クワガタP",
+    "ジュリエッタとロミヲ/Emon (Tes.)",
 ];
