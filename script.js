@@ -1,4 +1,19 @@
 const songStreamLinks = {
+   "フラッシュバックサウンド/クワガタP": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
+      ],
+   "Spice!/流星P": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
+      ],
+   "Daybreak/samfree": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
+      ],
+   "コンビニ/cokesi": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4014},
+      ],
+   "炉心融解/Iroha": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 3617},
+      ],
    "スターライト/amazarashi": [
       { date: "2026年10月7日", videoId: "P12LehWy_bw", timestamp: 4654},
       ],
@@ -325,7 +340,8 @@ const songStreamLinks = {
       { date: "2026年2月19日", videoId: "GTigcQj4NoQ", timestamp: 7011},
       { date: "2026年2月19日(一番のみ)", videoId: "GTigcQj4NoQ", timestamp: 1771},
       ],
-  "かたち/安月名莉子": [
+   "かたち/安月名莉子": [
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 1549},
       { date: "2026年8月27日", videoId: "qLzf4CX21qk", timestamp: 9226},
       { date: "2026年6月23日", videoId: "4gljN5R_YPg", timestamp: 3258},
       { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 2164},
@@ -6344,6 +6360,7 @@ const songStreamLinks = {
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 1755},
   ],
   "LUVORATORRRRRY!/ギガ・れをる": [
+     { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 1153},
      { date: "2025年1月4日", videoId: "YXH7TYhzkbo", timestamp: 7852},
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 2119},
      { date: "2024年2月17日", videoId: "gVKf-Iqmjs0", timestamp: 7488},
@@ -7425,6 +7442,7 @@ const songStreamLinks = {
      { date: "2023年1月6日-piano ver.", videoId: "lb9LTP381-c", timestamp: 11263},
   ],
   "ワールドイズマイン/supercell": [
+     { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 3368},
      { date: "2023年7月30日", videoId: "7nXcFkxEX-Y", timestamp: 7680},
      { date: "2023年3月9日", videoId: "ocR9SezEBfQ", timestamp: 2603},
      { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 3396},
@@ -10513,6 +10531,7 @@ const songStreamLinks = {
     { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 16268 },
   ],
   "ハッピーシンセサイザ/Easy Pop": [
+     { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 2988},
      { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 8369},
      { date: "2026年4月13日-piano ver.", videoId: "0EIIi_Pxnlw", timestamp: 8319},
      { date: "2026年2月21日", videoId: "8wnYqLqvJ9Q", timestamp: 6965},
@@ -10547,6 +10566,7 @@ const songStreamLinks = {
       { date: "2023年11月13日", videoId: "z-jemiqVfcA", timestamp: 4683},
   ],
  "歌に形はないけれど/doriko": [
+    { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 2558},
     { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 9242},
     { date: "2026年5月7日", videoId: "L7P86MCXd_I", timestamp: 8704},
     { date: "2026年4月28日", videoId: "kuWq0RiKdDc", timestamp: 17871},
@@ -11061,6 +11081,7 @@ const songStreamLinks = {
      { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 6250 },
   ],
   "病名恋ワズライ/HoneyWorks": [
+     { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 2178},
      { date: "2025年7月24日", videoId: "qyISEkPmejU", timestamp: 2137},
      { date: "2025年2月14日", videoId: "rxfNlp4K0zc", timestamp: 3696 },
      { date: "2024年3月24日", videoId: "DGKzBUpYvE8", timestamp: 6350 },
@@ -12622,6 +12643,7 @@ const songStreamLinks = {
        { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 12455 },
      ],
  "グッドナイトエクスプレス/鏡音リン・レン": [
+    { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 1901},
     { date: "2026年1月28日(アカペラ)", videoId: "Xb5rOjJuHHc", timestamp: 7305},
     { date: "2026年1月18日", videoId: "xBLVu4ja4q8", timestamp: 3650},
     { date: "2023年5月2日", videoId: "Nw0mRArA6kE", timestamp: 8726 },
@@ -14839,4 +14861,9 @@ const streamerSongList = [
     "カウントダウンラブ/I'm a Cutie Finder",
     "サイハテ/小林オニキス",
     "スターライト/amazarashi",
+    "炉心融解/Iroha",
+    "コンビニ/cokesi",
+    "Daybreak/samfree",
+    "Spice!/流星P",
+    "フラッシュバックサウンド/クワガタP",
 ];
