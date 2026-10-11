@@ -6,7 +6,7 @@ const songStreamLinks = {
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 5251},
       ],
    "Spice!/流星P": [
-      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
+      { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4704},
       ],
    "Daybreak/samfree": [
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 4324},
