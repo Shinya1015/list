@@ -9,6 +9,7 @@ const songStreamLinks = {
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 10785},
       ],
    "エレクトロサチュレイタ/tilt-six": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 10185},
       { date: "2026年10月10日", videoId: "DWAWynBumv0", timestamp: 10437},
       ],
    "再教育/Neru": [
@@ -443,6 +444,7 @@ const songStreamLinks = {
       { date: "2025年9月18日", videoId: "B-Mliyb2w-A", timestamp: 2193},
       ],
    "エレクトロトレイン/nana feat.初音ミク": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 9856},
       { date: "2026年5月18日", videoId: "ql44M9JmnTw", timestamp: 4991},
       { date: "2025年9月2日", videoId: "XRFX_pm1COI", timestamp: 3579},
       ],
@@ -551,6 +553,7 @@ const songStreamLinks = {
       { date: "2025年7月9日", videoId: "g5x5fT1jbF4", timestamp: 5366},
       ],
    "氷の上に立つように/小松未歩": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 9515},
       { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 8965},
       { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 3929},
       { date: "2026年3月24日", videoId: "ojFcXQihXoE", timestamp: 3291},
@@ -1149,6 +1152,7 @@ const songStreamLinks = {
     { date: "2025年3月31日", videoId: "fWeibuWPkzs", timestamp: 15530 },
   ],
    "futuristic imagination/School Food Punishment": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 5277},
       { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 11332},
       { date: "2026年5月26日", videoId: "X15jacsH0Kw", timestamp: 13550},
       { date: "2026年1月20日", videoId: "EA-zzkF8SMk", timestamp: 2934},
@@ -9369,6 +9373,7 @@ const songStreamLinks = {
      { date: "2023年12月27日", videoId: "1hOWx3YdjIQ", timestamp: 5008},
   ],
   "なりすましゲンガー/KulfiQ": [
+     { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 6163},
      { date: "2025年8月17日", videoId: "3HBXgqolmGU", timestamp: 7088},
      { date: "2023年10月11日", videoId: "LBIn6n6Z6VQ", timestamp: 7570},
      { date: "2023年3月4日", videoId: "STcegm8gGbQ", timestamp: 5902},
@@ -10336,7 +10341,8 @@ const songStreamLinks = {
      { date: "2023年2月25日", videoId: "MlwfL4gWsqo", timestamp: 3167},
      { date: "2023年2月11日", videoId: "N3CjjYqLTY4", timestamp: 10676},
   ],
-  "ちいさな日々/flumpool": [
+   "ちいさな日々/flumpool": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 5809},
       { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 1238},
       { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 5972},
       { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 4409},
@@ -11063,7 +11069,8 @@ const songStreamLinks = {
       { date: "2022年12月25日", videoId: "kJZYq-AVZiI", timestamp: 12540},
       { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 5906},
   ],
-  "今ちょっとだけ話題の神様/HoneyWorks": [
+   "今ちょっとだけ話題の神様/HoneyWorks": [
+      { date: "2026年10月13日", videoId: "T6Jn4kL1b8Y", timestamp: 5554},
       { date: "2023年12月29日", videoId: "ME1ONTBCpho", timestamp: 4042},
   ],
   "ビビっとラブ/HoneyWorks": [
