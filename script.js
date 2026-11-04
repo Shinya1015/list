@@ -6300,6 +6300,7 @@ const songStreamLinks = {
     { date: "2023年6月26日", videoId: "RqnDCwCAL0I", timestamp: 3975 },
   ],
   "シンデレラ/サイダーガール": [
+     { date: "2026年11月3日", videoId: "RqQO4I3FnxY", timestamp: 6330},
      { date: "2026年6月8日", videoId: "MfHa0WI83ug", timestamp: 4305},
      { date: "2026年1月25日", videoId: "eWNeF1vIl-I", timestamp: 7941},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 13388},
@@ -10791,7 +10792,6 @@ const songStreamLinks = {
        { date: "2026年7月17日", videoId: "XNHqjnkrrn4", timestamp: 7991},
     ],
    "シンデレラ/DECO*27": [
-      { date: "2026年11月3日", videoId: "RqQO4I3FnxY", timestamp: 6330},
       { date: "2024年3月31日", videoId: "kjaROypg7Tc", timestamp: 7301},
       { date: "2023年6月16日", videoId: "hCxK-a1WSYs", timestamp: 4227},
       { date: "2023年6月8日", videoId: "CS5HvLlsDVc", timestamp: 1171},
