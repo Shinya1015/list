@@ -1,4 +1,10 @@
 const songStreamLinks = {
+   "むかしむかしのきょうのぼく/DECO*27": [
+      { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 5177},
+      ],
+   "脳内革命ガール/MARETU": [
+      { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 1613},
+      ],
    "Super scription of data/島みやえい子": [
       { date: "2026年11月3日", videoId: "RqQO4I3FnxY", timestamp: 8719},
       ],
@@ -58,6 +64,7 @@ const songStreamLinks = {
       { date: "2026年10月7日", videoId: "P12LehWy_bw", timestamp: 4654},
       ],
    "サイハテ/小林オニキス": [
+      { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 6944},
       { date: "2026年10月1日", videoId: "qX2hzS_VA54", timestamp: 9023},
       ],
    "カウントダウンラブ/I'm a Cutie Finder": [
@@ -180,6 +187,7 @@ const songStreamLinks = {
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4450},
       ],
    "うたうたいのうた/ナノウ feat.初音ミク": [
+      { date: "2026年11月7日", videoId: "BDfxSrDoPNs", timestamp: 6089},
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 4049},
       ],
    "どりーみんチュチュ/emon(Tes.)": [
@@ -4071,6 +4079,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 4301},
   ],
   "ゆるふわ樹海ガール/石風呂": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 4961},
      { date: "2026年5月4日", videoId: "Ng4yorxD0yU", timestamp: 5477},
      { date: "2024年10月23日", videoId: "r4Si5shMJI4", timestamp: 5420},
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 2493},
@@ -4252,7 +4261,8 @@ const songStreamLinks = {
       { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 11979},
       { date: "2022年9月13日", videoId: "yuLgBmm19Ts", timestamp: 5548},
   ],
- "いのちの名前/木村弓": [
+  "いのちの名前/木村弓": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 1877},
      { date: "2026年8月20日", videoId: "l1pXOcaesX4", timestamp: 5315},
      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 5994},
      { date: "2026年7月29日", videoId: "Gv6InzHO7uk", timestamp: 2726},
@@ -5277,6 +5287,7 @@ const songStreamLinks = {
       { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 12323 },
   ],
   "夕立のりぼん/みきとP": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 3833},
      { date: "2025年6月2日", videoId: "BcJxg8xYz10", timestamp: 9254},
      { date: "2024年5月4日", videoId: "R3_yWlP3Ho0", timestamp: 11740},
      { date: "2023年11月11日", videoId: "l_bJ0AaBakk", timestamp: 7722},
@@ -5493,6 +5504,7 @@ const songStreamLinks = {
      { date: "2023年1月18日", videoId: "ME1ONTBCpho", timestamp: 11895},
   ],
   "悪魔の子/ヒグチアイ": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 781},
      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 12116},
      { date: "2026年3月14日", videoId: "dhO2839Foso", timestamp: 3084},
      { date: "2025年12月2日", videoId: "vfLoXeZClxw", timestamp: 4136},
@@ -5523,6 +5535,7 @@ const songStreamLinks = {
      { date: "2023年6月29日", videoId: "2KydWEbyldU", timestamp: 6902},
   ],
    "ハロ/ハワユ/ナノウ": [
+      { date: "2026年11月7日-piano ver.", videoId: "BDfxSrDoPNs", timestamp: 6416},
       { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 3616},
       { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 9320},
       { date: "2025年12月15日", videoId: "tRY0qPtTLes", timestamp: 6809},
@@ -6473,7 +6486,8 @@ const songStreamLinks = {
      { date: "2023年2月26日", videoId: "S-x_yVQkv6E", timestamp: 24561},
      { date: "2023年1月8日", videoId: "w1YikQ8OqAc", timestamp: 5065},
   ],
- "命に嫌われている。/カンザキイオリ": [
+  "命に嫌われている。/カンザキイオリ": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 388},
      { date: "2026年8月25日", videoId: "9psmBV07zBo", timestamp: 9207},
      { date: "2026年6月10日", videoId: "AJVR1qljWSs", timestamp: 981},
      { date: "2026年3月31日", videoId: "RiaJxOuTBBE", timestamp: 1450},
@@ -7985,6 +7999,7 @@ const songStreamLinks = {
      { date: "2023年5月28日", videoId: "KpbetdQYukA", timestamp: 10178},
   ],
   "ebb and flow/Ray": [
+     { date: "2026年11月7日-piano ver.", videoId: "BDfxSrDoPNs", timestamp: 4390},
      { date: "2026年9月17日", videoId: "cQuVm6C0_vg", timestamp: 12628},
      { date: "2026年4月30日", videoId: "g-dcay3fPiE", timestamp: 6697},
      { date: "2026年4月13日", videoId: "0EIIi_Pxnlw", timestamp: 7793},
@@ -8070,6 +8085,7 @@ const songStreamLinks = {
      { date: "2023年6月20日", videoId: "_hYbSPBR1v4", timestamp: 2616},
   ],
   "夢灯篭/RADWIMPS": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 4193},
      { date: "2024年1月31日", videoId: "mQybi_EZC6k", timestamp: 3765},
      { date: "2023年10月7日(アカペラ)", videoId: "X-eV7122PC4", timestamp: 3273},
      { date: "2023年7月5日", videoId: "nhL8Rtcuxa0", timestamp: 3337},
@@ -8443,6 +8459,7 @@ const songStreamLinks = {
      { date: "2023年2月8日", videoId: "fZtpLFMNs2s", timestamp: 5485},
   ],
   "ミックスナッツ/Official髭男dism": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 2455},
      { date: "2026年3月29日", videoId: "wBdKppSpX_E", timestamp: 2743},
      { date: "2026年1月17日", videoId: "Apxs3ert97M", timestamp: 7521},
      { date: "2025年12月29日", videoId: "0QSIV-jYBWQ", timestamp: 10488},
@@ -8695,7 +8712,8 @@ const songStreamLinks = {
       { date: "2025年5月11日", videoId: "VgCnnKZ-XUc", timestamp: 13245},
       { date: "2025年4月12日", videoId: "WpAt9ZEc9qE", timestamp: 5161},
   ],
- "月花/nano.RIPE": [
+  "月花/nano.RIPE": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 1159},
      { date: "2026年9月7日", videoId: "P7cP1beClaw", timestamp: 5521},
      { date: "2026年8月13日", videoId: "WS77Dfcppbk", timestamp: 7669},
      { date: "2026年5月30日", videoId: "JvAbUgrwg7Q", timestamp: 3235},
@@ -9605,6 +9623,7 @@ const songStreamLinks = {
     { date: "2022年12月4日", videoId: "DgIAF4mZEQ0", timestamp: 16715 },
   ],
   "一番の宝物/karuta": [
+     { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 4662},
      { date: "2026年5月7日", videoId: "51AuJ8RAwlw", timestamp: 2413},
      { date: "2026年3月21日", videoId: "iI_RzRjGNWM", timestamp: 10379},
      { date: "2025年12月10日", videoId: "J25GN_AA3ns", timestamp: 4532},
@@ -10853,7 +10872,8 @@ const songStreamLinks = {
       { date: "2022年9月4日", videoId: "8SZ3TT-QA3M", timestamp: 1420 },
       { date: "2022年8月27日", videoId: "3VZyfE3txF8", timestamp: 1020 },
   ],
-  "愛言葉Ⅱ/DECO*27": [
+   "愛言葉Ⅱ/DECO*27": [
+      { date: "2026年11月7日-アコギ ver.", videoId: "BDfxSrDoPNs", timestamp: 2112},
       { date: "2024年11月11日", videoId: "FmdlgqV59gA", timestamp: 5361 },
   ],
   "愛言葉/DECO*27": [
@@ -15057,4 +15077,6 @@ const streamerSongList = [
     "キミの隣/halca",
     "READY STEADY GO/L'Arc-en-Ciel",
     "Super scription of data/島みやえい子",
+    "脳内革命ガール/MARETU",
+    "むかしむかしのきょうのぼく/DECO*27",
 ];
