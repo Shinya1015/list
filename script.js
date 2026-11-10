@@ -230,6 +230,7 @@ const songStreamLinks = {
       { date: "2023年6月12日", videoId: "P7vvZTtvB4g", timestamp: 4546},
       ],
    "対象a/anNina": [
+      { date: "2026年11月10日", videoId: "KmfYpvvZz-8", timestamp: 6469},
       { date: "2026年11月3日", videoId: "RqQO4I3FnxY", timestamp: 8394},
       { date: "2026年7月14日", videoId: "Voa7NrGQunw", timestamp: 2988},
       { date: "2026年4月28日", videoId: "J0pagjgp43g", timestamp: 5582},
@@ -8637,6 +8638,7 @@ const songStreamLinks = {
      { date: "2023年2月6日", videoId: "IFB-e7utRo4", timestamp: 4989},
   ],
   "ホログラム/NICO Touches the Walls": [
+     { date: "2026年11月10日", videoId: "KmfYpvvZz-8", timestamp: 5750},
      { date: "2026年11月2日", videoId: "kWEU2fDyjFQ", timestamp: 1079},
      { date: "2026年6月6日", videoId: "d_RxZTEUVhk", timestamp: 3564},
      { date: "2026年5月27日", videoId: "_vluAWPtm4I", timestamp: 4887},
@@ -10202,6 +10204,7 @@ const songStreamLinks = {
      { date: "2024年2月16日", videoId: "XofoOkikvtQ", timestamp: 12290},
   ],
   "涙のイエスタデー/GARNET CROW": [
+     { date: "2026年11月10日", videoId: "KmfYpvvZz-8", timestamp: 6102},
      { date: "2026年7月23日", videoId: "vS3wEgMnXkY", timestamp: 2299},
      { date: "2026年6月16日", videoId: "OKm4PVy-TpQ", timestamp: 11431},
      { date: "2026年4月23日", videoId: "NtSn_QIXptI", timestamp: 4184},
