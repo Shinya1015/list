@@ -13283,7 +13283,7 @@ const lowPitchSongs = [
     "勝って泣こうぜッ!/T-Pistonz+KMC",
 ];
 const animeSongs = [
-    "Paradisus-Paradoxum/MYTH & ROID"
+    "Paradisus-Paradoxum/MYTH & ROID",
     "Super scription of data/島みやえい子",
     "READY STEADY GO/L'Arc-en-Ciel",
     "キミの隣/halca",
